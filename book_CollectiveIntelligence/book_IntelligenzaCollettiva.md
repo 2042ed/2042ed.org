@@ -29,6 +29,16 @@ ma se nessuno condividesse nulla, o fosse accessibile solo pagando salato
 per fortuna non è più così.
 benvenuti nel 2019 e prepariamoci al 2042.
 
+### Si può forse brevettare il sole?
+ "A chi appartiene il brevetto?" alla quale Salk rispose "Direi alla gente. Non esiste un brevetto. Si può forse brevettare il sole?"
+risposta al brevetto sul vaccino antipolio, 1952
+
+- Internet (TCP/IP e protocolli) + Apache
+- Firefox
+- LibreOffice / OpenOffice
+- le batterie della Tesla
+- 
+
 ### Problematiche comuni nello sviluppo di progetti digitali
 - l'arte e la cultura della collaborazione va studiata e messa in pratica. non nasciamo guru
 - il progetto riesce bene se lavorano _tutti_ bene
