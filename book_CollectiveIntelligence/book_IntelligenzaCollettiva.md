@@ -187,6 +187,7 @@ Git è uno strumento di Version Control.
 ce ne sono altri (Hg, Perforce, SVN), ma è quello che si è imposto, per diverse buone ragioni.
 
 parole chiave:
+- Commit
 - Fork
 - Pull
 - Push
@@ -195,6 +196,7 @@ parole chiave:
 - tag / release
 
 caldamente consigliate sono le lezioni di GitHub stessa: <https://lab.github.com/courses>
+e questa guida <https://www.git-tower.com/learn/git/ebook/en/desktop-gui/introduction>
 
 ### GitHub
 - GitHub è una piattaforma di sviluppo collaborativo
