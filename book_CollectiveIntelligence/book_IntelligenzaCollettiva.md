@@ -46,7 +46,7 @@ risposta al brevetto sul vaccino antipolio, 1952
   - incentivare la partecipazione e la collaborazione
   - ridurre al massimo la frustrazione personale e i colli di bottiglia
   - accelerare la risoluzione dei problemi
-- DO NOT REINVENT THE WHEEL
+- DO NOT REINVENT THE WHEEL:
   imparare le best practices ottenute da milioni di sviluppatori precedenti
 - iniziare a creare il proprio curriculum
   - get a job
@@ -256,7 +256,8 @@ mantenere uno stesso profilo su tutte le piattaforme (Twitter, GitHub, Facebook,
 anche la propria foto/icona/avatar sarebbe meglio fosse unica.
 
 ### Language
-english, please.
+ok italiano come lingua principale SE si aggiunge una buona traduzione in inglese di tutto.
+eventualmente solo in inglese.
 
 ### CV e Portfolio
 - è importante che ognuno abbia una buona presenza sul web con pubblicato quello che fa, sa fare, cosa gli interessa.
@@ -264,24 +265,32 @@ english, please.
 - le presenze digitali fondamentali per un game developer sono:
   - GitHub
   - Twitter
-  - LinkedIn
-- se non sulle proprie pagine, i propri progetti possono/devono essere pubblicati su https://itch.io/
-
+- se non sulle proprie pagine, i propri progetti possono/devono essere pubblicati su https://itch.io
+  
 - corso GitHub pages: https://lab.github.com/githubtraining/github-pages
 
-## Preservazione e Immortalità
+#### a cosa serve un profilo web?
+che è diverso dal CV (mero elenco di cosa uno ha fatto e sa fare)
+per creare il proprio profilo serve una buona autoanalisi psicologica, per sintetizzare i propri interessi e la propria personalità.  
+esse sono importanti nel momento in cui si deve lavorare in gruppo: meglio ci si conosce e si conoscono gli altri, meglio è.
 
-Progetti Self Contained
-Ultima versione di _ogni_ risorsa da preservare.
-Archiviazione (anche 1000 anni)
+## Preservazione e Immortalità
+- Progetti Self Contained: dal repo git vorrei avere tutto il minimo per riprodurlo, modificarlo, comunicarlo
+- Ultima versione di _ogni_ risorsa da preservare.
+- Archiviazione (anche 1000 anni) leggibile.
 
 ## Marketing ed Economia
-
+- consocersi e farsi conoscere.
+- metteresi alla prova (deadlines) e fare esperienza
+- questa è la socità della comunicazione
 - auto promozione
-- fare esperienza
+- 
 - vendere consulenza e customizzazioni
 - bacino di utenza
 - vendere addons
+
+## Intelligenza Collettiva e teams
+vedi slides
 
 ## Appendici e Risorse
 
