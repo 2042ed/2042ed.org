@@ -280,11 +280,10 @@ esse sono importanti nel momento in cui si deve lavorare in gruppo: meglio ci si
 - Archiviazione (anche 1000 anni) leggibile.
 
 ## Marketing ed Economia
-- consocersi e farsi conoscere.
+- consoscersi e farsi conoscere.
 - metteresi alla prova (deadlines) e fare esperienza
 - questa è la socità della comunicazione
 - auto promozione
-- 
 - vendere consulenza e customizzazioni
 - bacino di utenza
 - vendere addons
