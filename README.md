@@ -18,3 +18,8 @@ Laboratorio pratico
 2. analisi del progetto prototipo Game Unity
 
 il libro è qui: [Intelligenza Collettiva](book_CollectiveIntelligence/book_IntelligenzaCollettiva.md)
+
+## Intelligenza Artificiale nei Videogiochi
+
+
+## Augmented and Virtual Reality
