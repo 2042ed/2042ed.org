@@ -1,6 +1,6 @@
 # i miei libri per game developers 2042
 
-## Intelligenza Collettiva e Sviluppo Distribuito - da Git all'immortalità
+## Intelligenza Collettiva e Sviluppo Distribuito
 
 in questo corso vedremo alcuni temi quali:
 - problematiche comuni nello sviluppo di progetti interattivi complessi in team
