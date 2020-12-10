@@ -1,4 +1,5 @@
-# i miei libri per game developers 2042
+# Human Game Dev
+*i miei libri per game developers 2042*
 
 ## Intelligenza Collettiva e Sviluppo Distribuito
 
@@ -13,13 +14,12 @@ in questo corso vedremo alcuni temi quali:
 - Marketing ed Economia: quando una presenza Open conviene e case studies
 - Appendici e Risorse di approfondimento
 
-Laboratorio pratico
-1. creare una propria presenza online minimamente accettabile (come minimo GitHub pages) e profilo su GitHub
-2. analisi del progetto prototipo Game Unity
+## Game A.I.
+Intelligenza Artificiale nei Videogiochi
 
-il libro è qui: [Intelligenza Collettiva](book_CollectiveIntelligence/book_IntelligenzaCollettiva.md)
+## Games++
+Business oltre l’Entertainment
 
-## Intelligenza Artificiale nei Videogiochi
+## XR
+Augmented and Virtual Reality
 
-
-## Augmented and Virtual Reality
