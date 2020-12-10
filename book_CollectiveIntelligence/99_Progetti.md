@@ -11,7 +11,12 @@ scrivere una sintesi dei propri interessi in ambito di game dev/design
 
 ---
 
-## Unity Game Project
+## Unity Game Project Template
+
+Repository ad hoc:
+<https://github.com/StefanoCecere/UnityProject_Template>
+
+
 Integrazione progetto Unity -> GitHub -> Unity Cloud Build -> Discord -> Issues -> Documentazione  
 
 - organizzare un progetto con metodologia InnerSource: strumenti, comunicazione e best practices

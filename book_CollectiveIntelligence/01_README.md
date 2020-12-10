@@ -32,3 +32,6 @@ Laboratorio pratico
 1. creare una propria presenza online minimamente accettabile (come minimo GitHub pages) e profilo su GitHub
 2. lavoro su un progetto collettivo
 3. come impostare un progetto Game Unity
+
+NB: Il Repository Pubblico di questo libro è
+<https://github.com/StefanoCecere/book_2042GameDev>

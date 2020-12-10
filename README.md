@@ -1,6 +1,8 @@
 # 2042 Human Game Dev Books
 *i miei libri e appunti per Human Game Developers 2042*
 
+Public Repo: <https://github.com/StefanoCecere/book_2042GameDev>
+
 ## Intelligenza Collettiva e Sviluppo Distribuito
 
 in questo corso vedremo alcuni temi quali:
