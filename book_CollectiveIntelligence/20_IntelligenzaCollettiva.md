@@ -67,13 +67,10 @@ il rischio è che tutti facciano il meglio per sè, e il minimo per il progetto.
 # .
 ![](img/diagramma-di-cipolla-stupidita_featured.jpg)
 
-# giappone (ad esempio)
-
-- giappone: spiriti, demoni, animali
-- sono un popolo molto "mitico", e resiliente
-- shonen e le evoluzioni, vs il geekismo
-
 # Human Centric
 ![](humanistic-player.png)
 
 
+# comportamento emergente
+
+si mettono regole e procedure  

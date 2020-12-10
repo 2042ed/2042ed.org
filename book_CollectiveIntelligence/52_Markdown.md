@@ -1,5 +1,7 @@
 # Markdown playground
 
+note: GitHub ha una sua versioen di MarkDown: <https://github.github.com/gfm/>
+
 ## Headings 2
 
 Text under Heading 2
@@ -64,10 +66,10 @@ or **strong** test
 ## Definitions
 
 Parola da definire
-: è una cosa che si fa e non si dice
+:  è una cosa che si fa e non si dice
 
 Una seconda parola
-: qui definiamo un'altro termine
+:  qui definiamo un'altro termine
 
 ## Lists
 

@@ -18,7 +18,7 @@ Inoltre si possono usare progetti preesistenti per non dover reinventare tutto, 
 
 in un progetto Open si dà molto, è forse un po' più faticoso, ma si riceve ancora di più
 
-### pros
+### Pros
 - gratuito. raramente ci sono licenze
 - facile da installare e maneggiare
 - sviluppo in tempo reale
@@ -30,7 +30,7 @@ in un progetto Open si dà molto, è forse un po' più faticoso, ma si riceve an
 - le università, i centri di ricerca e gli indie lavorano qui
 - grande scelta
 
-### cons
+### Cons
 - non sempre user-friendly
 - mancanza di supporto garantito
 - necessita studio
@@ -40,7 +40,7 @@ in un progetto Open si dà molto, è forse un po' più faticoso, ma si riceve an
 - non c'è guadagno monetario diretto
 - segmentazioni delle comunità
 
-### considerazioni
+### Considerazioni
 - una filosofia, più che una pratica
 - storia: anni 90, Linux il primo grandissimo progetto OpenSource (il cui creatore inventò Git per migliorare lo sviluppo collaborativo), big companies oggi lo adottano (Facebook, Google, Microsoft, Oracle), ROI
 - intelligenza collettiva: in tanti possono partecipare e mettere il meglio di se in modalità open e meritocratica

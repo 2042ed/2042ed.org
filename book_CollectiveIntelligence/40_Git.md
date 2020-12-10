@@ -79,8 +79,10 @@ Hg, Perforce, SVN sono solo alcuni, ma Git sta diventando lo standard
 - conflitti
 - .gitignore
 - files binari e LFS
-- maiuscole e minuscole
-
+- filenames: maiuscole e minuscole
+- filenames: line feed -> .editorconfig
+- dati sensibili
+- 
 
 ## Per approfondire
 - <https://www.git-tower.com/learn/git/ebook/en/desktop-gui/introduction>
