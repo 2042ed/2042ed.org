@@ -3,15 +3,15 @@
 di Stefano Cecere
 
 [[10_Introduzione]]
-[[25_OpenInnerSource]]
-[[30_GitHub]]
-[[60_Formati]]
-[[70_ProjectManagement]]
-[[80_Presenza]]
-[[85_Preservazione]]
-[[88_MarketingEconomia]]
+[[30_OpenInnerSource]]
+[[40_GitHub]]
+[[50_Formati]]
+[[60_ProjectManagement]]
+[[70_Presenza]]
+[[80_Preservazione]]
+[[90_MarketingEconomia]]
 [[20_IntelligenzaCollettiva]]
-[[90_Appendici]]
+[[95_Appendici]]
 [[99_Progetti]]
 
 in questo corso vedremo alcuni temi quali:
