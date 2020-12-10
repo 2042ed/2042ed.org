@@ -1,8 +1,6 @@
 .vscode
-.scriv
-.pages
-.pdf
 *.scriv
 *.pages
 *.pdf
 book_Edutainment/slides
+.obsidian
