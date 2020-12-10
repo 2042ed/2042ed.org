@@ -75,5 +75,5 @@ si mettono regole e procedure
 ![](img/intelligenza_collettiva_3.jpg)
 
 # human centric
-![](humanistic-player.png)
+![](img/humanistic-player.png)
 
