@@ -1,5 +1,5 @@
-# Human Game Dev
-*i miei libri per game developers 2042*
+# 2042 Human Game Dev
+*i miei libri per human game developers 2042*
 
 ## Intelligenza Collettiva e Sviluppo Distribuito
 
