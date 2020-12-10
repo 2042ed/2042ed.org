@@ -1,6 +1,6 @@
-# Intelligenza Collettiva e Sviluppo Distribuito - da Git all'immortalità
+# Intelligenza Collettiva e Sviluppo Distribuito
+*da Git all'immortalità*
 di Stefano Cecere
-CC BY-NC-SA
 
 [[10_Introduzione]]
 [[25_OpenInnerSource]]
