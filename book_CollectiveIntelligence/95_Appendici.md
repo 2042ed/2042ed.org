@@ -18,6 +18,7 @@
 - [contro le licenze CC nei videogiochi](https://www.gamasutra.com/blogs/StephenMcArthur/20160112/262962/Creative_Commons_is_Not_a_Smart_Source_for_Video_Game_Assets.php)
 
 ## tools per GameDev
+- <https://github.com/StefanoCecere/awesome-opensource-unity>
 - Godot game engine https://godotengine.org
 - Phaser JS game engine https://phaser.io
 - Blender 3D engine (con la nuova 2.8 UI) sempre più usato anche dai big studios https://www.blender.org
