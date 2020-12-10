@@ -2,17 +2,18 @@
 *da Git all'immortalità*
 di Stefano Cecere
 
-[[10_Introduzione]]
-[[30_OpenInnerSource]]
-[[40_GitHub]]
-[[50_Formati]]
-[[60_ProjectManagement]]
-[[70_Presenza]]
-[[80_Preservazione]]
-[[90_MarketingEconomia]]
-[[20_IntelligenzaCollettiva]]
-[[95_Appendici]]
-[[99_Progetti]]
+[10_Introduzione](10_Introduzione.md)
+[20_IntelligenzaCollettiva](20_IntelligenzaCollettiva.md)
+[30_OpenInnerSource](30_OpenInnerSource.md)
+[40_Git](40_Git.md)
+[45_GitHub](45_GitHub.md)
+[50_Formati](50_Formati.md)
+[60_ProjectManagement](60_ProjectManagement.md)
+[70_PresenzaOnline](70_PresenzaOnline.md)
+[80_Preservazione](80_Preservazione.md)
+[90_MarketingEconomia](90_MarketingEconomia.md)
+[95_Appendici](95_Appendici.md)
+[99_Progetti](99_Progetti.md)
 
 in questo corso vedremo alcuni temi quali:
 - problematiche comuni nello sviluppo di progetti interattivi complessi in team
@@ -27,4 +28,5 @@ in questo corso vedremo alcuni temi quali:
 
 Laboratorio pratico
 1. creare una propria presenza online minimamente accettabile (come minimo GitHub pages) e profilo su GitHub
-2. analisi del progetto prototipo Game Unity
+2. lavoro su un progetto collettivo
+3. analisi del progetto prototipo Game Unity

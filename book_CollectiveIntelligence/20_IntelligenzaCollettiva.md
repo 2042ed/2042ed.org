@@ -1,43 +1,42 @@
 # Intelligenza Collettiva
 
-# Esistenza
-<!-- slide data-notes="contesto esistenziale" -->
-![](galassia.png)
+# Contesto Esistenziale
+![](img/galassia.png)
 
 # Capre
-![](goats_tree.jpg)
+![](img/goats_tree.jpg)
 
 # Connessioni
 <!-- slide data-notes="neuroni + albo alunni: nesso?"-->
-![](neurons.jpg)
+![](img/neurons.jpg)
 
 # la costruzione della memoria
 <https://www.youtube.com/watch?v=hb7tjqhfDus>
 
 # giocatori
 <!-- slide data-notes="giocatori e i loro cervelli, esperienze si costruiscono con la multisensorialità e ripetizione" -->
-![](videogame-brain.jpg)
+![](img/videogame-brain.jpg)
 
 <!-- slide data-notes="giocatori e i loro cervelli, esperienze si costruiscono con la multisensorialità e ripetizione" -->
-![](videogamer-brain.jpg)
+![](img/videogamer-brain.jpg)
 
 <!-- slide data-notes="videogiochi sono media mutidisciplinari: gli strument perfetti" -->
-![](multidisplipines.jpg)
+![](img/multidisplipines.jpg)
 
 <!-- slide data-notes="per forza devono essere svilupti in tanti a difficoltà a lavoare insime"-->
 <!-- ### progetti di gruppo -->
-![](progetti-di-gruppo.jpg)
+![](img/progetti-di-gruppo.jpg)
 
 <!-- slide data-notes="serve un'immagine coerente, ma sopratutto una sua utilità esperienziale" -->
-![](knowledge-experience.jpg)
+![](img/knowledge-experience.jpg)
 
 <!-- slide data-notes="SpaceX: lavoraotori.. sono in missione, che va al di la del prestigio personale o dei soldi, o del nerdame: aituare l'umanità" -->
 # spaceX
-![](spacex-workers.jpg)
+![](img/spacex-workers.jpg)
 
 # Ikigai
 <!-- slide data-notes="" -->
-![](ikigai.png)
+![](img/ikigai.png)
 
 <!-- slide data-notes="" -->
 serve un IKIGAI personale
@@ -51,7 +50,7 @@ e un mito sociale
 
 <!-- slide -->
 dove stanno i PENSIERI?
-![](qubiq.png)
+![](img/qubiq.png)
 
 # cosa sono i miti?
 
@@ -63,10 +62,10 @@ una storia condivisa che dia l'energia per preoccuparsi del progetto comune, pri
 
 # azione individuale e collettiva
 il rischio è che tutti facciano il meglio per sè, e il minimo per il progetto.
-![](caos-media.jpg)
+![](img/caos-media.jpg)
 
 # .
-![](diagramma-di-cipolla-stupidita_featured.jpg)
+![](img/diagramma-di-cipolla-stupidita_featured.jpg)
 
 # giappone (ad esempio)
 

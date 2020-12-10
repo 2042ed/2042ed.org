@@ -1,20 +1,20 @@
 # Open Source e Inner Source
-![logo_opensource](assets/logo_opensource.jpg)
+![logo_opensource](img/logo_opensource.jpg)
 
 ## Open Source
 
-Il termine "Open Source" si riferisce a prodotti progettati per essere pubblici e accessibili affinché tutti possano usarli, modificarli e condividerli.
+Il termine "Open Source" si riferisce a prodotti progettati per essere pubblici e accessibili affinché tutti possano usarli, modificarli e condividerli liberamente.
 
 I progetti OpenSource richiedono una collaborazione aperta, una buona comunicazione pubblica e un'adeguata qualità generale.
 
 Collaborare pubblicamente su un progetto implica:
 - più occhi e più mani
 - accessibilità
-- maggiore qualità
+- diffusione
 
-inoltre si possono usare progetti preesistenti per non dover reinventare tutto, sopratutto i bricks (mattoni) di base, spesso i più complessi.
+Inoltre si possono usare progetti preesistenti per non dover reinventare tutto, sopratutto i bricks (mattoni) di base, spesso i più complessi, le famose **librerie** o **packages**, oggi tanto integrate in ogni ambiente di sviluppo.
 
-è inoltre gratificante migliorare un progetto comune, dove altri costruiscono partendo da dove siamo arrivati noi
+É inoltre gratificante migliorare un progetto comune, dove altri costruiscono partendo da dove siamo arrivati noi.
 
 in un progetto Open si dà molto, è forse un po' più faticoso, ma si riceve ancora di più
 
@@ -27,13 +27,13 @@ in un progetto Open si dà molto, è forse un po' più faticoso, ma si riceve an
 - competitività
 - è divertente
 - crea Open Standards
-- le università e gli indie lavorano qui
+- le università, i centri di ricerca e gli indie lavorano qui
 - grande scelta
 
 ### cons
 - non sempre user-friendly
-- mancanza di supporto
-- necessità studio
+- mancanza di supporto garantito
+- necessita studio
 - può essere complesso
 - facilità di progetti abbandonati
 - non sempre c'è qualità
@@ -74,17 +74,15 @@ l'InnerSource usa le skills degli sviluppatori abituati all'OpenSource e le port
 - Inner-sourcing è un mind-shift mentale
 
 ### Perché InnerSource
-- la tecnologia rimane proprietaria.
-- sviluppo più efficente
-  - riuso del codice
+- la tecnologia rimane proprietaria
+- sviluppo più efficiente
+  - riuso del codice: comprensione del codice e dell'architettura dei moduli sviluppati da altri
   - codice più pulito
-  - limit development bottleneck
+  - Documentazione Completa: il codice è documentato meglio
+  - riduzione dei **colli di bottiglia**
 - ottimizza la  collaborazione
-  - improve talent retention
-  - utilize talent across teams better
-  - reduce tribal knowledge
-- Faster development: Programmers use unit tests, code coverage, and continuous integration to remove bugs at early stages
-- Complete documentation: Code is documented better, both in-code comments and less formally on discussion lists
-- Code reuse: Programmers across the organization understand the code and architecture of modules developed by other teams
-- Cross-team collaboration: Contributions by members outside of the team are frictionless and rarely have to be rewritten
-- Development with GitHub: GitHub maintains private repositories for in-house projects as well as public repositories for open source code
+  - migliora i contributi dei talenti
+  - Colalborazione cross-teams
+  - tiduce la concentrazione della Conoscenza
+ - svilppo più vloce, con Unit Tests e Continuous Integration
+- mix tra repo privati e pubblici

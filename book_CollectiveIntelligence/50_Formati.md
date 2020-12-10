@@ -3,6 +3,12 @@
 - changelog https://keepachangelog.com
 - commit syntax https://www.conventionalcommits.org
 
+## Interoperability
+formati aperti e formati chiusi
+
+## Future Proof
+
+
 ## Markdown
 in contrapposizione al markup dell'html, è stato creato il markdown dove la base è testo semplice con pochissime convenzioni che permettono al contenuto di essere convertito nei formati più utili (html, doc, pdf, ePub) garantendo un versioning perfetto e una preservazione e portabilità ottimali
 
