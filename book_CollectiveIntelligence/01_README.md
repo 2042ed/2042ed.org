@@ -2,8 +2,8 @@
 *da Git all'immortalità*  
 di [Stefano Cecere](https://github.com/StefanoCecere)
 
-- [10_Introduzione](10_Introduzione.md)
-- [20_IntelligenzaCollettiva](20_IntelligenzaCollettiva.md)
+- [10_IntelligenzaCollettiva](10_IntelligenzaCollettiva.md)
+- [20_Introduzione](20_Introduzione.md)
 - [30_OpenInnerSource](30_OpenInnerSource.md)
 - [40_Git](40_Git.md)
 - [45_GitHub](45_GitHub.md)

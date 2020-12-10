@@ -41,7 +41,7 @@ http://www.example.com or <http://www.example.com> and sometimes
 example.com (but not on Github, for example).
 
 ### Internal links
-This links to the [Introduction](10_Introduzione.md) 
+This links to the [Introduction](20_Introduzione.md) 
 
 ## Code
 

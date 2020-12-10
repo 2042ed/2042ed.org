@@ -1,5 +1,8 @@
 # Introduzione
 
+![](img/future_proof.png)
+
+### il passato
 Ho sviluppato il primo videogioco 30 anni fa, nel 1989. su un computer e con un linguaggio che non esistono più. Magari c'era uno sprite o una procedura che oggi mi farebbero comodo rivederli.
 
 20 anni fa ero ci si alternava al computer di sviluppo per integrare le proprie parti di progetti sviluppate in autonomia.. mettere tutto insieme era davvero un lavorone!
@@ -12,6 +15,8 @@ volevo riaprirlo, ma il codice C# non è documentato e gli assets non hanno i s
 
 Avevo un bellissimo gioco per Nintendo Wii, Beat the Beat, di 10 anni fa.
 Non ho più la Wii e non credo potrò giocarlo mai più.  Ma fossi lo sviluppatore: riuscirei a ricompilarlo? O è andato perduto? avremmo potuto migliorare lo sviluppo per renderlo compatibile con il futuro?
+
+## domande
 
 - il tuo progetto sopravviverà fino al 2042? e oltre? 
 - oggi non c'è più la tecnologia di 10 anni fa.. figuriamoci di 30 .. e cosa succede fra 10 o 20 anni?

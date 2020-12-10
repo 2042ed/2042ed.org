@@ -1,4 +1,7 @@
 # GitHub
+
+![](img/github_icon_192.png)
+
 - GitHub è una piattaforma di sviluppo collaborativo
 - Storia (nato nel 2006 è oggi la piattaforma n.1 degli sviluppatori, 40 milioni)
 - Microsoft ha comprato il tutto per 7 miliardi.
