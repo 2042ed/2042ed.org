@@ -14,6 +14,15 @@ in contrapposizione al markup dell'html, è stato creato il markdown dove la bas
 
 GitHub ha determinato massicciamente l'adozione dello standard MarkDown per la documentazione e ormai moltissimi siti vengono generati con Static Site Generators (vedi Jekyll o Hugo) a partire da contenuti (pagine e posts) scritti in Markdown,
 
+
+
+
+
+
+
+
+---
+
 **links**  
 - dal creatore di Markdown: https://daringfireball.net/projects/markdown/syntax
 - Jekyll è il rendering engine delle GitHub pages: https://jekyllrb.com

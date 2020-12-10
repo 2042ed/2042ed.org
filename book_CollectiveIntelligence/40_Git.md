@@ -75,6 +75,13 @@ Hg, Perforce, SVN sono solo alcuni, ma Git sta diventando lo standard
 - Source Tree
 - GitKraken
 
+## Temi
+- conflitti
+- .gitignore
+- files binari e LFS
+- maiuscole e minuscole
+
+
 ## Per approfondire
 - <https://www.git-tower.com/learn/git/ebook/en/desktop-gui/introduction>
 - <https://lab.github.com/courses>
