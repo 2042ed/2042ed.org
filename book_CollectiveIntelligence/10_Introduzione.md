@@ -1,8 +1,7 @@
 # Introduzione
 
-il tuo progetto sopravviverà fino al 2042? e oltre?  
-come lavorare e collaborare meglio?
-
+- il tuo progetto sopravviverà fino al 2042? e oltre? 
+- come lavorare e collaborare meglio?
 - come hanno creato quell'Intelligenza Artificiale?
 - come hanno bilanciato quel livello?
 - come hanno scritto una tale sceneggiatura ipertestuale complessa?
@@ -11,11 +10,11 @@ come lavorare e collaborare meglio?
 - come riggare quel modello per ottenere quel risultato?
 - bellissima musica o suono... c'è la partitura? come è stato sintetizzato?
 
-conveniamo che oggi i "dietro le quinte" sono degli ottimi momenti per imparare, tra la teoria e la pratica. vedere e capire i segreti del mestiere è fondamentale.  
-ma se nessuno condividesse nulla, o fosse accessibile solo pagando salato
+Conveniamo che oggi i "dietro le quinte" sono degli ottimi momenti per imparare, tra la teoria e la pratica. vedere e capire i segreti del mestiere è fondamentale.  
+ma se nessuno condividesse nulla, o fosse accessibile solo pagando salato, la conoscenza rimarrebbe in mano di pochi e i progressi relegati a pochi.
 
 per fortuna non è più così.  
-benvenuti nel 2019 e prepariamoci al 2042.
+benvenuti nel 2019 e prepariamoci al 2042.  
 
 ## Si può forse brevettare il sole?
 -  "A chi appartiene il brevetto?"
@@ -23,7 +22,6 @@ benvenuti nel 2019 e prepariamoci al 2042.
 *risposta di Salk al brevetto sul vaccino antipolio, 1952*
 
 e così tutt'ora molto del nostro mondo è costruito su tecnologie e convenzioni aperte patrimonio dell'umanità:
-
 - Internet (TCP/IP e protocolli) + Apache
 - Firefox -> Chromium
 - LibreOffice / OpenOffice
@@ -40,8 +38,7 @@ e così tutt'ora molto del nostro mondo è costruito su tecnologie e convenzioni
   - incentivare la partecipazione e la collaborazione
   - ridurre al massimo la frustrazione personale e i colli di bottiglia
   - accelerare la risoluzione dei problemi
-- DO NOT REINVENT THE WHEEL:
-  imparare le best practices ottenute da milioni di sviluppatori precedenti
+- DO NOT REINVENT THE WHEEL: imparare le best practices ottenute da milioni di sviluppatori precedenti
 - iniziare a creare il proprio curriculum
   - get a job
   - serve una presenza digitale di quello che si fa, non di quello che si dice di fare
@@ -62,7 +59,7 @@ e così tutt'ora molto del nostro mondo è costruito su tecnologie e convenzioni
 - C.I.: Continuous Integration: che il repository, la documentazione, le issues/milestones, le build, le notifiche e il tool di comunicazione siano integrate al massimo e accessibili a tutti i partecipanti al progetto
 - intercomunicazione e aiuto reciproco fra teams, per migliorare l'Intelligenza Collettiva della company/scuola
 
-## game designers
+## Game designers
 - necessitano di condividere al meglio gli aggiornamenti della documentazione
 - testare sul progetto live nuove configurazioni o prototipi
 - dare feedbacks veloci ai dev
@@ -71,15 +68,22 @@ e così tutt'ora molto del nostro mondo è costruito su tecnologie e convenzioni
 oltre a occuparsi del gioco in sé e del giocatore,
 potrebbero rendere l'esperienza stessa dello sviluppare divertente e coinvolgente: developer experience, communication, flow
 
-## game developers
+## Game developers
 - il commit di codice è solo il 20% del lavoro
 - studio, architettura, interoperabilità, test, debug, CI, feedback, comunicazione sono l'80%
 - spesso i programmatori sono introverts, quindi migliorare comunicazione diretta e team work è indispensabile
 - accesso a KnowledgeBase
 
-## artisti e content producers
+## Artists e Content Producers
 - formati accessibili
 - storico e nomenclatura
 - pre-test in scena
 - risorse di tutoring
 - sperimentazione
+
+## Project Managers
+verifica in tempo reale del flusso di lavoro e accesso all'ultima release
+
+## Beta Testers
+note di rilascio e feedback veloci.
+

@@ -12,3 +12,10 @@ dove scrivere i docs: Google Docs, Microsoft 360, DropBox, offline files
 
 ## File sharing
 come scambiarsi i files: DropBox, Box,com, LAN, Google Drive, WeTransfer, email, GitHub
+
+## C.I. Continuos Integration
+
+### Unity Cloud Build
+
+### Integrazione di tutto con tutto
+
