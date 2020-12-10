@@ -77,3 +77,9 @@ si mettono regole e procedure
 # human centric
 ![](img/humanistic-player.png)
 
+# formiche
+
+![](img/ant_1.jpg)
+![](img/ant_2.jpg)
+![](img/ant_3.jpg)
+![](img/ant_4.jpg)
