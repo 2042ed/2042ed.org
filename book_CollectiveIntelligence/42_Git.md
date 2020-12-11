@@ -1,5 +1,9 @@
 # Piattaforme di sviluppo collaborativo
 
+## Video
+*What is GitHub?*
+https://www.youtube.com/watch?v=w3jLJU7DT5E
+
 ## Cos'è un version control system?
 
 Un sistema di version control system, o VCS, tiene traccia della cronologia delle modifiche mentre gli sviluppatori  e i team collaborano ai progetti insieme. Man mano che il progetto si evolve, i team possono eseguire test, correggere bug e fornire nuovo codice con la certezza che qualsiasi versione può essere ripristinata in qualsiasi momento. Gli sviluppatori possono esaminare la cronologia del progetto per scoprire:
