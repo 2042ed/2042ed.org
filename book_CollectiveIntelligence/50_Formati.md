@@ -1,14 +1,28 @@
 # Formati e Interscambio
-- Code of Conduct: regole di partecipazione e comunicazione
-- changelog https://keepachangelog.com
-- commit syntax https://www.conventionalcommits.org
 
 ## Interoperability
 formati aperti e formati chiusi
 
+## Licenze
+fondamentalmente 3 categorie:
+
+### 1. closed - all rights reserved
+- copyright / closed source
+
+### 2. share-alike - condivido ma non specularci
+- Creative Commons 
+
+### 3. open - do whatever u want
+- GPL/MIT per codice
+- unlicensed
+
 ## Future Proof
 
+## Commit syntax
+https://www.conventionalcommits.org
+
 ## Come posso fare un buon changelog?
+<https://keepachangelog.com>
 
 ### Linee guida
 - I changelog sono _per le persone_, non per le macchine.

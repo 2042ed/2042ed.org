@@ -1,5 +1,20 @@
-# Open Source e Inner Source
+# Open Source
 ![logo_opensource](img/logo_opensource.jpg)
+
+## Si può forse brevettare il sole?
+-  "A chi appartiene il brevetto?"
+- "Direi alla gente. Non esiste un brevetto. Si può forse brevettare il sole?"
+*risposta di Salk al brevetto sul vaccino antipolio, 1952*
+
+e così tutt'ora molto del nostro mondo è costruito su tecnologie e convenzioni aperte patrimonio dell'umanità:
+- Internet (TCP/IP e protocolli) + Apache
+- Firefox -> Chromium
+- LibreOffice / OpenOffice
+- le batterie della Tesla
+- il PDF
+- Blender
+- Midi
+- ISO e tutti gli standard industriali
 
 ## Open Source
 
@@ -18,7 +33,7 @@ Inoltre si possono usare progetti preesistenti per non dover reinventare tutto, 
 
 in un progetto Open si dà molto, è forse un po' più faticoso, ma si riceve ancora di più
 
-### Pros
+## Pros
 - gratuito. raramente ci sono licenze
 - facile da installare e maneggiare
 - sviluppo in tempo reale
@@ -30,7 +45,7 @@ in un progetto Open si dà molto, è forse un po' più faticoso, ma si riceve an
 - le università, i centri di ricerca e gli indie lavorano qui
 - grande scelta
 
-### Cons
+## Cons
 - non sempre user-friendly
 - mancanza di supporto garantito
 - necessita studio
@@ -40,7 +55,7 @@ in un progetto Open si dà molto, è forse un po' più faticoso, ma si riceve an
 - non c'è guadagno monetario diretto
 - segmentazioni delle comunità
 
-### Considerazioni
+## Considerazioni sull'Open Source
 - una filosofia, più che una pratica
 - storia: anni 90, Linux il primo grandissimo progetto OpenSource (il cui creatore inventò Git per migliorare lo sviluppo collaborativo), big companies oggi lo adottano (Facebook, Google, Microsoft, Oracle), ROI
 - intelligenza collettiva: in tanti possono partecipare e mettere il meglio di se in modalità open e meritocratica
@@ -50,39 +65,3 @@ in un progetto Open si dà molto, è forse un po' più faticoso, ma si riceve an
 - aprire i propri cassetti di idee e pubblicare. male non fa
 - Game Jams sono i migliori eventi dove il prodotto deve essere rilasciato OpenSource. più del prodotto in sé è interessante il come è stato fatto, con chi e le referenze a futuro (portfolio)
 
-### Licenze
-fondamentalmente 3 categorie:
-
-#### 1. closed - all rights reserved
-- copyright / closed source
-
-#### 2. share-alike - condivido ma non specularci
-- Creative Commons 
-
-#### 3. open - do whatever u want
-- GPL/MIT per codice
-- unlicensed
-
-## InnerSource
-l'InnerSource è il processo di sviluppo collaborativo di progetti basandosi sulle tecnologie e procedure OpenSource, ma stando all'interno di un ambiente privato, non pubblico.
-
-l'InnerSource usa le skills degli sviluppatori abituati all'OpenSource e le porta dentro i firewalls dei progetti privati, garantendo una piattaforma interna per collaborare ai progetti.
-
-- OpenSource dietro ad un firewall
-- lavorare internamente come se fosse un progetto OpenSource
-- portare le best practices dell'OpenSource nel team work
-- Inner-sourcing è un mind-shift mentale
-
-### Perché InnerSource
-- la tecnologia rimane proprietaria
-- sviluppo più efficiente
-  - riuso del codice: comprensione del codice e dell'architettura dei moduli sviluppati da altri
-  - codice più pulito
-  - Documentazione Completa: il codice è documentato meglio
-  - riduzione dei **colli di bottiglia**
-- ottimizza la  collaborazione
-  - migliora i contributi dei talenti
-  - Colalborazione cross-teams
-  - tiduce la concentrazione della Conoscenza
- - svilppo più vloce, con Unit Tests e Continuous Integration
-- mix tra repo privati e pubblici

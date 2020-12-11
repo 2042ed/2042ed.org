@@ -1,6 +1,9 @@
 # Project Management
 *Cosa c'è da fare?*
 
+## Code of Conduct
+regole di partecipazione e comunicazione
+
 ## Issues
 e di tracciamento delle cose da fare e roadmap (issues, milestones), tipo GitHub Issues, Trello, Jira, Google Sheets
 
