@@ -39,7 +39,7 @@ Un *repository* , o progetto Git , comprende l'intera raccolta di file e cartell
 
 - l'interazione con la cronologia (Checkout)
 - la clonazione (Clone) e il Fork
-- la creazione di rami (master, dev, feature, bugfix)
+- la creazione di Branch (main, dev, feature, bugfix)
 - il Commit e Push
 - il Fetch, Pull e Merge
 - il confronto delle modifiche tra le versioni del codice e altro ancora.
