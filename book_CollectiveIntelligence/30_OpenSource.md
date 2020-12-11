@@ -57,7 +57,7 @@ in un progetto Open si dà molto, è forse un po' più faticoso, ma si riceve an
 
 ## Considerazioni sull'Open Source
 - una filosofia, più che una pratica
-- storia: anni 90, Linux il primo grandissimo progetto OpenSource (il cui creatore inventò Git per migliorare lo sviluppo collaborativo), big companies oggi lo adottano (Facebook, Google, Microsoft, Oracle), ROI
+- storia: anni 90, Linux il primo grandissimo progetto OpenSource (il cui creatore inventò Git per migliorare lo sviluppo collaborativo), big companies oggi lo adottano (Facebook, Google, Microsoft, Oracle), ROI (Return Of Investment)
 - intelligenza collettiva: in tanti possono partecipare e mettere il meglio di se in modalità open e meritocratica
 - feedback in tempo reale con gli utenti
 - possibilità di lavoro (manutenzione, customizzazione, velocità)
