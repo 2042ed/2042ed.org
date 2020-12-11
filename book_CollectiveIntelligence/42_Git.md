@@ -23,8 +23,7 @@ Senza il controllo della versione, i membri del team sono soggetti a attività r
 
 ## Git
 
-Perché Git?
-
+*Perché Git?*
 Secondo l'ultimo sondaggio tra gli sviluppatori di [Stack Overflow](https://insights.stackoverflow.com/survey/2017#technology), oltre il 70% degli sviluppatori utilizza Git, rendendolo il VCS più utilizzato al mondo. Git è comunemente utilizzato sia per lo sviluppo di software open source che commerciale, con **vantaggi significativi **per individui, team e aziende.
 
 - Git consente agli sviluppatori di vedere l'intera sequenza temporale delle modifiche, delle decisioni e dei progressi di qualsiasi progetto in un unico posto. Dal momento in cui accede alla cronologia di un progetto, lo sviluppatore ha tutto il contesto di cui ha bisogno per comprenderlo e iniziare a contribuire.
