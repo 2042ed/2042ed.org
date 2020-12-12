@@ -18,11 +18,11 @@ in questo corso vedremo alcuni temi quali:
 - Marketing ed Economia: quando una presenza Open conviene
 - Appendici e Risorse di approfondimento
 
-## Game A.I.
-Intelligenza Artificiale nei Videogiochi
-
 ## Games++
 Business oltre l’Entertainment
+
+## Game A.I.
+Intelligenza Artificiale nei Videogiochi
 
 ## XR
 Augmented and Virtual Reality
