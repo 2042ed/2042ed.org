@@ -1,7 +1,5 @@
-# 2042 Human Game Dev Books
-*i miei libri e appunti per Human Game Developers 2042*
-
-Public Repo: <https://github.com/StefanoCecere/book_2042GameDev>
+# 2042 Game Dev Books
+*i miei libri e appunti dei corsi per Human Game Developers 2042*
 
 ![](assets/corsi_gamedev.jpg)
 
@@ -17,7 +15,12 @@ Public Repo: <https://github.com/StefanoCecere/book_2042GameDev>
 *Intelligenza Artificiale nei Videogiochi*  
 [book_GameAI/01_README](book_GameAI/01_README.md)
 
-# XR = AR + VR + MR
+## XR = AR + VR + MR
 *Le nuove tecnologie immersive*  
 [book_XR/01_README](book_XR/01_README.md)
 
+## Licenza
+Copyright (c) 2020 Stefano Cecere
+CC BY-NC-SA: Attribution-Non Commercial-Share Alike 
+
+Public Repo: <https://github.com/StefanoCecere/book_2042GameDev>
