@@ -3,6 +3,8 @@
 
 Public Repo: <https://github.com/StefanoCecere/book_2042GameDev>
 
+![](assets/corsi_gamedev.jpg)
+
 ## Intelligenza Collettiva e Sviluppo Distribuito
 
 in questo corso vedremo alcuni temi quali:
