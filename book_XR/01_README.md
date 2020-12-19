@@ -1,5 +1,5 @@
 # XR = AR + VR + MR
-*Giochi a Impatto Sociale / Business oltre l’entertainment*  
+*Le nuove tecnologie immersive*  
 di [Stefano Cecere](https://github.com/StefanoCecere)
 
 - basi teoriche di computer vision e tracking
