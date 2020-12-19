@@ -6,26 +6,17 @@ Public Repo: <https://github.com/StefanoCecere/book_2042GameDev>
 ![](assets/corsi_gamedev.jpg)
 
 ## Intelligenza Collettiva e Sviluppo Distribuito
-
-in questo corso vedremo alcuni temi quali:
-- Problematiche comuni nello sviluppo di progetti digitali
-- Perché una Intelligenza Collettiva
-- Open Source: vantaggi e svantaggi
-- Inner Source: le best practices dell'Open Source per progetti privati
-- Piattaforme di sviluppo collaborativo (Git e GitHub)
-- Formati e Interscambio: per collaborare meglio
-- Basi di Project Management
-- Accessibilità e Presenza: come farsi amare dai collaboratori e dai boss
-- Preservazione e Immortalità: preservazione e leggibilità a futuro
-- Marketing ed Economia: quando una presenza Open conviene
-- Appendici e Risorse di approfondimento
+[book_CollectiveIntelligence/01_README.md](book_CollectiveIntelligence/01_README.md)
 
 ## Games++
 Business oltre l’Entertainment
+[book_Games++/01_README.md](book_Games++/01_README.md)
 
 ## Game A.I.
 Intelligenza Artificiale nei Videogiochi
+[book_GameAI/01_README](book_GameAI/01_README.md)
 
 ## XR
 Augmented and Virtual Reality
+[book_XR/01_README](book_XR/01_README.md)
 
