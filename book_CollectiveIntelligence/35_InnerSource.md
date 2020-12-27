@@ -22,3 +22,11 @@ l'InnerSource usa le skills degli sviluppatori abituati all'OpenSource e le port
  - sviluppo più veloce, con Unit Tests e Continuous Integration
 - mix tra repo privati e pubblici
 
+---
+## Resources
+- <https://innersourcecommons.org>
+- <https://github.com/InnerSourceCommons>
+- [How to create an internal InnerSource community](https://opensource.com/life/16/11/create-internal-innersource-community)
+- video [InnerSource Journey with GitHub](https://www.youtube.com/watch?v=MhhBi7o9z90)
+- video [GitHub: InnerSource: Reaping the Benefits of Open Source, Behind Your Firewall](https://www.youtube.com/watch?v=sDKN-xyqcNc)
+- video [GitHub Satellite 2017 - Global Software Development with InnerSource](https://www.youtube.com/watch?v=64gaATwzXvE)

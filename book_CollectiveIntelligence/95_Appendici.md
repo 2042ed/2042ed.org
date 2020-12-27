@@ -1,15 +1,5 @@
 # Appendici e Risorse
 
-## Links
-- <https://opensource.org/osd>
-- <http://innersourcecommons.org>
-- <https://github.com/InnerSourceCommons>
-
-- [How to create an internal InnerSource community](https://opensource.com/life/16/11/create-internal-innersource-community)
-- video [InnerSource Journey with GitHub](https://www.youtube.com/watch?v=MhhBi7o9z90)
-- video [GitHub: InnerSource: Reaping the Benefits of Open Source, Behind Your Firewall](https://www.youtube.com/watch?v=sDKN-xyqcNc)
-- video [GitHub Satellite 2017 - Global Software Development with InnerSource](https://www.youtube.com/watch?v=64gaATwzXvE)
-
 ## progetti OpenSource
 - OpenSource projects finder: <https://www.findbestopensource.com>
 - OpenSource games: <https://en.wikipedia.org/wiki/List_of_open-source_video_games>
@@ -25,7 +15,7 @@
 - Audacity audio editor http://www.audacityteam.org/download/linux/
  
 ## Esempi
-- progetti grossi:
+- progetti complessi:
   - https://github.com/microsoft/vscode
 
 - Unity projects
@@ -44,4 +34,4 @@
 - developers
   - https://github.com/keijiro/
   - https://github.com/ncase
-  
+

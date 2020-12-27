@@ -16,7 +16,7 @@ GitHub è un hosting di repository  Git che fornisce agli sviluppatori strumenti
 GitHub integra la collaborazione direttamente nel processo di sviluppo. Il lavoro è organizzato in repository, in cui gli sviluppatori possono delineare requisiti o direttive e definire aspettative per i membri del team. Quindi, utilizzando il flusso GitHub, gli sviluppatori creano semplicemente un ramo per lavorare sugli aggiornamenti, eseguire il commit delle modifiche per salvarli, aprire una richiesta pull per proporre e discutere le modifiche e unire le richieste pull quando tutti sono sulla stessa pagina.
 
 # Il flow di GitHub
-Il flusso GitHub è un flusso di lavoro leggero, basato su rami, costruito attorno ai principali comandi Git utilizzati dai team di tutto il mondo.
+Il flusso GitHub è un flusso di lavoro leggero, basato su branches, costruito attorno ai principali comandi Git utilizzati dai team di tutto il mondo.
 
 Il flusso GitHub ha sei passaggi, ciascuno con vantaggi distinti quando implementato:
 

@@ -2,7 +2,7 @@
 
 ## Video
 *What is GitHub?*
-https://www.youtube.com/watch?v=w3jLJU7DT5E
+<https://www.youtube.com/watch?v=w3jLJU7DT5E>
 
 ## Cos'è un version control system?
 
@@ -13,9 +13,9 @@ Un sistema di version control system, o VCS, tiene traccia della cronologia dell
 - Quando sono state apportate le modifiche?
 - Perché sono stati necessari cambiamenti?
 	
-## Cos'è un **distributed** version control system?
+## Cos'è un *distributed* version control system?
 
-**Git** è un esempio di un **distributed** version control system (DVCS) comunemente utilizzato per lo sviluppo di software commerciale e open source. I DVCS consentono l'accesso completo a ogni file, ramo e iterazione di un progetto e consentono a ogni utente l'accesso a una cronologia completa e autonoma di tutte le modifiche. A differenza dei sistemi di controllo delle versioni centralizzati un tempo popolari, i DVCS come Git non necessitano di una connessione costante a un repository centrale. Gli sviluppatori possono lavorare ovunque e collaborare in modo asincrono da qualsiasi fuso orario.
+**Git** è un esempio di un **distributed** version control system (DVCS) comunemente utilizzato per lo sviluppo di software commerciale e open source. I DVCS consentono l'accesso completo a ogni file, *branch* e iterazione di un progetto e consentono a ogni utente l'accesso a una cronologia completa e autonoma di tutte le modifiche. A differenza dei sistemi di controllo delle versioni centralizzati un tempo popolari, i DVCS come Git non necessitano di una connessione costante a un repository centrale. Gli sviluppatori possono lavorare ovunque e collaborare in modo asincrono da qualsiasi fuso orario.
 
 Senza il controllo della versione, i membri del team sono soggetti a attività ridondanti, tempistiche più lente e più copie di un singolo progetto. Per eliminare il lavoro non necessario, Git e altri VCS offrono a ciascun collaboratore una visione unificata e coerente di un progetto, facendo emergere il lavoro già in corso. Vedere una cronologia trasparente dei cambiamenti, chi li ha apportati e come contribuiscono allo sviluppo di un progetto aiuta i membri del team a rimanere allineati mentre lavorano in modo indipendente.
 
@@ -45,7 +45,7 @@ Un *repository* , o progetto Git , comprende l'intera raccolta di file e cartell
 - area di Stage
 - Tag / Release
 
-Lavorare nei repository mantiene i progetti di sviluppo organizzati e protetti. Gli sviluppatori sono incoraggiati a correggere bug o creare nuove funzionalità, senza timore di far deragliare gli sforzi di sviluppo principali. Git lo facilita attraverso l'uso di rami di argomento: puntatori leggeri ai commit nella cronologia che possono essere facilmente creati e deprecati quando non sono più necessari.
+Lavorare nei repository mantiene i progetti di sviluppo organizzati e protetti. Gli sviluppatori sono incoraggiati a correggere bug o creare nuove funzionalità, senza timore di far deragliare gli sforzi di sviluppo principali. Git lo facilita attraverso l'uso di *branches*: puntatori ai commit nella cronologia che possono essere facilmente creati e deprecati quando non sono più necessari.
 
 Attraverso piattaforme come GitHub, Git offre anche maggiori opportunità per la trasparenza e la collaborazione del progetto. I repository pubblici aiutano i team a lavorare insieme per creare il miglior prodotto finale possibile.
 
@@ -57,7 +57,7 @@ Per utilizzare Git, gli sviluppatori utilizzano comandi specifici per copiare, c
 
 - `git init` inizializza un repository Git nuovo di zecca e inizia a monitorare una directory esistente. Aggiunge una sottocartella nascosta all'interno della directory esistente che ospita la struttura dati interna richiesta per il controllo della versione.
 
-- `git clone` crea una copia locale di un progetto che esiste già in remoto. Il clone include tutti i file, la cronologia e i rami del progetto.
+- `git clone` crea una copia locale di un progetto che esiste già in remoto. Il clone include tutti i file, la cronologia e i *branches* del progetto.
 
 - `git add` mette in *stage* un cambiamento. Git tiene traccia delle modifiche alla base di codice di uno sviluppatore, ma è necessario mettere in *stage* e scattare un'istantanea delle modifiche per includerle nella cronologia del progetto. Questo comando esegue la gestione temporanea, la prima parte di quel processo in due fasi. Qualsiasi modifica messa in *stage* diventerà una parte della prossima istantanea e una parte della storia del progetto. Lo staging e il commit separatamente offrono agli sviluppatori il controllo completo sulla cronologia del loro progetto senza modificare il modo in cui codificano e lavorano.
 
@@ -65,25 +65,28 @@ Per utilizzare Git, gli sviluppatori utilizzano comandi specifici per copiare, c
 
 - `git status` mostra lo stato delle modifiche come non tracciate, modificate o organizzate.
 
-- `git branch` mostra i rami su cui si lavora a livello locale.
+- `git branch` mostra i *branches* su cui si lavora a livello locale.
 
-- `git merge` unisce le linee di sviluppo insieme. Questo comando viene in genere utilizzato per combinare le modifiche apportate su due rami distinti. Ad esempio, uno sviluppatore si fonde quando desidera combinare le modifiche da un ramo di funzionalità al ramo principale per la distribuzione.
+- `git merge` unisce le linee di sviluppo insieme. Questo comando viene in genere utilizzato per combinare le modifiche apportate su due *branches* distinti. Ad esempio, uno sviluppatore si fonde quando desidera combinare le modifiche da un *branch* di funzionalità al *branch* principale per la distribuzione.
 
-- `git pull` aggiorna la linea di sviluppo locale con aggiornamenti dalla sua controparte remota. Gli sviluppatori utilizzano questo comando se un membro del team ha eseguito il commit su un ramo su un telecomando e vorrebbero riflettere tali modifiche nel loro ambiente locale.
+- `git pull` aggiorna la linea di sviluppo locale con aggiornamenti dalla sua controparte remota. Gli sviluppatori utilizzano questo comando se un membro del team ha eseguito il commit su un *branch* remoto e vorrebbero riflettere tali modifiche nel loro ambiente locale.
 
 - `git push` aggiorna il repository remoto con tutti i commit effettuati localmente su un ramo.
 
 ![](img/git-commit_graph.jpg)
 
-    
 ## Alternative a Git
 Hg, Perforce, SVN sono solo alcuni, ma Git sta diventando lo standard
 
 ## Git Clients
-- Fork <https://fork.dev>
-- GitHub Desktop <https://desktop.github.com>
-- Source Tree
-- GitKraken
+- **Fork** <https://fork.dev>
+  win/mac, gratuito con licenza opzionale, veloce, completo, bello
+- **GitHub Desktop** <https://desktop.github.com>
+  prodotto da GitHub, molto semplice con funzioni base. win/mac, gratuito. la prima scelta per i i principianti o per chi usa pochissimo Git
+- **Source Tree** <https://www.sourcetreeapp.com>
+  win/mac, gratuito (necessita solo di account Atlassian), molto completo, un po' lento per progetti grossi e UI non perfetta
+- **GitKraken** <https://www.gitkraken.com/>
+  non gratuito per i repo privati, win/mac, completo, si integra con altri prodotti della Axosoft  
 
 ## Temi
 - conflitti
@@ -92,8 +95,8 @@ Hg, Perforce, SVN sono solo alcuni, ma Git sta diventando lo standard
 - filenames: maiuscole e minuscole
 - filenames: line feed -> .editorconfig
 - dati sensibili
-- 
+
 
 ## Per approfondire
-- <https://www.git-tower.com/learn/git/ebook/en/desktop-gui/introduction>
 - <https://lab.github.com/courses>
+- <https://www.git-tower.com/learn/git/ebook/en/desktop-gui/introduction>

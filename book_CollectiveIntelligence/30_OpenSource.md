@@ -65,3 +65,5 @@ in un progetto Open si dà molto, è forse un po' più faticoso, ma si riceve an
 - aprire i propri cassetti di idee e pubblicare. male non fa
 - Game Jams sono i migliori eventi dove il prodotto deve essere rilasciato OpenSource. più del prodotto in sé è interessante il come è stato fatto, con chi e le referenze a futuro (portfolio)
 
+## Resources
+- <https://opensource.org/osd>
