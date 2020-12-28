@@ -4,6 +4,29 @@
 ## Code of Conduct
 regole di partecipazione e comunicazione
 
+## Commit syntax
+https://www.conventionalcommits.org
+
+## Come posso fare un buon changelog?
+<https://keepachangelog.com>
+
+### Linee guida
+- I changelog sono _per le persone_, non per le macchine.
+- Dovrebbe esserci una voce per ogni singola versione.
+- Le modifiche dello stesso tipo dovrebbero essere raggruppate.
+- Versioni e sezioni dovrebbero essere collegabili.
+- L'ultima versione viene per prima.
+- Viene mostrata la data di release di ogni versione.
+- Si dichiara se il progetto segue il [Versionamento Semantico](https://semver.org/).
+
+### Tipologie di cambiamenti
+- `Added` per le nuove funzionalità.
+- `Changed` per le modifiche a funzionalità esistenti.
+- `Deprecated` per le funzionalità che saranno rimosse nelle future release.
+- `Removed` per funzionalità rimosse in questa release.
+- `Fixed` per tutti i bug fix.
+- `Security` per invitare gli utilizzatori ad aggiornare in caso di vulnerabilità.
+- 
 ## Issues
 e di tracciamento delle cose da fare e roadmap (issues, milestones), tipo GitHub Issues, Trello, Jira, Google Sheets
 

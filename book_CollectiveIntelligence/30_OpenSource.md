@@ -67,3 +67,5 @@ in un progetto Open si dà molto, è forse un po' più faticoso, ma si riceve an
 
 ## Resources
 - <https://opensource.org/osd>
+- Contributing to Open Source for the first time
+https://www.youtube.com/watch?v=c6b6B9oN4Vg

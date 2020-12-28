@@ -10,21 +10,21 @@
 - documentazione
 
 ## I vantaggi di GitHub 
-GitHub è un hosting di repository  Git che fornisce agli sviluppatori strumenti per fornire un codice migliore tramite funzionalità della riga di comando, problemi (discussioni in thread), richieste pull, revisione del codice o l'uso di una raccolta di app gratuite e acquistabili nel Marketplace di GitHub. Con livelli di collaborazione come il flusso GitHub, una comunità di 15 milioni di sviluppatori e un ecosistema con centinaia di integrazioni, GitHub cambia il modo in cui viene costruito il software.
+GitHub è un hosting di repository Git che fornisce agli sviluppatori strumenti per fornire un codice migliore tramite funzionalità della riga di comando, problemi (discussioni in thread), richieste pull, revisione del codice o l'uso di una raccolta di app gratuite e acquistabili nel Marketplace di GitHub. Con livelli di collaborazione come il GitHub Flow, una comunità di 15 milioni di sviluppatori e un ecosistema con centinaia di integrazioni, GitHub cambia il modo in cui viene sviluppato il software.
 
 ## Come funziona GitHub
-GitHub integra la collaborazione direttamente nel processo di sviluppo. Il lavoro è organizzato in repository, in cui gli sviluppatori possono delineare requisiti o direttive e definire aspettative per i membri del team. Quindi, utilizzando il flusso GitHub, gli sviluppatori creano semplicemente un ramo per lavorare sugli aggiornamenti, eseguire il commit delle modifiche per salvarli, aprire una richiesta pull per proporre e discutere le modifiche e unire le richieste pull quando tutti sono sulla stessa pagina.
+GitHub integra la collaborazione direttamente nel processo di sviluppo. Il lavoro è organizzato in repository, in cui gli sviluppatori possono delineare requisiti o direttive e definire task per i membri del team. Quindi, utilizzando il GitHub Flow, gli sviluppatori creano semplicemente un *branch* per lavorare sugli aggiornamenti, eseguire il commit delle modifiche per salvarli, aprire una *pull request* per proporre e discutere le modifiche e infine implementare le pull request quando sono autorizzate
 
 # Il flow di GitHub
-Il flusso GitHub è un flusso di lavoro leggero, basato su branches, costruito attorno ai principali comandi Git utilizzati dai team di tutto il mondo.
+Il flusso GitHub è un flusso di lavoro basato su branches, costruito attorno ai principali comandi Git utilizzati dai team di tutto il mondo.
 
 Il flusso GitHub ha sei passaggi, ciascuno con vantaggi distinti quando implementato:
 
-1.  **Create a branch:**  i rami degli argomenti creati dal ramo di distribuzione canonica (di solito main) consentono ai team di contribuire a molti sforzi paralleli. I rami tematici di breve durata, in particolare, mantengono i team concentrati e si traducono in navi veloci.
-2.  **Add commits:** Snapshots dello statuo di sviluppo all'interno di un ramo creano punti sicuri e reversibili nella cronologia del progetto.
+1.  **Create a branch:** i rami degli argomenti creati dal ramo di distribuzione canonica (di solito *main*) consentono ai team di contribuire a molti sviluppi paralleli. I rami tematici di breve durata, in particolare, mantengono i team concentrati e si traducono in navi veloci.
+2.  **Add commits:** Snapshots dello stato di sviluppo all'interno di un ramo creano punti sicuri e reversibili nella cronologia del progetto.
 3.  **Open a pull request:**  le pull request pubblicizzano gli sforzi in corso di un progetto e danno il tono a un processo di sviluppo trasparente.
 4.  **Discuss and review code:** i team partecipano alle revisioni del codice commentando, testando ed esaminando le pull request aperte. La revisione del codice è al centro di una cultura aperta e partecipativa.
-5.  **Merge:** dopo aver fatto clic su unisci, GitHub esegue automaticamente l'equivalente di un'operazione di  `git merge` locale. GitHub mantiene anche l'intera cronologia dello sviluppo del ramo sulla richiesta pull unita.
+5.  **Merge:** dopo aver fatto clic su *merge*, GitHub esegue automaticamente l'equivalente di un'operazione di  `git merge` locale. GitHub mantiene anche l'intera cronologia dello sviluppo del ramo sulla richiesta pull unita.
 6.  **Deploy:** i team possono scegliere i cicli di rilascio migliori o incorporare strumenti di integrazione continua e operare con la certezza che il codice nel ramo di distribuzione sia passato attraverso un flusso di lavoro affidabile.
 
 ## Modelli per lo sviluppo collaborativo
@@ -32,7 +32,7 @@ Il flusso GitHub ha sei passaggi, ciascuno con vantaggi distinti quando implemen
 Esistono due modi principali in cui le persone collaborano su GitHub:
 
 1. Repository condiviso
-2. [Fork](https://help.github.com/articles/about-forks/) and [pull](https://help.github.com/articles/using-pull-requests)
+2. [Fork](https://help.github.com/articles/about-forks/) e [pull](https://help.github.com/articles/using-pull-requests)
 
 Con un repository condiviso, _shared repository_, sviluppatori e team sono esplicitamente designati come contributori con accesso in lettura, scrittura o amministratore. 
 

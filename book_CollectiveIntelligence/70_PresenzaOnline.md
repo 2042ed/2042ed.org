@@ -1,23 +1,19 @@
 # Essere Presenti e Accessibili
-essere accessibili, ovvero non chiudersi nelle proprie mura virtuali.
-parlare la stessa lingua, o almeno conoscere le lingue più utilizzate.
-tenere sempre conto che stiamo parlando sia con le macchine, ma sopratutto con altri esseri umani.
+essere accessibili, ovvero non chiudersi nelle proprie mura virtuali. parlare la stessa lingua, o almeno conoscere le lingue più utilizzate. tenere sempre conto che stiamo parlando sia con le macchine, ma sopratutto con altri esseri umani.
 
-oltre ai propri progetti, è bene iniziare a costruire la propria "casa" digitale, la Web Presence. 
-ognuno troverà dove e come collocarsi. l'importante è iniziare
+Oltre ai propri progetti, è bene iniziare a costruire la propria "casa" digitale, la Web Presence.  ognuno troverà dove e come collocarsi. l'importante è iniziare.
 
 ## Nickname e Avatar
-se non si ha un nickname a cui ci si tiene molto e che sia "presentabile" a tutti, conviene usare NomeCognome.
+se non si ha un **nickname** a cui ci si tiene molto e che sia "presentabile" a tutti, conviene usare NomeCognome.
 mantenere uno stesso profilo su tutte le piattaforme (Twitter, GitHub, Facebook, DevianArt, Discord, Itchio, LinkedIn)
-
-anche la propria foto/icona/avatar sarebbe meglio fosse unica.
+anche la propria **foto**/icona/avatar sarebbe meglio fosse unica.
 
 ## Language
 ok italiano come lingua principale SE si aggiunge una buona traduzione in inglese di tutto. eventualmente solo in inglese.
 
 ## CV e Portfolio
 - è importante che ognuno abbia una minima presenza sul web con pubblicato quello che fa, sa fare, cosa gli interessa.
-- almeno una url statica di accesso
+- almeno una **url statica** di accesso
 - GitHub offre la possibilità di avere un proprio sito pubblico e gratuito all'indirizzo username.github.io (eventualmente con un proprio dominio comprato a parte), e ciò sarebbe la prima cosa che oggi i vari recruiters vanno a vedere, più delle pagine LinkedIn o altro, perché i progetti/prototipi/studi pubblicati, e COME sono stati realizzati, fanno capire le reali potenzialità e peculiarità di ognuno.
 - le presenze digitali fondamentali per un game developer sono:
   - Twitter

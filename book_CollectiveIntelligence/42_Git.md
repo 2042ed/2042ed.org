@@ -89,9 +89,10 @@ Hg, Perforce, SVN sono solo alcuni, ma Git sta diventando lo standard
   non gratuito per i repo privati, win/mac, completo, si integra con altri prodotti della Axosoft  
 
 ## Temi
-- conflitti
 - .gitignore
 - files binari e LFS
+- stash
+- conflitti
 - filenames: maiuscole e minuscole
 - filenames: line feed -> .editorconfig
 - dati sensibili
