@@ -20,7 +20,7 @@ Text under Heading 5
 
 ## Emphasis
 
-Emphasis, aka italics, with *asterisks* or _underscores_.  
+*Emphasis*, aka italics, with *asterisks* or _underscores_.  
 Strong emphasis, aka bold, with **asterisks** or __underscores__.  
 Combined emphasis with **asterisks and _underscores_**.  
 Strikethrough uses two tildes. ~~Scratch this.~~  
@@ -34,6 +34,10 @@ And `keywords`.
 ## Links
 
 ### External links
+
+![nome del link](http://www.sito.com)
+
+
 [www.google.com](https://www.google.com)  
 [www.google.com with title](https://www.google.com "Google's Homepage")   
 URLs and URLs in angle brackets will automatically get turned into links.
@@ -46,6 +50,9 @@ This links to the [Introduction](10_Introduzione.md)
 ## Code
 
 We can highlight a `single keyword` or code blocks:
+
+
+
 
 ```
 10 PRINT "generic code block"
@@ -72,6 +79,13 @@ Una seconda parola
 :  qui definiamo un'altro termine
 
 ## Lists
+1. elenco 1
+2. elenco 2
+
+
+
+
+
 
 1. First ordered list item
 2. Another item
@@ -106,6 +120,13 @@ Save your image (jpg or png format only) to `img/` and insert it like this:
 
 We can have nice tables.  
 Colons can be used to align columns.  
+
+
+| colonna | colonna 2 |
+| --- | --- |
+| valore | calore 2|
+
+
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
