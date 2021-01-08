@@ -1,19 +1,18 @@
 # Temi e Case studies
 
 ## Low Infusion
-like Minecraft, Angry Birds, or Pokemon GO!, Assassin’s Creed Unity
-evoluti in MinecraftEDU, Rayman Brain Games, and SimcityEDU
+like Minecraft, Angry Birds, or Pokemon GO!, Assassin’s Creed Unity, evoluti in MinecraftEDU, Rayman Brain Games, and SimcityEDU
 
 ## Formazione e Simulazione
 
-Ad oggi il settore più grande ed economicamente più rilevante
+Ad oggi il settore più grande ed economicamente più rilevante.
 
 - AI, Robotica
 - Replicabilità, Prevenzione
 - Previsioni, Futuro
 - VR, AR
 
-Target sia professionale che pubblico
+Target sia professionale che pubblico.
 
 Immersive Simulation for Field Operator Training
 https://www.youtube.com/watch?v=rJULyO9E2vE
@@ -21,19 +20,20 @@ https://www.youtube.com/watch?v=rJULyO9E2vE
 Combat Medic Trainer 3D Simulation Video Game
 https://www.youtube.com/watch?v=1wQBUhqt7N0
 
-### Militari e Governativi
 
+### Militari e Governativi
 Simulatori militari e forze civili.
 Non entriamo nell’etica.
 Diverso è sviluppare un simulatore che aiuti a prevenire morte e violenza, che non progettare nuove armi.
 Non solo training interno ma anche per recruitment e marketing.
 
-### Build better cities
-
+### Architettura
+**Build better cities**
 https://www.ted.com/talks/karoliina_korppoo_how_a_video_game_might_help_us_build_better_cities/
 
 ### Alcuni titoli
 - Democracy, political strategy game - positech.co.uk/democracy/
+- Flight Simulator <https://www.flightsimulator.com/>
 - "ViPOL" (virtual training for police forces)
 - Lost Earth 2307 (image interpretation, military)
 - 3DSim@GBT (planning, railroad construction)
@@ -76,6 +76,10 @@ https://www.kerbalspaceprogram.com
 Una suite evoluta dal celebre SimCity, fatta per insegnanti e studenti, per conoscere, analizzare e risolvere i complessi problemi del nostro ambiente, con dati reali
 
 https://www.commonsense.org/education/game/simcityedu-pollution-challenge
+
+### Kids
+<https://tocaboca.com/>
+<https://tinybop.com/apps>
 
 ### iCivics
 Organizzazione no-profit che si dedica all’educazione civica attraverso risorse e strumenti di insegnamento interattivi e coinvolgenti. 

@@ -16,6 +16,53 @@ il goal o messaggio aggiunto/integrato
 
 **Interdisciplinary Teamwork**: The framework suggests an interdisciplinary approach in which all team members, not just the designers, participate in every aspect of the development process and learn from each others field of expertise
 
+## ROI vs ROE
+Più che al ROI, guardiamo il Returno of Invenstment
+
+## Caratteristiche di un buon gioco
+- sfide continue
+	- short term goals
+	- sfide calibrate sul giocatore
+	- conoscere i giocatori e le loro motivazioni
+	- calibrare le sfide a specifici obiettivi didattici
+- interessante sviluppo della storia
+- flessibilità nell'ottenere risultati con effetti multipli
+	- incoraggiare la collaborazione
+	- permettere di scegliere il proprio path
+- rewards utili, immediati e consistenti
+	- rewards per incoraggiare
+	- badges e achievements
+	- sblocchi progressivi di features, livelli e strumenti
+- uniscono il divertimento all'imparare
+	- la fun deve essere una metrica!
+	- non replicare il realismo, siamo in simulazione
+	- un gioco non è per tutti, focalizziamo
+	- esagerare le reazioni, non è la vita vera
+	- altrimenti è una simulazione
+
+
+## come iniziare
+- set ROE
+- ricordare che non siamo il target
+- definire il genere di gioco che possa piacere l'audience
+- allineare i goal didattici ai livelli di gioco
+- trovare un focus group per discutere il profetto
+- iterare
+
+### come trovare un tema
+- focalizzarsi più sulle meccaniche che sul tema
+- tema e meccaniche sono separate
+- il tema attrae all'inizio, ma l'engagement è nelle meccaniche
+
+## track data
+- loyalty
+- quanto gioca
+- cosa fanno durante il gioco? perché?
+- interagiscono con altri giocatori? come?
+- ottengono i risultati didattici?
+- c'è persistenza di quello che imparano?
+- cosa altro dobbiamo sapere dei giocatori?
+
 ## Design Learning Experiences
 ### Learning ed Educazione
 Cosa vuole dire *imparare*?
@@ -177,7 +224,7 @@ Questo è legato ai principi della teoria del flusso (Flow).
 In questo caso, vogliamo riflettere su come abbinare la difficoltà dell'ambiente di apprendimento, o l'ambiente di gioco, allo studente dove sono adesso e dare loro le cose su cui lavorare che li sfideranno ma che noi e sanno che possono ottenere risultati con supporto.
 
 ### Fallimenti utili
-I giochi fanno un ottimo lavoro nel sostenere il fallimento.
+I giochi fanno un ottimo lavoro nel **sostenere il fallimento**.
 E il modo in cui lo fanno in genere, non è punirti troppo se non riesci a qualcosa.
 Quindi, se il tuo personaggio muore, in genere cosa succederebbe nel gioco, torneresti all'inizio di quel livello e riproverai.
 E questo incoraggia certe cose come provare le cose in modi diversi.
@@ -216,7 +263,6 @@ Dobbiamo pensare a come costruirlo nei nostri ambienti di apprendimento, in modo
 
 
 ## Human Centric design
-
 1. **Concept phase** - Goal: build a proposal adapted to your audience and context. Critical questions to answer
 2. **Pre-prod** - Focus on the qualitative aspect and proof of concept. Are you appealing to the audience?
 3. **Production**: until Beta - Focus on the productivity. are all features implemented and playable?
@@ -572,7 +618,6 @@ https://www.amazon.it/Factfulness-ragioni-capiamo-mondo-pensiamo/dp/8817099635
 ## Case study: Antura planning
 Antura Screen by Screen
 https://docs.google.com/presentation/d/1hc5Sjzq6cg_Y-FHgIK819KzfHWOG0KF9jhPh6Klf4Ww/edit#slide=id.g24c0825d9f_0_52
-
 
 ---
 ## ALtri temi

@@ -23,6 +23,10 @@ I media hanno sempre avuto un impatto sulla società.
 Dai racconti mitologici ai testi sacri, dall'enciclopedia ai giornali.
 Conoscenza, Educazione e Libertà sono sempre andate insieme, e con l'esplosione delle ICT (Information Communication Technologies) la nostra società è basata sull'Informazione e sopratutto sull'attenzione, con tempi di assimilazione sempre più brevi.
 
+## Where in the World Is Carmen Sandiego?
+1985 [link](https://en.wikipedia.org/wiki/Where_in_the_World_Is_Carmen_Sandiego%3F_(1985_video_game))
+![[where-carmen.jpg]]
+
 ## Impact Games
 > gioco o esperienza ludica con un effetto positivo intenzionale e misurabile
 
@@ -87,6 +91,11 @@ Per il momento consideriamo *SINONIMI* i termini
 ## Impact game vs Gamification
 Il termine gamification significa “trasformare in gioco qualcosa che non è un gioco”. E’ un termine abbastanza generico sotto il quale si inserisce ogni uso degli elementi dei giochi nei sistemi non-gioco per migliorare la User Experience (UX) e l’engagement. In particolare si usano i concetti e/o elementi dei giochi per “giochificare” applicazioni esistenti.
 
+La Gamification di solito implementa
+- Badges
+- Trofei
+- Leader Boards
+
 Invece i giochi con una finalità / applied games sono giochi specificatamente progettati per ottenere dei risultati non direttamente ludici.
 
 ## G/P/S taxonomy
@@ -142,27 +151,29 @@ Raccogliere dati e informazioni dai giocatori o invitarli a condividerli.
 - Studenti
 
 ### Game Play + Market combinations:
-
 **Video Game**: game-based + entertainment  
 **Video Toy**: play-based + entertainment  
 **Impact Game**: game-based + !entertainment 
 **Impact Play**: play-based + !entertainment  
 
 ## Interesse
+Molto spesso si sta bene quando stanno bene anche gli altri.
+Viceversa si sta male quando stanno male gl ialtri.
+Il mondo sociale è interconnesso e il nostro benessere è relazionato.
 
-Ci interessa affrontare i temi vissuti dall’uomo e dall'umanità.
-Non tanto per una missione “umanitaria” o “umanista”, ma in quanto noi stessi esseri umani partecipanti ad un sistema molto più ampio che ci modifica ma che possiamo modificare.
-E per puro egoismo: per stare meglio io deve stare meglio il mio ambiente.
+Che siano conoscenza, salute, indipendenza, libertà, felicità, tutti i temi vissuti dall’uomo sono condivisi e soprattutto si migliorano con lo sviluppo personale, dall'interno, non dall'esterno.
 
-Inoltre c’è crescente preoccupazione e interesse del “mercato”, quindi toccare determinate questioni ci apre automaticamente delle porte di attenzione.
+In quest'ottica i videogiochi sono degli strumenti di sviluppo personale molto utili dal punto di vista #sociale e #politico e #spirituale
+
+Inoltre c’è crescente preoccupazione e interesse del “mercato”, quindi toccare determinate questioni ci apre automaticamente nuovi sbocchi.
 
 Un esempio semplice: se invento un gioco divertente che aiuta a risolvere il problema dell’Alzheimer, o a mantenere la calma nelle situazioni difficili o migliorare i consumi energetici della mia città, la cosa forse potrebbe interessare molte più persone che non sapevano che ci si potesse divertire anche lì.
+(cit [Freud's Bones](https://www.kickstarter.com/projects/fortunaimperatore/freuds-bones-an-indie-videogame-on-sigmund-freud))
 
-> Si tratta di esplorare l’INVENTIVA APPLICATA
+> Si tratta di esplorare l’INVENTIVA APPLICATA a migliorare il mondo
 
 ### I problemi che abbiamo e con i giochi aiutare a risolverli
-
-Anziché fare un gioco divertente fine a se stesso, andiamo a prendere un tema, un target, ne identifichiamo un problema e attraverso un game play e una finalità adeguata, lo mettiamo sul piatto del mondo: ragazzi ecco uno strumento in più. 
+Anziché fare un gioco divertente fine a se stesso, andiamo a prendere un **tema**, un **target**, ne identifichiamo un **problema** e attraverso un game play e una finalità adeguata, creiamo uno strumento che lo tratta.
 
 Il prossimo prototipo, la prossima jam, il prossimo esercizio potrebbe essere qualcosa di potenzialmente utile a qualcuno
 
@@ -171,13 +182,11 @@ Non deve essere necessariamente un progetto “serio” nel senso di accademico,
 Ricordarci appunto che non c’è solo l’entertainment per l’entertainment, l’*ars gratia artis*.
 
 ## Focus
-
-Avere sempre ben chiaro il focus del progetto, aiuta Designers, developers, artisti
+Avere sempre ben chiaro il focus del progetto aiuta Designers, developers, artisti.
 
 Accelera lo sviluppo, da direzione all'arte, migliora la possibilità di test.
 
 ## Chi sono io?
-
-Chi sono io? Perché sono qui?
+> DOMANDA: Chi sono io? Perché sono qui?
 
 ![[chi_sono.png]]
