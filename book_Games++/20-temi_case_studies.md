@@ -116,6 +116,7 @@ Il terzo grande settore sono i giochi per la salute (Games for Health)
 - Riabilitazione
 - Esercizi Fisici
 - Cognitive Training
+- Training Medico
 
 C'è molto interesse e hype per diversi motivi
 1) il sistema globale sanitario deve sviluppare nuovi concetti e strumenti per gestire i cambi demografici

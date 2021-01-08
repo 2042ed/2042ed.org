@@ -3,6 +3,8 @@
 
 ![](assets/corsi_gamedev.jpg)
 
+per leggerli in locale, consiglio di usare [Obsidian](https://obsidian.md/)
+
 ## Intelligenza Collettiva e Sviluppo Distribuito
 *da Git all'immortalità*  
 [book_CollectiveIntelligence/01_README.md](book_CollectiveIntelligence/01_README.md)

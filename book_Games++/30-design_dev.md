@@ -17,7 +17,7 @@ il goal o messaggio aggiunto/integrato
 **Interdisciplinary Teamwork**: The framework suggests an interdisciplinary approach in which all team members, not just the designers, participate in every aspect of the development process and learn from each others field of expertise
 
 ## ROI vs ROE
-Più che al ROI, guardiamo il Returno of Invenstment
+Più che al ROI, guardiamo il Return of Investment
 
 ## Caratteristiche di un buon gioco
 - sfide continue
