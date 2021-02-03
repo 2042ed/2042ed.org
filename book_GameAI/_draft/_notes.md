@@ -9,3 +9,4 @@ https://thenextweb.com/neural/2021/01/13/googles-new-trillion-parameter-ai-langu
 
 OpenAI DALL·E: Fighter Jet For The Mind!
 https://www.youtube.com/watch?v=C7D5EzkhT6A
+
