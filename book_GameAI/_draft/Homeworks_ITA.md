@@ -1,19 +1,4 @@
-## Mobile dev:
-1) buildare scena dei pesci (3D)
-2) buildare scena place object in AR con un prefab a scelta
-
-## AI
-
-### ML
-leggere fino al 4
-1. https://medium.com/botsupply/il-machine-learning-%C3%A8-divertente-parte-1-97d4bce99a06
-2. https://medium.com/botsupply/il-machine-learning-%C3%A8-divertente-parte-2-dec556e4855d
-3. https://medium.com/botsupply/il-machine-learning-%C3%A8-divertente-parte-3-deep-learning-e-convolutional-neural-network-cnns-cc106559ffa9
-4. https://medium.com/botsupply/il-machine-learning-%C3%A8-divertente-parte-4-c707feee1cf8
-
-
 ### Board Game
-
 un board game a scelta (più è semplice meglio è)
 descrivere il processo mentale del giocatore, con tutti i passaggi logici, come se potesse essere tradotto in AI
 

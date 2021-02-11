@@ -94,13 +94,7 @@ https://www.youtube.com/watch?v=zC63mj7g820
 ### Some Thoughts About Utility Theory in Artificial Intelligence Part I
 https://medium.com/@jrodthoughts/some-thoughts-about-utility-theory-in-artificial-intelligence-part-i-9c536dd1d40d
 
-### UNITY AI PLanner
-https://docs.unity3d.com/Packages/com.unity.ai.planner@0.0/manual/index.html
 
-### GAN
-Semantic Image Synthesis with Spatially-Adaptive Normalization
-https://nvlabs.github.io/SPADE/
-video https://www.youtube.com/watch?v=p5U4NgVGAwg
 
 ### ML games
 tutorials:

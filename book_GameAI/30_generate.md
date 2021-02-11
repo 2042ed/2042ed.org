@@ -2,6 +2,10 @@
 
 https://www.theverge.com/2019/3/6/18222203/video-game-ai-future-procedural-generation-deep-learning
 
+Semantic Image Synthesis with Spatially-Adaptive Normalization
+https://nvlabs.github.io/SPADE/
+video https://www.youtube.com/watch?v=p5U4NgVGAwg
+
 ## AI Dungeon
 https://play.aidungeon.io
 

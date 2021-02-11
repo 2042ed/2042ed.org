@@ -37,3 +37,9 @@ Goal-Oriented Action Planner
 ![[goap_30.jpg]]
 ![[goap_31.jpg]]
 ![[goap_32.jpg]]
+
+
+### UNITY AI PLanner
+[ai.planner docs](https://docs.unity3d.com/Packages/com.unity.ai.planner@0.3/manual/index.html)
+[ai.planner samples](https://github.com/Unity-Technologies/ai-planner-samples)
+[ai.planner video](https://www.youtube.com/watch?v=ZdN8dDa0ff4)

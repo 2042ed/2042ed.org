@@ -39,10 +39,6 @@ Docs https://opsive.com/support/documentation/behavior-designer/overview/
 - Multi Agents tutorial https://www.youtube.com/watch?v=l4Ye70M3rZU
 
 
-### UNITY AI PLanner
-https://docs.unity3d.com/Packages/com.unity.ai.planner@0.3/manual/index.html
-https://github.com/Unity-Technologies/ai-planner-samples
-https://www.youtube.com/watch?v=ZdN8dDa0ff4
 
 
 ### GAN
