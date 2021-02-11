@@ -97,18 +97,6 @@ https://medium.com/@jrodthoughts/some-thoughts-about-utility-theory-in-artificia
 ### UNITY AI PLanner
 https://docs.unity3d.com/Packages/com.unity.ai.planner@0.0/manual/index.html
 
-## Machine Learning
-### Machine Learning is fun (intro in italiano)
-1. https://medium.com/botsupply/il-machine-learning-%C3%A8-divertente-parte-1-97d4bce99a06
-2. https://medium.com/botsupply/il-machine-learning-%C3%A8-divertente-parte-2-dec556e4855d
-3. https://medium.com/botsupply/il-machine-learning-%C3%A8-divertente-parte-3-deep-learning-e-convolutional-neural-network-cnns-cc106559ffa9
-4. https://medium.com/botsupply/il-machine-learning-%C3%A8-divertente-parte-4-c707feee1cf8
-5. https://medium.com/botsupply/il-machine-learning-%C3%A8-divertente-parte-5-5e9083caf8f3
-6. https://medium.com/botsupply/il-machine-learning-%C3%A8-divertente-parte-6-86cd682ff71a
-7. https://medium.com/botsupply/il-machine-learning-%C3%A8-divertente-parte-7-bbd34f905ab8
-8. https://medium.com/@giovannitoschi/il-machine-learning-%C3%A8-divertente-parte-8-come-imbrogliare-una-rete-neurale-9116075d5df0
-
-
 ### GAN
 Semantic Image Synthesis with Spatially-Adaptive Normalization
 https://nvlabs.github.io/SPADE/
@@ -154,28 +142,4 @@ examples: https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learn
 - Una introduzione visuale al machine learning #top  
 	  <http://www.r2d3.us/una-introduzione-visuale-al-machine-learning-1/>
 
-**video**
-- Cos'è il Machine Learning (Reti Neurali e A.I.)  
-	  <https://www.youtube.com/watch?v=X_ZUyvAA9Qw>
 
-
-**libri**
-- _Unity Artificial Intelligence Programming_ - Packt pub.
-- _Learn Unity ML-Agents_- Packt pub.
-
-- Artificial Intelligence and Games <http://gameaibook.org/>
-- Procedural Content Generation in Games (free) <http://pcgbook.com/>
-- Machine Learning is Fun <https://www.machinelearningisfun.com>
-- Deep Learning book (free) <http://www.deeplearningbook.org>
-
-**Courses**
-- Advanced AI For Games with Goal-Oriented Action Planning
-  <https://www.udemy.com/course/ai_with_goap/>
-- The Beginner's Guide to Artificial Intelligence in Unity.
-  <https://www.udemy.com/course/artificial-intelligence-in-unity/>
-
-**youtubers**
-- Siraj Raval https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A
-- Jabrils https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg
-
-#AI

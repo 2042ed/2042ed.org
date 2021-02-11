@@ -1,3 +1,7 @@
+https://unity.com/products/machine-learning-agents
+https://www.youtube.com/watch?v=m_LxmQOS20Y
+
+
 # Game A.I.
 
 ## Classic A.I.
@@ -36,18 +40,9 @@ Docs https://opsive.com/support/documentation/behavior-designer/overview/
 
 
 ### UNITY AI PLanner
-https://docs.unity3d.com/Packages/com.unity.ai.planner@0.0/manual/index.html
-
-## Machine Learning
-### Machine Learning is fun (intro in italiano)
-1. https://medium.com/botsupply/il-machine-learning-%C3%A8-divertente-parte-1-97d4bce99a06
-2. https://medium.com/botsupply/il-machine-learning-%C3%A8-divertente-parte-2-dec556e4855d
-3. https://medium.com/botsupply/il-machine-learning-%C3%A8-divertente-parte-3-deep-learning-e-convolutional-neural-network-cnns-cc106559ffa9
-4. https://medium.com/botsupply/il-machine-learning-%C3%A8-divertente-parte-4-c707feee1cf8
-5. https://medium.com/botsupply/il-machine-learning-%C3%A8-divertente-parte-5-5e9083caf8f3
-6. https://medium.com/botsupply/il-machine-learning-%C3%A8-divertente-parte-6-86cd682ff71a
-7. https://medium.com/botsupply/il-machine-learning-%C3%A8-divertente-parte-7-bbd34f905ab8
-8. https://medium.com/@giovannitoschi/il-machine-learning-%C3%A8-divertente-parte-8-come-imbrogliare-una-rete-neurale-9116075d5df0
+https://docs.unity3d.com/Packages/com.unity.ai.planner@0.3/manual/index.html
+https://github.com/Unity-Technologies/ai-planner-samples
+https://www.youtube.com/watch?v=ZdN8dDa0ff4
 
 
 ### GAN
@@ -100,19 +95,7 @@ examples: https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learn
   https://www.youtube.com/watch?v=X_ZUyvAA9Qw
 
 
-**libri**
-- _Unity Artificial Intelligence Programming_ - Packt pub.
-- _Learn Unity ML-Agents_- Packt pub.
 
-**Courses**
-- Advanced AI For Games with Goal-Oriented Action Planning 
-  https://www.udemy.com/course/ai_with_goap/
-- The Beginner's Guide to Artificial Intelligence in Unity. 
-  https://www.udemy.com/course/artificial-intelligence-in-unity/
-
-**youtubers**
-- Siraj Raval https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A
-- Jabrils https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg
 
 # Augmented + Virtual Reality (AR/VR/MR)
 https://unity.com/solutions/ar-and-vr-games
