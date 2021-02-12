@@ -14,20 +14,6 @@
 	  - analizzare gameplay e modellare il giocatore
   - big data & GPU power -> ML
 
-
-## Machine Learning
-### i fondamentali
-iniziamo con una semplice ma completa introduzione alle NN, ML, GAN. sono concetti che ci porteremo avanti per anni ed è bene conoscere l'ABC
-
-[ML parte 1](https://medium.com/botsupply/il-machine-learning-%C3%A8-divertente-parte-1-97d4bce99a06)
-[ML parte 2](https://medium.com/botsupply/il-machine-learning-%C3%A8-divertente-parte-2-dec556e4855d)
-[ML parte 3](https://medium.com/botsupply/il-machine-learning-%C3%A8-divertente-parte-3-deep-learning-e-convolutional-neural-network-cnns-cc106559ffa9)
-[ML parte 4](https://medium.com/botsupply/il-machine-learning-%C3%A8-divertente-parte-4-c707feee1cf8)
-[ML parte 5](https://medium.com/botsupply/il-machine-learning-%C3%A8-divertente-parte-5-5e9083caf8f3)
-[ML parte 6](https://medium.com/botsupply/il-machine-learning-%C3%A8-divertente-parte-6-86cd682ff71a)
-[ML parte 7](https://medium.com/botsupply/il-machine-learning-%C3%A8-divertente-parte-7-bbd34f905ab8)
-[ML parte 8](https://medium.com/@giovannitoschi/il-machine-learning-%C3%A8-divertente-parte-8-come-imbrogliare-una-rete-neurale-9116075d5df0)
-
 ## AI & Videogames
 
 ![[ai_content_intro.png]]
@@ -174,14 +160,62 @@ gli steps sono:
 ![[ai_treesearch_montecarlo.jpg]]
 
 
+### GOAP
 
-
-#### Flocking
+### Navigation Flocking
 - **Separation**: Each boid needs to maintain a minimum distance with neighboring boids to avoid hitting them (short-range repulsion) 
 - **Alignment**: Each boid needs to align itself with the average direction of its neighbors, and then move in the same velocity with them as a flock 
 - **Cohesion**: Each boid is attracted to the group's center of mass (long-range attraction) 
 
 ### Evolutionary Computation / Genetic
+
+#### Ottimizzazione
+è necessaria una utility function, evaluation function o fitness function che restituisca la un valore numerico con la bontà (fitness) della soluzione, da massimizzare o minimizzare.
+L'ottimizzazione è il procedimento di cercare nello *spazio di ricerca* una soluzione che abbia il massimo o minimo valure di fitness.
+Si cerca di rappresentare una soluzione come un array di valori (es. le azioni per uscire da un labirinto) da modificare con tecniche prese dalla genetic evolutiva: si cambia un gene o una seguenza, casualmente
+
+#### Local Search
+**deterministic** hill climber: si cercano tutti gli adiacenti (solo per piccole variazioni)
+
+1. Init: Se crea una soluzione *s* casuale nello spazio.
+2. si generano tutti i vicini a s (un vicino è una soluzione che si discosti un minimo).
+3. si valutano tutti i vicini (fitness)
+4. se nessuno è migliore, si tiene s
+5. Altrimenti si ricomincia con il nuovo s' -> 2
+
+**gradient-based** hill climber: cerca il gradiente minimo o massimo di modifica della utility
+
+1. Init: Se crea una soluzione *s* casuale nello spazio.
+2. MUTAZIONE: si genera s' mutandolo
+3. VALUTAZIONE di s'
+4. se s' è migliore, si tiene s'
+5. -> 2
+
+
+![[ai.local_search.jpg]]
+
+#### Evolutionary Algorithms
+cercano nello spazio _globale_, non soltanto nella adiacenze della attuale soluzione.
+
+SI generano molte soluzione, si buttano via quelle minori e si tengono le migliori. come nella selezione naturale o evoluzioen Darwiniana.
+
+L'idea è che se troviamo due buon soluzioni, una soluzione che ne sia una combinazione o intermediazione potrebbe essere altrettanto buona se non migliore.
+
+![[ai.local_search_evo.jpg]]
+
+
+## Machine Learning
+### i fondamentali
+iniziamo con una semplice ma completa introduzione alle NN, ML, GAN. sono concetti che ci porteremo avanti per anni ed è bene conoscere l'ABC
+
+[ML parte 1](https://medium.com/botsupply/il-machine-learning-%C3%A8-divertente-parte-1-97d4bce99a06)
+[ML parte 2](https://medium.com/botsupply/il-machine-learning-%C3%A8-divertente-parte-2-dec556e4855d)
+[ML parte 3](https://medium.com/botsupply/il-machine-learning-%C3%A8-divertente-parte-3-deep-learning-e-convolutional-neural-network-cnns-cc106559ffa9)
+[ML parte 4](https://medium.com/botsupply/il-machine-learning-%C3%A8-divertente-parte-4-c707feee1cf8)
+[ML parte 5](https://medium.com/botsupply/il-machine-learning-%C3%A8-divertente-parte-5-5e9083caf8f3)
+[ML parte 6](https://medium.com/botsupply/il-machine-learning-%C3%A8-divertente-parte-6-86cd682ff71a)
+[ML parte 7](https://medium.com/botsupply/il-machine-learning-%C3%A8-divertente-parte-7-bbd34f905ab8)
+[ML parte 8](https://medium.com/@giovannitoschi/il-machine-learning-%C3%A8-divertente-parte-8-come-imbrogliare-una-rete-neurale-9116075d5df0)
 
 ### Supervised Learning
 ### Reinforcement Learning
