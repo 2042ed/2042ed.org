@@ -4,6 +4,15 @@
 - The Beginner's Guide to Artificial Intelligence in Unity. 
   https://www.udemy.com/course/artificial-intelligence-in-unity/
 
+## AI Courses
+<https://www.coursera.org/learn/ai-for-everyone>
+
+PyTorch
+<https://www.devry.edu/online-programs/courses/machine-learning-with-pytorch.html>
+
+ML
+<https://madewithml.com/>
+
 ## Sites
 - Google AI <https://ai.google/>
 
