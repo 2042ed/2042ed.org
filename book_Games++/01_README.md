@@ -1,5 +1,5 @@
 # Games++
-*Giochi a Impatto Sociale / Videogiochi e Business oltre l’entertainment*  
+*Giochi e Videogiochi Educativi e di Impatto Sociale / Business oltre l’entertainment*  
 di [Stefano Cecere](https://github.com/StefanoCecere)
 
 - panoramica su Media e impatto sociale
@@ -12,5 +12,3 @@ di [Stefano Cecere](https://github.com/StefanoCecere)
 
 NB: Il Repository Pubblico di questo libro è
 <https://github.com/StefanoCecere/book_2042GameDev>
-
-
