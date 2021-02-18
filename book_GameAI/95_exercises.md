@@ -1,6 +1,11 @@
 ## Esercizio in classe 1
+scegliere un board game (più è semplice meglio è).
+descrivere il processo mentale del giocatore, con tutti i passaggi logici, come se potesse essere tradotto in AI.
 
-Descrivi sinteticamente a parole o diagramma (link a disegno) come progetteresti l’AI di questi giochi. Che tecniche useresti?
+FORM: <https://forms.gle/AvoCQsuA5xXYbLEo6>
+
+## Esercizio in classe 2
+Descrivere sinteticamente a parole o diagramma (link a disegno) come progettare l’AI di questi giochi. Che tecniche è meglio usare?
  
 1) PONG
 2) TRIS
@@ -12,10 +17,4 @@ Descrivi sinteticamente a parole o diagramma (link a disegno) come progetteresti
 8) avversari in Civilization
 9) sciami avversari in spara tutto 2D
 
-FORM: https://goo.gl/forms/QBQBouUtnjQX67SH2
-
-
-## PacMan
-studiare PacMan e un gioco a scelta dal punto di vista della AI che vi affascina
-analizzare Pacman e formalizzare su carta i 4 behaviors dei fantasmi, eventualmtne inventarne di nuovi.
-
+FORM: <https://goo.gl/forms/QBQBouUtnjQX67SH2>

@@ -1,5 +1,4 @@
-## Planners - GOAP
-Goal-Oriented Action Planner
+## Goal-Oriented Action Planner
 
 [Unity Learn](https://learn.unity.com/project/goal-driven-behaviour?)
 [Udemy course](https://www.udemy.com/course/ai_with_goap/)
@@ -37,7 +36,6 @@ Goal-Oriented Action Planner
 ![[goap_30.jpg]]
 ![[goap_31.jpg]]
 ![[goap_32.jpg]]
-
 
 ### UNITY AI PLanner
 [ai.planner docs](https://docs.unity3d.com/Packages/com.unity.ai.planner@0.3/manual/index.html)

@@ -159,8 +159,8 @@ gli steps sono:
 
 ![[ai_treesearch_montecarlo.jpg]]
 
-
 ### GOAP
+vedere [[12_GOAP]]
 
 ### Navigation Flocking
 - **Separation**: Each boid needs to maintain a minimum distance with neighboring boids to avoid hitting them (short-range repulsion) 
@@ -206,7 +206,7 @@ L'idea è che se troviamo due buon soluzioni, una soluzione che ne sia una combi
 
 ## Machine Learning
 ### i fondamentali
-iniziamo con una semplice ma completa introduzione alle NN, ML, GAN. sono concetti che ci porteremo avanti per anni ed è bene conoscere l'ABC
+iniziamo con una semplice ma completa introduzione alle NN, ML, GAN. sono concetti che ci porteremo avanti per anni ed è bene conoscere l'ABC, questi 8 post di "Machine Learning è divertente" sono un ottimo inizio.
 
 [ML parte 1](https://medium.com/botsupply/il-machine-learning-%C3%A8-divertente-parte-1-97d4bce99a06)
 [ML parte 2](https://medium.com/botsupply/il-machine-learning-%C3%A8-divertente-parte-2-dec556e4855d)
@@ -218,6 +218,36 @@ iniziamo con una semplice ma completa introduzione alle NN, ML, GAN. sono concet
 [ML parte 8](https://medium.com/@giovannitoschi/il-machine-learning-%C3%A8-divertente-parte-8-come-imbrogliare-una-rete-neurale-9116075d5df0)
 
 ### Supervised Learning
-### Reinforcement Learning
-### Unsupervised Learning
+#### Reti Neurali
+![[img/ai.neuron.jpg]]
 
+Explained In A Minute: Neural Networks
+<https://www.youtube.com/watch?v=rEDzUT3ymw4>
+
+![[img/ai.neuralnetwork.jpg]]
+
+#### backpropagation
+
+#### Decision Tree Learning
+![[ai.decision_tree.jpg]]
+![[ai.decision_tree_2.jpg]]
+
+
+### Reinforcement Learning (RL)
+si ispira a come imparano gli esseri viventi
+
+![[img/ai.reinforcedlearning.jpg]]
+
+A central question in RL problems is the right balance between the exploitation of current learned knowledge versus the exploration of new unseen territories in the search space
+
+### Unsupervised Learning
+#### Clustering
+Good clusters are characterized by two core properties: 
+1) high intra-cluster similarity, or else, high compactness
+2) low inter-cluster similarity, or else, good separation.
+
+#### Frequent Pattern Mining
+
+due tipi sono interessanti
+1) frequent itemset mining
+2) frequent sequence mining

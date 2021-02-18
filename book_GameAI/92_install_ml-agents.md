@@ -1,7 +1,11 @@
 
-# procedure per installare Python + ml-agents su Windows 64 bit
+# installare ml-agents
+procedure per installare Python + ml-agents su Windows 64 bit
 
-## metodo 1: diretto
+useremo la versione Verified Package 1.0.6.
+dics ufficiali: <https://github.com/Unity-Technologies/ml-agents/blob/release_2_verified_docs/docs/Readme.md>
+
+## metodo 1: diretto (consigliato)
 scaricare Windows x86-64 executable installer da https://www.python.org/downloads/windows/ , durante l'installazione attivare il checkbox: ADD TO PATH
 
 eseguire "prompt ti comandi" as Administrator
@@ -13,7 +17,8 @@ pip install --upgrade pip
 pip3 install mlagents
 ```
 
-entrare nella directory del progetto ml-agents: `cd C:/bl bla bla/ml-agents/`
+entrare nella directory del progetto ml-agents: 
+`cd C:/blabla bla/ml-agents/`
 
 provare a lanciare il comando `mlagents-learn`
 
@@ -23,7 +28,3 @@ deve comparire il logo UNITY
 se non dovesse funzionare il metodo 1, o non avete dimestichezza con la Shell e comandi, c'è la possibilità di usare Anaconda che è un ambiente di gestione pacchetti Python, e che usavamo fino all'anno scorso. poi non so perché l'hanno deprecato, ma è tutt'ora funzionate.
 le istruzioni molto dettagliate sono qui: 
 https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Installation-Anaconda-Windows.md
-
-
-
-

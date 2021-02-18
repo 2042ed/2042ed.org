@@ -13,9 +13,6 @@ PyTorch
 ML
 <https://madewithml.com/>
 
-## Sites
-- Google AI <https://ai.google/>
-
 ## Books
 - Unity Artificial Intelligence Programming - Packt pub.
 - Learn Unity ML-Agents - Packt pub.
@@ -34,3 +31,5 @@ ML
 - Siraj Raval https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A
 - Jabrils https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg
 
+## Sites
+- Google AI <https://ai.google/>
