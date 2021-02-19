@@ -14,7 +14,10 @@ MarI/O – Machine Learning in Video Games
 <https://youtu.be/qv6UVOQ0F44>
 
 ## Unity Simulation
-https://blogs.unity3d.com/2020/12/11/automate-your-playtesting-create-virtual-players-for-game-simulation/
+
+- Designing safer cities through simulations: https://blogs.unity3d.com/2018/01/23/designing-safer-cities-thr
+
+- https://blogs.unity3d.com/2020/12/11/automate-your-playtesting-create-virtual-players-for-game-simulation/
 
 # ML Agents
 <https://github.com/Unity-Technologies/ml-agents>

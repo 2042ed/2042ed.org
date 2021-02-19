@@ -1,10 +1,10 @@
-## Esercizio in classe 1
+## Esercizio 1
 scegliere un board game (più è semplice meglio è).
 descrivere il processo mentale del giocatore, con tutti i passaggi logici, come se potesse essere tradotto in AI.
 
 FORM: <https://forms.gle/AvoCQsuA5xXYbLEo6>
 
-## Esercizio in classe 2
+## Esercizio 2
 Descrivere sinteticamente a parole o diagramma (link a disegno) come progettare l’AI di questi giochi. Che tecniche è meglio usare?
  
 1) PONG
