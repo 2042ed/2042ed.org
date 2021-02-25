@@ -69,16 +69,6 @@ https://www.youtube.com/watch?v=3bhP7zulFfY
 - Number recognizion
 https://www.youtube.com/watch?v=aircAruvnKk
 
-### Unity ML Agents
-https://unity3d.com/machine-learning/
-
-**articles**
-- Puppo: https://blogs.unity3d.com/2018/10/02/puppo-the-corgi-cuteness-overload-with-the-unity-ml-agents-toolkit/
-- Designing safer cities through simulations: https://blogs.unity3d.com/2018/01/23/designing-safer-cities-thr
-
-https://github.com/Unity-Technologies/ml-agents
-
-examples: https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md
 
 ## resources
 
