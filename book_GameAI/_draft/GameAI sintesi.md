@@ -39,13 +39,6 @@ Docs https://opsive.com/support/documentation/behavior-designer/overview/
 - Multi Agents tutorial https://www.youtube.com/watch?v=l4Ye70M3rZU
 
 
-
-
-### GAN
-Semantic Image Synthesis with Spatially-Adaptive Normalization
-https://nvlabs.github.io/SPADE/
-video https://www.youtube.com/watch?v=p5U4NgVGAwg
-
 ### ML games
 tutorials:
 WRITING MY FIRST MACHINE LEARNING GAME! (4 videos by Jebril)

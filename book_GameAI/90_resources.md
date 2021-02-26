@@ -28,8 +28,9 @@ ML
 
 ## YouTubers
 - Two Minute Papers <https://www.youtube.com/user/keeroyz>
-- Siraj Raval https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A
-- Jabrils https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg
+- Siraj Raval <https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A>
+- Jabrils <https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg>
 
 ## Sites
-- Google AI <https://ai.google/>
+- Google AI <https://ai.google>
+- Experiment ML <https://teachablemachine.withgoogle.com>
