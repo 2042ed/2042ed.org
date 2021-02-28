@@ -14,7 +14,7 @@ verificare che esista il comando pip esegundo il comando: `pip -V`
 
 ```
 pip install --upgrade pip
-pip3 install mlagents
+pip3 install mlagents==0.16.1
 ```
 
 entrare nella directory del progetto ml-agents: 

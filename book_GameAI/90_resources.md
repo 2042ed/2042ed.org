@@ -34,3 +34,14 @@ ML
 ## Sites
 - Google AI <https://ai.google>
 - Experiment ML <https://teachablemachine.withgoogle.com>
+
+# Appendici
+## AI
+Let’s democratize NLP
+https://twitter.com/huggingface/status/1260942644286537728
+
+Creating Game AI Using Mostly English
+https://stadia.dev/intl/en/blog/creating-game-ai-using-mostly-english/
+Semantic Reactor: A tool for experimenting with NLU models
+https://github.com/google/mysteryofthreebots
+
