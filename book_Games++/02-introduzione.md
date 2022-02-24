@@ -1,3 +1,10 @@
+---
+title: Business oltre l’Entertainment
+parent: G4C
+has_children: false
+nav_order: 2
+---
+
 # Business oltre l’Entertainment
 scienza, arte ed economia
 del videogioco e delle tecnologie ludiche

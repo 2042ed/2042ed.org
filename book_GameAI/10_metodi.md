@@ -1,6 +1,6 @@
 ---
 title: Introduzione e Metodi
-parent: 01_GameAI
+parent: GameAI
 has_children: false
 nav_order: 1
 ---

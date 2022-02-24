@@ -1,3 +1,10 @@
+---
+title: Temi e Case studies
+parent: G4C
+has_children: false
+nav_order: 20
+---
+
 # Temi e Case studies
 
 ## Low Infusion

@@ -1,3 +1,10 @@
+---
+title: Games++
+parent: G4C
+has_children: true
+nav_order: 1
+---
+
 # Games++
 *Giochi e Videogiochi Educativi e di Impatto Sociale / Business oltre l’entertainment*  
 di [Stefano Cecere](https://github.com/StefanoCecere)

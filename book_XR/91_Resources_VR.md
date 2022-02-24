@@ -1,3 +1,10 @@
+---
+title: Risorse VR
+parent: XR
+has_children: false
+nav_order: 91
+---
+
 # Risorse VR
 
 ## hardware

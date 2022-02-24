@@ -1,3 +1,10 @@
+---
+title: Potenza dei Videogiochi
+parent: G4C
+has_children: false
+nav_order: 10
+---
+
 # Potenza dei Videogiochi
 
 > The only source of knowledge is experience. (Einstein)

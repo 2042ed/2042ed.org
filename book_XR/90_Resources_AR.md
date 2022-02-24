@@ -1,3 +1,10 @@
+---
+title: Risorse AR
+parent: XR
+has_children: false
+nav_order: 90
+---
+
 # Risorse AR
 ## Hardware
 Google Devices

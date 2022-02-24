@@ -1,3 +1,9 @@
+---
+title: L-Systems
+parent: GameAI
+has_children: false
+nav_order: 32
+---
 
 # L-Systems
 examples to be used in 

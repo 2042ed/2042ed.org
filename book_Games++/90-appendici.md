@@ -1,3 +1,10 @@
+---
+title: Appendici
+parent: G4C
+has_children: false
+nav_order: 90
+---
+
 # Appendici
 
 ## Eventi

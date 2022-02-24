@@ -1,3 +1,9 @@
+---
+title: Generate Content
+parent: GameAI
+has_children: false
+nav_order: 30
+---
 # Generate Content
 
 ## Procedural Content Generation (PCG)

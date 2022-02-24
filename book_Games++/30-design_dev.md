@@ -1,3 +1,10 @@
+---
+title: Design & Dev
+parent: G4C
+has_children: false
+nav_order: 30
+---
+
 # Design
 Ma come si progetta un impact game?  
 tre temi fondamentali:

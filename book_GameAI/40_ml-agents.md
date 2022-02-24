@@ -1,3 +1,10 @@
+---
+title: Unity ml-agents
+parent: GameAI
+has_children: false
+nav_order: 40
+---
+
 # Unity ml-agents
 
 https://unity3d.com/machine-learning/

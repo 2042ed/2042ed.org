@@ -1,5 +1,5 @@
 ---
-title: Child of Test
+title: GameAI
 has_children: true
 nav_order: 1
 ---

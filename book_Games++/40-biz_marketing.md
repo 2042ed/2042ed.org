@@ -1,3 +1,10 @@
+---
+title: Business e Marketing
+parent: G4C
+has_children: false
+nav_order: 40
+---
+
 # Business e Marketing
 
 ## Temi

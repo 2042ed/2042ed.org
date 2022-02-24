@@ -1,3 +1,10 @@
+---
+title: XR = AR + VR + MR
+parent: XR
+has_children: true
+nav_order: 1
+---
+
 # XR = AR + VR + MR
 *Le nuove tecnologie immersive*  
 di [Stefano Cecere](https://github.com/StefanoCecere)

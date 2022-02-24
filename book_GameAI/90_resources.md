@@ -1,3 +1,10 @@
+---
+title: Resources
+parent: GameAI
+has_children: false
+nav_order: 90
+---
+
 ## Unity Courses
 - Artificial Intelligence for Beginners (15 hours)
 <https://learn.unity.com/course/artificial-intelligence-for-beginners>
