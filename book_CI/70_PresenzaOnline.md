@@ -1,3 +1,10 @@
+---
+title: Presenza Online
+parent: CI
+has_children: false
+nav_order: 70
+---
+
 # Essere Presenti e Accessibili
 essere accessibili, ovvero non chiudersi nelle proprie mura virtuali. parlare la stessa lingua, o almeno conoscere le lingue più utilizzate. tenere sempre conto che stiamo parlando sia con le macchine, ma sopratutto con altri esseri umani.
 

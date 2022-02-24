@@ -1,3 +1,10 @@
+---
+title: Preservazione e Immortalità
+parent: CI
+has_children: false
+nav_order: 80
+---
+
 # Preservazione e Immortalità
 
 ![](future_proof_approved.jpg)

@@ -1,3 +1,10 @@
+---
+title: I.C. nei progetti digitali
+parent: CI
+has_children: false
+nav_order: 25
+---
+
 ## I.C. nei progetti digitali
 
 ## Teamwork

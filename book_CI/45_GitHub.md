@@ -1,3 +1,10 @@
+---
+title: GitHub
+parent: CI
+has_children: false
+nav_order: 45
+---
+
 # GitHub
 
 ![](img/github_icon_192.png)

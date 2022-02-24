@@ -1,3 +1,10 @@
+---
+title: Introduzione
+parent: CI
+has_children: false
+nav_order: 10
+---
+
 # Introduzione
 
 ![](img/future_proof.png)

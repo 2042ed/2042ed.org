@@ -36,6 +36,3 @@ di [Stefano Cecere](https://github.com/StefanoCecere)
   - Narrativa
 6. case studies spettacolari e futuro
 
-
-NB: Il Repository Pubblico di questo libro è
-<https://github.com/StefanoCecere/book_2042GameDev>

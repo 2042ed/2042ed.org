@@ -1,3 +1,10 @@
+---
+title: Formati e Interscambio
+parent: CI
+has_children: false
+nav_order: 50
+---
+
 # Formati e Interscambio
 
 ## Interoperability e Future Proof

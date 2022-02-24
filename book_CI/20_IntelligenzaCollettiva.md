@@ -1,3 +1,10 @@
+---
+title: Intelligenza Collettiva
+parent: CI
+has_children: false
+nav_order: 20
+---
+
 # Intelligenza Collettiva
 
 # Contesto Esistenziale

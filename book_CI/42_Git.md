@@ -1,3 +1,10 @@
+---
+title: sviluppo collaborativo
+parent: CI
+has_children: false
+nav_order: 42
+---
+
 # Piattaforme di sviluppo collaborativo
 
 ## Video

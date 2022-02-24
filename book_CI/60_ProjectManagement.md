@@ -1,3 +1,10 @@
+---
+title: Project Management
+parent: CI
+has_children: false
+nav_order: 60
+---
+
 # Project Management
 *Cosa c'è da fare?*
 

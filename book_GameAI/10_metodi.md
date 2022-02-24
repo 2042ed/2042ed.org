@@ -23,7 +23,7 @@ nav_order: 1
 
 ## AI & Videogames
 
-![[ai_content_intro.png]]
+![](img/ai_content_intro.png)
 
 AI Plays and Improves Your Game.
 enhances the experience of the player.

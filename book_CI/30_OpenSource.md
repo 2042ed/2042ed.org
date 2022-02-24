@@ -1,3 +1,10 @@
+---
+title: Open Source
+parent: CI
+has_children: false
+nav_order: 30
+---
+
 # Open Source
 ![logo_opensource](img/logo_opensource.jpg)
 

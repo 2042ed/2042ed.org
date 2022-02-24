@@ -1,3 +1,9 @@
+---
+title: CI
+has_children: true
+nav_order: 1
+---
+
 # Intelligenza Collettiva e Sviluppo Distribuito
 *da Git all'immortalità*  
 di [Stefano Cecere](https://github.com/StefanoCecere)

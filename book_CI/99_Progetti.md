@@ -1,3 +1,10 @@
+---
+title: Progetti
+parent: CI
+has_children: false
+nav_order: 99
+---
+
 # Progetti
 
 ## Home-Works per settimana prossima

@@ -1,3 +1,10 @@
+---
+title: Marketing
+parent: CI
+has_children: false
+nav_order: 90
+---
+
 # Marketing ed Economia
 
 - conoscersi per valorizzarsi

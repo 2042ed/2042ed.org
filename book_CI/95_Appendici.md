@@ -1,3 +1,10 @@
+---
+title: Appendici
+parent: CI
+has_children: false
+nav_order: 95
+---
+
 # Appendici e Risorse
 
 ## progetti OpenSource

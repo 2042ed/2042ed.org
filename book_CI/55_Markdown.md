@@ -1,3 +1,10 @@
+---
+title: Markdown
+parent: CI
+has_children: false
+nav_order: 55
+---
+
 # Markdown playground
 
 note: GitHub ha una sua versioen di MarkDown: <https://github.github.com/gfm/>
