@@ -8,22 +8,6 @@ nav_order: 10
 *da Git all'immortalità*  
 di [Stefano Cecere](https://github.com/StefanoCecere)
 
-- [10_Introduzione](10_Introduzione.md)
-- [20_IntelligenzaCollettiva](20_IntelligenzaCollettiva.md)
-- [25_IC_nei_progetti](25_IC_nei_progetti.md)
-- [30_OpenSource](30_OpenSource.md)
-- [35_InnerSource](35_InnerSource.md)
-- [42_Git](42_Git.md)
-- [45_GitHub](45_GitHub.md)
-- [50_Formati](50_Formati.md)
-- [55_Markdown](55_Markdown.md)
-- [60_ProjectManagement](60_ProjectManagement.md)
-- [70_PresenzaOnline](70_PresenzaOnline.md)
-- [80_Preservazione](80_Preservazione.md)
-- [90_MarketingEconomia](90_MarketingEconomia.md)
-- [95_Appendici](95_Appendici.md)
-- [99_Progetti](99_Progetti.md)
-
 in questo corso vedremo alcuni temi quali:
 - Problematiche comuni nello sviluppo di progetti digitali
 - Perché una Intelligenza Collettiva
@@ -42,5 +26,3 @@ Laboratorio pratico
 2. lavoro su un progetto collettivo
 3. come impostare un progetto Game Unity
 
-NB: Il Repository Pubblico di questo libro è
-<https://github.com/StefanoCecere/book_2042GameDev>
