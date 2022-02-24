@@ -7,9 +7,9 @@ nav_order: 20
 
 # Play
 
-![[ai.playfor.jpg]]
+![](img/ai.playfor.webp)
 
-![[ai.game_characteristics.jpg]]
+![](img/ai.game_characteristics.webp)
 
 ## good AI
 - let the player cheat
@@ -51,4 +51,3 @@ winners of ML-challenge:
 https://blogs.unity3d.com/2018/02/28/introducing-the-winners-of-the-first-ml-agents-challenge/
 
 https://learn.unity.com/course/ml-agents-hummingbirds
-

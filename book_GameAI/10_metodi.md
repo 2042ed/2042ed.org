@@ -5,8 +5,6 @@ has_children: false
 nav_order: 1
 ---
 
-# Introduzione e Metodi
-
 [video The Mind Game](https://www.youtube.com/watch?v=QQRqTuvBL3E)
 
 ## Introduzione alla A.I.
@@ -39,7 +37,7 @@ AI può giocare con due obiettivi:
 
 
 ## AI Model
-![](../img/AI-model.webp)
+![](img/AI-model.webp)
 
 ## Metodi AI nei videogiochi
 
@@ -56,7 +54,7 @@ Il metodo *classico*, e tutt'ora più usato per controllare gli NPC dei videogio
 #### FSM
 
 ![](img/fsm_scheme.webp)
-![](img/fsm_pacman.webp)
+![](img/ai.fsm.pacman.webp)
 
 3 componenti:
 1. **stati**: contiene la descrizione dello stato in cui si trova
@@ -69,9 +67,9 @@ Risultati un po' troppo prevedibili (salvo iniettare fuzzy e probabilità nelle 
 
 #### Behavior Trees
 
-![[bt_scheme.png]]
-![[ai.bt.jpg]]
-![[ai.bt.2.jpg]]
+![](img/bt_scheme.webp)
+![](img/ai.bt.webp)
+![](img/ai.bt.2.webp)
 
 Un Behavior Tree (BT) è un sistema simile al FSM, che modella la transizione tra un numero finito di insiemi di azioni (tasks, o behaviour).
 
@@ -105,7 +103,7 @@ Ogni istanza nel gioco viene dotata di una funziona Utility che ne restituisce l
 Una funzione può misurare qualsiasi cosa di osservabile (distanza, salute) o deducibile (emozioni / minaccia)
 
 Esempio di Behaviour Ms PacMan
-![[utility-based.jpg]]
+![](img/utility-based.webp)
 
 Esempio **scelta arma di un agente NPC**, si misurano: 
 
@@ -146,7 +144,7 @@ A* può essere usato anche per navigare negli spazi degli stti di gioco, non sol
 
 #### Mini Max
 
-![[ai.minmax.jpg]]
+![](img/ai.minmax.webp)
 
 [📽 Algorithms Explained – minimax and alpha-beta pruning](https://www.youtube.com/watch?v=l-hh51ncgDI)
 
@@ -167,10 +165,10 @@ gli steps sono:
 3. Simulation (si gioca casualmente fino alla fine)
 4. Backpropagation (il reward viene propagato indietro)
 
-![[ai_treesearch_montecarlo.jpg]]
+![](img/ai_treesearch_montecarlo.webp)
 
 ### GOAP
-vedere [[12_GOAP]]
+vedere [[12_GOAP)
 
 ### Navigation Flocking
 - **Separation**: Each boid needs to maintain a minimum distance with neighboring boids to avoid hitting them (short-range repulsion) 
@@ -202,7 +200,7 @@ Si cerca di rappresentare una soluzione come un array di valori (es. le azioni p
 5. -> 2
 
 
-![[ai.local_search.jpg]]
+![](img/ai.local_search.webp)
 
 #### Evolutionary Algorithms
 cercano nello spazio _globale_, non soltanto nella adiacenze della attuale soluzione.
@@ -211,7 +209,7 @@ SI generano molte soluzione, si buttano via quelle minori e si tengono le miglio
 
 L'idea è che se troviamo due buon soluzioni, una soluzione che ne sia una combinazione o intermediazione potrebbe essere altrettanto buona se non migliore.
 
-![[ai.local_search_evo.jpg]]
+![](img/ai.local_search_evo.webp)
 
 
 ## Machine Learning
@@ -229,24 +227,24 @@ iniziamo con una semplice ma completa introduzione alle NN, ML, GAN. sono concet
 
 ### Supervised Learning
 #### Reti Neurali
-![[img/ai.neuron.jpg]]
+![](img/ai.neuron.webp)
 
 Explained In A Minute: Neural Networks
 <https://www.youtube.com/watch?v=rEDzUT3ymw4>
 
-![[img/ai.neuralnetwork.jpg]]
+![](img/ai.neuralnetwork.webp)
 
 #### backpropagation
 
 #### Decision Tree Learning
-![[ai.decision_tree.jpg]]
-![[ai.decision_tree_2.jpg]]
+![](img/ai.decision_tree.webp)
+![](img/ai.decision_tree_2.webp)
 
 
 ### Reinforcement Learning (RL)
 si ispira a come imparano gli esseri viventi
 
-![[img/ai.reinforcedlearning.jpg]]
+![](img/ai.reinforcedlearning.webp)
 
 A central question in RL problems is the right balance between the exploitation of current learned knowledge versus the exploration of new unseen territories in the search space
 

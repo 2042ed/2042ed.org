@@ -1,3 +1,10 @@
+---
+title: Unity ML demo
+parent: GameAI
+has_children: false
+nav_order: 99
+---
+
 # Unity ML demo project
 
 1) ML-Agents

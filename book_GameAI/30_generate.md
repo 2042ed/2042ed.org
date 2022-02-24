@@ -79,9 +79,6 @@ https://thenextweb.com/neural/2021/01/13/googles-new-trillion-parameter-ai-langu
 
 video: https://www.youtube.com/watch?v=C7D5EzkhT6A
 
-
-
-
 ### videos
 Invisible cities
 https://www.youtube.com/watch?v=c3ewUbFqIuo

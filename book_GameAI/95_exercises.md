@@ -1,10 +1,8 @@
 ---
-title: "Exercises"
-date: 2017-09-09T00:00:00
-type: book
-weight: 95
-toc: true
-draft: false
+title: Exercises
+parent: GameAI
+has_children: false
+nav_order: 95
 ---
 
 ## Sondaggio
