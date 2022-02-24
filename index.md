@@ -1,11 +1,14 @@
+---
+title: 2042 Game Dev Books
+nav_order: 1
+---
+
 # 2042 Game Dev Books
 *appunti dei corsi per Game Developers 2042*
 
 ![](assets/corsi_gamedev.jpg)
 
 per leggerli in locale, consiglio di usare [Obsidian](https://obsidian.md/)
-
-leggi online: <https://stefanocecere.github.io/GameDev2042/>
 
 ## [Intelligenza Collettiva e Sviluppo Distribuito](book_CI/01_README.md)
 *da Git all'immortalità*  
