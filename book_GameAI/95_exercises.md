@@ -1,3 +1,16 @@
+---
+title: "Exercises"
+date: 2017-09-09T00:00:00
+type: book
+weight: 95
+toc: true
+draft: false
+---
+
+## Sondaggio
+Introduzione all'AI
+<https://forms.gle/vTNGtu5ppX9GNk3RA>
+
 ## Esercizio 1
 scegliere un board game (più è semplice meglio è).
 descrivere il processo mentale del giocatore, con tutti i passaggi logici, come se potesse essere tradotto in AI.

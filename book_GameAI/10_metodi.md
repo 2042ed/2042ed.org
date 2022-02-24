@@ -1,3 +1,10 @@
+---
+title: Introduzione e Metodi
+parent: 01_GameAI
+has_children: false
+nav_order: 1
+---
+
 # Introduzione e Metodi
 
 [video The Mind Game](https://www.youtube.com/watch?v=QQRqTuvBL3E)
@@ -30,6 +37,9 @@ AI può giocare con due obiettivi:
 	a) debug e simulazione
 	b) credibilità e umanizzazione
 
+
+## AI Model
+![](../img/AI-model.webp)
 
 ## Metodi AI nei videogiochi
 

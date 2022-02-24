@@ -14,9 +14,10 @@ ML
 <https://madewithml.com/>
 
 ## Books
+- Artificial Intelligence and Games <http://gameaibook.org/>
+- AI for Games ByIan Millington [link](https://www.taylorfrancis.com/books/mono/10.1201/9781351053303/ai-games-ian-millington)
 - Unity Artificial Intelligence Programming - Packt pub.
 - Learn Unity ML-Agents - Packt pub.
-- Artificial Intelligence and Games <http://gameaibook.org/>
 - Procedural Content Generation in Games (free) <http://pcgbook.com/>
 - Machine Learning is Fun <https://www.machinelearningisfun.com>
 - Deep Learning book (free) <http://www.deeplearningbook.org>

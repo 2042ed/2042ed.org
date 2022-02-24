@@ -1,3 +1,9 @@
+---
+title: Child of Test
+has_children: true
+nav_order: 1
+---
+
 # Game A.I.
 *Intelligenza Artificiale nei videogiochi*  
 di [Stefano Cecere](https://github.com/StefanoCecere)

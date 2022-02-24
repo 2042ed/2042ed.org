@@ -1,3 +1,10 @@
+---
+title: GOAP
+parent: 01_GameAI
+has_children: false
+nav_order: 12
+---
+
 ## Goal-Oriented Action Planner
 
 [Unity Learn](https://learn.unity.com/project/goal-driven-behaviour?)

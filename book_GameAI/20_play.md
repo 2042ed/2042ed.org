@@ -1,3 +1,10 @@
+---
+title: Play
+parent: 01_GameAI
+has_children: false
+nav_order: 20
+---
+
 # Play
 
 ![[ai.playfor.jpg]]
