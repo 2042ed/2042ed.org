@@ -1,3 +1,8 @@
+---
+title: 2042 Game Dev Books
+nav_order: 1
+---
+
 # 2042 Game Dev Books
 *i miei libri e appunti dei corsi per Human Game Developers 2042*
 
