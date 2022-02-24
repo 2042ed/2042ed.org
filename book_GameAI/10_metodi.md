@@ -23,7 +23,7 @@ nav_order: 1
 
 ## AI & Videogames
 
-![](img/ai_content_intro.png)
+![](img/ai_content_intro.webp)
 
 AI Plays and Improves Your Game.
 enhances the experience of the player.
@@ -55,8 +55,8 @@ Il metodo *classico*, e tutt'ora più usato per controllare gli NPC dei videogio
 
 #### FSM
 
-![[fsm_scheme.png]]
-![[ai.fsm.pacman.jpg]]
+![](img/fsm_scheme.webp)
+![](img/fsm_pacman.webp)
 
 3 componenti:
 1. **stati**: contiene la descrizione dello stato in cui si trova
