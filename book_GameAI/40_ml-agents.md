@@ -7,23 +7,23 @@ nav_order: 40
 
 # Unity ml-agents
 
-https://unity3d.com/machine-learning/
-https://github.com/Unity-Technologies/ml-agents
+<https://unity3d.com/machine-learning/>
+<https://github.com/Unity-Technologies/ml-agents>
 
-examples: https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md
+examples: 
+<https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md>
 
 Unity CNN styles
-https://blogs.unity3d.com/2020/11/25/real-time-style-transfer-in-unity-using-deep-neural-networks/
+<https://blogs.unity3d.com/2020/11/25/real-time-style-transfer-in-unity-using-deep-neural-networks/>
 
 The future of ml-agents  
-https://blogs.unity3d.com/2020/12/28/happy-holidays-from-the-unity-ml-agents-team/
+<https://blogs.unity3d.com/2020/12/28/happy-holidays-from-the-unity-ml-agents-team/>
 
-- Puppo: https://blogs.unity3d.com/2018/10/02/puppo-the-corgi-cuteness-overload-with-the-unity-ml-agents-toolkit/
-- Designing safer cities through simulations: https://blogs.unity3d.com/2018/01/23/designing-safer-cities-thr
+- Puppo: <https://blogs.unity3d.com/2018/10/02/puppo-the-corgi-cuteness-overload-with-the-unity-ml-agents-toolkit/>
+- Designing safer cities through simulations: <https://blogs.unity3d.com/2018/01/23/designing-safer-cities-thr>
 
 
 ## progetti
-https://github.com/Unity-Technologies/obstacle-tower-env
+<https://github.com/Unity-Technologies/obstacle-tower-env>
 
-https://github.com/simoninithomas/the_mayan_adventure
-
+<https://github.com/simoninithomas/the_mayan_adventure>

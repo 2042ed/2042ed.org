@@ -22,32 +22,32 @@ MarI/O – Machine Learning in Video Games
 
 ## Unity Simulation
 
-- Designing safer cities through simulations: https://blogs.unity3d.com/2018/01/23/designing-safer-cities-thr
+- Designing safer cities through simulations: <https://blogs.unity3d.com/2018/01/23/designing-safer-cities-thr>
 
-- https://blogs.unity3d.com/2020/12/11/automate-your-playtesting-create-virtual-players-for-game-simulation/
+- <https://blogs.unity3d.com/2020/12/11/automate-your-playtesting-create-virtual-players-for-game-simulation/>
 
 # ML Agents
 <https://github.com/Unity-Technologies/ml-agents>
 
 varie aggiornamenti:
-https://blogs.unity3d.com/2020/12/28/happy-holidays-from-the-unity-ml-agents-team/
+<https://blogs.unity3d.com/2020/12/28/happy-holidays-from-the-unity-ml-agents-team/>
 
 Unity Machine Learning - Reinforcement Learning Demo
 <https://www.youtube.com/watch?v=fiQsmdwEGT8>
 
 Multi-Agent Hide and Seek
 <https://youtu.be/kopoLzvh5jY>
-https://www.youtube.com/watch?v=Lu56xVlZ40M
+<https://www.youtube.com/watch?v=Lu56xVlZ40M>
 
 
 ## demos
-https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md
+<https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md>
 
 AI Learns to Park - Deep Reinforcement Learning
 <https://www.youtube.com/watch?v=VMp6pq6_QjI>
 
 
 winners of ML-challenge:
-https://blogs.unity3d.com/2018/02/28/introducing-the-winners-of-the-first-ml-agents-challenge/
+<https://blogs.unity3d.com/2018/02/28/introducing-the-winners-of-the-first-ml-agents-challenge/>
 
-https://learn.unity.com/course/ml-agents-hummingbirds
+<https://learn.unity.com/course/ml-agents-hummingbirds>

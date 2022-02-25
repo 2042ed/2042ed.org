@@ -9,7 +9,7 @@ nav_order: 90
 - Artificial Intelligence for Beginners (15 hours)
 <https://learn.unity.com/course/artificial-intelligence-for-beginners>
 - The Beginner's Guide to Artificial Intelligence in Unity. 
-  https://www.udemy.com/course/artificial-intelligence-in-unity/
+  <https://www.udemy.com/course/artificial-intelligence-in-unity/>
 
 ## AI Courses
 <https://www.coursera.org/learn/ai-for-everyone>
@@ -46,10 +46,10 @@ ML
 # Appendici
 ## AI
 Let’s democratize NLP
-https://twitter.com/huggingface/status/1260942644286537728
+<https://twitter.com/huggingface/status/1260942644286537728>
 
 Creating Game AI Using Mostly English
-https://stadia.dev/intl/en/blog/creating-game-ai-using-mostly-english/
+<https://stadia.dev/intl/en/blog/creating-game-ai-using-mostly-english/>
 Semantic Reactor: A tool for experimenting with NLU models
-https://github.com/google/mysteryofthreebots
+<https://github.com/google/mysteryofthreebots>
 
