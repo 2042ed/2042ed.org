@@ -86,6 +86,9 @@ OpenAI’s new GPT-3 language explained in under 3 minutes
 
 video: <https://www.youtube.com/watch?v=C7D5EzkhT6A>
 
+## AI voices
+<https://www.theverge.com/2022/2/17/22936978/ai-voice-speech-synthesis-audio-deepfake-sonantic-flirtation?utm_source=pocket-newtab-intl-en>
+
 ### videos
 Invisible cities
 <https://www.youtube.com/watch?v=c3ewUbFqIuo>

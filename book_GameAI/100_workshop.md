@@ -3,6 +3,22 @@
 1h: ml-agents demo
 ---
 
+1) PONG
+2) TRIS
+3) DAMA o SCACCHI
+4) avversario in gioco di corse (sportivo)
+5) animali in ambienti naturali (non giocatori)
+6) fantasmi del PacMan
+7) movimenti giocatore e NPC in un’adventure (2D, 2.5D e 3D)
+8) avversari in Civilization
+9) sciami avversari in spara tutto 2D
+
+### star craft
+![](img/strategy-starcraft.jpg)
+
+--- 
+
+
 punti fondamentali:
 come lavora il cervello?
 come percepiamo l'intelligenza negli altri?
@@ -36,20 +52,15 @@ The player's starting starship as of Beyond, Radiant Pillar BC1, is actually pro
 
 <https://nomanssky.fandom.com/wiki/Procedural_generation>
 
-### star craft
-![](img/strategy-starcraft.jpg)
 
 Nvidia video generate street
-
-video walking
 
 
 <https://www.gamedeveloper.com/design/7-examples-of-game-ai-that-every-developer-should-study>  
 <https://www.gameskinny.com/8zkeq/9-games-with-the-best-artificial-intelligence>
 
 
-## AI voices
-<https://www.theverge.com/2022/2/17/22936978/ai-voice-speech-synthesis-audio-deepfake-sonantic-flirtation?utm_source=pocket-newtab-intl-en>
+
 
 ## Come lavora il cervello?
 è importante capire come funziona il sistema di percezione del cervello.
