@@ -9,6 +9,7 @@ nav_order: 30
 ## Procedural Content Generation (PCG)
 
 cosa si può generare?
+
 – NPC behavior
 – Quest / story / narrativa
 – Audiovisual settings
@@ -37,11 +38,17 @@ Content looks "computer-generated
 
 ## Metodi di generazione
 ## Search-Based
+- A search algorithm
+- A content representation
+- evaluation functions
 
 ## Solver-based
 Ropossum <https://www.youtube.com/watch?v=FM3v0tbdKrs>
 
 ## Grammar-based
+or production rules
+ ![](img/game.refraction.jpg)
+
 ### L-System
 - <http://www.kevs3d.co.uk/dev/lsystems/#>
 - <http://www.malsys.cz/Process>
