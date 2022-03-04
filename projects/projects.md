@@ -1,5 +1,10 @@
+---
+title: Workshop
+has_children: true
+nav_order: 90
+---
 
-# Unity ML demo project
+# Progetti esercizi
 
 1) ML-Agents
 2) place on a plane in AR

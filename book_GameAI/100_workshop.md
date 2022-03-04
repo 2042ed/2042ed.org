@@ -36,7 +36,6 @@ The player's starting starship as of Beyond, Radiant Pillar BC1, is actually pro
 
 <https://nomanssky.fandom.com/wiki/Procedural_generation>
 
-
 ### star craft
 ![](img/strategy-starcraft.jpg)
 
@@ -48,6 +47,9 @@ video walking
 <https://www.gamedeveloper.com/design/7-examples-of-game-ai-that-every-developer-should-study>  
 <https://www.gameskinny.com/8zkeq/9-games-with-the-best-artificial-intelligence>
 
+
+## AI voices
+<https://www.theverge.com/2022/2/17/22936978/ai-voice-speech-synthesis-audio-deepfake-sonantic-flirtation?utm_source=pocket-newtab-intl-en>
 
 ## Come lavora il cervello?
 è importante capire come funziona il sistema di percezione del cervello.
