@@ -136,11 +136,17 @@ cercano tutto lo spazio senza un goal preciso
 #### Best-First Search
 si ha un'idea del goal finale e una funzione che ne misura la distanza
 
-Pathfinding: **A* star**: esplora i nodi adiacenti, misurandone il costo e la distanza dal goal finale.
+#### Pathfinding: **A* star**
+esplora i nodi adiacenti, misurandone il costo e la distanza dal goal finale.
 Funzioane bene sia in 2D che in 3D.
 [intro to A*](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
 
 A* può essere usato anche per navigare negli spazi degli stti di gioco, non solo navigazione fisica. utile per il PLANNING. (vedi Mario A*)
+
+
+#### Decision Tree Learning
+![](img/ai.decision_tree.webp)
+![](img/ai.decision_tree_2.webp)
 
 #### Mini Max
 
@@ -174,6 +180,17 @@ vedere [[12_GOAP)
 - **Separation**: Each boid needs to maintain a minimum distance with neighboring boids to avoid hitting them (short-range repulsion) 
 - **Alignment**: Each boid needs to align itself with the average direction of its neighbors, and then move in the same velocity with them as a flock 
 - **Cohesion**: Each boid is attracted to the group's center of mass (long-range attraction) 
+
+### Locomotion
+
+![](img/locomotion_1.jpg)
+![](img/locomotion_2.jpg)
+
+<https://youtu.be/fQlQQSsC47g?t=279>
+
+
+### Sensori
+
 
 ### Evolutionary Computation / Genetic
 
@@ -232,12 +249,18 @@ Explained In A Minute: Neural Networks
 
 ![](img/ai.neuralnetwork.webp)
 
-#### backpropagation
+Car training  
+<https://www.youtube.com/watch?v=Aut32pR5PQA>
+<https://www.youtube.com/watch?v=5lJuEW-5vr8>
 
-#### Decision Tree Learning
-![](img/ai.decision_tree.webp)
-![](img/ai.decision_tree_2.webp)
+Mario plays  
+<https://www.youtube.com/watch?v=qv6UVOQ0F44>
 
+Snake  
+<https://www.youtube.com/watch?v=3bhP7zulFfY>
+
+Number recognizion  
+<https://www.youtube.com/watch?v=aircAruvnKk>
 
 ### Reinforcement Learning (RL)
 si ispira a come imparano gli esseri viventi

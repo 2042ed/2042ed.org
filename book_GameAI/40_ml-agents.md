@@ -7,11 +7,16 @@ nav_order: 40
 
 # Unity ml-agents
 
+Introduzione Unity  
 <https://unity3d.com/machine-learning/>
+
+Pagina Progetto ML-Agents  
 <https://github.com/Unity-Technologies/ml-agents>
 
-examples: 
+Ml-Agents examples scenes  
 <https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md>
+
+## Approfondimenti
 
 Unity CNN styles
 <https://blogs.unity3d.com/2020/11/25/real-time-style-transfer-in-unity-using-deep-neural-networks/>
@@ -22,8 +27,13 @@ The future of ml-agents
 - Puppo: <https://blogs.unity3d.com/2018/10/02/puppo-the-corgi-cuteness-overload-with-the-unity-ml-agents-toolkit/>
 - Designing safer cities through simulations: <https://blogs.unity3d.com/2018/01/23/designing-safer-cities-thr>
 
-
-## progetti
+## Progetti vari
 <https://github.com/Unity-Technologies/obstacle-tower-env>
-
 <https://github.com/simoninithomas/the_mayan_adventure>
+
+## Esercizio
+creare agente e train
+<https://github.com/StefanoCecere/GameLab_AI_Unity/>
+e poi 
+<https://github.com/Unity-Technologies/ml-agents/blob/release_17_branch/docs/Learning-Environment-Create-New.md>
+
