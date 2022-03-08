@@ -3,6 +3,8 @@
 1h: ml-agents demo
 ---
 
+## Recap e games
+
 1) PONG
 2) TRIS
 3) DAMA o SCACCHI
@@ -15,6 +17,11 @@
 
 ### star craft
 ![](img/strategy-starcraft.jpg)
+
+## generare contenuti
+vedi Lsystems e maze
+
+## create ml-agent
 
 --- 
 
