@@ -8,6 +8,8 @@ nav_order: 90
 
 ## tutorials
 <https://learn.unity.com/course/introduction-to-xr-vr-ar-and-mr-foundations>
+<https://www.xrfordesigner.com/>
+
 
 ## Glossario XR
 <https://unity.com/how-to/what-is-xr-glossary>
