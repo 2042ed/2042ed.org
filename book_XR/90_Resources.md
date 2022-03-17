@@ -80,6 +80,8 @@ XR Interaction
 Cardboard Design Lab - Apps on Google Play
 https://play.google.com/store/apps/details?id=com.google.vr.cardboard.apps.designlab
 
+Google Cardboard demo:
+<https://developers.google.com/cardboard/develop/unity/quickstart>
 
 Unity Cardboard examples:
 <https://github.com/felipegodoyf/noar>

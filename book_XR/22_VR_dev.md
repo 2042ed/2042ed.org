@@ -1,3 +1,10 @@
+---
+title: Unity & VR
+parent: XR
+has_children: false
+nav_order: 30
+---
+
 # Unity & VR
 
 <https://unity3d.com/unity/features/multiplatform/vr-ar>
@@ -12,11 +19,7 @@ OpenXR:
 - <https://docs.unity3d.com/Packages/com.unity.xr.openxr@1.0/manual/index.html>
 
 
-## esercitazione
-Google Cardboard demo:
-<https://developers.google.com/cardboard/develop/unity/quickstart>
+## Lab
 
-
-HoloLens and Industry
-- <https://www.youtube.com/watch?v=QFsj8Pi_3Ho>
+<https://github.com/StefanoCecere/GameLab_VR_Unity/>
 
