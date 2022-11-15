@@ -174,7 +174,7 @@ gli steps sono:
 ![](img/ai_treesearch_montecarlo.webp)
 
 ### GOAP
-vedere [[12_GOAP)
+vedere [GOAP](12_GOAP.md)
 
 ### Navigation Flocking
 - **Separation**: Each boid needs to maintain a minimum distance with neighboring boids to avoid hitting them (short-range repulsion) 
