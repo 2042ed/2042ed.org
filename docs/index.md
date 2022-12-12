@@ -10,13 +10,13 @@ un'introduzione alle nuove tecnologie di sviluppo e progettazione per game desin
 
 <div class="grid cards" markdown>
 
-- :fontawesome-solid-book: [Intelligenza Collettiva e Sviluppo Distribuito](ci/index.md)  
+- :fontawesome-solid-book: [Intelligenza Collettiva e Sviluppo Distribuito](dev/ci/index.md)  
 *da Git all'immortalità* 
-- :fontawesome-solid-book: [Extended Reality](xr/index.md)  
+- :fontawesome-solid-book: [Extended Reality](dev/xr/index.md)  
 *XR = AR + VR + MR: le nuove tecnologie immersive*  
-- :fontawesome-solid-book: [Game A.I.](ai/index.md)  
+- :fontawesome-solid-book: [Game A.I.](dev/ai/index.md)  
 *Intelligenza Artificiale nei Videogiochi*
-- :fontawesome-solid-book: [Human Games](g4c/index.md)  
+- :fontawesome-solid-book: [Human Games](dev/g4c/index.md)  
 *Games 4 Change + Business oltre l’Entertainment*  
 
 </div>
