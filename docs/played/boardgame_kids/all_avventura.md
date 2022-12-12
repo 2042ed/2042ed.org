@@ -17,5 +17,3 @@ Nella scatola (che costa davvero pochissimo) ci sono quattro avventure.
 
 > *Stefano:*
 > Il primo Gioco di Ruolo per i vostri ragazzi! Ottimo anche per una festa di compleanno
-
-

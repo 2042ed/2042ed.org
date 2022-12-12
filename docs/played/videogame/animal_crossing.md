@@ -14,11 +14,12 @@ url_game:
 > *Nintendo Switch* 
 
 
-![](img/animal_crossing_featured.png)
+![](img/animal_crossing.png)
 
 Un gioco pluripremiato e consigliato per i bambini dai 4 anni in su, perché permette di prendersi cura e costruire con grande calma la propria isola con animali, piante e amici.
 
 > [!citation] Fabio
 > ci gioca anche Bruno. abbiamo le nostre casette vicine e andiamo a cercare reperti per il museo archeologico o peschiamo pesci
 
-![](_img/animal_crossing_1.jpeg)![](_img/animal_crossing_2.jpeg)
+![](img/animal_crossing_1.jpg)
+![](img/animal_crossing_2.jpg)

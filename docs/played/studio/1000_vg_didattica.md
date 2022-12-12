@@ -18,6 +18,8 @@ presentation:
 
 Alcuni appunti sul tema videogiochi usati in ambito educativo e scolastico
 
+![](../boardgame_kids/img/battlechess.jpg)
+
 ## Introduzione
 
 > si può scoprire di più su una persona in un'ora di gioco che in un anno di conversazione
@@ -91,7 +93,7 @@ Gli effetti dipendono dal tipo di videogioco in uso. Si possono verificare conse
 
 ### Come impariamo con i giochi?
 #### Player flow
-![](../_img/graph_flow.png)
+![](../book/_img/graph_flow.png)
 <!-- slide -->
 #### Competitività
 ma non pericolosi
@@ -301,7 +303,7 @@ gli insegnanti devono essere informati non solo sulle potenzialità, le caratter
 - imparare creando giochi
 - imparare dai giochi come insegnare
 <!-- slide -->
-![](../_img/vg_mercato.png)
+![](../book/_img/vg_mercato.png)
 
 ### PEGI e Parental Control
 
@@ -320,8 +322,8 @@ Free + Premium
 
 ## Risorse
 ### Siti di riferimento
-- https://www.isfe.eu/games-in-society/education/
-- European Schoolnet - http://www.eun.org/
+- <https://www.isfe.eu/games-in-society/education/>
+- European Schoolnet - <http://www.eun.org/>
 
 ### Libri per insegnanti
 - [Digital Games in School: Handbook for Teachers](http://files.eun.org/Games_in_schools/Gamesinschools_HandbookforTeachers_2020.pdf)
