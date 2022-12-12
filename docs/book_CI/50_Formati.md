@@ -1,11 +1,11 @@
 ---
-title: Formati e Interscambio
-parent: CI
-has_children: false
-nav_order: 50
+title: "Formati e Interscambio"
+date: 2017-09-09T00:00:00
+type: book
+weight: 50
+toc: true
+draft: false
 ---
-
-# Formati e Interscambio
 
 ## Interoperability e Future Proof
 - formati aperti e formati chiusi
@@ -28,7 +28,7 @@ fondamentalmente 3 categorie:
 
 ## Markdown
 
-![](img/markdown_logo.jpg)
+![](img/markdown_logo.webp)
 
 in contrapposizione al markup dell'html, è stato creato il markdown dove la base è testo semplice con pochissime convenzioni che permettono al contenuto di essere convertito nei formati più utili (html, doc, pdf, ePub) garantendo un versioning perfetto e una preservazione e portabilità ottimali
 

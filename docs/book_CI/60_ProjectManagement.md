@@ -1,11 +1,12 @@
 ---
-title: Project Management
-parent: CI
-has_children: false
-nav_order: 60
+title: "Project Management"
+date: 2017-09-09T00:00:00
+type: book
+weight: 60
+toc: true
+draft: false
 ---
 
-# Project Management
 *Cosa c'è da fare?*
 
 ## Code of Conduct

@@ -1,11 +1,11 @@
 ---
-title: Progetti
-parent: CI
-has_children: false
-nav_order: 99
+title: "Progetti"
+date: 2017-09-09T00:00:00
+type: book
+weight: 99
+toc: true
+draft: true
 ---
-
-# Progetti
 
 ## Home-Works per settimana prossima
 1. completare il progetto TeamAlbo, con propria foto, nome cognome, corso e progetto, link a propria pagina GitHub

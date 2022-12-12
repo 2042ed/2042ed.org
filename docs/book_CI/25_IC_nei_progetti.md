@@ -1,11 +1,10 @@
 ---
-title: I.C. nei progetti digitali
-parent: CI
-has_children: false
-nav_order: 25
+title: "I.C. nei progetti digitali"
+date: 2017-09-09T00:00:00
+type: book
+weight: 25
+toc: true
 ---
-
-## I.C. nei progetti digitali
 
 ## Teamwork
 - l'arte e la cultura della collaborazione va studiata e messa in pratica. non nasciamo guru

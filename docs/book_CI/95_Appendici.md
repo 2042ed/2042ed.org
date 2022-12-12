@@ -1,11 +1,11 @@
 ---
-title: Appendici
-parent: CI
-has_children: false
-nav_order: 95
+title: "Appendici e Risorse"
+date: 2017-09-09T00:00:00
+type: book
+weight: 95
+toc: true
+draft: false
 ---
-
-# Appendici e Risorse
 
 ## progetti OpenSource
 - OpenSource projects finder: <https://www.findbestopensource.com>

@@ -1,8 +1,10 @@
 ---
-title: Presenza Online
-parent: CI
-has_children: false
-nav_order: 70
+title: "Presenza Online"
+date: 2017-09-09T00:00:00
+type: book
+weight: 70
+toc: true
+draft: false
 ---
 
 # Essere Presenti e Accessibili

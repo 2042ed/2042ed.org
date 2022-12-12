@@ -1,36 +1,40 @@
 ---
-title: Business e Marketing
-parent: G4C
-has_children: false
-nav_order: 40
+title: "Business e Marketing"
+summary: "mercato e opportunità"
+date: 2017-09-09T00:00:00
+lastmod: 2022-02-08T00:00:00
+type: book
+weight: 40
+toc: true
+draft: false
+header:
+  navbar:
+    enable: false
 ---
 
-# Business e Marketing
-
-## Temi
+## Considerazioni
 - trovarsi una nicchia (tematica o tecnologica)
 - come applicarsi ai bandi
-- scalabilità dal prototipo alla full production
 - dove trovare l'expert e la valutazione scientifica
 - come fare i field test
-- poco budget
+- gestione del (poco) budget
 
 ## Analisi di mercato
-- Who are we developing for?
-- How big is the target group and sales potential?
-- Who are our competitors and what are their key strengths?
-- What kind of attitudes and beliefs does the target group hold?
-- By which means can we best communicate our product to the target group?
+- Per chi stiamo sviluppando?
+- Quanto è ampio il gruppo target e il potenziale di vendita?
+- Che tipo di atteggiamenti e convinzioni ha il gruppo target?
+- Chi sono i nostri concorrenti e quali sono i loro principali punti di forza?
+- Con quali mezzi possiamo comunicare al meglio il nostro prodotto al gruppo target?
 
-A significant problem faced by all actors in this area is the lack of publishers/distributors in the field, and no specialists.
+Un problema significativo affrontato da tutti gli attori in questo settore è la mancanza di editori/distributori nel settore e di specialisti.
 
 ## Different Business Model
 
 Modello **classico**  
-![[biz_classic.png]]
+![](img/biz_classic.webp)
 
 Modello **applied**  
-![[biz_applied.png]]
+![](img/biz_applied.webp)
 
 ## Finanziamento
 Oltre ai classici distributori e self publisher, qui c’è la possibilità di lavorare con
@@ -42,16 +46,10 @@ Oltre ai classici distributori e self publisher, qui c’è la possibilità di l
 - Governi
 - Imprese private
 - Publishers
-
 - autofinanziamento (Kickstarter)
 
-## Legal Issues
-Ethics, Gender, Data Protection and Privacy
-
-## CV urls
-tranquilli, ti troviamo noi
-
-![[cv_openai.png]]
+## Temi legali
+Etnia, Gender, Data Protection e Privacy
 
 ## Team
 Imparare a lavorare in gruppo è la cosa più difficile ma anche la più importante.
@@ -62,9 +60,17 @@ Servono
 - bisogni espliciti
 - volontà di imparare e migliorarsi
 - non praticare il giudizio
-- Consapevolezza dei propri limiti
+- consapevolezza dei propri limiti
 
 ## Lavorare
 - Dipendente
 - Libero Professionista
 - Startup
+
+## Farsi trovare
+necessità di avere una presenza web con i propri temi, interessi e capacità.
+
+tranquilli, ti troviamo noi
+
+![](img/cv_openai.webp)
+

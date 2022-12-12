@@ -1,24 +1,30 @@
 ---
-title: Resources
-parent: GameAI
-has_children: false
-nav_order: 90
+title: "Resources"
+date: 2017-09-09T00:00:00
+type: book
+weight: 90
+toc: true
+draft: false
 ---
 
 ## Unity Courses
 - Artificial Intelligence for Beginners (15 hours)
 <https://learn.unity.com/course/artificial-intelligence-for-beginners>
 - The Beginner's Guide to Artificial Intelligence in Unity. 
-  <https://www.udemy.com/course/artificial-intelligence-in-unity/>
+  https://www.udemy.com/course/artificial-intelligence-in-unity/
 
-### Generic AI Courses
-- AI for everyone <https://www.coursera.org/learn/ai-for-everyone>
-- PyTorch <https://www.devry.edu/online-programs/courses/machine-learning-with-pytorch.html>
-- ML <https://madewithml.com/>
+## AI Courses
+<https://www.coursera.org/learn/ai-for-everyone>
+
+PyTorch
+<https://www.devry.edu/online-programs/courses/machine-learning-with-pytorch.html>
+
+ML
+<https://madewithml.com/>
 
 ## Books
-- 👉🏼 Artificial Intelligence and Games <http://gameaibook.org/>
-- 👉🏼 AI for Games ByIan Millington [link](https://www.taylorfrancis.com/books/mono/10.1201/9781351053303/ai-games-ian-millington)
+- Artificial Intelligence and Games <http://gameaibook.org/>
+- AI for Games ByIan Millington [link](https://www.taylorfrancis.com/books/mono/10.1201/9781351053303/ai-games-ian-millington)
 - Unity Artificial Intelligence Programming - Packt pub.
 - Learn Unity ML-Agents - Packt pub.
 - Procedural Content Generation in Games (free) <http://pcgbook.com/>
@@ -40,12 +46,12 @@ nav_order: 90
 - Experiment ML <https://teachablemachine.withgoogle.com>
 
 # Appendici
-Let’s democratize NLP  
-<https://twitter.com/huggingface/status/1260942644286537728>
+## AI
+Let’s democratize NLP
+https://twitter.com/huggingface/status/1260942644286537728
 
-Creating Game AI Using Mostly English  
-<https://stadia.dev/intl/en/blog/creating-game-ai-using-mostly-english/>
-
-Semantic Reactor: A tool for experimenting with NLU models  
-<https://github.com/google/mysteryofthreebots>
+Creating Game AI Using Mostly English
+https://stadia.dev/intl/en/blog/creating-game-ai-using-mostly-english/
+Semantic Reactor: A tool for experimenting with NLU models
+https://github.com/google/mysteryofthreebots
 

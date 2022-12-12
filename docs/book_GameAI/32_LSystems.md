@@ -1,13 +1,14 @@
 ---
-title: L-Systems
-parent: GameAI
-has_children: false
-nav_order: 32
+title: "L-Systems"
+date: 2017-09-09T00:00:00
+type: book
+weight: 32
+toc: true
+draft: false
 ---
 
-# L-Systems
 examples to be used in 
-<http://www.malsys.cz/Process>
+http://www.malsys.cz/Process
 
 ## Koch CUrve
 ```
@@ -134,7 +135,7 @@ process all with ThreeJsRenderer;
 lsystem SierpinskiTrangle {
   set compressSvg = false;
   set symbols axiom = F + F + F;
-  set iterations = 1;
+  set iterations = 7;
  
   interpret F f as MoveForward(2 ^ -currentIteration * 600);
   interpret + as TurnLeft(120);

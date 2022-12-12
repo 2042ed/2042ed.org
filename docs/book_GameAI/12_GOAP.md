@@ -1,8 +1,10 @@
 ---
-title: GOAP
-parent: GameAI
-has_children: false
-nav_order: 12
+title: "GOAP"
+date: 2017-09-09T00:00:00
+type: book
+weight: 12
+toc: true
+draft: false
 ---
 
 ## Goal-Oriented Action Planner
@@ -45,6 +47,6 @@ nav_order: 12
 ![](img/goap/goap_32.webp)
 
 ### UNITY AI PLanner
-[ai.planner docs](https://docs.unity3d.com/Packages/com.unity.ai.planner@0.3/manual/index.html)
-[ai.planner samples](https://github.com/Unity-Technologies/ai-planner-samples)
-[ai.planner video](https://www.youtube.com/watch?v=ZdN8dDa0ff4)
+- [ai.planner docs](https://docs.unity3d.com/Packages/com.unity.ai.planner@0.3/manual/index.html)  
+- [ai.planner samples](https://github.com/Unity-Technologies/ai-planner-samples)  
+- [ai.planner video](https://www.youtube.com/watch?v=ZdN8dDa0ff4)  

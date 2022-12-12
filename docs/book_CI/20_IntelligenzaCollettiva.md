@@ -1,57 +1,56 @@
 ---
-title: Intelligenza Collettiva
-parent: CI
-has_children: false
-nav_order: 20
+title: "Intelligenza Collettiva"
+date: 2017-09-09T00:00:00
+type: book
+weight: 20
+toc: true
 ---
 
-# Intelligenza Collettiva
-
 # Contesto Esistenziale
-![](img/galassia.png)
+![](img/galassia.webp)
 
 # Capre
-![](img/goats_tree.jpg)
+![](img/goats_tree.webp)
 
 # Connessioni
 <!-- slide data-notes="neuroni + albo alunni: nesso?"-->
-![](img/neurons.jpg)
+![](img/neurons.webp)
 
 # la costruzione della memoria
 <https://www.youtube.com/watch?v=hb7tjqhfDus>
 
 # giocatori
 <!-- slide data-notes="giocatori e i loro cervelli, esperienze si costruiscono con la multisensorialità e ripetizione" -->
-![](img/videogame-brain.jpg)
+![](img/videogame-brain.webp)
 
 <!-- slide data-notes="giocatori e i loro cervelli, esperienze si costruiscono con la multisensorialità e ripetizione" -->
-![](img/videogamer-brain.jpg)
+![](img/videogamer-brain.webp)
 
 <!-- slide data-notes="videogiochi sono media mutidisciplinari: gli strument perfetti" -->
-![](img/multidisplipines.jpg)
+![](img/multidisplipines.webp)
 
 # lavorare insieme non è facile
 <!-- slide data-notes="per forza devono essere svilupti in tanti a difficoltà a lavoare insime"-->
 <!-- ### progetti di gruppo -->
-![](img/progetti-di-gruppo.jpg)
+![](img/progetti-di-gruppo.webp)
 
 <!-- slide data-notes="serve un'immagine coerente, ma sopratutto una sua utilità esperienziale" -->
-![](img/knowledge-experience.jpg)
+![](img/knowledge-experience.webp)
 
 # Intelligenza Collettiva
 
-![](img/intelligenza_collettiva.jpg)
+![](img/intelligenza_collettiva.webp)
 
-![](img/intelligenza_collettiva_2.jpg)
+![](img/intelligenza_collettiva_2.webp)
 
 # spaceX
 SpaceX: lavoraotori.. sono in missione, che va al di la del prestigio personale o dei soldi, o del nerdame: aituare l'umanità
 
-![](img/spacex-workers.jpg)
+![](img/spacex-workers.webp)
 
 # Ikigai
 <!-- slide data-notes="" -->
-![](img/ikigai.png)
+![](img/ikigai.webp)
 
 <!-- slide data-notes="" -->
 serve un IKIGAI personale
@@ -66,27 +65,27 @@ una storia condivisa che dia l'energia per preoccuparsi del progetto comune, pri
 
 # azione individuale e collettiva
 il rischio è che tutti facciano il meglio per sè, e il minimo per il progetto.
-![](img/caos-media.jpg)
+![](img/caos-media.webp)
 
 # diagramma stupidità
-![](img/diagramma-di-cipolla-stupidita_featured.jpg)
+![](img/diagramma-di-cipolla-stupidita_featured.webp)
 
 # comportamento emergente
 
 si mettono regole e procedure  
 
-![](img/radici.jpg)
+![](img/radici.webp)
 
 # reti organizzate +  tecnologie sociali 
 
-![](img/intelligenza_collettiva_3.jpg)
+![](img/intelligenza_collettiva_3.webp)
 
 # human centric
-![](img/humanistic-player.png)
+![](img/humanistic-player.webp)
 
 # formiche
 
-![](img/ant_1.jpg)
-![](img/ant_2.jpg)
-![](img/ant_3.jpg)
-![](img/ant_4.jpg)
+![](img/ant_1.webp)
+![](img/ant_2.webp)
+![](img/ant_3.webp)
+![](img/ant_4.webp)

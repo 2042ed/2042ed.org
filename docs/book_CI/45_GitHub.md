@@ -1,13 +1,13 @@
 ---
-title: GitHub
-parent: CI
-has_children: false
-nav_order: 45
+title: "GitHub"
+date: 2017-09-09T00:00:00
+type: book
+weight: 45
+toc: true
+draft: false
 ---
 
-# GitHub
-
-![](img/github_icon_192.png)
+![](img/github_icon_192.webp)
 
 - GitHub è una piattaforma di sviluppo collaborativo
 - Storia (nato nel 2006 è oggi la piattaforma n.1 degli sviluppatori, 40 milioni)

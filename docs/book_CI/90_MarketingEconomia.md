@@ -1,11 +1,11 @@
 ---
-title: Marketing
-parent: CI
-has_children: false
-nav_order: 90
+title: "Marketing ed Economia"
+date: 2017-09-09T00:00:00
+type: book
+weight: 90
+toc: true
+draft: false
 ---
-
-# Marketing ed Economia
 
 - conoscersi per valorizzarsi
 - farsi conoscere per farsi valorizzare

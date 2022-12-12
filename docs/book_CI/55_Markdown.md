@@ -1,8 +1,10 @@
 ---
-title: Markdown
-parent: CI
-has_children: false
-nav_order: 55
+title: "Markdown"
+date: 2017-09-09T00:00:00
+type: book
+weight: 55
+toc: true
+draft: false
 ---
 
 # Markdown playground
@@ -42,8 +44,7 @@ And `keywords`.
 
 ### External links
 
-![nome del link](http://www.sito.com)
-
+![nome del link](https://www.sito.com)
 
 [www.google.com](https://www.google.com)  
 [www.google.com with title](https://www.google.com "Google's Homepage")   
@@ -119,9 +120,9 @@ Note that this line is separate, but within the same paragraph.
 
 ## Images
 
-Save your image (jpg or png format only) to `img/` and insert it like this:
+Save your image (webp or webp format only) to `img/` and insert it like this:
 
-![Figure 1 caption text](img/image.jpg)
+![Figure 1 caption text](img/image.webp)
 
 ## Tables
 

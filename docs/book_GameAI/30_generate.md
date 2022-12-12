@@ -1,15 +1,15 @@
 ---
-title: Generate Content
-parent: GameAI
-has_children: false
-nav_order: 30
+title: "Generate Content"
+date: 2017-09-09T00:00:00
+type: book
+weight: 30
+toc: true
+draft: false
 ---
-# Generate Content
 
 ## Procedural Content Generation (PCG)
 
 cosa si può generare?
-
 – NPC behavior
 – Quest / story / narrativa
 – Audiovisual settings
@@ -38,40 +38,34 @@ Content looks "computer-generated
 
 ## Metodi di generazione
 ## Search-Based
-- A search algorithm
-- A content representation
-- evaluation functions
 
 ## Solver-based
-Ropossum <https://www.youtube.com/watch?v=FM3v0tbdKrs>
+Ropossum https://www.youtube.com/watch?v=FM3v0tbdKrs
 
 ## Grammar-based
-or production rules
- ![](img/game.refraction.jpg)
-
 ### L-System
-- <http://www.kevs3d.co.uk/dev/lsystems/#>
-- <http://www.malsys.cz/Process>
-- <https://onlinemathtools.com/l-system-generator>
-vedi [[32_LSystems]]
+- http://www.kevs3d.co.uk/dev/lsystems/#
+- http://www.malsys.cz/Process
+- https://onlinemathtools.com/l-system-generator
+vedi [[32_LSystems)
 
 ## Cellular automata
-- <https://bitstorm.org/gameoflife/>
-- <https://gamedevelopment.tutsplus.com/tutorials/generate-random-cave-levels-using-cellular-automata--gamedev-9664>
+- https://bitstorm.org/gameoflife/
+- https://gamedevelopment.tutsplus.com/tutorials/generate-random-cave-levels-using-cellular-automata--gamedev-9664
 
 ## Noise and fractals
-<http://www.mazegenerator.net/>
+http://www.mazegenerator.net/
 
 ## Machine learning
 ### GAN
 Semantic Image Synthesis with Spatially-Adaptive Normalization
-<https://nvlabs.github.io/SPADE/>
-video <https://www.youtube.com/watch?v=p5U4NgVGAwg>
+https://nvlabs.github.io/SPADE/
+video https://www.youtube.com/watch?v=p5U4NgVGAwg
 
-<https://www.theverge.com/2019/3/6/18222203/video-game-ai-future-procedural-generation-deep-learning>
+https://www.theverge.com/2019/3/6/18222203/video-game-ai-future-procedural-generation-deep-learning
 
 ### AI Dungeon
-<https://play.aidungeon.io>
+https://play.aidungeon.io
 
 ### GPT3
 OpenAI’s new GPT-3 language explained in under 3 minutes
@@ -80,25 +74,25 @@ OpenAI’s new GPT-3 language explained in under 3 minutes
 <https://gpt3examples.com>
 
 ### DALL·E: Creating Images from Text
-<https://openai.com/blog/dall-e/>
+https://openai.com/blog/dall-e/
 
-<https://thenextweb.com/neural/2021/01/13/googles-new-trillion-parameter-ai-language-model-is-almost-6-times-bigger-than-gpt-3/>
+https://thenextweb.com/neural/2021/01/13/googles-new-trillion-parameter-ai-language-model-is-almost-6-times-bigger-than-gpt-3/
 
-video: <https://www.youtube.com/watch?v=C7D5EzkhT6A>
+video: https://www.youtube.com/watch?v=C7D5EzkhT6A
 
-## AI voices
-<https://www.theverge.com/2022/2/17/22936978/ai-voice-speech-synthesis-audio-deepfake-sonantic-flirtation?utm_source=pocket-newtab-intl-en>
+
+
 
 ### videos
 Invisible cities
-<https://www.youtube.com/watch?v=c3ewUbFqIuo>
+https://www.youtube.com/watch?v=c3ewUbFqIuo
 
 Electric Sheep
-<https://www.youtube.com/watch?v=Va1KBtI81TY>
+https://www.youtube.com/watch?v=Va1KBtI81TY
 
 ### course
 Procedural Content Generation
-<https://canvas.ucsc.edu/courses/7638>
+https://canvas.ucsc.edu/courses/7638
 
 Unity Art Engine
-<https://unity.com/products/unity-artengine>
+https://unity.com/products/unity-artengine

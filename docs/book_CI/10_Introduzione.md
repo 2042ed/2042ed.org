@@ -1,13 +1,12 @@
 ---
-title: Introduzione
-parent: CI
-has_children: false
-nav_order: 10
+title: "Introduzione"
+date: 2017-09-09T00:00:00
+type: book
+weight: 1
+toc: true
 ---
 
-# Introduzione
-
-![](img/future_proof.png)
+![](img/future_proof.webp)
 
 ## il passato
 Ho sviluppato il primo videogioco 30 anni fa, nel 1989. su un **computer e con un linguaggio che non esistono più**. Magari c'era uno sprite o una procedura che oggi mi farebbero comodo rivederli.

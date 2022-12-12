@@ -1,13 +1,13 @@
 ---
-title: Preservazione e Immortalità
-parent: CI
-has_children: false
-nav_order: 80
+title: "Preservazione e Immortalità"
+date: 2017-09-09T00:00:00
+type: book
+weight: 80
+toc: true
+draft: false
 ---
 
-# Preservazione e Immortalità
-
-![](future_proof_approved.jpg)
+![](img/future_proof_approved.webp)
 
 - Progetti Self Contained: dal repo Git vorrei avere tutto il minimo per riprodurlo, modificarlo, comunicarlo
 - Ultima versione di _ogni_ risorsa da preservare.

@@ -1,8 +1,10 @@
 ---
-title: Introduzione e Metodi
-parent: GameAI
-has_children: false
-nav_order: 1
+title: "Introduzione e Metodi"
+date: 2017-09-09T00:00:00
+type: book
+weight: 10
+toc: true
+draft: false
 ---
 
 [video The Mind Game](https://www.youtube.com/watch?v=QQRqTuvBL3E)
@@ -136,17 +138,11 @@ cercano tutto lo spazio senza un goal preciso
 #### Best-First Search
 si ha un'idea del goal finale e una funzione che ne misura la distanza
 
-#### Pathfinding: **A* star**
-esplora i nodi adiacenti, misurandone il costo e la distanza dal goal finale.
+Pathfinding: **A* star**: esplora i nodi adiacenti, misurandone il costo e la distanza dal goal finale.
 Funzioane bene sia in 2D che in 3D.
 [intro to A*](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
 
 A* può essere usato anche per navigare negli spazi degli stti di gioco, non solo navigazione fisica. utile per il PLANNING. (vedi Mario A*)
-
-
-#### Decision Tree Learning
-![](img/ai.decision_tree.webp)
-![](img/ai.decision_tree_2.webp)
 
 #### Mini Max
 
@@ -181,17 +177,6 @@ vedere [[12_GOAP)
 - **Alignment**: Each boid needs to align itself with the average direction of its neighbors, and then move in the same velocity with them as a flock 
 - **Cohesion**: Each boid is attracted to the group's center of mass (long-range attraction) 
 
-### Locomotion
-
-![](img/locomotion_1.jpg)
-![](img/locomotion_2.jpg)
-
-<https://youtu.be/fQlQQSsC47g?t=279>
-
-
-### Sensori
-
-
 ### Evolutionary Computation / Genetic
 
 #### Ottimizzazione
@@ -216,6 +201,7 @@ Si cerca di rappresentare una soluzione come un array di valori (es. le azioni p
 4. se s' è migliore, si tiene s'
 5. -> 2
 
+
 ![](img/ai.local_search.webp)
 
 #### Evolutionary Algorithms
@@ -227,45 +213,40 @@ L'idea è che se troviamo due buon soluzioni, una soluzione che ne sia una combi
 
 ![](img/ai.local_search_evo.webp)
 
+
 ## Machine Learning
 ### i fondamentali
 iniziamo con una semplice ma completa introduzione alle NN, ML, GAN. sono concetti che ci porteremo avanti per anni ed è bene conoscere l'ABC, questi 8 post di "Machine Learning è divertente" sono un ottimo inizio.
 
-- [ML parte 1](https://medium.com/botsupply/il-machine-learning-%C3%A8-divertente-parte-1-97d4bce99a06)
-- [ML parte 2](https://medium.com/botsupply/il-machine-learning-%C3%A8-divertente-parte-2-dec556e4855d)
-- [ML parte 3](https://medium.com/botsupply/il-machine-learning-%C3%A8-divertente-parte-3-deep-learning-e-convolutional-neural-network-cnns-cc106559ffa9)
-- [ML parte 4](https://medium.com/botsupply/il-machine-learning-%C3%A8-divertente-parte-4-c707feee1cf8)
-- [ML parte 5](https://medium.com/botsupply/il-machine-learning-%C3%A8-divertente-parte-5-5e9083caf8f3)
-- [ML parte 6](https://medium.com/botsupply/il-machine-learning-%C3%A8-divertente-parte-6-86cd682ff71a)
-- [ML parte 7](https://medium.com/botsupply/il-machine-learning-%C3%A8-divertente-parte-7-bbd34f905ab8)
-- [ML parte 8](https://medium.com/@giovannitoschi/il-machine-learning-%C3%A8-divertente-parte-8-come-imbrogliare-una-rete-neurale-9116075d5df0)
+[ML parte 1](https://medium.com/botsupply/il-machine-learning-%C3%A8-divertente-parte-1-97d4bce99a06)
+[ML parte 2](https://medium.com/botsupply/il-machine-learning-%C3%A8-divertente-parte-2-dec556e4855d)
+[ML parte 3](https://medium.com/botsupply/il-machine-learning-%C3%A8-divertente-parte-3-deep-learning-e-convolutional-neural-network-cnns-cc106559ffa9)
+[ML parte 4](https://medium.com/botsupply/il-machine-learning-%C3%A8-divertente-parte-4-c707feee1cf8)
+[ML parte 5](https://medium.com/botsupply/il-machine-learning-%C3%A8-divertente-parte-5-5e9083caf8f3)
+[ML parte 6](https://medium.com/botsupply/il-machine-learning-%C3%A8-divertente-parte-6-86cd682ff71a)
+[ML parte 7](https://medium.com/botsupply/il-machine-learning-%C3%A8-divertente-parte-7-bbd34f905ab8)
+[ML parte 8](https://medium.com/@giovannitoschi/il-machine-learning-%C3%A8-divertente-parte-8-come-imbrogliare-una-rete-neurale-9116075d5df0)
 
 ### Supervised Learning
 #### Reti Neurali
-![](img/ai.neuron.webp)
+![](img/img/ai.neuron.webp)
 
 Explained In A Minute: Neural Networks
 <https://www.youtube.com/watch?v=rEDzUT3ymw4>
 
-![](img/ai.neuralnetwork.webp)
+![](img/img/ai.neuralnetwork.webp)
 
-Car training  
-<https://www.youtube.com/watch?v=Aut32pR5PQA>
-<https://www.youtube.com/watch?v=5lJuEW-5vr8>
+#### backpropagation
 
-Mario plays  
-<https://www.youtube.com/watch?v=qv6UVOQ0F44>
+#### Decision Tree Learning
+![](img/ai.decision_tree.webp)
+![](img/ai.decision_tree_2.webp)
 
-Snake  
-<https://www.youtube.com/watch?v=3bhP7zulFfY>
-
-Number recognizion  
-<https://www.youtube.com/watch?v=aircAruvnKk>
 
 ### Reinforcement Learning (RL)
 si ispira a come imparano gli esseri viventi
 
-![](img/ai.reinforcedlearning.webp)
+![](img/img/ai.reinforcedlearning.webp)
 
 A central question in RL problems is the right balance between the exploitation of current learned knowledge versus the exploration of new unseen territories in the search space
 

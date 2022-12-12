@@ -1,11 +1,12 @@
 ---
-title: sviluppo collaborativo
-parent: CI
-has_children: false
-nav_order: 42
+title: "Piattaforme di sviluppo collaborativo"
+slug: git
+date: 2017-09-09T00:00:00
+type: book
+weight: 42
+toc: true
+draft: false
 ---
-
-# Piattaforme di sviluppo collaborativo
 
 ## Video
 *What is GitHub?*
@@ -26,7 +27,7 @@ Un sistema di version control system, o VCS, tiene traccia della cronologia dell
 
 Senza il controllo della versione, i membri del team sono soggetti a attività ridondanti, tempistiche più lente e più copie di un singolo progetto. Per eliminare il lavoro non necessario, Git e altri VCS offrono a ciascun collaboratore una visione unificata e coerente di un progetto, facendo emergere il lavoro già in corso. Vedere una cronologia trasparente dei cambiamenti, chi li ha apportati e come contribuiscono allo sviluppo di un progetto aiuta i membri del team a rimanere allineati mentre lavorano in modo indipendente.
 
-![](img/DVCS.jpg)
+![](img/DVCS.webp)
 
 ## Git
 
@@ -56,7 +57,7 @@ Lavorare nei repository mantiene i progetti di sviluppo organizzati e protetti. 
 
 Attraverso piattaforme come GitHub, Git offre anche maggiori opportunità per la trasparenza e la collaborazione del progetto. I repository pubblici aiutano i team a lavorare insieme per creare il miglior prodotto finale possibile.
 
-![](img/git_flow.jpg)
+![](img/git_flow.webp)
 
 ## Comandi Git di base
 
@@ -80,7 +81,7 @@ Per utilizzare Git, gli sviluppatori utilizzano comandi specifici per copiare, c
 
 - `git push` aggiorna il repository remoto con tutti i commit effettuati localmente su un ramo.
 
-![](img/git-commit_graph.jpg)
+![](img/git-commit_graph.webp)
 
 ## Alternative a Git
 Hg, Perforce, SVN sono solo alcuni, ma Git sta diventando lo standard

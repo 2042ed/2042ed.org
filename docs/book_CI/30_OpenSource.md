@@ -1,12 +1,11 @@
 ---
-title: Open Source
-parent: CI
-has_children: false
-nav_order: 30
+title: "Open Source"
+date: 2017-09-09T00:00:00
+type: book
+weight: 30
+toc: true
 ---
-
-# Open Source
-![logo_opensource](img/logo_opensource.jpg)
+![logo_opensource](img/logo_opensource.webp)
 
 ## Si può forse brevettare il sole?
 -  "A chi appartiene il brevetto?"
