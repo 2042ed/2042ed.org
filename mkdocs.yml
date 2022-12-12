@@ -1,0 +1,60 @@
+site_name: 2042 Game Dev
+site_url: https://2042.krur.com
+site_author: Stefano Cecere
+site_description: 
+
+copyright: Stefano Cecere - KRUR.com
+
+theme:
+  name: material
+  language: it
+#  logo: assets/ieedo_logo.png
+#  favicon: assets/favicon.png
+  icon:
+    repo: fontawesome/brands/github
+    edit: material/file-edit-outline
+  features:
+    - navigation.tabs
+    - navigation.top
+  font:
+    text: Roboto
+    code: Roboto Mono
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+markdown_extensions:
+  - admonition
+
+plugins:
+  - exclude:
+      glob:
+        - book_XR/_local/*
+# Plugins
+#plugins:
+#  - minify:
+#      minify_html: true
+
+repo_url: https://github.com/StefanoCecere/GameDev2042/
+edit_uri: edit/main/docs/
+
+extra_css:
+  - stylesheets/extra.css
+
+# extra:
+#   alternate:
+#     - name: English
+#       lang: en
+#     - name: Italian
+#       lang: it
