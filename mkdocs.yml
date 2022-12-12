@@ -15,9 +15,11 @@ theme:
     edit: material/file-edit-outline
   features:
     - navigation.footer
+    - navigation.indexes
     - navigation.tabs
+#    - navigation.tabs.sticky
     - navigation.top
-    - navigation.sections
+#    - navigation.sections
     - announce.dismiss
   font:
     text: Roboto
@@ -45,9 +47,6 @@ markdown_extensions:
   - attr_list
   - def_list
   - md_in_html
-  - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
 
 # Plugins
 plugins:
