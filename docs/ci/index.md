@@ -9,6 +9,7 @@ nav_order: 10
 di [Stefano Cecere](https://github.com/StefanoCecere)
 
 in questo corso vedremo alcuni temi quali:
+
 - Problematiche comuni nello sviluppo di progetti digitali
 - Perché una Intelligenza Collettiva
 - Open Source: vantaggi e svantaggi
@@ -22,6 +23,7 @@ in questo corso vedremo alcuni temi quali:
 - Appendici e Risorse di approfondimento
 
 Laboratorio pratico
+
 1. creare una propria presenza online minimamente accettabile (come minimo GitHub pages) e profilo su GitHub
 2. lavoro su un progetto collettivo
 3. come impostare un progetto Game Unity
