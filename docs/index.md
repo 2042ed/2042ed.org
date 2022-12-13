@@ -5,8 +5,11 @@ hide:
   - toc
 ᴴₒᴴₒᴴₒ: true
 ---
-# 2042 Game&Dev Tech
-un'introduzione alle nuove tecnologie di sviluppo e progettazione per game desinger, developers o semplici appassionati.
+# 2042ed - la scuola del futuro
+In questo sito troverai l'intersezione tra gioco, tecnologia, educazione, pedagogia.
+Che tu sia un game designer o un genitore, ami la filosofia o l'ingegneria, benvenuti.
+
+## PLAY: Guida ai giochi
 
 <div class="grid cards" markdown>
 
@@ -14,6 +17,15 @@ un'introduzione alle nuove tecnologie di sviluppo e progettazione per game desin
 *manuale al giocare bene insieme*  
 - :fontawesome-solid-book: [PlayED](played/index.md)  
 *guida ai giochi intelligenti*  
+- :fontawesome-solid-book: [Jamurr Labs](labs/index.md)  
+*laboratori per imparare creando*  
+
+</div>
+
+## DEV: Chi i giochi li fa
+
+<div class="grid cards" markdown>
+
 - :fontawesome-solid-book: [Intelligenza Collettiva e Sviluppo Distribuito](dev/ci/index.md)  
 *da Git all'immortalità* 
 - :fontawesome-solid-book: [Extended Reality](dev/xr/index.md)  
@@ -25,12 +37,3 @@ un'introduzione alle nuove tecnologie di sviluppo e progettazione per game desin
 
 </div>
 
----
-
-per leggerli in locale, consiglio di usare [Obsidian](https://obsidian.md/)
-
-## Licenza
-Copyright (c) 2020 Stefano Cecere  
-CC BY-NC-SA: Attribution-Non Commercial-Share Alike 
-
-NB: il repository pubblico di questo libro è <https://github.com/StefanoCecere/GameDev2042>

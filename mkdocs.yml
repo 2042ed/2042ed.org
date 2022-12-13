@@ -1,8 +1,8 @@
-site_name: 2042 Game Dev
-site_url: https://2042.krur.com
+site_name: 2042ed - giochi, educazione, tecnologia
+site_url: https://2042ed.org
 site_author: Stefano Cecere
-site_description: guide per gli sviluppatori di videogiochi del 2042
-copyright: <a href="https://cecere.xyz">Stefano Cecere</a> - KRUR.com
+site_description: uno spazio per l'intersezione tra giochi, educazione, tecnologia, pedagogia, per genitori e sviluppatori.
+copyright: <a href="/about">Copyright (c) 2018-2022 Stefano Cecere | CC BY-NC-SA</a>
 
 theme:
   name: material
@@ -55,16 +55,16 @@ markdown_extensions:
 plugins:
   - search:
       lang: it
-  - social:
-      cards_color:
-        fill: "#14608E" 
-        text: "#FFFFFF"
-  - table-reader
+#  - social:
+#      cards_color:
+#        fill: "#14608E" 
+#        text: "#FFFFFF"
+#  - table-reader
   - minify:
       minify_html: true
   - awesome-pages
   - tags:
-      tags_file: tags.md
+      tags_file: about/tags.md
   - git-revision-date-localized:
       type: date
       locale: it
@@ -76,7 +76,7 @@ plugins:
         - "*/_local/*"
         - "*/_draft/*"
 
-repo_url: https://github.com/StefanoCecere/GameDev2042/
+repo_url: https://github.com/2042ed/2042ed.org
 edit_uri: edit/main/docs/
 
 extra_css:
@@ -88,13 +88,13 @@ extra:
 #    property: 
   social:
     - icon: fontawesome/brands/telegram 
-      link: https://t.me/scecere
+      link: https://t.me/org2042
     - icon: fontawesome/brands/discord 
       link: https://discord.gg/VUjgGtDgAh
     - icon: fontawesome/brands/facebook 
       link: https://www.facebook.com/StefanoCecere
     - icon: fontawesome/brands/github 
-      link: https://github.com/StefanoCecere
+      link: https://github.com/2042ed
   consent:
     title: Accettazione Cookie
     description: >- 
