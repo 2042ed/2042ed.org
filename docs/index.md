@@ -10,7 +10,7 @@ hide:
 In questo sito troverai l'intersezione tra gioco, tecnologia, educazione, pedagogia.
 Che tu sia un game designer o un genitore, ami la filosofia o l'ingegneria, benvenuti.
 
-## PLAY: Guida ai giochi
+## PLAY: per educatori, genitori e giocatori
 
 <div class="grid cards" markdown>
 
@@ -23,7 +23,7 @@ Che tu sia un game designer o un genitore, ami la filosofia o l'ingegneria, benv
 
 </div>
 
-## DEV: Chi i giochi li fa
+## DEV: per sviluppatori e ricercatori
 
 <div class="grid cards" markdown>
 
@@ -37,4 +37,9 @@ Che tu sia un game designer o un genitore, ami la filosofia o l'ingegneria, benv
 *Games 4 Change + Business oltre l’Entertainment*  
 
 </div>
+
+## Changelog (ultimi aggiornamenti)
+
+### <small>13 Dicembre 2022</small>
+- prima release pubblica di questo sito, riorganizzando materiali precedenti
 

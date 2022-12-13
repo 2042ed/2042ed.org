@@ -1,3 +1,3 @@
 ---
-title: Labs
+title: Lab - Robots
 ---

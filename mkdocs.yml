@@ -6,7 +6,7 @@ copyright: <a href="/about">Copyright (c) 2018-2022 Stefano Cecere | CC BY-NC-SA
 
 theme:
   name: material
-#  custom_dir: overrides
+  custom_dir: overrides
   language: it
   logo: assets/logo.png
   favicon: assets/favicon.png
@@ -55,10 +55,10 @@ markdown_extensions:
 plugins:
   - search:
       lang: it
-#  - social:
-#      cards_color:
-#        fill: "#14608E" 
-#        text: "#FFFFFF"
+  - social:
+      cards_color:
+        fill: "#007C77" 
+        text: "#FFFFFF"
 #  - table-reader
   - minify:
       minify_html: true
