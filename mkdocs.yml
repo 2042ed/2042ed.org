@@ -1,7 +1,7 @@
-site_name: 2042 - giochi, educazione, tecnologia
+site_name: 2042 | giochi | educazione | tecnologia
 site_url: https://2042ed.org
 site_author: Stefano Cecere
-site_description: uno spazio per l'intersezione tra giochi, educazione, tecnologia, pedagogia, per genitori e sviluppatori.
+site_description: Uno spazio intersezione tra giochi, educazione, tecnologia. Per genitori, educatori, giocatori e sviluppatori.
 copyright: <a href="/about">Copyright (c) 2018-2022 Stefano Cecere | CC BY-NC-SA</a>
 
 theme:
@@ -88,7 +88,7 @@ extra:
     property: G-FKCYXX74SX
   social:
     - icon: fontawesome/brands/telegram 
-      link: https://t.me/org2042
+      link: https://t.me/ed2042
     - icon: fontawesome/brands/discord 
       link: https://discord.gg/VUjgGtDgAh
     - icon: fontawesome/brands/facebook 

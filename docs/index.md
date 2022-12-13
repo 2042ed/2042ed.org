@@ -5,10 +5,12 @@ hide:
   - toc
 ᴴₒᴴₒᴴₒ: true
 ---
-# 2042 - la scuola del futuro
+# Uno spazio speciale
 
-In questo sito troverai l'intersezione tra gioco, tecnologia, educazione, pedagogia.
-Che tu sia un game designer o un genitore, ami la filosofia o l'ingegneria, benvenuti.
+In questo sito troverai l'intersezione tra gioco, tecnologia, educazione.  
+Che tu sia una game designer o un genitore, un'educatrice o un giocatore.  
+Se ami la filosofia, l'ingegneria ludica, l'ozio creativo, lo sviluppo dell'intelligenza e il futuro della scuola...  
+_Benvenut*_.
 
 ## PLAY: per educatori, genitori e giocatori
 
