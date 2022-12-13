@@ -1,6 +1,6 @@
 hr {
     height: 6px;
-    background-color: rgb(255, 234, 0) ;
+    background-color: #FF9400 ;
     border-radius: 5px;
 }
 
@@ -26,15 +26,15 @@ hr {
 }
 
 [data-md-color-scheme="default"] {
-    --md-primary-fg-color:        #14608E;
+    --md-primary-fg-color:        #007C77;
 }
 [data-md-color-scheme="slate"] {
-    --md-primary-fg-color:        #14608E;
+    --md-primary-fg-color:        #007C77;
 }
 
 [data-md-color-scheme="default"] .md-typeset h1 {
     font-weight: 600 !important;
-    color: #14608E !important;
+    color: #007C77 !important;
 }
 
 [data-md-color-scheme="slate"] .md-typeset h1 {
@@ -44,7 +44,7 @@ hr {
 
 [data-md-color-scheme="default"] .md-typeset h2 {
     font-weight: 00 !important;
-    color: #14608E !important;
+    color: #007C77 !important;
 }
 
 [data-md-color-scheme="slate"] .md-typeset h2 {
