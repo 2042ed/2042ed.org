@@ -1,5 +1,5 @@
 ---
-title: "PlayFriday"
+title: PlayFriday
 summary: "le nuove generazioni in gioco il venerdì sera"
 tags: [game, social, "games", "kids"]
 categories: []

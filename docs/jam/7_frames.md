@@ -1,30 +1,18 @@
 ---
 title: 7 Frames
 summary: un videogioco creato da bambini
-# slug: 
-authors: []
-tags: ["jamurr", "7Frames", "game", "kids"]
+tags: ["jamurr", "KidsMakeGames"]
 categories: ["jamurr"]
-date: 2016-10-10T16:27:02+02:00
-external_link: ""
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: true
+date: 2016-10-10
 url_code: https://github.com/jamurr/JAM.7FRAMES
-url_pdf: ""
-url_slides: ""
-url_video: ""
-slides: ""
 ---
 
-![](7FRAMES_featured.png)
-
+![](img/7frames_featured.webp)
 
 ## Download
 - scarica app **iOS**: [Apple App Store](https://apps.apple.com/us/app/7-frames/id1239225688)
 - scarica app **Android**: [Google Play](https://play.google.com/store/apps/details?id=org.jamurr.sevenframes)
-- progetto Open Source: <https://github.com/jamurr/JAM.7FRAMES>
+- progetto Open Source: <https://github.com/2042ed/JAM.7FRAMES>
 
 ## Descrizione
 
@@ -38,7 +26,21 @@ Infine revisionato e ultimato via internet in qualche pomeriggio di pioggia da S
 
 ## Presentazione
 
-{{< sc_gallery album="gallery" >}}
+![](img/7frames_01.webp)
+![](img/7frames_02.webp)
+![](img/7frames_03.webp)
+![](img/7frames_04.webp)
+![](img/7frames_05.webp)
+![](img/7frames_06.webp)
+![](img/7frames_07.webp)
+![](img/7frames_08.webp)
+![](img/7frames_09.webp)
+![](img/7frames_10.webp)
+![](img/7frames_11.webp)
+![](img/7frames_12.webp)
+![](img/7frames_13.webp)
+![](img/7frames_14.webp)
+![](img/7frames_15.webp)
 
 ## Produzione
 nella prima parte della giornata abbiamo spiegato come avremmo lavorato e poi insieme creato i flussi del gioco. tutti i documenti finali sono nelle [Docs del progetto](https://github.com/jamurr/JAM.7FRAMES/tree/master/docs)
@@ -82,7 +84,7 @@ nella prima parte della giornata abbiamo spiegato come avremmo lavorato e poi in
 - GIMP e vari pixel editors
 
 ## Progetto Open Source
-Questo progetto è doverosamente gratuito sotto licenza Creative Commons ed Open Source. Scarica i sorgenti da <https://github.com/jamurr/JAM.7FRAMES> e inizia a modificare tutto!
+Questo progetto è doverosamente gratuito sotto licenza Creative Commons ed Open Source. Scarica i sorgenti da <https://github.com/2042ed/JAM.7FRAMES> e inizia a modificare tutto!
 
 ## Partecipa
 Se sei un bambino curioso o un papà (o mamma) in cerca di nuove forme di ricreatività, contattami

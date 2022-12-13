@@ -18,7 +18,7 @@ Che tu sia un game designer o un genitore, ami la filosofia o l'ingegneria, benv
 *manuale al giocare bene insieme*  
 - :fontawesome-solid-book: [PlayED](played/index.md)  
 *guida ai giochi intelligenti*  
-- :fontawesome-solid-book: [Jamurr Labs](labs/index.md)  
+- :fontawesome-solid-book: [Jamurr Labs](jam/index.md)  
 *laboratori per imparare creando*  
 
 </div>
