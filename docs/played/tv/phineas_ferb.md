@@ -23,5 +23,5 @@ E' una delle serie di cartoni animati che più amiamo perché:
 > in ogni puntata costruiscono qualcosa di nuovo
 
 
-![](../book/_img/media_paf.jpg)
+![](../../ludosofia/_img/media_paf.jpg)
 

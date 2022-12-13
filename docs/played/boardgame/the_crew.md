@@ -17,5 +17,5 @@ ma il "twist" geniale è stato creare una serie (con tanto di storia!) di microm
 
 che dire: è il gioco dell'anno
 
-![](gdt_thecrew.jpg)
+![](img/thecrew.jpg)
 

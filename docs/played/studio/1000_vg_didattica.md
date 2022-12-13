@@ -286,7 +286,7 @@ Considerare:
 fondamentale
 
 ### spazio
-![](../_img/classe_disposizione.png)
+#TODO/img classe_disposizione.png
 
 ### Insegnanti ed educatori
 > Good teachers use good tools (D. Robertson)

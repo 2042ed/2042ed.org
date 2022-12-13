@@ -24,7 +24,7 @@ Grafica e personaggi eccellenti, meccaniche divertenti per grandi e piccoli, gra
 > Capolavoro. Stimola davvero l'azione di squadra
 
 
-![](img/gdt_zombie_kidz.jpg){width=49%}
-![](img/gdt_zombie_kidz2.jpg){width=49%}
+![](img/zombie_kidz.jpg){width=49%}
+![](img/zombie_kidz2.jpg){width=49%}
 
 

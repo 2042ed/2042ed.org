@@ -69,7 +69,6 @@ Risultati un po' troppo prevedibili (salvo iniettare fuzzy e probabilità nelle 
 
 #### Behavior Trees
 
-![](img/bt_scheme.webp)
 ![](img/ai.bt.webp)
 ![](img/ai.bt.2.webp)
 
@@ -229,12 +228,12 @@ iniziamo con una semplice ma completa introduzione alle NN, ML, GAN. sono concet
 
 ### Supervised Learning
 #### Reti Neurali
-![](img/img/ai.neuron.webp)
+![](img/ai.neuron.webp)
 
 Explained In A Minute: Neural Networks
 <https://www.youtube.com/watch?v=rEDzUT3ymw4>
 
-![](img/img/ai.neuralnetwork.webp)
+![](img/ai.neuralnetwork.webp)
 
 #### backpropagation
 
@@ -246,7 +245,7 @@ Explained In A Minute: Neural Networks
 ### Reinforcement Learning (RL)
 si ispira a come imparano gli esseri viventi
 
-![](img/img/ai.reinforcedlearning.webp)
+![](img/ai.reinforcedlearning.webp)
 
 A central question in RL problems is the right balance between the exploitation of current learned knowledge versus the exploration of new unseen territories in the search space
 

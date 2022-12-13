@@ -21,5 +21,5 @@ se in casa ci sono dei fan di Minecraft, è comunque un ottimo modo per coinvolg
 > *Fabio:*
 > bello craftare nuovi oggetti e fare loot
 
-![](gdt_minecraft.jpg)
+![](img/minecraft.jpg)
 

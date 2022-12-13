@@ -17,6 +17,4 @@ sempre alla ricerca dei giochi ultra compatti, questo li batte tutti in termini 
 > *Fabio:*
 > belli i pianeti!
 
-![](gdt_ultra_tiny_epic_galaxies.jpg)
-
-
+![](img/tiny_epic_galaxies.jpg)

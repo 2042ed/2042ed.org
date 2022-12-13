@@ -19,5 +19,5 @@ Sono tantissimi i giochi della Djeco. Noi ne abbiamo un po': scatole piccole e s
 > *Stefano:*
 > La Djeco è una di quelle marche che garantisce una costante qualità in tutti i suoi prodotti. Bisogna imparare a riconoscerle e poi fidarsi.
 
-![](img/gdt_djeco.jpg){width=49%}
+![](img/djeco.jpg){width=49%}
 

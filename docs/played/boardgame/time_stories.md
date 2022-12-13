@@ -15,5 +15,5 @@ si collabora tutti nell'avventursi nel tempo per risolvere missioni. neessita un
 
 Unico neo che finita un'avventura, le altre sono moduli opzionali da acquistare separatamente
 
-![](gdt_time_stories.jpg)
+![](img/time_stories.jpg)
 

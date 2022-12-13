@@ -17,6 +17,6 @@ gestionale semplice ma davvero profondo
 > *Fabio:*
 > bello produrre e vendere merci e ci sono infinite possibilità di commercio
 
-![](gdt_ohmygoods.jpg)
+![](img/ohmygoods.jpg)
 
 

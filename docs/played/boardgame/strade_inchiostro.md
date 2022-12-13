@@ -17,5 +17,5 @@ penna e matita e creatività tattica.
 > *Fabio:*
 > bello disegnare le tue strade
 
-![](gdt_stradeinchiostro.jpg)
+![](img/stradeinchiostro.jpg)
 

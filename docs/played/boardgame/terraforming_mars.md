@@ -16,5 +16,5 @@ Il secondo *peso medio*, ovvero "giocone", della nostra ludoteca.
 
 Se piace ha poi molte espansioni e sopratutto lo gioca mezzo mondo.. quindi è un "lasciapassare" nel caso di globetrotters ludici!
 
-![](gdt_terraformingmars.jpg)
+![](img/terraformingmars.jpg)
 

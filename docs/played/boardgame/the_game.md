@@ -20,6 +20,6 @@ Un semplice mazzo di carte che vi farà collaborare per finire questo "solitario
 > Adoro i giochi estremamente semplici ma geniali.
 
 
-![](gdt_the_game_faccia_a_faccia.jpg)
+![](img/the_game_faccia_a_faccia.jpg)
 
 

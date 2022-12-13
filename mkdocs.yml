@@ -47,6 +47,9 @@ markdown_extensions:
   - attr_list
   - def_list
   - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
 
 # Plugins
 plugins:
@@ -60,6 +63,8 @@ plugins:
   - minify:
       minify_html: true
   - awesome-pages
+  - tags:
+      tags_file: tags.md
   - git-revision-date-localized:
       type: date
       locale: it

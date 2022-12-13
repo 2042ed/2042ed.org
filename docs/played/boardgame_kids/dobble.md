@@ -19,5 +19,5 @@ Un mazzo di 50 carte rotonde dove tra una carte e l'altra c'è *un solo* element
 > *Stefano:*
 > Io ho studiato la matematica che ci sta dietro a questo gioco ed è davvero meravigliosa
 
-![](img/gdt_dobble.jpg){width=49%}
+![](img/dobble.jpg){width=49%}
 
