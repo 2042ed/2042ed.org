@@ -1,13 +1,8 @@
-# 2042 Game Dev Books
-*appunti dei corsi per Game Developers 2042*
+# 2042ed.org
 
-![](assets/corsi_gamedev.jpg)
+sito <https://2042ed.org>
 
-leggi online: <https://2042.krur.com>
-
-per leggerli in locale, consiglio di usare [Obsidian](https://obsidian.md/)
-
-NB: il repository pubblico di questo libro è <https://github.com/StefanoCecere/GameDev2042>
+NB: il repository pubblico di questo libro è <https://github.com/2042ed/2042ed.org>
 
 ## Commands
 
