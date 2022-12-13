@@ -17,7 +17,7 @@ NB: il repository pubblico di questo libro è <https://github.com/StefanoCecere/
 - `mkdocs -h` - Print help message and exit.
 
 Install
-pip3 install mkdocs-material mkdocs-minify-plugin pillow cairosvg mkdocs-table-reader-plugin mkdocs-macros-plugin
+pip3 install mkdocs-material mkdocs-minify-plugin pillow cairosvg mkdocs-table-reader-plugin mkdocs-macros-plugin mkdocs-exclude
 
 upgrade:  
 `pip3 install --upgrade mkdocs-material`
