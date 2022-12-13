@@ -1,8 +1,8 @@
 # 2042ed.org
+Giochi Educazione Tecnologia
 
-sito <https://2042ed.org>
-
-NB: il repository pubblico di questo libro è <https://github.com/2042ed/2042ed.org>
+repository del sito <https://2042ed.org>  
+il repository pubblico di questo libro è <https://github.com/2042ed/2042ed.org>
 
 ## Commands
 
