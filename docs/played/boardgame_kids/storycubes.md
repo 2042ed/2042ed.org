@@ -21,5 +21,5 @@ Serve altro?
 > *Stefano:*
 > Quando lo scoprii ormai 10 anni fa capii che era iniziata una nuova era per la creatività
 
-![](img/StoryCubes.webp)
+![](img/story_cubes.webp)
 

@@ -13,6 +13,6 @@ url_game:
 
 Davvero un gioco intelligente, da passarci le ore tutti insieme.
 
-![](img/steam_kaleido_gears.jpg)
+![](img/steam_kaleido_gears.webp)
 
 

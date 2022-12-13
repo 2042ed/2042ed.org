@@ -29,7 +29,7 @@ Non so se qualcuno abbia mai letto il *Giuoco delle Perle di Vetro* di Herman He
 
 ## Sviluppo integrale
 
-![|200](_img/logo_humanIntegrale.png)
+![|200](_img/logo_humanIntegrale.webp)
 
 Ci interessa svilupparci in modo equilibrato: mente, cuore, corpo e spirito.
 
@@ -148,14 +148,14 @@ Non entreremo nel mondo accademico scientifico, ma in quello pratico:
 ### Diagramma della stupidità
 E' facile definire un'azione "intelligente" quella che porta il maggior beneficio sia a se stessi che agli altri, possibilmente con il minor dispendio di fatica (energia).
 Per questo il diagramma della stupidità (di [Carlo Cipolla](https://it.wikipedia.org/wiki/Carlo_M._Cipolla)) dovrebbe essere appeso in tutte le aule di scuola e ufficio di politici e imprenditori e cucine di casa:
-![](_img/diagramma_stupidita.png)
+![](_img/diagramma_stupidita.webp)
 ### Tipi di intelligenza
 La cosa peggiore è che per quel poco che sappiamo, riduciamo l'intelligenza ad un "quanto sei intelligente!" e la relativa quantificazione nel Q.I. (Quoziente di Intelligenza) che è calcolato dalla capacità di risolvere problemi sopratutto di tipo cognitivo/logico.
 
 Ma ci sono molti tipi di intelligenza!
 Ad esempio la scelta più intelligente sarebbe quella di abbracciare il tuo nemico in un atto emotivamente destabilizzante. Sfido un computer ad arrivare a tale soluzione.
 
-![](_img/mindmap_intelligenze.png)
+![](_img/mindmap_intelligenze.webp)
 
 - corporea
 - naturalistica
@@ -167,7 +167,7 @@ Ad esempio la scelta più intelligente sarebbe quella di abbracciare il tuo nemi
 - logica-matematica
 
 ## Cresciamo Insieme
-![|300](_img/logo_KJ.png)
+![|300](_img/logo_KJ.webp)
 
 Un genitore nasce insieme ad un figlio.
 E non c’è libretto delle istruzioni su come diventare un bravo papà o mamma. Il dialogo, inteso anche come relazione, è la chiave di sviluppo. E il fare cose insieme. Imparando l'uno con l'altro e dall'altro. Ma con un'attenzione: i genitori sono i modelli che i figli seguiranno. Il gioco lo intavola il genitore.
@@ -212,7 +212,7 @@ E' una forma di gioco molto valida, che ci mette in gioco e mette in gioco altri
 
 ## Mettersi in gioco
 
-![|400](_img/vignetta_player_centric.jpg)
+![|400](_img/vignetta_player_centric.webp)
 Eccoci arrivati ad un dunque.  
 Troverete spesso tracce dell'uomo di Vitruvio in questo libro o in generale per chi mi conosce, questo non solo perché mi considero un Nuovo Umanista, ma perché ho ritrovato in questo simbolo una filosofia di vita:
 - Essere Umano è quello che siamo
@@ -284,7 +284,7 @@ Una delle leggi base di questo libro è *giocare insieme* il più possibile, ma 
 
 ## Giocare insieme
 
-![|400](_img/foto_giocare_insieme.jpg)
+![|400](_img/foto_giocare_insieme.webp)
 
 - allora noi si gioca insieme. ma nel senso che io e te non siamo nemici e vince il più bravo. dobbiamo collaborare per uscire tutti dal deserto prima che ci sommerga la sabbia o moriamo di sete
 - costruendo l’astronave?
@@ -336,7 +336,7 @@ Ogni essere umano ha necessità di **esplorare**.
 
 ### Gioco della vita
 
-![](_img/graph_il_gioco_della_vita.jpg)
+![](_img/graph_il_gioco_della_vita.webp)
 
 qui entriamo il politica e la cosa si fa seria.
 

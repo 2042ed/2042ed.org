@@ -18,5 +18,5 @@ bello bello
 > *Fabio:*
 > è bello pensare alla tattica da usare per scegliere il prossimo terreno e sopratutto alla fine vedere tutto il territorio che hai creato
 
-![](img/kingdomino.jpg)
+![](img/kingdomino.webp)
 

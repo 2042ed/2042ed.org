@@ -18,7 +18,7 @@ presentation:
 
 Alcuni appunti sul tema videogiochi usati in ambito educativo e scolastico
 
-![](../../played/boardgame_kids/img/battlechess.jpg)
+![](../../played/boardgame_kids/img/battlechess.webp)
 
 ## Introduzione
 
@@ -93,7 +93,7 @@ Gli effetti dipendono dal tipo di videogioco in uso. Si possono verificare conse
 
 ### Come impariamo con i giochi?
 #### Player flow
-![](../libro/_img/graph_flow.png)
+![](../libro/_img/graph_flow.webp)
 <!-- slide -->
 #### Competitività
 ma non pericolosi
@@ -303,7 +303,7 @@ gli insegnanti devono essere informati non solo sulle potenzialità, le caratter
 - imparare creando giochi
 - imparare dai giochi come insegnare
 <!-- slide -->
-![](../libro/_img/vg_mercato.png)
+![](../libro/_img/vg_mercato.webp)
 
 ### PEGI e Parental Control
 

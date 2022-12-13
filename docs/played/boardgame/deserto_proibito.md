@@ -22,5 +22,5 @@ Se questo gioco piace, segnaliamo l'antecendente *Isola Proibita* [scheda](https
 > *Stefano:*
 > si impara a pianificare e cooperare! dal Game Designer di Pandemic.
 
-![](img/deserto_proibito.jpg)
+![](img/deserto_proibito.webp)
 

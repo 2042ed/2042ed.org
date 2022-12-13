@@ -35,12 +35,12 @@ Questo è un assioma, ovvero una frase indiscutibile. E' così e basta.
 e ricordarcelo non può che fare bene a tutti.
 
 ## Perché un PC è fondamentale
-![](_img/steam_pc.jpg)
+![](_img/steam_pc.webp)
 
 e non una console o tablet
 
 ## Digitale vs Analogico
-![](_img/foto_digitale-analogico.jpg)
+![](_img/foto_digitale-analogico.webp)
 
 che sia digitale o analogico: non c’è differenza.
 ogni strumento ha pregi e difetti, virtù e inconvenienti.
@@ -77,8 +77,8 @@ Si capisce (e prima lo si fa meglio è) che dietro alle cose ci sono progetti, p
 
 e così che sia un pianoforte digitale con un tasto rotto, un televisore che non visualizza più niente, o una pistola laser che non si accende una lucina, prendiamo insieme cacciaviti e apriamo!
 
-![](_img/steam_apro.jpg)
-![](_img/steam_aggiusto.jpg)
+![](_img/steam_apro.webp)
+![](_img/steam_aggiusto.webp)
 
 ### Ninja Craft
 
@@ -92,4 +92,4 @@ ad esempio lo sapevate che il “gioco dell’oca” non è un gioco? o meglio: 
 
 per questo quando giochiamo ad un gioco, oltre a godercelo, lo analizziamo un poco per capire come è stato pensato e realizzato.
 
-![](_img/lab_ninja_craft.jpg)
+![](_img/lab_ninja_craft.webp)

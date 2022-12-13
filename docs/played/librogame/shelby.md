@@ -15,6 +15,6 @@ I libri gioco / avventura di Shelby sono ideali per bambini piccoli, perché han
 > *Fabio:*
 > disegnato benissimo e li ho giocato con mio fratellino
 
-![](img/libro_shelby.jpg)
+![](img/libro_shelby.webp)
 
 

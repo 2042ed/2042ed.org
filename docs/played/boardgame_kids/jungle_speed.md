@@ -17,5 +17,5 @@ Ci sono diverse edizioni, tutte equivalenti cambia solo l'estetica.
 > *Stefano:*
 > Un gioco che ha fatto la storia e mantiene il suo valore. 
 
-![](img/jungle_speed.jpg)
+![](img/jungle_speed.webp)
 

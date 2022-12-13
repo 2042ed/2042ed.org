@@ -19,5 +19,5 @@ url_game:
 > *Stefano:*
 > Imprescindibile. Sopratutto l'edizione Stora o Miti.
 
-![](img/similo.jpg)
+![](img/similo.webp)
 

@@ -20,6 +20,6 @@ potete immaginare come dare in mano a 4 ragazzini un libro a testa e dire loro: 
 
 questo è in inglese. non cercatelo subito (salvo bimbi bilingui)
 
-![](img/libro_crusoe_crew.jpg)
+![](img/libro_crusoe_crew.webp)
 
 

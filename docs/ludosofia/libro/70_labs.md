@@ -18,8 +18,8 @@ Qui elenco tre laboratori che possono essere facilmente riprodotti da qualsiasi 
 
 ## Laboratorio Librogame
 
-![](_img/progetto_librogame_2.jpg)
-![](_img/progetto_librogame_1.jpg)
+![](_img/progetto_librogame_2.webp)
+![](_img/progetto_librogame_1.webp)
 
 Per imparare a creare un videogioco, è importante capire come si costruisce una storia dove il lettore/giocatore possa interagire e fare delle scelte.
 In questo laboratorio faremo vedere come dietro ai videogiochi ci sono dei "diagrammi di flusso e scelta" con enigmi e difficoltà da superare.
@@ -42,7 +42,7 @@ Molti hanno poi chiesto altri componenti per migliorare le proprie macchine a ca
 
 ## Jamurr e Kids Game Jam
 
-![](_img/progetto_Jamurr.jpg)
+![](_img/progetto_Jamurr.webp)
 
 > I bambini oltre che giocare amano creare i loro giochi e inventare nuove storie.
 > I videogiochi sono ottime occasioni per aiutarli a sviluppare nuove forme di collaborazione e di espressione, sopratutto emotiva.
@@ -61,8 +61,8 @@ sito:<https://stefano.cecere.org/jamurr/>
 
 ## Videogioco "Non Sono solo una Pecora"
 
-![](_img/progetto_pecora1.jpg)
-![](_img/progetto_pecora2.jpg)
+![](_img/progetto_pecora1.webp)
+![](_img/progetto_pecora2.webp)
 
 Nel 2016 partecipai alla Global Game Jam annuale.. ma non ricordo bene perché o come decisi di proporlo anche a Fabio, che accettò con entusiasmo! andammo a Pisa per tre giorni e lì nacque il progetto che avrebbe un po' cambiato le nostre vite: il videogioco Non sono solo una Pecora.
 Una semplice storia interattiva, 10 scenari lineari dove la protagonista, la Pecora, incontra altrettanti amici animali ognuno con un problema esistenziale che andrà a risolvere con enigmi di vario tipo, fino al gran finale. Fabio creò i personaggi, gli enigmi, li disegnò a matita insieme ai fondali. Insieme scrivemmo i testi, io feci il montaggio digitale e recuperai delle mie vecchie musiche al pianoforte.
@@ -70,15 +70,15 @@ Che dire: fu il gioco premiato! e Fabio vinse un corso di disegno di fumetti!
 
 ## Videogioco "7 Frames"
 
-![](_img/progetto_7FRAMES_1.jpg)
-![](_img/progetto_7FRAMES_2.jpg)
+![](_img/progetto_7FRAMES_1.webp)
+![](_img/progetto_7FRAMES_2.webp)
 
 Questo gioco è stato sviluppato in una Kids Game Jam. Ovvero 7 bambini (dai 7 ai 12 anni) si trovati durante l’Internet Festival 2016, al MixArt di Pisa, ed è stato dato loro un TEMA, che era: “SE NON CI FOSSERO GLI ALTRI…” In poche ore i ragazzi in concertazione (JAM) tra loro e con la supervisione dei genitori, dovevano ideare e creare il prototipo del gioco. Ognuno con le proprie capacità e preferenze ha dato del suo meglio.
 
 <https:///stefano.cecere.org/project/7-frames/>
 
 ## Gioco ibrido "Signals From Uruk"
-![](_img/progetto_SignalsFromUruk.jpg)
+![](_img/progetto_SignalsFromUruk.webp)
 
 Da molti anni lavoravo con la Realtà Aumentata e Virtuale. e così alla Internet Festival Game Jam del 2018, con il nostro gruppo di game jammers, inventammo un gioco di carte storico / educativo da risolvere usando la Realtà Aumentata.
 Ambientammo il tutto ad Uruk (perché Fabio ed Enea in quinta elementare stavano proprio studiando i Sumeri) e perché non rendere lo studio un gioco divertente?
@@ -102,7 +102,7 @@ Nel 2020, complice il LockDown prolungato, abbiamo sperimentato un po' di cose, 
 ## Librogioco "BuboLibro"
 > un libro avventura per bambini, creato da fratello per il fratellino.
 
-![](_img/progetto_bubolibro.jpg)
+![](_img/progetto_bubolibro.webp)
 
 Mappando tutta casa nostra, Fabio ha creato un libro avventura dove ogni pagina è un luogo e si naviga saltando di pagina in pagina, trovando oggetti, affrontando situazioni pericolose, trovando sorprese nascoste fino a sbloccare il regalo finale, che sarà poi il regalo vero e proprio per il compleanno del fratello.
 
@@ -116,7 +116,7 @@ Il progetto è relativamente semplice, e in un video abbiamo spiegato come l'abb
 > *Fabio:*
 > vengono i miei amici a giocare ai giochi che più mi piacciono
 
-![](_img/progetto_playfriday.jpg)
+![](_img/progetto_playfriday.webp)
 
 Il progetto PlayFriday nasce nel 2019 per dare uno spazio e un tempo ad un gruppo di ragazzi (età media 9-12) per giocare esclusivamente giochi da tavolo. Volevo uno spazio che non fosse una casa di qualcuno, non solo perché nessuno di noi ha una stanza/taverna adeguata e isolata, ma sopratutto per incentivare un'autonoma organizzazione e aggregazione intorno ai giochi in uno spazio pubblico.
 Abbiamo iniziato trovandoci io, mio figlio ed un suo amico che giocavano a Carte Pokemon, e in poche settimane si sono passati parola fino ad essere un gruppo fisso di circa 8 giovani.

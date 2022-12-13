@@ -19,4 +19,4 @@ Possiamo suonare dai flauti indiani agli strumenti a corda cinesi alle percussio
 
 Credo esistono versioni equivalenti anche per Android, ma se avete un iPad, GarageBand è un dovere morale
 
-![](img/steam_garageband.jpg)
+![](img/steam_garageband.webp)

@@ -17,5 +17,5 @@ bella ambientazione.. abbastanza facile.. con modalità di gioco collaborativa o
 > *Fabio:*
 > mi piacciono le tante stanze con gli effetti diversi e non sai mai cosa ti capita
 
-![](img/room25.jpg)
+![](img/room25.webp)
 

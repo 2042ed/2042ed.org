@@ -10,7 +10,7 @@ updated: 2022-03-22
 ---
 # Libri Gioco
 
-![](_img/panoramica_librigioco.jpg)
+![](_img/panoramica_librigioco.webp)
 
 > Papà io vado a pagina 27 a fare colazione. Tu vuoi andare sulla poltrona a lavorare?, pagina 42!
 

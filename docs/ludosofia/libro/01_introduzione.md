@@ -15,7 +15,7 @@ updated: 2022-03-22
 
 ## Perché questo libro?
 
-![](_img/vignetta_maestro.jpg)
+![](_img/vignetta_maestro.webp)
 Perché da dodici anni convivo 
 Per raccontare la sintesi di anni di vita nel mondo dei giochi contemporanei, sia come giocatori che come sviluppatori e ricercatori e sopratutto come **papà** e **figli**, per darvi quelle che pensiamo siano le basi minime per conoscere questo mondo, scoprire nuovi giochi e sopratutto giocare di più.
 
@@ -49,7 +49,7 @@ Per questo è importante sapere giusto il minimo indispensabile per destreggiars
 Ultima cosa: questa guida è nata come una raccolta di un decennio di studio, appunti e giocate, riorganizzati per farne un libro, ed è in continua evoluzione!
 
 ## Chi sono gli autori
-![](_img/foto_autori.jpg)
+![](_img/foto_autori.webp)
 
 **Stefano Cecere** fa il papà, sviluppa videogiochi, insegna e studia l'intersezione tra **gioco**, **tecnologia** e **filosofia**.
 

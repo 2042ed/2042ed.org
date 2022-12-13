@@ -18,5 +18,5 @@ ci sono molti episodi noi ne abbiamo provati un paio.. un must se vi piacciono i
 > *Fabio:*
 > molto difficile ma anche molto sorprendente quando confronti la tua soluzione
 
-![](img/sherlock.jpg)
+![](img/sherlock.webp)
 

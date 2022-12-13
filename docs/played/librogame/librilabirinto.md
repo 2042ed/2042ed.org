@@ -16,6 +16,6 @@ I miei figli hanno sviluppato un senso creativo spropositato risolvendo centinai
 > *Fabio:*
 > che soddisfazione trovare le uscite dai mille labirinti tutti diversi
 
-![](img/libro_labirinto.jpg)
+![](img/libro_labirinto.webp)
 
 

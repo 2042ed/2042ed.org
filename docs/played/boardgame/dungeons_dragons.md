@@ -17,4 +17,4 @@ beh.. qui si entra nel mito: il Gioco di Ruolo per antonomasia. il capostipite c
 > *Fabio:*
 > mi piace immergermi in un personaggio ma è molto difficile fare il Master e ci sono tantissime regole quindi non puoi giocarlo al volo con uno che non lo conosce. Spero che altri lo studino per giocarci insieme!
 
-![](img/dnd.jpg)
+![](img/dnd.webp)

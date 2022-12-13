@@ -22,8 +22,8 @@ Meglio giochi mirati su un tema.
 
 Lisciani, Clementoni, Quercetti, KidzLab sono ottime marche.
 
-![](img/steam_labs.jpg)
+![](img/steam_labs.webp)
 
-![](img/steam_magnete.jpg)
+![](img/steam_magnete.webp)
 
 

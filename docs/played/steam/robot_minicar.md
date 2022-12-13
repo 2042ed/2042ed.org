@@ -16,6 +16,6 @@ Questo kit, ad esempio, che si basa su una scheda Arduino completo, costa tipo 3
 Facile da montare e ci si diverte a lungo. Ma sopratutto ogni volta che lo riprendi in mano si può imparare qualcosa.
 Lasciamo stare le macchinine telecomandate mangia pile che dopo due giorni vengono abbandonate come in ToyStory 3
 
-![](img/steam_robotcar_scheme.jpg)
+![](img/steam_robotcar_scheme.webp)
 
 

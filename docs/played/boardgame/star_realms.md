@@ -17,6 +17,6 @@ capisco perché è un pluripremiato, con dozzine di espansioni se il deck base i
 > *Fabio:*
 > tantissime astronavi, bella grafica e sopratutto devi creare il tuo mazzo
 
-![](img/star_realms.jpg)
+![](img/star_realms.webp)
 
 

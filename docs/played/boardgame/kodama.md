@@ -20,6 +20,6 @@ c'è anche un regolamento semplificato per bambini
 > *Fabio:*
 > omini e ambientazione simpaticissimi e bellissimi
 
-![](img/kodama.jpg)
+![](img/kodama.webp)
 
 

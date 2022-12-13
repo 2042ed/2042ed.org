@@ -18,6 +18,6 @@ in italiano abbiamo questa edizione Chtulu
 > *Fabio:*
 > carte molto strane e l'unico in cui le regole del gioco cambiano mentre giochi
 
-![](img/fluxx.jpg)
+![](img/fluxx.webp)
 
 

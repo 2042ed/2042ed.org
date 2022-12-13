@@ -18,6 +18,6 @@ merita.
 > *Fabio:*
 > bello viaggiare in tutto il mondo per fermare il virus
 
-![](img/pandemic.jpg)
+![](img/pandemic.webp)
 
 

@@ -13,5 +13,5 @@ url_game:
 
 gioco di parole a due squadre. divertente, concitante: devono indovinare i propri agenti segreti dal loro nome in codice, partendo da una parola "sinonimo o associata" proposta dal capo squadra. mi sorprende quanto piaccia!
 
-![](img/nome_in_codice.jpg)
+![](img/nome_in_codice.webp)
 

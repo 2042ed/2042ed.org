@@ -41,7 +41,7 @@ Ricordiamoci che oltre ai bugs (errori di produzione, malfunzionamenti tecnici o
 Vediamo alcuni elementi alla base del creare giochi.
 
 ### Il Flow
-![](_img/graph_flow.png)
+![](_img/graph_flow.webp)
 
 - perchè se il gioco è troppo facile, ti annoi
 - e se è troppo difficile?
@@ -79,7 +79,7 @@ Ad esempio se creo un mazzo di carte: come distribuisco le carte più potenti o 
 Se devo creare una serie di incontri sempre più coinvolgenti, difficili ma non impossibili, come distribuisco i vari punti forza e ferita?
 
 ### Insegnanti di Matematica
-![](_img/foto_riso_scacchiera.jpg)
+![](_img/foto_riso_scacchiera.webp)
 
 Se alcune basi di statistica sono essenziali, più in generale un buon progettista di giochi deve avere una buona dimestichezza con la matematica tutta. Quando progettiamo un gioco per bambini la cui tattica vincente è saper fare un po' di conto per calcolare la mossa migliore, noi dobbiamo essere i primi ad aver pensato a quel meccanismo matematico, e con un po' di pedagogia capire se un bambino di tot anni può maneggiare tali dati.
 Se creiamo un gioco con n parametri, devo sapere che se ne metto n+1 il gioco mi diventa impossibile perché le combinazioni aumentano in modo esponenziale.
@@ -149,7 +149,7 @@ Se non è divertente, non c'è coinvolgimento, non c'è partita.
 Ci possono essere mille tecniche e artifizi per rendere un gioco bello, l'esperienza completa e senza problemi di giocabilità. Ma alla fine quello che conta è se un giocatore avrà mai voglia di giocarlo il nostro gioco. E sopratutto *rigiocarlo* o consigliarlo agli amici. Qui entriamo nel mondo del divertimento e del coinvolgimento, che sono arti non codificabili esattamente e che non lo saranno mai, perché collegate all'ambiente sociale, alle mode, alla sensibilità e alla cultura del momento storico.  
 
 ## Studiare
-![](_img/studiare.jpg)
+![](_img/studiare.webp)
 
 Ah. Se poi i vostri figli vorranno fare il Game Designer di lavoro... sappiate (ma non ditelo subito) che c'è da studiare. e tanto. È un'arte così multidisciplinare che oltre alle questioni tecniche e tecnologiche è fondamentale una minima infarinatura di psicologia, pedagogia, biologia, comunicazione, filosofia, estetica, semiotica, politica, letteratura e tutto quant'altro possa servire per concepire e capire un'esperienza umana. Non deve spaventare tutto questo, anzi, potrebbe essere un valido stimolo per aprire un po' di libri e curiosare ovunque.
 

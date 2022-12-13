@@ -22,5 +22,5 @@ Che altro dire... le tessere e i personaggi, tutti bambini, sono ben fatte e "ca
 > *Stefano:*
 > Se poi piace il genere, fra un anno prendete Carcassonne il gioco completo!
 
-![](img/carcassonne_jr.jpg)
+![](img/carcassonne_jr.webp)
 

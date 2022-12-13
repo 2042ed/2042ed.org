@@ -20,5 +20,5 @@ l'ho studiato un po' e non è male neanche per gli adulti ogni tanto fare una pa
 > bello ottimizzare il proprio mazzo di carte, ci sono tantissimi Pokemon ognuno con sue abilità e mosse, e poi ci giocano tutti quindi è buono per farsi nuovi amici
 
 
-![](img/pokemon.jpg)
+![](img/pokemon.webp)
 

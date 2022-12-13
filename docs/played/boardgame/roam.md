@@ -18,5 +18,5 @@ grafica bellissima, meccaniche semplici con due livelli di difficoltà
 > mi piace che ogni personaggio abbia una sua propria mossa, ovvero territorio conquistabile
 
 
-![](img/roam.jpg)
+![](img/roam.webp)
 

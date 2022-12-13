@@ -20,6 +20,6 @@ Avventure piene di enigmi non banali da risolvere tutti insieme girando carta do
 > *Stefano:*
 > Per noi è un gioco importante perché ha "aperto" la fase di esplorazione dei giochi compatti in famiglia
 
-![](img/deckscape.jpg)
+![](img/deckscape.webp)
 
 

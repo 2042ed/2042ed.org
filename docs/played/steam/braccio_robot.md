@@ -10,6 +10,6 @@ url_game:
 ---
 #TODO/scrivere 
 
-![](img/steam_braccio_robot.jpg)
+![](img/steam_braccio_robot.webp)
 
 

@@ -18,5 +18,5 @@ di fatto si gioca tutti nella propria mente
 > *Fabio:*
 > mi piace il cercare con la mente di trovare il percorso migliore nel minor tempo possibile.
 
-![](img/rockrollrobot.jpg)
+![](img/rockrollrobot.webp)
 

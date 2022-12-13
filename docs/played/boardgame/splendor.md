@@ -24,5 +24,5 @@ Noi l'abbiamo giocato tanto anche sul tablet perché ci sono le missioni avanzat
 > *Stefano:*
 > Adoro gli Space Cowboys (game designers francesi)
 
-![](img/splendor.jpg)
+![](img/splendor.webp)
 
