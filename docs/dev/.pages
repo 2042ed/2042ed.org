@@ -1,6 +1,7 @@
 nav:
-    - ci
-    - ai
-    - g4c
-    - xr
-    - projects
+  - index.md
+  - ci
+  - ai
+  - g4c
+  - xr
+  - projects
