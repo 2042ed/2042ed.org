@@ -4,8 +4,37 @@ slug: played
 date: 2021-04-01
 type: 
 ---
-_giocare bene, imparare insieme_  
-Una piccola guida sul giocare bene, i giochi e i media validi, scritta da un genitore/sviluppatore/educatore appassionato.
-Un _libro_ riassume il potenziale delle esperienze ludiche, i meccanismi base dei giochi da tavolo e dei videogiochi, come vengono creati, come valutarli, come massimizzarli.    
-Un _database_ raccoglie la selezione dei giochi che ci hanno accompagnato in questi anni e raccontiamo cosa ci è piaciuto.  
-_Play Well, Die Happy!_  
+# PlayED: Database dei Giochi
+
+Questo _database_ raccoglie la selezione dei giochi che conosciamo e che ci sono piaciuti, con un commento dal punto di vista di un **genitore**, di un **figlio**, di un **educatore** e di uno **sviluppatore**.
+
+Per una descrizione di tutti i Tags e le Icone:
+
+## Scheda
+
+> **# Tag** sono le TAG di *categoria*  
+> 🧠 🧠 🗣 sono le *icone di gameplay*  
+> **2-8g** numero giocatori consigliati  
+> **5+** età minima o consigliata  
+> **1h** durata media di una partita  
+> **facile**: difficoltà  
+>**\[scheda\]** nella versione digitale è un link web di dettaglio
+
+
+## Tags
+
+Queste icone rappresentano:
+
+- 🧠 mentale / intellettuale / logico
+- 💭 ideazione / pensiero laterale
+- 📜 memoria e gestione del passato
+- 🔢 matematica
+- 🧡 emotivo / empatia / sentimenti
+- 🗣 parole e comunicazione
+- 💡 immaginazione / astrazione
+- 💪 motorio / destrezza
+- 👀 percezione / visione
+- 🛠 progettazione e costruzione
+- 🎲 casualità
+- 🎓 educativo
+- 🏆 nostro preferito
