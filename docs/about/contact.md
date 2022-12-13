@@ -1,9 +1,10 @@
-## Seguici su Telegram o Newsletter
-Se invece vuoi giusto iniziare a seguire le nostre attività:
+## Seguici su Telegram
+Se vuoi essere aggiornato velocemente sugli sviluppi di questo sito e sulle attività:
 
 <div class="grid cards" markdown>
 
-- :fontawesome-brands-telegram: **[Canale Telegram](https://t.me/org2042)**  
+- :fontawesome-brands-telegram: **[Canale Telegram](https://t.me/ed2042)**  
+- :fontawesome-brands-facebook: **[GitHub](https://facebook.com/StefanoCecere)**  
 
 </div>
 
