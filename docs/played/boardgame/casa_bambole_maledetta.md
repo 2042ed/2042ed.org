@@ -8,6 +8,7 @@ date: 2020-12-14
 lastmod: 
 url_game: 
 ---
+# Casa delle Bambole Maledetta
 > **#Escape #Family**  
 > 1-4g | 8+ | 3h | difficile | [scheda](https://www.boardgamegeek.com/boardgame/311686/escape-room-cursed-dollhouse)  
 

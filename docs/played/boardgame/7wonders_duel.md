@@ -8,6 +8,7 @@ date: 2020-12-14
 lastmod: 
 url_game: 
 ---
+# 7 Wonders duel 🏆
 > #Carte #2Giocatori #Storia #Compatto   
 > 2g | 9+ | 40m | medio | [scheda](https://boardgamegeek.com/boardgame/173346/7-wonders-duel)  
 {.boxGameDetail}

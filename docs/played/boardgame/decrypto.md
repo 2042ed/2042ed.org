@@ -8,6 +8,7 @@ date: 2020-12-14
 lastmod: 
 url_game: 
 ---
+# Decrypto
 > **#Party #Parole #TeamBuild**   
 > 4-8g | 8+ | 40m | facile | [scheda](https://www.boardgamegeek.com/boardgame/225694/decrypto)  
 

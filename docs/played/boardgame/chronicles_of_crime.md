@@ -8,6 +8,7 @@ date: 2020-12-14
 lastmod: 
 url_game: 
 ---
+# Chronicles of Crime
 > **#Deduzione #App**  
 > 2-4g | 10+ | 2h | medio | [scheda](https://boardgamegeek.com/boardgame/239188/chronicles-crime)  
 

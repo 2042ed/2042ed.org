@@ -8,6 +8,7 @@ date: 2020-12-14
 lastmod: 
 url_game: 
 ---
+# Dixit
 > **#Family #Party #Parole #Creatività #Award**   
 > 3-6g | 6+ | 30m | facile | [scheda](https://boardgamegeek.com/boardgame/39856/dixit)  
 

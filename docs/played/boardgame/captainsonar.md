@@ -8,6 +8,7 @@ date: 2020-12-14
 lastmod: 
 url_game: 
 ---
+# Captain Sonar 🗣
 > **#Collaborativo #Simulazione #TeamBuild**  
 > 4-8g | 11+ | 1m | medio | [scheda](https://boardgamegeek.com/boardgame/171131/captain-sonar)  
 

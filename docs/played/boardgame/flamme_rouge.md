@@ -8,6 +8,7 @@ date: 2020-12-14
 lastmod: 
 url_game: 
 ---
+# Flamme Rouge
 > **#Family #Sport #Award**   
 > 2-4g | 8+ | 40m | facile | [scheda](https://boardgamegeek.com/boardgame/172225/exploding-kittens)  
 

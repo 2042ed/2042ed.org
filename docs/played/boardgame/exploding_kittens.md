@@ -8,6 +8,7 @@ date: 2020-12-14
 lastmod: 
 url_game: 
 ---
+# Exploding Kittens 🏆
 > **#Family #Party #Award #Compatto**  
 > 2-6g | 6+ | 20m | facile | [scheda](https://boardgamegeek.com/boardgame/172225/exploding-kittens)  
 

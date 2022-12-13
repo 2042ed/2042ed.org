@@ -8,6 +8,7 @@ date: 2020-12-14
 lastmod: 
 url_game: 
 ---
+# Citadels
 > **#Family #Party #Award**  
 > 2-8g | 8+ | 45m | facile | [scheda](https://www.boardgamegeek.com/boardgame/205398/citadels)  
 

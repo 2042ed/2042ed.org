@@ -8,6 +8,7 @@ date: 2020-12-14
 lastmod: 
 url_game: 
 ---
+# 7th Continent
 > #English #Avventura #Solo #Collaborativo  
 > 1-4g | 10+ | medio | [scheda](https://boardgamegeek.com/boardgame/180263/7th-continent)  
 {.boxGameDetail}

@@ -8,6 +8,7 @@ date: 2020-12-14
 lastmod: 
 url_game: 
 ---
+# Boss Monster
 > **#Family**  
 > 2-4g | 7+ | 30m | facile | [scheda](https://www.boardgamegeek.com/boardgame/174973/boss-monster-2-next-level)  
 

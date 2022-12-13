@@ -8,6 +8,7 @@ date: 2020-12-14
 lastmod: 
 url_game: 
 ---
+# Arkham Horror - gioco di carte
 > **#Carte #Avventura #2Giocatori #Serie**  
 > 1-2g | 12+ | serie di 1h | medio | [scheda](https://www.boardgamegeek.com/boardgame/205637/arkham-horror-card-game)  
 

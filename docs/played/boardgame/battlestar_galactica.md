@@ -8,6 +8,7 @@ date: 2020-12-14
 lastmod: 
 url_game: 
 ---
+# Battlestar Galactica: Starship Battles
 > **#Spazio #Miniature**         
 > 2-4g | 10+ | 1h | medio-difficile | [scheda](https://www.boardgamegeek.com/boardgame/250821/battlestar-galactica-starship-battles-starter-set)  
 

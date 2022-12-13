@@ -8,6 +8,7 @@ date: 2020-12-14
 lastmod: 
 url_game: 
 ---
+# 3 Segreti
 > #Family #Deduzione #Collaborativo
 > 2-8g | 8+ | 10m | facile | [scheda](https://www.boardgamegeek.com/boardgame/218314/3-secrets)  
 {.boxGameDetail}

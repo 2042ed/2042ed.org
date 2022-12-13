@@ -10,6 +10,7 @@ featured: false
 draft: false
 url_game: 
 ---
+# Brainbox
 > #memoria #lingue
 > 1-5g | 5+ | 10m | facile | [scheda]()  
 {.boxGameDetail}

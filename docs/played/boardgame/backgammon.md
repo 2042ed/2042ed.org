@@ -8,6 +8,7 @@ date: 2020-12-14
 lastmod: 
 url_game: 
 ---
+# Backgammon
 > **##Family 🎲Dadi #2Giocatori**  
 > 2g | 8+ | 30m | facile | [scheda](https://www.boardgamegeek.com/boardgame/2397/backgammon)
 

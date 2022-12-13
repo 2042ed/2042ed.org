@@ -8,6 +8,7 @@ date: 2020-12-14
 lastmod: 
 url_game: 
 ---
+# Bang Dadi 🏆
 > **#Family #Party #🎲Dadi #Compatto**  
 > 4-8g | 7+ | 40m | facile | [scheda](https://boardgamegeek.com/boardgame/143741/bang-dice-game)  
 

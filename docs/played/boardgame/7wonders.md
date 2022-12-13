@@ -8,6 +8,7 @@ date: 2020-12-14
 lastmod: 
 url_game: 
 ---
+# 7 Wonders
 > #Award #Storia #Award 
 > 3-6g | 10+ | 30m | medio | [scheda](https://www.boardgamegeek.com/boardgame/68448/7-wonders)  
 {.boxGameDetail}

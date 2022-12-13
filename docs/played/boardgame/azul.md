@@ -10,6 +10,7 @@ featured: false
 draft: false
 url_game: 
 ---
+# Azul
 > #tag
 > 2-4g | 8+ | 30m | facile | [scheda](https://boardgamegeek.com/boardgame/230802/azul)  
 {.boxGameDetail}

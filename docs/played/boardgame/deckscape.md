@@ -8,6 +8,7 @@ date: 2020-12-14
 lastmod: 
 url_game: 
 ---
+# Deckscape 🏆
 > **#Family #Escape #Compatto**  
 > 2-6g | 7+ | 1h | facile | [scheda](https://boardgamegeek.com/boardgamefamily/48410/deckscape)  
 

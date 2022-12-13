@@ -8,6 +8,7 @@ date: 2020-12-14
 lastmod: 
 url_game: 
 ---
+# Carcassonne
 > **#Strategia #Award #Family**  
 > 2-4g | 8+ | 1.5h | medio | [scheda](https://www.boardgamegeek.com/boardgame/822/carcassonne)  
 

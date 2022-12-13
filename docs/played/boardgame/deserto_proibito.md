@@ -8,7 +8,7 @@ date: 2020-12-14
 lastmod: 
 url_game: 
 ---
-
+# Deserto Proibito 🏆
 > **#Family #Collaborativo #Strategia #Award**   
 > 2-4g | 7+ | 1h | facile | [scheda](https://boardgamegeek.com/boardgame/136063/forbidden-desert)  
 

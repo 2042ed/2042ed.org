@@ -8,6 +8,7 @@ date: 2020-12-14
 lastmod: 
 url_game: 
 ---
+# Exit - The Game
 > **#Escape #Collaborativo #Serie**   
 > 1-6g | 10+ | 1.5h | medio | [scheda](https://www.boardgamegeek.com/boardgamefamily/36963/series-exit-game)   
 
