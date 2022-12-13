@@ -4,6 +4,7 @@ Se vuoi essere aggiornato velocemente sugli sviluppi di questo sito e sulle atti
 <div class="grid cards" markdown>
 
 - :fontawesome-brands-telegram: **[Canale Telegram](https://t.me/ed2042)**  
+- :fontawesome-solid-envelope-open-text: **[Newsletter](https://tinyletter.com/2042ed)**  
 - :fontawesome-brands-facebook: **[GitHub](https://facebook.com/StefanoCecere)**  
 
 </div>
