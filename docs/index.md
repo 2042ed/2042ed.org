@@ -10,6 +10,10 @@ un'introduzione alle nuove tecnologie di sviluppo e progettazione per game desin
 
 <div class="grid cards" markdown>
 
+- :fontawesome-solid-book: [Ludosofia](ludosofia/index.md)  
+*manuale al giocare bene insieme*  
+- :fontawesome-solid-book: [PlayED](played/index.md)  
+*guida ai giochi intelligenti*  
 - :fontawesome-solid-book: [Intelligenza Collettiva e Sviluppo Distribuito](dev/ci/index.md)  
 *da Git all'immortalità* 
 - :fontawesome-solid-book: [Extended Reality](dev/xr/index.md)  
