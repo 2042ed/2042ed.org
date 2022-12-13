@@ -84,8 +84,8 @@ extra_css:
 
 extra:
   analytics:
-#    provider: google
-#    property: 
+    provider: google
+    property: G-FKCYXX74SX
   social:
     - icon: fontawesome/brands/telegram 
       link: https://t.me/org2042
