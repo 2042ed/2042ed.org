@@ -12,7 +12,7 @@ NB: il repository pubblico di questo libro è <https://github.com/2042ed/2042ed.
 - `mkdocs -h` - Print help message and exit.
 
 Install
-pip3 install mkdocs-material mkdocs-minify-plugin pillow cairosvg mkdocs-table-reader-plugin mkdocs-macros-plugin mkdocs-exclude
+pip3 install mkdocs-material mkdocs-minify-plugin pillow cairosvg mkdocs-table-reader-plugin mkdocs-macros-plugin mkdocs-exclude mkdocs-awesome-pages-plugin
 
 upgrade:  
 `pip3 install --upgrade mkdocs-material`
