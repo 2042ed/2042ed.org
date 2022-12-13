@@ -10,7 +10,7 @@ updated: 2022-03-22
 ---
 # Video e Youtube
 
-> #TODO/vignetta
+> TODO #TODO/vignetta  
 > - cosa stai facendo sul divano?
 > - penso a come scegliere
 > - a bravo filosofo... scegliere cosa?

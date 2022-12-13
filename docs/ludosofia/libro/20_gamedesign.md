@@ -10,7 +10,7 @@ updated: 2022-03-22
 ---
 # Game Design, ovvero creare giochi
 
-> #TODO/vignetta
+> TODO #TODO/vignetta  
 > - che fai?
 > - sto facendo un gioco
 > - sempre a giocare eh

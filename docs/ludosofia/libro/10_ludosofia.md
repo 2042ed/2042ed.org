@@ -1,5 +1,5 @@
 ---
-title: Ludosofia - giocare bene, imparare insieme
+title: Ludus e Sofia
 slug: ludosofia
 summary: "introduzione al gioco e all'atteggiamento ludico come strumenti positivi"
 date: 2021-04-01
@@ -8,8 +8,7 @@ tags: [PlayED]
 weight: 10
 updated: 2022-03-22
 ---
-# Ludosofia - giocare bene, imparare insieme
-## Ludus e Sofia
+# Ludus e Sofia
 
 > Ludo, dal latino *ludus* =  giocare  
 > Sofia, dal greco *sophia* = conoscenza
@@ -174,7 +173,7 @@ E non c’è libretto delle istruzioni su come diventare un bravo papà o mamma.
 
 ### Il Papà
 
-> #TODO/vignetta
+> TODO #TODO/vignetta  
 > Figlio attento a cosa fai!
 > Attento a cosa fai tu, Papà. Perché io seguo te
 

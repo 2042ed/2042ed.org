@@ -10,7 +10,7 @@ updated: 2022-03-22
 ---
 # Videogiochi
 
-> #TODO/vignetta 
+> TODO #TODO/vignetta   
 > 2020: smettila di fare fare videogiochi! ti rovini la vista!
 > 1600: smettila di leggere! ti rovini la vista!
 > 1400: smettila di osservare il cielo, ti rovini la vista!
