@@ -5,7 +5,8 @@ hide:
   - toc
 ᴴₒᴴₒᴴₒ: true
 ---
-# 2042ed - la scuola del futuro
+# 2042 - la scuola del futuro
+
 In questo sito troverai l'intersezione tra gioco, tecnologia, educazione, pedagogia.
 Che tu sia un game designer o un genitore, ami la filosofia o l'ingegneria, benvenuti.
 
