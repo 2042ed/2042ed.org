@@ -2,7 +2,7 @@ site_name: 2042 | giochi | educazione | tecnologia
 site_url: https://2042ed.org
 site_author: Stefano Cecere
 site_description: Uno spazio intersezione tra giochi, educazione, tecnologia. Per genitori, educatori, giocatori e sviluppatori.
-copyright: <a href="/about">Copyright (c) 2018-2022 Stefano Cecere | CC BY-NC-SA</a>
+copyright: <a href="/about">Copyright © 2018-2022 Stefano Cecere | CC BY-NC-SA</a>
 
 theme:
   name: material
@@ -75,6 +75,7 @@ plugins:
       glob:
         - "*/_local/*"
         - "*/_draft/*"
+  - glightbox
 
 repo_url: https://github.com/2042ed/2042ed.org
 edit_uri: edit/main/docs/
@@ -87,15 +88,15 @@ extra:
     provider: google
     property: G-FKCYXX74SX
   social:
-    - icon: fontawesome/brands/telegram 
+    - icon: fontawesome/brands/telegram
       link: https://t.me/ed2042
-    - icon: fontawesome/brands/discord 
+    - icon: fontawesome/brands/discord
       link: https://discord.gg/VUjgGtDgAh
-    - icon: fontawesome/brands/facebook 
+    - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/StefanoCecere
-    - icon: fontawesome/brands/github 
+    - icon: fontawesome/brands/github
       link: https://github.com/2042ed
   consent:
     title: Accettazione Cookie
-    description: >- 
+    description: >-
       Questo sito usa alcuni cookies per garantire la migliore esperienza di navigazione. Niente di speciale.
