@@ -4,7 +4,7 @@ slug: boardgames
 summary: scopriamo il mondo contemporaneo di cosa si può fare intorno ad un tavolo
 date: 2021-04-01
 type: book
-tags: [PlayED]
+tags: [Doc]
 weight: 30
 updated: 2022-03-22
 ---

@@ -4,7 +4,7 @@ slug: gamebooks
 summary: ovvero tutto ciò che non è un semplice libro ma neanche un mero gioco
 date: 2021-04-01
 type: book
-tags: [PlayED]
+tags: [Doc]
 weight: 40
 updated: 2022-03-22
 ---

@@ -1,11 +1,12 @@
 ---
-title: Micro Macro
-slug: micromacro
-summary: 
-categories: [boardgame]
-tags: [scheda_GdT,Award]
+title: micromacro
 date: 2021-02-17
 lastmod: 
+updated: 2022-12-15
+slug: micromacro
+summary: aguzza la vista e deduci...
+categories: [boardgame]
+tags: [Award, Family]
 
 template: played.html
 played_category: boardgame
@@ -30,6 +31,3 @@ played_url_play:
 #TODO/scrivere 
 
 > Fabio: davvero geniale
-{.boxFabio}
-
-{{< sc_gallery album="gallery" >}}

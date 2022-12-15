@@ -4,7 +4,7 @@ slug: ludosofia
 summary: "introduzione al gioco e all'atteggiamento ludico come strumenti positivi"
 date: 2021-04-01
 type: book
-tags: [PlayED]
+tags: [Doc]
 weight: 10
 updated: 2022-03-22
 ---

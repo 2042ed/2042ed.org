@@ -1,10 +1,11 @@
 ---
-title: Cascadia
-summary: 
-categories: [boardgame]
-tags: [Awards, Family]
+title: cascadia
 date: 2020-12-14
 lastmod: 
+updated: 2022-12-15
+summary: 
+categories: [boardgame]
+tags: [Award, Family]
 
 template: played.html
 played_category: boardgame

@@ -2,7 +2,7 @@
 title: Love Letter 🏆
 summary: 
 categories: [boardgame]
-tags: [Award, Family, Small]
+tags: [Award, Family, Compatto]
 date: 2020-12-14
 lastmod: 
 

@@ -1,8 +1,8 @@
 ---
 title: Bed in da House
 summary: gioco creato dai ragazzi alla GGJ 2019
-tags: ["jamurr", "GlobalGameJam", "KidsMakeGames"]
-categories: ["jamurr"]
+tags: [GlobalGameJam, KidsMakeGames, Progetto]
+categories: [jamurr]
 date: 2019-01-31
 url_code: https://github.com/jamurr/JAM.BedInDaHouse
 url_video: https://www.youtube.com/watch?v=s28Vm8gWLDg

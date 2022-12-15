@@ -66,7 +66,7 @@ https://www.youtube.com/watch?v=aircAruvnKk
 ## resources
 
 **introductions**
-- Una introduzione visuale al machine learning #top  
+- Una introduzione visuale al machine learning
   http://www.r2d3.us/una-introduzione-visuale-al-machine-learning-1/
 
 **video**

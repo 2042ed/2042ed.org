@@ -4,7 +4,7 @@ slug: resources
 summary: per approfondire
 date: 2021-04-01
 type: book
-tags: [PlayED]
+tags: [Doc]
 weight: 700
 updated: 2022-03-22
 ---

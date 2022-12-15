@@ -1,8 +1,8 @@
 ---
 title: Pandemic Legacy
-summary: 
+summary: salvare il mondo dalla pandemia ma.. con una storia intorno
 categories: [boardgame]
-tags: []
+tags: [Award, Legacy]
 date: 2020-12-14
 lastmod: 
 

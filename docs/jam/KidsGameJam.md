@@ -1,7 +1,7 @@
 ---
 title: Kids Game Jam
 summary: quando i ragazzi creano giochi
-tags: [jamurr, edu, workshop, "KidsGameJam", "steam", "kids", "game"]
+tags: [Workshop, KidsMakeGames]
 categories: course
 date: 2016-01-21
 updated: 2022-03-21

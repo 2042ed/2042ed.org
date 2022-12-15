@@ -4,7 +4,7 @@ slug: steam-hacking
 summary: Scienza, Arte e Tecnologia non sono mai stati così divertenti e accessibili
 date: 2021-04-01
 type: book
-tags: [PlayED]
+tags: [Doc]
 weight: 60
 updated: 2022-03-22
 ---

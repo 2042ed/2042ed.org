@@ -3,7 +3,7 @@ title: Minecraft 🏆
 slug: minecraft
 summary: 
 categories: [videogame]
-tags: [Award, Open, Build]
+tags: [Award, Sandbox, Build]
 date: 2020-12-14
 lastmod: 
 

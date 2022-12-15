@@ -4,7 +4,7 @@ slug: game-design
 summary: per conoscere una cosa è bene sapere come viene creata. Magari poi vi viene voglia di cimentarvi!
 date: 2021-04-01
 type: book
-tags: [PlayED]
+tags: [Doc]
 weight: 20
 updated: 2022-03-22
 ---

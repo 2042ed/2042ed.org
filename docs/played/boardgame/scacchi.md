@@ -3,7 +3,7 @@ title: Scacchi
 slug: scacchi
 summary: 
 categories: [boardgame]
-tags: [scheda_GdT,Kids]
+tags: [Kids]
 date: 2020-12-14
 lastmod: 
 

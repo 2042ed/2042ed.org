@@ -1,7 +1,7 @@
 ---
 title: Signals from URUK
 summary: un videogioco in AR per scoprire la storia
-tags: [jamurr, GlobalGameJam, KidsGameJam, AR]
+tags: [GlobalGameJam, KidsMakeGames, AR]
 categories: ["jamurr"]
 date: 2018-01-30
 url_code: https://github.com/StefanoCecere/SignalsFromUruk/

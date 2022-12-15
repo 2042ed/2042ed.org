@@ -3,7 +3,7 @@ title: Rock'n'Roll Robot 🏆
 slug: 
 summary: 
 categories: [boardgame]
-tags: [scheda_GdT,Award,Brain]
+tags: [Award,Brain]
 date: 2020-12-14
 lastmod: 
 

@@ -3,7 +3,7 @@ title: "Quest Pyramide"
 slug: piramid-quest
 summary: 
 categories: [boardgame]
-tags: [scheda_GdT]
+tags: []
 date: 2021-05-07T23:54:11+02:00
 lastmod: 
 featured: false

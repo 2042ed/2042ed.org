@@ -5,7 +5,7 @@ summary: su come imparare a giocare il proprio gioco velocemente
 date: 2021-04-01
 type: book
 categories: [PlayED]
-tags: [PlayED, vademecum]
+tags: [Guida]
 weight: 80
 updated: 2022-03-22
 ---

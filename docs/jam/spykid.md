@@ -2,7 +2,7 @@
 title: SpyKid
 summary: per diventare agenti segreti
 categories: jamurr
-tags: ["jamurr", KidsMakeGames]
+tags: [KidsMakeGames, Progetto]
 date: 2016-05-01
 url_code: "https://github.com/jamurr/JAM.SpyKid"
 ---

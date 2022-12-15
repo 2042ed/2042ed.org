@@ -4,7 +4,7 @@ slug: labs
 summary: ludici che abbiamo fatto e che potrebbero ispirare altri
 date: 2021-04-01
 type: book
-tags: [PlayED]
+tags: [Doc, Workshop]
 weight: 70
 updated: 2022-03-22
 ---

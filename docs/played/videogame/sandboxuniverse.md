@@ -3,7 +3,7 @@ title: Sandbox Universe 2
 slug: sandbox-universe
 summary: 
 categories: [videogame]
-tags: [Open, Spazio]
+tags: [Sandbox, Spazio]
 date: 2020-12-14
 lastmod: 
 

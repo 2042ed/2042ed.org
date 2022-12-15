@@ -2,7 +2,7 @@
 title: Quarto 🏆
 summary: il più semplice ma stimolante gioco da fare in due
 categories: [boardgame]
-tags: [Award, Due]
+tags: [Award, 2Giocatori]
 date: 2020-12-14
 lastmod: 
 

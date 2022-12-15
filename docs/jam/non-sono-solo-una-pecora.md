@@ -2,7 +2,7 @@
 title: Non sono solo una pecora
 summary: il primo gioco sviluppato da Papà e figlio (7anni)
 categories: jamurr
-tags: [jamurr, GlobalGameJam, KidsMakeGames]
+tags: [GlobalGameJam, KidsMakeGames, Progetto]
 date: 2016-01-31T00:00:00Z
 url_code: "https://github.com/jamurr/JAM.NotJustASheep"
 

@@ -3,7 +3,7 @@ title: Set & Match
 slug: set-match
 summary: 
 categories: [boardgame]
-tags: [scheda_GdT,sport]
+tags: [Sport, 2Giocaotori]
 date: 2021-02-17
 lastmod: 
 
@@ -30,4 +30,3 @@ played_url_play:
 #TODO/scrivere 
 
 > Fabio: gioco a tennis in casa con mio fratello
-{.boxFabio}

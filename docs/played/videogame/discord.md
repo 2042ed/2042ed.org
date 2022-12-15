@@ -6,12 +6,28 @@ categories: [tool]
 tags: [Tool, Team]
 date: 2020-12-14
 lastmod: 
-url_game: https://discord.com
+
+template: played.html
+played_category: videogame
+played_skills: []
+played_duration: 
+played_gameplay_complex: 
+played_gameplay_strategy: 
+played_gameplay_luck: 
+played_gameplay_interaction: 
+played_players: 
+played_age: 
+played_rank_edu: 
+played_rank_dev: 
+played_rank_kid: 
+played_preferred: 
+played_publisher: 
+played_year: 
+played_url_details: https://discord.com
+played_url_play: 
 ---
 
-> #tool #essential  
-> *PC / Mac / mobile*  | [discord.com/](https://discord.com)   
-{.boxGameDetail}
+> *PC / Mac / mobile* 
 
 ![](img/discord_logo.webp)
 la piattaforma di discussione indispensabile per tutti i videogiocatori e ragazzi. gratuita, semplice.

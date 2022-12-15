@@ -3,7 +3,7 @@ title: "Santorini 🏆"
 slug: santorini
 summary: 
 categories: [boardgame]
-tags: [scheda_GdT]
+tags: [Strategia, Astratto, Award]
 date: 2021-05-16T12:51:52+02:00
 lastmod: 
 featured: false
@@ -12,13 +12,13 @@ draft: false
 template: played.html
 played_category: boardgame
 played_skills: []
-played_duration: 
-played_gameplay_complex: 
+played_duration: 15
+played_gameplay_complex: 2
 played_gameplay_strategy: 
 played_gameplay_luck: 
 played_gameplay_interaction: 
-played_players: 
-played_age: 
+played_players: 2
+played_age: 8
 played_rank_edu: 
 played_rank_dev: 
 played_rank_kid: 
@@ -28,10 +28,6 @@ played_year:
 played_url_details: 
 played_url_play: 
 ---
-
-> #strategia #astratto #Award   
-> 2g | 8+ | 10m | facile | [scheda]()  
-{.boxGameDetail}
 
 per festeggiare ottimi voti, abbiamo inaugurato quello che è entrato subito nella Top5 dei giochi preferiti: Santorini
 così semplice che anche il cinquenne ci gioca dopo 30 secondi di spiegazioni (si tratta di muovere di una casella e alzare torri e vince il primo che sale al terzo livello), ma con una strategia che si inserisce mossa dopo mossa, tra la dama e gli scacchi.

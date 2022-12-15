@@ -3,7 +3,7 @@ title: Captain Sonar 🗣
 slug: 
 summary: 
 categories: [boardgame]
-tags: [scheda_GdT]
+tags: []
 date: 2020-12-14
 lastmod: 
 

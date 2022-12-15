@@ -1,13 +1,13 @@
 ---
 title: Videogiochi e Didattica
 slug: videogiochi-didattica
-summary: null
-date: 2021-04-01T00:00:00.000Z
+summary: 
+date: 2021-04-01
 type: book
 tags:
-  - PlayED
+  - Doc
 weight: 1000
-lastmod: 2021-10-28T12:10:23
+lastmod: 2021-10-28
 slides:
   theme: white
   highlight_style: github

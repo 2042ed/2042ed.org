@@ -27,7 +27,6 @@ played_url_details:
 played_url_play: 
 ---
 
-> **#Musica**  
 > iOS
 
 Non è un gioco.. ma ricordiamo che in inglese il verbo Play indica tanto il **giocare** quanto il **suonare** (uno strumento).
