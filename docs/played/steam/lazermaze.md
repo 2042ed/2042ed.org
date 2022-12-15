@@ -3,7 +3,7 @@ title: Laser Maze
 slug: 
 summary: 
 categories: [steam]
-tags: [scheda_STEAM]
+tags: []
 date: 2020-12-14
 lastmod: 
 

@@ -3,7 +3,7 @@ title: Realtà Aumentata
 slug: augmented-reality
 summary: 
 categories: [steam]
-tags: [scheda_STEAM,playED,AR]
+tags: [AR]
 date: 2020-12-14
 lastmod: 
 

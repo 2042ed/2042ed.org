@@ -3,7 +3,7 @@ title: "Animal Crossing"
 slug: animal-crossing
 summary: 
 categories: [videogame]
-tags: [scheda_Videogioco]
+tags: []
 date: 2020-12-14
 lastmod: 
 

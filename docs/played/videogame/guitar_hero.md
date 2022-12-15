@@ -3,7 +3,7 @@ title: Guitar Hero
 slug: guitar-hero
 summary: 
 categories: [videogame]
-tags: [scheda_Videogioco]
+tags: [Music]
 date: 2020-12-14
 lastmod: 
 

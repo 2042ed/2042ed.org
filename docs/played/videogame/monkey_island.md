@@ -3,7 +3,7 @@ title: Monkey Island
 slug: monkey-island
 summary: 
 categories: [videogame]
-tags: [scheda_Videogioco]
+tags: [Award, Fun]
 date: 2020-12-14
 lastmod: 
 

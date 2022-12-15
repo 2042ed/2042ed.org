@@ -3,7 +3,7 @@ title: Robot Mini Car
 slug: 
 summary: 
 categories: [steam]
-tags: [scheda_STEAM]
+tags: [Robots, Coding, Maker]
 date: 2020-12-14
 lastmod: 
 

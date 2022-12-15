@@ -3,7 +3,7 @@ title: Crazy Gear
 slug: crazy-gear
 summary: 
 categories: [videogame]
-tags: [scheda_Videogioco,puzzle, physics, kids]
+tags: [Puzzle, Kids]
 date: 2021-04-12
 lastmod: 
 

@@ -25,7 +25,7 @@ played_url_details: https://boardgamegeek.com/boardgame/310448/zombie-teenz-evol
 played_url_play: 
 ---
 
-Si può combinare con [Zombie Kids](../boardgame_kids/zombie_kids_evolution.md) per un gioco stratosferico.
+Si può combinare con [Zombie Kids](zombie-kids-evolution.md) per un gioco stratosferico.
 
 I ragazzi lo hanno eletto loro gioco preferito.
 

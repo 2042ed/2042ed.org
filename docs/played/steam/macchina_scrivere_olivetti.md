@@ -1,9 +1,9 @@
 ---
-title: Macchina da Scrivere
+title: Macchina da Scrivere 🏆
 slug: 
 summary: 
 categories: [steam]
-tags: [scheda_STEAM, Olivetti]
+tags: [Award]
 date: 2020-12-14
 lastmod: 
 

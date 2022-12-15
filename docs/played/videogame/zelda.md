@@ -3,7 +3,7 @@ title: Zelda 🏆
 slug: zelda
 summary: 
 categories: [videogame]
-tags: [scheda_Videogioco,Award,Adventure]
+tags: [Award,Adventure, Open]
 date: 2020-12-14
 lastmod: 
 

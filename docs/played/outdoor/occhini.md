@@ -3,7 +3,7 @@ title: Occhini
 slug: 
 summary: 
 categories: [outdoor]
-tags: [scheda_Outdoor]
+tags: [Ovunque]
 date: 2020-12-14
 lastmod: 
 

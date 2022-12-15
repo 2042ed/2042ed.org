@@ -3,7 +3,7 @@ title: Mario Maker 2
 slug: mario-maker
 summary: 
 categories: [videogame]
-tags: [scheda_Videogioco]
+tags: [Maker]
 date: 2020-12-14
 lastmod: 
 

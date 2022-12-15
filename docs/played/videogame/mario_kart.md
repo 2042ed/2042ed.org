@@ -3,7 +3,7 @@ title: Mario Kart
 slug: mario-kart
 summary: 
 categories: [videogame]
-tags: [scheda_Videogioco]
+tags: [Fun]
 date: 2020-12-14
 lastmod: 
 

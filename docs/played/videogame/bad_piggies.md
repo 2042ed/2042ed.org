@@ -3,7 +3,7 @@ title: Bad Piggies
 slug: bad-piggies
 summary: 
 categories: [videogame]
-tags: [scheda_Videogioco, steam]
+tags: [Build, Maker]
 date: 2020-12-14
 lastmod: 
 

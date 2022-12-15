@@ -3,7 +3,7 @@ title: Arduino
 slug: arduino
 summary: 
 categories: [steam]
-tags: [scheda_STEAM]
+tags: [Maker, Robot]
 date: 2020-12-14
 lastmod: 
 

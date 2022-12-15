@@ -3,7 +3,7 @@ title: "Assassin's Creed"
 slug: assassin-creed
 summary: 
 categories: [videogame]
-tags: [scheda_Videogioco,Award,Storia]
+tags: [Award,Storia]
 date: 2020-12-14
 lastmod: 
 

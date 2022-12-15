@@ -3,7 +3,7 @@ title: Construction Simulator
 slug: construction-simulator
 summary: 
 categories: [videogame]
-tags: [scheda_Videogioco]
+tags: [Build]
 date: 2020-12-14
 lastmod: 
 

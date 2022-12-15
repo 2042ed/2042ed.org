@@ -1,9 +1,9 @@
 ---
-title: Kerbal Space Academy
+title: Kerbal Space Academy 🏆
 slug: kerbal
 summary: 
 categories: [videogame]
-tags: [Spazio, Simulazione, STEAM, Award]
+tags: [Award, Spazio, Simulazione]
 date: 2020-12-14
 lastmod: 
 

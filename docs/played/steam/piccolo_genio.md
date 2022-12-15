@@ -3,7 +3,7 @@ title: Piccolo Genio e Gioco Scienza
 slug: piccolo-genio
 summary: 
 categories: [steam]
-tags: [scheda_STEAM]
+tags: []
 date: 2020-12-14
 lastmod: 
 

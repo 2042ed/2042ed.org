@@ -1,9 +1,9 @@
 ---
-title: Braid
+title: Braid 🏆
 slug: braid
 summary: 
 categories: [videogame]
-tags: [scheda_Videogioco]
+tags: [Award]
 date: 2020-12-14
 lastmod: 
 

@@ -3,7 +3,7 @@ title: Simple Planes
 slug: simple-planes
 summary: 
 categories: [videogame]
-tags: [scheda_Videogioco]
+tags: [Simulator]
 date: 2020-12-14
 lastmod: 
 

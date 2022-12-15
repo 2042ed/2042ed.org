@@ -3,7 +3,7 @@ title: Montessori Preschool di Edoki Academy
 slug: montessori-edoki
 summary: 
 categories: [videogame]
-tags: [scheda_Videogioco, school, kids]
+tags: [Kids, Edu]
 date: 2021-04-12
 lastmod: 
 

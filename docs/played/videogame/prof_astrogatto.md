@@ -3,7 +3,7 @@ title: Il Sistema Solare – Professor Astro Gatto
 slug: prof-astrogatto
 summary: 
 categories: [videogame]
-tags: [scheda_Videogioco, space, kids]
+tags: [Spazio, Kids]
 date: 2021-04-12
 lastmod: 
 

@@ -3,7 +3,7 @@ title: Just Dance
 slug: just-dance
 summary: 
 categories: [videogame]
-tags: [scheda_Videogioco]
+tags: [Party, Gym]
 date: 2020-12-14
 lastmod: 
 

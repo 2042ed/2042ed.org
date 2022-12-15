@@ -3,7 +3,7 @@ title: Braccio Robot
 slug: robot-arm
 summary: 
 categories: [steam]
-tags: [scheda_STEAM]
+tags: [Robot]
 date: 2020-12-14
 lastmod: 
 

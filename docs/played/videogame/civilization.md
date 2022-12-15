@@ -3,7 +3,7 @@ title: Civilization
 slug: civilization
 summary: 
 categories: [videogame]
-tags: [scheda_Videogioco]
+tags: [Storia]
 date: 2020-12-14
 lastmod: 
 

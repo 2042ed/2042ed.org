@@ -1,9 +1,9 @@
 ---
 title: Magica Voxel
-slug: 
+slug: modellazione 3D semplice per tutti
 summary: 
 categories: [steam]
-tags: [scheda_STEAM]
+tags: [Creare]
 date: 2020-12-14
 lastmod: 
 

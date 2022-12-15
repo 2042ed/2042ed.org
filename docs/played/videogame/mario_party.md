@@ -3,7 +3,7 @@ title: Mario Party
 slug: mario-party
 summary: 
 categories: [videogame]
-tags: [scheda_Videogioco]
+tags: []
 date: 2020-12-14
 lastmod: 
 

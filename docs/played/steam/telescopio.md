@@ -3,7 +3,7 @@ title: Telescopio
 slug: telescopio
 summary: 
 categories: [steam]
-tags: [scheda_STEAM, astronomia]
+tags: [Tool, Spazio]
 date: 2020-12-14
 lastmod: 
 

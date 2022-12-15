@@ -3,7 +3,7 @@ title: Among Us
 slug: among-us
 summary: 
 categories: [videogame]
-tags: [scheda_Videogioco,Award,Party]
+tags: [Award,Party]
 date: 2020-12-14
 lastmod: 
 

@@ -3,7 +3,7 @@ title: Piante contro Zombies
 slug: plants-vs-zombies
 summary: 
 categories: [videogame]
-tags: [scheda_Videogioco]
+tags: [Award, Tablet]
 date: 2020-12-14
 lastmod: 
 

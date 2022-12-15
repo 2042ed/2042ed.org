@@ -3,7 +3,7 @@ title: Endless Alphabet
 slug: endless-alphabet
 summary: 
 categories: [videogame]
-tags: [scheda_Videogioco,language, kids]
+tags: [Language, Kids]
 date: 2021-04-12
 lastmod: 
 

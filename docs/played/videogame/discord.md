@@ -3,7 +3,7 @@ title: Discord
 slug: discord
 summary: 
 categories: [tool]
-tags: [scheda_Videogioco]
+tags: [Tool, Team]
 date: 2020-12-14
 lastmod: 
 url_game: https://discord.com

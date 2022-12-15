@@ -1,9 +1,9 @@
 ---
 title: Torneo Ping Pong
-slug: pingpong-torneo
+slug: pingpong
 summary: 
 categories: [outdoor]
-tags: [scheda_Outdoor]
+tags: [Sport]
 date: 2020-12-14
 lastmod: 
 

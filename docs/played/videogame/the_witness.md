@@ -3,7 +3,7 @@ title: The Witness 🏆
 slug: the-witness
 summary: 
 categories: [videogame]
-tags: [scheda_Videogioco]
+tags: [Award, Puzzle]
 date: 2020-12-14
 lastmod: 
 

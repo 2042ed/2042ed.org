@@ -1,9 +1,9 @@
 ---
-title: Tabella Elementi Chimici
+title: Tabella Elementi Chimici 🏆
 slug: 
 summary: 
 categories: [steam]
-tags: [scheda_STEAM, STEAM]
+tags: [Kids, Free, Award]
 date: 2020-12-14
 lastmod: 
 

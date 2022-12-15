@@ -3,7 +3,7 @@ title: Mammiferi
 slug: mammiferi
 summary: 
 categories: [videogame]
-tags: [scheda_Videogioco,animals, kids]
+tags: [Kids, Edu, Nature]
 date: 2021-04-12
 lastmod: 
 

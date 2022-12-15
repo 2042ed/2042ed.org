@@ -3,7 +3,7 @@ title: GarageBand
 slug: garageBand
 summary: 
 categories: [steam]
-tags: [scheda_STEAM, music, tool]
+tags: [Music]
 date: 2020-12-14
 lastmod: 
 

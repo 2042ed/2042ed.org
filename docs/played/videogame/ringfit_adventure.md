@@ -1,9 +1,9 @@
 ---
-title: Ring Fit Adventure
+title: Ring Fit Adventure 🏆
 slug: ring-fit-adventure
 summary: 
 categories: [videogame]
-tags: [scheda_Videogioco]
+tags: [Award, Gym]
 date: 2020-12-14
 lastmod: 
 
@@ -21,7 +21,7 @@ played_rank_edu:
 played_rank_dev: 
 played_rank_kid: 
 played_preferred: 
-played_publisher: 
+played_publisher: Nintendo
 played_year: 
 played_url_details: 
 played_url_play: 

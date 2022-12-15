@@ -3,7 +3,7 @@ title: Pokemon Go
 slug: pokemon-go
 summary: 
 categories: [outdoor]
-tags: [scheda_Outdoor]
+tags: [Geo]
 date: 2020-12-14
 lastmod: 
 

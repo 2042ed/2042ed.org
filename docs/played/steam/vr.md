@@ -1,9 +1,9 @@
 ---
 title: Realtà Virtuale
-slug: virtual-reality
+slug: vr
 summary: 
 categories: [steam]
-tags: [STEAM,VR]
+tags: [VR]
 date: 2020-12-14
 lastmod: 
 

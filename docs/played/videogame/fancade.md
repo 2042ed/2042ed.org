@@ -1,9 +1,9 @@
 ---
-title: Fancade
+title: Fancade 🏆
 slug: fancade
 summary: 
 categories: [videogame]
-tags: [scheda_Videogioco]
+tags: [Award, Kids, Puzzle]
 date: 2020-12-14
 lastmod: 
 

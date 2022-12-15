@@ -3,7 +3,7 @@ title: Minecraft 🏆
 slug: minecraft
 summary: 
 categories: [videogame]
-tags: [scheda_Videogioco,Award]
+tags: [Award, Open, Build]
 date: 2020-12-14
 lastmod: 
 
@@ -20,7 +20,7 @@ played_age:
 played_rank_edu: 
 played_rank_dev: 
 played_rank_kid: 
-played_preferred: 
+played_preferred: 1
 played_publisher: 
 played_year: 
 played_url_details: 

@@ -3,7 +3,7 @@ title: Microscopio
 slug: microscopio
 summary: 
 categories: [steam]
-tags: [scheda_STEAM]
+tags: [Tool]
 date: 2021-04-03
 lastmod: 
 

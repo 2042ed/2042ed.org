@@ -3,7 +3,7 @@ title: Cane Magic Zero
 slug: cane-magic-zero
 summary: 
 categories: [videogame]
-tags: [scheda_Videogioco]
+tags: [Kids]
 date: 2020-12-14
 lastmod: 
 

@@ -1,9 +1,9 @@
 ---
-title: World of Goo
+title: World of Goo 🏆
 slug: world-of-goo
 summary: 
 categories: [videogame]
-tags: [scheda_Videogioco, creativita]
+tags: [Award, Kids, Build]
 date: 2020-12-14
 lastmod: 
 

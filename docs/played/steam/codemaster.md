@@ -3,7 +3,7 @@ title: Code Master
 slug: code-master
 summary: 
 categories: [steam]
-tags: [scheda_STEAM, STEAM, coding, kids]
+tags: [Coding, Kids]
 date: 2020-12-14
 lastmod: 
 

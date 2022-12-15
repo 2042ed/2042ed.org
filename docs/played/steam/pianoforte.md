@@ -3,7 +3,7 @@ title: Pianoforte
 slug: piano
 summary: 
 categories: [steam]
-tags: [scheda_STEAM]
+tags: [Music]
 date: 2020-12-14
 lastmod: 
 

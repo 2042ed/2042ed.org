@@ -3,7 +3,7 @@ title: Hoopa City
 slug: hoopa-city
 summary: 
 categories: [videogame]
-tags: [scheda_Videogioco, vg/sandbox, kids]
+tags: [Open, Kids]
 date: 2021-04-12
 lastmod: 
 

@@ -3,7 +3,7 @@ title: Mario Odyssey 🏆
 slug: mario-odyssey
 summary: 
 categories: [videogame]
-tags: [scheda_Videogioco]
+tags: [Award]
 date: 2020-12-14
 lastmod: 
 

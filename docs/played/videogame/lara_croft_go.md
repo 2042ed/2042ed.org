@@ -3,7 +3,7 @@ title: Lara Croft GO
 slug: lara-croft-go
 summary: 
 categories: [videogame]
-tags: [scheda_Videogioco]
+tags: [Puzzle, Tablet]
 date: 2020-12-14
 lastmod: 
 

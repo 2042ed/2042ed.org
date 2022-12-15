@@ -18,7 +18,7 @@ presentation:
 
 Alcuni appunti sul tema videogiochi usati in ambito educativo e scolastico
 
-![](../../played/boardgame_kids/img/battlechess.webp)
+![](../../played/boardgame/img/battlechess.webp)
 
 ## Introduzione
 

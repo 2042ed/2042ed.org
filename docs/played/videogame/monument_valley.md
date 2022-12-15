@@ -3,7 +3,7 @@ title: Monument Valley 🏆
 slug: monument-valley
 summary: 
 categories: [videogame]
-tags: [scheda_Videogioco]
+tags: [Award, Tablet, Puzzle]
 date: 2020-12-14
 lastmod: 
 

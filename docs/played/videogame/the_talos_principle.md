@@ -3,7 +3,7 @@ title: The Talos Principle
 slug: the-talos-principle
 summary: 
 categories: [videogame]
-tags: [scheda_Videogioco]
+tags: [Puzzle]
 date: 2020-12-14
 lastmod: 
 
