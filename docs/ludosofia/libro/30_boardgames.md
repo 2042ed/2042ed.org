@@ -235,3 +235,21 @@ Così giusto per iniziare, se non li avete, con questi si va sul sicuro e costan
 - in due: 7 Wonders duel, Star Realms
 - con piccoli di 5 anni: Labirinto Magico, Rhino Hero Battles, Zombie Kids Evolution
 - in famiglia: Deckscape, Deserto Proibito, Kingdomino, Hanabi, Splendor, Sushi Go, The Mind
+
+## Cose da NON fare quando si gioca
+1. arrivare sempre in ritardo a giocare, farsi aspettare
+2. stare al telefonino mentre si gioca
+3. piegare le carte
+4. giocare con le mani sporche
+5. chiacchierare mentre si spiegano le regole
+6. stare ore a pensare durante il proprio turno
+7. non saper perdere
+8. non aiutare a sistemare il tavolo dopo la partita
+
+## Come spiegare bene le regole di un gioco
+1. definire subito l'obiettivo finale
+2. fare una panoramica di tutti gli elementi del gioco
+3. quali sono le azioni che un giocatore può fare?
+4. spiegare i casi particolari
+5. simulare un turno di gioco
+6. 

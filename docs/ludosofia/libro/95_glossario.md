@@ -224,11 +224,14 @@ Deck building
 Escape / Escape Room
 : risolvere enigmi per uscire dalla situazione ed avanzare.
 
+Eurogame
+: vedi *German*
+
 Family
 : da intavolare con chi c'è: donne, arrotini, bambini, ragazzi, nonni e nonne, perché facili divertenti e brevi
 
 Filler
-: gioco in scatola di breve durata, per riempire i momenti vuoti o di pausa
+: gioco in scatola di breve durata (di solito 15 minuti), per riempire i momenti vuoti o di pausa
 
 Kickstarter
 : la più importante piattaforma mondiale di crowdfunding.
@@ -237,7 +240,8 @@ Legacy
 : Giochi che nel corso delle partite modificano permanentemente le regole o il setup
 
 German
-: tipologia di giochi generalmente con regole semplici e astratte, ovvero con particolarmente immersivi, per lavorare più di strategia e con poca aleatoria
+: tipologia di giochi generalmente con regole semplici e astratte, ovvero con particolarmente immersivi, per lavorare più di strategia e con poca aleatoria.
+Si differenziano dagli *American*
 
 Gestionali
 : Dove la gestione delle risorse e il loro impiego per sviluppare la propria fazione è predominante rispetto al conflitto / combattimento con gli altri giocatori
@@ -284,8 +288,14 @@ Party
 Peso
 : livello di difficoltà di un gioco. Un peso *medio* si colloca sopra i fillers e i family, e un peso alto sono i giochi complessi con durata di almeno due ore
 
-Print & Play
+Print & Play / PnP
 : gioco che puoi scaricare da internet come un PDF da stampare
+
+Push your Luck
+: il giocatore deve fare una sequenza di scelte molto rischiose e decidere quando fermarsi prima che sia troppo tardi.
+
+Roll & Write
+: ognuno ha un foglio che deve riempire, che siano i numeri di dadi o il posizionamento di elementi
 
 Scalabilità
 : la capacità di un gioco di adattarsi ed essere ben giocabile con un diverso numero di giocatori.. tipo un gioco da 2 scalare a 5 giocatori.
@@ -301,6 +311,9 @@ Strategia
 
 Tempi morti
 : tempo di attesa per i giocatori che non stanno svolgendo il proprio turno. Più sono lunghi (magari a causa della *Paralisi da analisi*) più diventano noisi sopratutto per i più giovani
+
+Worker Placement
+: non tanto il posizionare lavoratori, quanto che i giocatori hanno a disposizione un unico insieme di azioni da cui scegliere (escludendo la possibilità ad altri di effettuare quell'azione nello stesso round)
 
 ## Glossario STEAM
 

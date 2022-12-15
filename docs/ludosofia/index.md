@@ -8,6 +8,8 @@ updated: 2022-03-22
 ---
 # Ludosofia - giocare bene, imparare insieme
 
+![](libro/_img/cover_ludosofia_featured.webp)
+
 Una piccola guida sul giocare bene, i giochi e i media validi, scritta da un genitore/sviluppatore/educatore appassionato. In questa sezione troverai:
 
 ## Libro
@@ -15,7 +17,7 @@ Una piccola guida sul giocare bene, i giochi e i media validi, scritta da un gen
 
 ## Studi e Approfondimenti
 
-## PlayED databse dei giochi
+## PlayED database dei giochi
 Il database [PlayED](../played/index.md) raccoglie la selezione dei giochi che ci hanno accompagnato in questi anni e raccontiamo cosa ci è piaciuto.
 
 _Play Well, Die Happy!_
