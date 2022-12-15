@@ -1,9 +1,9 @@
 ---
 title: Autobus Magico
 slug: 
-description: ""
+description: "fantastico"
 categories: [media]
-tags: [Award, TV]
+tags: [Award, TV, STEAM]
 date: 2020-12-14
 lastmod: 
 
@@ -16,16 +16,13 @@ played_gameplay_luck:
 played_gameplay_interaction: 
 
 played_preferred: 
-played_rank_edu: 
-played_rank_dev: 
-played_rank_kid: played_players: 
-played_age: 
-played_duration: 
 played_rank_edu: 10
 played_rank_dev: 
 played_rank_kid: 
 
-played_preferred: 
+played_players: 
+played_age: 
+played_duration: 
 
 played_publisher: 
 played_year: 

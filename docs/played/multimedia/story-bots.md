@@ -1,9 +1,9 @@
 ---
 title: Story Bots 🏆
-slug: 
-description: ""
+slug: story-bots
+description: "cartoni che spiegano tutto"
 categories: [media]
-tags: [TV, Award, Kids]
+tags: [TV, Award, Kids, STEAM]
 date: 2020-12-14
 lastmod: 
 
@@ -15,13 +15,14 @@ played_gameplay_strategy:
 played_gameplay_luck: 
 played_gameplay_interaction: 
 
-played_preferred: 
+played_preferred: 10
 played_rank_edu: 
 played_rank_dev: 
-played_rank_kid: played_players: 
+played_rank_kid: 
+
+played_players: 
 played_age: 
 played_duration: 
-
 
 played_publisher: 
 played_year: 

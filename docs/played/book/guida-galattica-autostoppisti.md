@@ -18,7 +18,9 @@ played_gameplay_interaction:
 played_preferred: 
 played_rank_edu: 
 played_rank_dev: 
-played_rank_kid: played_players: 
+played_rank_kid: 
+
+played_players: 
 played_age: 
 played_duration: 
 

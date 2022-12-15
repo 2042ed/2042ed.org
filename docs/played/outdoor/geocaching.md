@@ -18,17 +18,17 @@ played_gameplay_interaction:
 played_preferred: 
 played_rank_edu: 
 played_rank_dev: 
-played_rank_kid: played_players: 
+played_rank_kid: 
+
+played_players: 
 played_age: 
 played_duration: 
-
 
 played_publisher: 
 played_year: 
 played_url_details: 
 played_url_play: 
 ---
-
 
 - ho un pò paura ad infilare la mano lì dentro
 - "la paura uccide la mente". non aver paura. (e tranquillo ho già verificato che non ci siano vipere 🐍
