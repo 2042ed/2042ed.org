@@ -21,7 +21,7 @@ Per una descrizione di tutti i Tags e le Icone:
 >**\[scheda\]** nella versione digitale è un link web di dettaglio
 
 
-## Tags
+## Legenda dei simboli 
 
 Queste icone rappresentano:
 
