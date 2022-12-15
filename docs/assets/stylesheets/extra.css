@@ -27,9 +27,13 @@ hr {
 
 [data-md-color-scheme="default"] {
     --md-primary-fg-color:        #007C77;
+    --md-primary-fg-color--light: #007C77;
+    --md-primary-fg-color--dark: #007C77;
+    --md-accent-fg-color: #FF9400;
 }
 [data-md-color-scheme="slate"] {
     --md-primary-fg-color:        #007C77;
+    --md-accent-fg-color: #FF9400;
 }
 
 [data-md-color-scheme="default"] .md-typeset h1 {
