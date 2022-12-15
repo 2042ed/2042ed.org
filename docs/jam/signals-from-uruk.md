@@ -36,10 +36,10 @@ con Pietro Polsinelli e un grazie estremamente pieno di complimenti a Michele M.
 
 PS: grazie anche a Stratagemma per esistere verremo presto a far provare il gioco
 
-![](img/signalsfromuruk_photo_1.webp)
-![](img/signalsfromuruk_photo_2.webp)
-![](img/signalsfromuruk_photo_3.webp)
-![](img/signalsfromuruk_photo_4.webp)
-![](img/signalsfromuruk_photo_5.webp)
-![](img/signalsfromuruk_photo_6.webp)
+![](img/signalsfromuruk_photo_1.webp){: style="height:150px"}
+![](img/signalsfromuruk_photo_2.webp){: style="height:150px"}
+![](img/signalsfromuruk_photo_3.webp){: style="height:150px"}
+![](img/signalsfromuruk_photo_4.webp){: style="height:150px"}
+![](img/signalsfromuruk_photo_5.webp){: style="height:150px"}
+![](img/signalsfromuruk_photo_6.webp){: style="height:150px"}
 

@@ -29,10 +29,10 @@ To showcase the game at the jam we recorded this short video:
 <https://www.youtube.com/watch?v=s28Vm8gWLDg>
 
 ## Some Photos
-![](img/bedindahouse_screenshot.webp)
-![](img/bedindahouse_screenshot2.webp)
-![](img/bedindahouse_team_at_work.webp)
-![](img/bedindahouse_team42.webp)
+![](img/bedindahouse_screenshot.webp){: style="height:200px"}
+![](img/bedindahouse_screenshot2.webp){: style="height:200px"}
+![](img/bedindahouse_team_at_work.webp){: style="height:200px"}
+![](img/bedindahouse_team42.webp){: style="height:200px"}
 
 ## Requirements
 The game runs almost everywhere, it's a simple Unity 2018.3 project.  

@@ -26,21 +26,21 @@ Infine revisionato e ultimato via internet in qualche pomeriggio di pioggia da S
 
 ## Presentazione
 
-![](img/7frames_01.webp)
-![](img/7frames_02.webp)
-![](img/7frames_03.webp)
-![](img/7frames_04.webp)
-![](img/7frames_05.webp)
-![](img/7frames_06.webp)
-![](img/7frames_07.webp)
-![](img/7frames_08.webp)
-![](img/7frames_09.webp)
-![](img/7frames_10.webp)
-![](img/7frames_11.webp)
-![](img/7frames_12.webp)
-![](img/7frames_13.webp)
-![](img/7frames_14.webp)
-![](img/7frames_15.webp)
+![](img/7frames_01.webp){: style="height:150px"}
+![](img/7frames_02.webp){: style="height:150px"}
+![](img/7frames_03.webp){: style="height:150px"}
+![](img/7frames_04.webp){: style="height:150px"}
+![](img/7frames_05.webp){: style="height:150px"}
+![](img/7frames_06.webp){: style="height:150px"}
+![](img/7frames_07.webp){: style="height:150px"}
+![](img/7frames_08.webp){: style="height:150px"}
+![](img/7frames_09.webp){: style="height:150px"}
+![](img/7frames_10.webp){: style="height:150px"}
+![](img/7frames_11.webp){: style="height:150px"}
+![](img/7frames_12.webp){: style="height:150px"}
+![](img/7frames_13.webp){: style="height:150px"}
+![](img/7frames_14.webp){: style="height:150px"}
+![](img/7frames_15.webp){: style="height:150px"}
 
 ## Produzione
 nella prima parte della giornata abbiamo spiegato come avremmo lavorato e poi insieme creato i flussi del gioco. tutti i documenti finali sono nelle [Docs del progetto](https://github.com/jamurr/JAM.7FRAMES/tree/master/docs)
