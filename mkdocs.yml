@@ -57,14 +57,14 @@ plugins:
       lang: it
   - social:
       cards_color:
-        fill: "#007C77" 
+        fill: "#007C77"
         text: "#FFFFFF"
 #  - table-reader
   - minify:
       minify_html: true
   - awesome-pages
   - tags:
-      tags_file: about/tags.md
+      tags_file: played/tags.md
   - git-revision-date-localized:
       type: date
       locale: it
