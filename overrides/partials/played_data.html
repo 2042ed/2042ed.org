@@ -1,6 +1,7 @@
 
+{% if page.meta.summary %}
 <p>{{ page.meta.summary }}</p>
-
+{% endif %}
 <table>
 <tr><td>Categoria</td><td>
     <span class="md-tag">{{ page.meta.played_category }}</span>

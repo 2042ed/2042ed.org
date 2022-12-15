@@ -2,7 +2,7 @@
 title: BuboLibro - un regalo speciale
 summary: "la storia della creazione di un libro avventura per bambini, da fratello a fratello"
 authors: []
-tags: ["librogame", "kidsmakegames"]
+tags: [Librogame, KidsMakeGames]
 categories: ["KidsMakeGames"]
 date: 2020-11-16
 

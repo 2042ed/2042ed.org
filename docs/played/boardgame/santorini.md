@@ -1,13 +1,11 @@
 ---
 title: "Santorini 🏆"
 slug: santorini
-summary: 
+description: ""
 categories: [boardgame]
-tags: [Strategia, Astratto, Award]
+tags: [Strategia, Award, 2Giocatori]
 date: 2021-05-16T12:51:52+02:00
 lastmod: 
-featured: false
-draft: false
 
 template: played.html
 played_category: boardgame
@@ -17,12 +15,16 @@ played_gameplay_complex: 2
 played_gameplay_strategy: 
 played_gameplay_luck: 
 played_gameplay_interaction: 
-played_players: 2
-played_age: 8
+
+played_preferred: 9
 played_rank_edu: 
 played_rank_dev: 
 played_rank_kid: 
-played_preferred: 
+
+played_players: 2
+played_age: 8
+played_duration: 30
+
 played_publisher: 
 played_year: 
 played_url_details: 
@@ -35,8 +37,6 @@ mi ha davvero sorpreso come in pochi minuti fossimo già a un livello di tattica
 e non abbiamo usato le carte “dei” delle regole avanzate che danno super poteri ovvero mosse speciali. 
 ottimo in due giocatori ma anche in 3 o 4.
 ovviamente ha vinto Fabio. ma con le partite che durano 10 minuti una tira l’altra. 
-
-voto: 9
 
 > *Fabio:* bello perchè veloce ma ti fa pensare
 {.boxFabio}

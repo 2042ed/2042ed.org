@@ -1,34 +1,34 @@
 ---
 title: Sherlock
 slug: 
-summary: 
+description: ""
 categories: [boardgame]
-tags: []
+tags: [Deduzione, Collaborativo ,Compatto ,Serie]
 date: 2020-12-14
 lastmod: 
 
 template: played.html
 played_category: boardgame
 played_skills: []
-played_duration: 
 played_gameplay_complex: 
 played_gameplay_strategy: 
 played_gameplay_luck: 
 played_gameplay_interaction: 
-played_players: 
-played_age: 
+
+played_preferred: 
 played_rank_edu: 
 played_rank_dev: 
 played_rank_kid: 
-played_preferred: 
+
+played_players: 1-6
+played_age: 10
+played_duration: 60
+
 played_publisher: 
 played_year: 
-played_url_details: 
+played_url_details: https://www.boardgamegeek.com/boardgamefamily/48472/series-q-system-sherlock-gdm-games
 played_url_play: 
 ---
-
-> **#Deduzione #Collaborativo #Compatto #Serie**   
-> 1-6g | 10+ | 1h | medio | [scheda](https://www.boardgamegeek.com/boardgamefamily/48472/series-q-system-sherlock-gdm-games)   
 
 il gioco più piccolo esistente (quasi un pacchetto di fiammiferi) con dentro giusto le 40 carte necessarie ad intavolare un caso misterioso da risolvere con collaborazione e tanto dialogo!
 

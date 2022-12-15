@@ -1,25 +1,28 @@
 ---
 title: 7th Continent
 slug: 7th-continent
-summary: un'avventura come da videogioco ma su un tavolo
+description: un'avventura come da videogioco ma su un tavolo
 categories: [boardgame]
-tags: [collaborativo,solo, avventura, english]
+tags: [Collaborativo, Solo, Avventura, English]
 date: 2020-12-14
 
 template: played.html
 played_category: boardgame
 played_skills: [sk_logic]
-played_duration: 60  
 played_gameplay_complex: 3  
 played_gameplay_strategy: 3  
 played_gameplay_luck: 1  
 played_gameplay_interaction: 2
-played_players: 1-2 
-played_age: 12
+
+played_preferred: 1
 played_rank_edu: 10
 played_rank_dev: 8
 played_rank_kid: 7
-played_preferred: 1
+
+played_players: 1-2 
+played_age: 12
+played_duration: 60
+
 played_publisher: 
 played_year: 
 played_url_details: https://boardgamegeek.com/boardgame/180263/7th-continent

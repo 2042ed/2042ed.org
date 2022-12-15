@@ -1,6 +1,6 @@
 ---
 title: "📁 Video"
-summary: database dei video
+description: database dei video
 date: 2020-12-14
 type: 
 weight: 100

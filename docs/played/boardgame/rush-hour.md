@@ -1,34 +1,34 @@
 ---
 title: Rush Hour
 slug: rush-hour
-summary: 
+description: ""
 categories: [boardgame]
-tags: [Kids,STEAM]
+tags: [Kids,Strategia, Logica, Puzzle ]
 date: 2020-12-14
 lastmod: 
 
 template: played.html
 played_category: boardgame
 played_skills: []
-played_duration: 
-played_gameplay_complex: 
-played_gameplay_strategy: 
-played_gameplay_luck: 
-played_gameplay_interaction: 
-played_players: 
-played_age: 
+played_gameplay_complex: 1
+played_gameplay_strategy: 3
+played_gameplay_luck: 0
+played_gameplay_interaction: 0
+
+played_preferred: 
 played_rank_edu: 
 played_rank_dev: 
 played_rank_kid: 
-played_preferred: 
-played_publisher: 
+
+played_players: 1
+played_age: 5
+played_duration: 10
+
+played_publisher: ThinkFun
 played_year: 
-played_url_details: 
+played_url_details: https://www.thinkfun.com/products/rush-hour/
 played_url_play: 
 ---
-
-> #Strategia | #Logica | #ProblemSolving  
-> 1g | 6+ | 10m | facile | [www.thinkfun.com](https://www.thinkfun.com/products/rush-hour/)  
 
 Il gioco è un classico.. bisogna trovare la procedura per "sbloccare" il traffico.
 Con centinaia di livelli sempre più difficili sviluppa il pensiero logico, visuale e di astrazione.

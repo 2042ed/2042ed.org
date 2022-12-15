@@ -1,34 +1,34 @@
 ---
 title: Lost Cities
 slug: 
-summary: 
+description: ""
 categories: [boardgame]
-tags: []
+tags: [Family, 2Giocatori ,Award]
 date: 2020-12-14
 lastmod: 
 
 template: played.html
 played_category: boardgame
 played_skills: []
-played_duration: 
-played_gameplay_complex: 
+played_gameplay_complex: 2
 played_gameplay_strategy: 
 played_gameplay_luck: 
 played_gameplay_interaction: 
-played_players: 
-played_age: 
+
+played_preferred: 
 played_rank_edu: 
 played_rank_dev: 
 played_rank_kid: 
-played_preferred: 
+
+played_players: 2
+played_age: 6
+played_duration: 30
+
 played_publisher: 
 played_year: 
-played_url_details: 
+played_url_details: https://boardgamegeek.com/boardgame/50/lost-cities
 played_url_play: 
 ---
-
-> **#Family #2Giocatori #Award**      
-> 2g | 6+ | 30m | facile | [scheda](https://boardgamegeek.com/boardgame/50/lost-cities)  
 
 semplice gioco di carte e matematica. dal maestro Reiner Kniza.
 veloce ma non banale.

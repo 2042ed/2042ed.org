@@ -1,34 +1,34 @@
 ---
 title: The Game
 slug: 
-summary: 
+description: ""
 categories: [boardgame]
-tags: []
+tags: [Family, Carte ,Matematica ,Solo ,Collaborativo ,Award]
 date: 2020-12-14
 lastmod: 
 
 template: played.html
 played_category: boardgame
 played_skills: []
-played_duration: 
-played_gameplay_complex: 
-played_gameplay_strategy: 
-played_gameplay_luck: 
+played_gameplay_complex: 1
+played_gameplay_strategy: 1
+played_gameplay_luck: 2
 played_gameplay_interaction: 
-played_players: 
-played_age: 
+
+played_preferred: 
 played_rank_edu: 
 played_rank_dev: 
 played_rank_kid: 
-played_preferred: 
+
+played_players: 1-5
+played_age: 6
+played_duration: 20
+
 played_publisher: 
 played_year: 
-played_url_details: 
+played_url_details: https://boardgamegeek.com/boardgame/182453/game-fire-compilation
 played_url_play: 
 ---
-
-> **#Family #Carte #Matematica #Solo #Collaborativo #Award**     
-> 1-5g | 6+ | 20m | facile | [scheda](https://boardgamegeek.com/boardgame/182453/game-fire-compilation)   
 
 Un semplice mazzo di carte che vi farà collaborare per finire questo "solitario multigiocatore", il capostipite di molti altri giochi della serie.
 

@@ -1,34 +1,34 @@
 ---
 title: "The Crew: Alla Scoperta del Pianeta Nove 🏆"
 slug: the-crew
-summary: 
+description: ""
 categories: [boardgame]
-tags: []
+tags: [Carte, Family ,Nonni ,Award, Collaborativo]
 date: 2020-12-14
 lastmod: 
 
 template: played.html
 played_category: boardgame
 played_skills: []
-played_duration: 
-played_gameplay_complex: 
-played_gameplay_strategy: 
-played_gameplay_luck: 
-played_gameplay_interaction: 
-played_players: 
-played_age: 
+played_gameplay_complex: 1
+played_gameplay_strategy: 3
+played_gameplay_luck: 1
+played_gameplay_interaction: 4
+
+played_preferred: 
 played_rank_edu: 
 played_rank_dev: 
 played_rank_kid: 
-played_preferred: 
+
+played_players: 2-5
+played_age: 8
+played_duration: 20
+
 played_publisher: 
 played_year: 
-played_url_details: 
+played_url_details: https://www.boardgamegeek.com/boardgame/284083/crew-quest-planet-nine
 played_url_play: 
 ---
-
-> **#Carte #Family #Nonni #Award**  
-> 2-5g | 10+ | 20m | facile | [scheda](https://www.boardgamegeek.com/boardgame/284083/crew-quest-planet-nine)   
 
 prendi la Briscola, e rendila cooperativa con 50 missioni spaziali.
 il bello di questo gioco è che la meccanica di base la conosciamo tutti.

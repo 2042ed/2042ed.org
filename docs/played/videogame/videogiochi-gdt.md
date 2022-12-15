@@ -1,7 +1,7 @@
 ---
 title: Giochi da Tavolo Digitali
 slug: digital-boardgames
-summary: 
+description: ""
 categories: []
 tags: []
 date: 2020-12-14
@@ -10,21 +10,25 @@ updated: 2022-03-22
 template: played.html
 played_category: videogame
 played_skills: []
-played_duration: 
 played_gameplay_complex: 
 played_gameplay_strategy: 
 played_gameplay_luck: 
 played_gameplay_interaction: 
-played_players: 
-played_age: 
+
+played_preferred: 
 played_rank_edu: 
 played_rank_dev: 
 played_rank_kid: 
-played_preferred: 
+
+played_players: 
+played_age: 
+played_duration: 
+
 played_publisher: 
 played_year: 
 played_url_details: 
 played_url_play: 
+played_vg_platforms: []
 ---
 
 Sono sempre di più i giochi da tavolo in versione app, che hanno il grandissimo vantaggio di poter giocare contro il computer, e quindi di allenarsi in qualsiasi momento. Costano molto meno della scatola e se siete in dubbio o volete fare una prova, è un'opportunità!

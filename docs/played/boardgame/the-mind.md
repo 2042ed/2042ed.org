@@ -1,34 +1,34 @@
 ---
 title: "The Mind 🏆"
-slug: 
-summary: 
+slug: the-mind
+description: Non - potrete - crederci.
 categories: [boardgame]
-tags: []
+tags: [Family, Carte ,Empatia ,Mentale ,Collaborativo ,Award]
 date: 2020-12-14
 lastmod: 
 
 template: played.html
 played_category: boardgame
 played_skills: []
-played_duration: 
-played_gameplay_complex: 
-played_gameplay_strategy: 
-played_gameplay_luck: 
-played_gameplay_interaction: 
-played_players: 
-played_age: 
+played_gameplay_complex: 1
+played_gameplay_strategy: 1
+played_gameplay_luck: 1
+played_gameplay_interaction: 5
+
+played_preferred: 1
 played_rank_edu: 
 played_rank_dev: 
 played_rank_kid: 
-played_preferred: 
+
+played_players: 2-4
+played_age: 8
+played_duration: 20
+
 played_publisher: 
 played_year: 
 played_url_details: 
 played_url_play: 
 ---
-
-> **#Family #Carte #Empatia #Mentale #Collaborativo #Award**     
-> 2-4g | 8+ | 20m | facile | [scheda](https://boardgamegeek.com/boardgame/244992/mind)  
 
 Non - potrete - crederci.  
 

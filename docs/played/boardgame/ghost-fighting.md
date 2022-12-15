@@ -1,34 +1,34 @@
 ---
 title: "Ghost Fightin' Treasure Hunters"
 slug: ghost-fightin-treasure-hunters
-summary: 
+description: ""
 categories: [boardgame]
-tags: [Kids,Award]
+tags: [Kids,Award, Collaborativo]
 date: 2020-12-14
 lastmod: 
 
 template: played.html
 played_category: boardgame
 played_skills: []
-played_duration: 
-played_gameplay_complex: 
+played_gameplay_complex: 2
 played_gameplay_strategy: 
 played_gameplay_luck: 
 played_gameplay_interaction: 
-played_players: 
-played_age: 
+
+played_preferred: 
 played_rank_edu: 
 played_rank_dev: 
 played_rank_kid: 
-played_preferred: 
+
+played_players: 2-4
+played_age: 6
+played_duration: 30
+
 played_publisher: 
 played_year: 
-played_url_details: 
+played_url_details: https://www.boardgamegeek.com/boardgame/146312/ghost-fightin-treasure-hunters
 played_url_play: 
 ---
-
-> **#Kids #Collaborativo #Award**  
-> 2-4g | 6+ | 30m | facile | [scheda](https://www.boardgamegeek.com/boardgame/146312/ghost-fightin-treasure-hunters)  
 
 Un gioco collaborativo semplice e accessibile anche ai bambini: cacciare i fantasmi è un bel lavoro, e farlo insieme è divertente.
 

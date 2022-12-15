@@ -1,34 +1,34 @@
 ---
 title: Saboteur
 slug: 
-summary: 
+description: ""
 categories: [boardgame]
-tags: []
+tags: [Family, Party ,Impostore]
 date: 2020-12-14
 lastmod: 
 
 template: played.html
 played_category: boardgame
 played_skills: []
-played_duration: 
-played_gameplay_complex: 
+played_gameplay_complex: 1
 played_gameplay_strategy: 
 played_gameplay_luck: 
 played_gameplay_interaction: 
-played_players: 
-played_age: 
+
+played_preferred: 
 played_rank_edu: 
 played_rank_dev: 
 played_rank_kid: 
-played_preferred: 
+
+played_players: 6-10
+played_age: 7
+played_duration: 30
+
 played_publisher: 
 played_year: 
-played_url_details: 
+played_url_details: https://www.boardgamegeek.com/boardgame/143147/saboteur-compilation-editions
 played_url_play: 
----
-
-> **#Family #Party #Impostore**  
-> 6-10g | 7+ | 30m | facile | [scheda](https://www.boardgamegeek.com/boardgame/143147/saboteur-compilation-editions)  
+--- 
 
 In Saboteur siamo tutti nani, ma alcuni sono "sabotatori" segreti che devono impedire agli altri di trovare le gemme scavando dei tunnel sotterranei.. davvero coinvolgente perché è tutto un gioco di squadra e controsquadra, cercando di capire chi va e dove.. e alla fine vince una delle due squadre.. ma su più turni puoi cambiare squadra!
 divertente! ottimo quando siamo in tantissimi.

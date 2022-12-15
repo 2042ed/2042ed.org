@@ -1,35 +1,34 @@
 ---
 title: Wingspan 🏆
 slug: wingspan
-summary: 
+description: ""
 categories: [boardgame]
-tags: []
+tags: [Family, Strategia, Award]
 date: 2020-12-14
 lastmod: 
 
 template: played.html
 played_category: boardgame
 played_skills: []
-played_duration: 
-played_gameplay_complex: 
-played_gameplay_strategy: 
+played_gameplay_complex: 3
+played_gameplay_strategy: 3
 played_gameplay_luck: 
 played_gameplay_interaction: 
-played_players: 
-played_age: 
+
+played_preferred: 
 played_rank_edu: 
 played_rank_dev: 
 played_rank_kid: 
-played_preferred: 
+
+played_players: 1-4
+played_age: 10
+played_duration: 60
+
 played_publisher: 
 played_year: 
-played_url_details: 
+played_url_details: https://www.boardgamegeek.com/boardgame/266192/wingspan
 played_url_play: 
 ---
-
-> **#Strategia #Award**  
-> 1-4g | 10+ | 1h | medio | [scheda](https://www.boardgamegeek.com/boardgame/266192/wingspan)  
-{.boxGameDetail}
 
 un capolavoro indiscusso che ha conquistato tutte le famiglie ludiche del mondo.
 il bello è che giocandoci si esplora l'ornitologia!

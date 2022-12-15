@@ -1,7 +1,7 @@
 ---
 title: Portal 🏆
 slug: portal
-summary: 
+description: ""
 categories: [videogame]
 tags: [Award, Puzzle]
 date: 2020-12-14
@@ -10,25 +10,26 @@ lastmod:
 template: played.html
 played_category: videogame
 played_skills: []
-played_duration: 
 played_gameplay_complex: 
 played_gameplay_strategy: 
 played_gameplay_luck: 
 played_gameplay_interaction: 
-played_players: 
-played_age: 
+
+played_preferred: 1
 played_rank_edu: 
 played_rank_dev: 
 played_rank_kid: 
-played_preferred: 
+
+played_players: 
+played_age: 
+played_duration: 
+
 played_publisher: 
 played_year: 
-played_url_details: 
+played_url_details: https://store.steampowered.com/app/400/Portal/
 played_url_play: 
----
-
-> **#Visuale #Creatività #Destrezza #Award**  
-> *tutte le piattaforme* | [steampowered.com](https://store.steampowered.com/app/400/Portal/)   
+played_vg_platforms: [all]
+--- 
 
 Un gioco di 10 anni fa ma che è ancora attualissimo e davvero educativo:
 avanzare nella storia (bellissima, tra l'altro, con grafica e musica capolavoro) creando dei "portali" tra pareti e pavimenti.

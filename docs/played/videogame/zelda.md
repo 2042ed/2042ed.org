@@ -1,35 +1,35 @@
 ---
 title: Zelda 🏆
 slug: zelda
-summary: 
+description: ""
 categories: [videogame]
-tags: [Award,Adventure]
+tags: [Award,Avventura]
 date: 2020-12-14
 lastmod: 
 
 template: played.html
 played_category: videogame
 played_skills: []
-played_duration: 
 played_gameplay_complex: 
 played_gameplay_strategy: 
 played_gameplay_luck: 
 played_gameplay_interaction: 
-played_players: 
-played_age: 
+
+played_preferred: 1
 played_rank_edu: 
 played_rank_dev: 
 played_rank_kid: 
-played_preferred: 
-played_publisher: 
+
+played_players: 1
+played_age: 8
+played_duration: 
+
+played_publisher: Nintendo
 played_year: 
 played_url_details: 
 played_url_play: 
+played_vg_platforms: [Nintendo]
 ---
-
-> **#Avventura #Award** 
-> Nintendo
-{.boxGameDetail}
 
 I videogiochi della serie di Zelda hanno accompagnato tre generazioni ormai (il primo titolo è di fine anni '80') diventando di fatto una componente culturale pop davvero universale.
 

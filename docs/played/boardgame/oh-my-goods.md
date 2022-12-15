@@ -1,34 +1,34 @@
 ---
 title: Oh my Goods
-slug: 
-summary: 
+slug: oh-my-goods
+description: ""
 categories: [boardgame]
-tags: []
+tags: [Carte,Strategia,Compatto,2Giocatori]
 date: 2020-12-14
 lastmod: 
 
 template: played.html
 played_category: boardgame
 played_skills: []
-played_duration: 
-played_gameplay_complex: 
-played_gameplay_strategy: 
-played_gameplay_luck: 
-played_gameplay_interaction: 
-played_players: 
-played_age: 
+played_gameplay_complex: 3
+played_gameplay_strategy: 3
+played_gameplay_luck: 1
+played_gameplay_interaction: 1
+
+played_preferred: 
 played_rank_edu: 
 played_rank_dev: 
 played_rank_kid: 
-played_preferred: 
+
+played_players: 2-4
+played_age: 10
+played_duration: 30
+
 played_publisher: 
 played_year: 
-played_url_details: 
+played_url_details: https://boardgamegeek.com/boardgame/183840/oh-my-goods
 played_url_play: 
 ---
-
-> **#Carte #Strategia #Compatto**  
-> 2-4g | 10+ | 30m | medio | [scheda](https://boardgamegeek.com/boardgame/183840/oh-my-goods)  
 
 gestionale semplice ma davvero profondo
 è un mazzo di 110 carte ma si costruisce di tutto con meccaniche non banali

@@ -1,7 +1,7 @@
 ---
 title: Carcassonne
 slug: carcassonne
-summary: il classico
+description: il classico
 categories: [boardgame]
 tags: [Strategia, Award ,Family]
 date: 2020-12-14
@@ -15,12 +15,16 @@ played_gameplay_complex: 2
 played_gameplay_strategy: 2
 played_gameplay_luck: 1
 played_gameplay_interaction: 2
-played_players: 2-4
-played_age: 8
+
+played_preferred: 
 played_rank_edu: 
 played_rank_dev: 
 played_rank_kid: 
-played_preferred: 
+
+played_players: 2-4
+played_age: 8
+played_duration: 
+
 played_publisher: 
 played_year: 
 played_url_details: https://www.boardgamegeek.com/boardgame/822/carcassonne

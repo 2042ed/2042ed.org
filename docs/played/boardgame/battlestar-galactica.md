@@ -1,7 +1,7 @@
 ---
 title: Battlestar Galactica: Starship Battles
 slug: battlestar-galactica
-summary: 
+description: ""
 categories: [boardgame]
 tags: [Spazio, Miniature]
 date: 2020-12-14
@@ -15,12 +15,16 @@ played_gameplay_complex: 3
 played_gameplay_strategy: 
 played_gameplay_luck: 
 played_gameplay_interaction: 
-played_players: 2-4
-played_age: 10
+
+played_preferred: 
 played_rank_edu: 
 played_rank_dev: 
 played_rank_kid: 
-played_preferred: 
+
+played_players: 2-4
+played_age: 10
+played_duration: 
+
 played_publisher: 
 played_year: 
 played_url_details: https://www.boardgamegeek.com/boardgame/250821/battlestar-galactica-starship-battles-starter-set

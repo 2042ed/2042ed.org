@@ -1,34 +1,34 @@
 ---
 title: Takenoko
 slug: 
-summary: 
+description: ""
 categories: [boardgame]
-tags: []
+tags: [Family, Award]
 date: 2020-12-14
 lastmod: 
 
 template: played.html
 played_category: boardgame
 played_skills: []
-played_duration: 
 played_gameplay_complex: 
 played_gameplay_strategy: 
 played_gameplay_luck: 
 played_gameplay_interaction: 
-played_players: 
-played_age: 
+
+played_preferred: 
 played_rank_edu: 
 played_rank_dev: 
 played_rank_kid: 
-played_preferred: 
+
+played_players: 2-4
+played_age: 7
+played_duration: 40
+
 played_publisher: 
 played_year: 
-played_url_details: 
+played_url_details: https://www.boardgamegeek.com/boardgame/70919/takenoko
 played_url_play: 
 ---
-
-> **#Family #Award**  
-> 2-4g | 7+ | 40m | facile | [scheda](https://www.boardgamegeek.com/boardgame/70919/takenoko)  
 
 Coltiva il bambù e dai da mangiare al panda affamato.
 Esteticamente bellissimo con le miniature e la plancia di gioco sempre diversa.  

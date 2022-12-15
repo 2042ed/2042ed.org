@@ -1,7 +1,7 @@
 ---
-title: "Woodix"
+title: Woodix
 slug: woodix
-summary: rompicapo in legno per tutte le test
+description: rompicapo in legno per tutte le teste
 categories: [boardgame]
 tags: [Kids, Puzzle]
 date: 2021-04-07T15:48:58+02:00
@@ -12,26 +12,25 @@ draft: false
 template: played.html
 played_category: boardgame
 played_skills: []
-played_duration: 
-played_gameplay_complex: 
-played_gameplay_strategy: 
+played_gameplay_complex: 1
+played_gameplay_strategy: 2
 played_gameplay_luck: 
 played_gameplay_interaction: 
-played_players: 
-played_age: 
+
+played_preferred: 
 played_rank_edu: 
 played_rank_dev: 
 played_rank_kid: 
-played_preferred: 
+
+played_players: 1
+played_age: 6
+played_duration: 10
+
 played_publisher: 
 played_year: 
 played_url_details: 
 played_url_play: 
 ---
-
-> #puzzle
-> 1g | 5+ | 10m | facile/medio | [scheda]()  
-{.boxGameDetail}
 
 6 rompicapo in legno dalla Djeco
 

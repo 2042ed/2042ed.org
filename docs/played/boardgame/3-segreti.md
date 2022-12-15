@@ -1,26 +1,29 @@
 ---
 title: 3 Segreti
 slug: 3-segreti
-summary: 
+description: Ogni carta è un mistero da risolvere
 categories: [boardgame]
-tags: [Family, Deduzione, Collaborativo]
+tags: [Family,Deduzione,Collaborativo]
 date: 2020-12-14
 lastmod: 
 
 template: played.html
 played_category: boardgame
 played_skills: []
-played_duration: 10
 played_gameplay_complex: 1
 played_gameplay_strategy: 
 played_gameplay_luck: 
 played_gameplay_interaction: 
-played_players: 2-8
-played_age: 8
+
+played_preferred: 
 played_rank_edu: 
 played_rank_dev: 
 played_rank_kid: 
-played_preferred: 
+
+played_players: 2-8
+played_age: 8
+played_duration: 10
+
 played_publisher: 
 played_year: 
 played_url_details: https://www.boardgamegeek.com/boardgame/218314/3-secrets

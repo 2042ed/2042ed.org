@@ -1,34 +1,34 @@
 ---
 title: Similo
 slug: similo
-summary: 
+description: ""
 categories: [boardgame]
-tags: [Kids]
+tags: [Kids, Carte ,Award]
 date: 2020-12-14
 lastmod: 
 
 template: played.html
 played_category: boardgame
 played_skills: []
-played_duration: 
-played_gameplay_complex: 
+played_gameplay_complex: 1
 played_gameplay_strategy: 
 played_gameplay_luck: 
 played_gameplay_interaction: 
-played_players: 
-played_age: 
+
+played_preferred: 
 played_rank_edu: 
 played_rank_dev: 
 played_rank_kid: 
-played_preferred: 
+
+played_players: 4-6
+played_age: 5
+played_duration: 20
+
 played_publisher: 
 played_year: 
-played_url_details: 
+played_url_details: https://boardgamegeek.com/boardgame/268620/similo
 played_url_play: 
 ---
-
-> **#Kids #Carte #Award**   
-> 4-6g | 5+ | 20m | facile | [scheda](https://boardgamegeek.com/boardgame/268620/similo)  
 
 16 carte di personaggi di fantasia e bisogna individuare il personaggio segreto grazie a due tipi di indizi: è simile o non è simile ad altri personaggi. semplicissimo. bellissimo.
 
