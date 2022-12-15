@@ -3,7 +3,7 @@ title: Mario Maker 2
 slug: mario-maker
 description: ""
 categories: [videogame]
-tags: [Maker]
+tags: [Maker, Kids, KidsMakeGames]
 date: 2020-12-14
 lastmod: 
 
@@ -26,13 +26,10 @@ played_duration:
 
 played_publisher: 
 played_year: 
-played_url_details: 
+played_url_details: https://supermariomaker.nintendo.com
 played_url_play: 
-played_vg_platforms: []
+played_vg_platforms: [Nintendo Switch]
 ---
-
-> **#Kids #Family**   
-> *Nintendo Switch* | [supermariomaker.nintendo.com](https://supermariomaker.nintendo.com/)   
 
 Vedere un bambino di 4 anni creare nuovi livelli di videogiochi, posizionando trappole, ostacoli, mostri e monete da raccogliere.. e poi presentartelo sfidandoti a risolverlo, non ha prezzo.
 

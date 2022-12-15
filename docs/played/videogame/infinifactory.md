@@ -3,14 +3,14 @@ title: Infinifactory
 slug: infinifactory
 description: ""
 categories: [videogame]
-tags: [Maker]
+tags: [Maker, Build]
 date: 2020-12-14
 lastmod: 
 
 template: played.html
 played_category: videogame
 played_skills: []
-played_gameplay_complex: 
+played_gameplay_complex: 4
 played_gameplay_strategy: 
 played_gameplay_luck: 
 played_gameplay_interaction: 
@@ -26,13 +26,10 @@ played_duration:
 
 played_publisher: 
 played_year: 
-played_url_details: 
+played_url_details: http://www.zachtronics.com/infinifactory
 played_url_play: 
-played_vg_platforms: []
+played_vg_platforms: [Desktop]
 ---
-
-> **#Creatività #Mentale**   
-> *PC e COnsole*  | [zachtronics.com/infinifactory/](http://www.zachtronics.com/infinifactory/)  
 
 Avete mai progettato e costruito degli impianti industriali che producano quello che vi serve?
 magari su un mondo alieno?

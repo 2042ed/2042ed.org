@@ -20,8 +20,8 @@ played_rank_edu:
 played_rank_dev: 
 played_rank_kid: 
 
-played_players: 
-played_age: 
+played_players: 1
+played_age: 4
 played_duration: 
 
 played_publisher: 

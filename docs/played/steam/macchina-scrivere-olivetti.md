@@ -30,8 +30,6 @@ played_url_details:
 played_url_play: 
 ---
 
-## Macchina da Scrivere
-
 Sarà perché è meccanica con gli ingranaggi a vista, sarà la soddisfazione di schiacciare un tasto con forza e vederlo impresso sulla carta, sarà che l'abbiamo ristrutturata noi e la usiamo ancora e per scopi non previsti da Olivetti :)
 
 fatto sta che ci si passa ore.

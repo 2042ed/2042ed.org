@@ -21,17 +21,14 @@ played_rank_dev:
 played_rank_kid: 
 
 played_players: 
-played_age: 
+played_age: 10
 played_duration: 
 
 played_publisher: 
 played_year: 
-played_url_details: 
+played_url_details: https://meowbit.kittenbot.cc
 played_url_play: 
 ---
-
-> dai 10 anni  
-> [meowbit.kittenbot.cc](https://meowbit.kittenbot.cc)  
 
 Una microconsole portatile, a forma di gattino ;) con dentro un micro-bit ottimizzato per i giochi arcade.. e la cosa meravigliosa è che puoi programmare tu qualsiasi gioco, via web, con il fenomenale sistema Arcade MakeCode di Microsoft ( [arcade.makecode.com](https://arcade.makecode.com/))
 

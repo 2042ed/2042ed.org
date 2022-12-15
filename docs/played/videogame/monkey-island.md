@@ -28,13 +28,8 @@ played_publisher:
 played_year: 
 played_url_details: 
 played_url_play: 
-played_vg_platforms: []
+played_vg_platforms: [all]
 ---
-
-## Monkey Island
-
-> **#Family #Award**
-> *tutte le piattaforme*
 
 il primo grande gioco avventura Punta e Clicca.  
 Celebre perché divertentissimo, sei un pirata che devi risolvere un grosso problema, sconfiggendo i nemici con duelli di.. insulti!  

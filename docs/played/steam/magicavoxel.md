@@ -3,7 +3,7 @@ title: Magica Voxel
 slug: modellazione 3D semplice per tutti
 description: ""
 categories: [steam]
-tags: [Creare]
+tags: [Creare,Visuale, Tool, Free]
 date: 2020-12-14
 lastmod: 
 
@@ -26,12 +26,10 @@ played_duration:
 
 played_publisher: 
 played_year: 
-played_url_details: 
+played_url_details: https://ephtracy.github.io
 played_url_play: 
+played_vg_platforms: [Desktop]
 ---
-
-> **#Visuale #Creatività**  
-> *PC / Mac - gratuito* | [ephtracy.github.io](https://ephtracy.github.io/)   
 
 E' l'unico non gioco della lista ma lo metto perché è un programmino notevolissimo, gratuito, multipiattaforma, per "disegnare" in 3D con i Voxels, i pixels tridimensionali, stile Minecraft per intenderci.
 I vostri figli ma anche voi vi divertirete come matti

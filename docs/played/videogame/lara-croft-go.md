@@ -26,13 +26,10 @@ played_duration:
 
 played_publisher: 
 played_year: 
-played_url_details: 
+played_url_details: https://en.wikipedia.org/wiki/Lara_Croft_Go
 played_url_play: 
-played_vg_platforms: []
----
-
-> **#Mentale**   
-> tutte le piattaforme  | [wikipedia.org/wiki/Lara_Croft_Go](https://en.wikipedia.org/wiki/Lara_Croft_Go)   
+played_vg_platforms: [mobile]
+--- 
 
 E' un gioco strategico a turni, dove in ogni mossa ti puoi spostare in una delle quattro direzioni.
 Non mette fretta e si ha tutto il tempo per capire quale sarà la sequenza giusta per uscire dai livelli sempre più difficili.

@@ -28,10 +28,8 @@ played_publisher:
 played_year: 
 played_url_details: https://discord.com
 played_url_play: 
-played_vg_platforms: []
+played_vg_platforms: [all]
 ---
-
-> *PC / Mac / mobile* 
 
 ![](img/discord_logo.webp)
 la piattaforma di discussione indispensabile per tutti i videogiocatori e ragazzi. gratuita, semplice.

@@ -3,7 +3,7 @@ title: Retrogames
 slug: retrogames
 description: ""
 categories: [videogame]
-tags: []
+tags: [Classic]
 date: 2020-12-14
 lastmod: 
 

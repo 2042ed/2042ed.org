@@ -3,36 +3,33 @@ title: Monument Valley 🏆
 slug: monument-valley
 description: ""
 categories: [videogame]
-tags: [Award, Tablet, Puzzle]
+tags: [Award, Tablet, Puzzle, Visuale]
 date: 2020-12-14
 lastmod: 
 
 template: played.html
 played_category: videogame
 played_skills: []
-played_gameplay_complex: 
+played_gameplay_complex: 2
 played_gameplay_strategy: 
 played_gameplay_luck: 
 played_gameplay_interaction: 
 
-played_preferred: 
+played_preferred: 1
 played_rank_edu: 
-played_rank_dev: 
+played_rank_dev: 10
 played_rank_kid: 
 
-played_players: 
-played_age: 
+played_players: 1
+played_age: 6
 played_duration: 
 
 played_publisher: 
 played_year: 
 played_url_details: 
 played_url_play: 
-played_vg_platforms: []
+played_vg_platforms: [iOS]
 ---
-
-> **#Visuale #Kids #Award** 
-> iOS
 
 Un'estetica visiva e sonora capolavoro per un videogioco di enigmi visuali che sembrano usciti dai disegni di Escher.  
 Una bambina in cerca della sua storia in un mondo affascinante e davvero godibile anche per i più piccoli

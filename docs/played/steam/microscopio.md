@@ -30,7 +30,6 @@ played_url_details:
 played_url_play: 
 ---
 
-
 Un viaggio nelle piccole dimensioni per poi parlare di cellule, batteri, come sono fatte le cose
 
 > Bruno: io ci guardo il sale, l'acqua e tutto quello che trovo per casa

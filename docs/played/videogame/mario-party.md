@@ -3,7 +3,7 @@ title: Mario Party
 slug: mario-party
 description: ""
 categories: [videogame]
-tags: [Party]
+tags: [Party, Family]
 date: 2020-12-14
 lastmod: 
 
@@ -26,18 +26,13 @@ played_duration:
 
 played_publisher: 
 played_year: 
-played_url_details: 
+played_url_details: https://www.nintendo.com/games/detail/super-mario-party-switch
 played_url_play: 
-played_vg_platforms: []
+played_vg_platforms: [Nintendo Switch]
 ---
-
-> **#Party #Family**  
-> *Nintendo Switch* | [www.nintendo.com](https://www.nintendo.com/games/detail/super-mario-party-switch/)   
 
 Lo so, molto #Kids e molto #Family ma sopratutto tantissimo #Party. 
 Ma i capolavori sono tali perché coinvolgono tutti con dozzine di giochini semplicissimi che stimoleranno ogni senso e area del cervello.
 
 > *Fabio:*
 > è bello da giocare in famiglia perché è facile ma ha tantissimi minigiochi
-
-

@@ -32,7 +32,3 @@ played_vg_platforms: []
 ---
 
 TODO/scrivere 
-
-
-
-

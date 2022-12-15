@@ -21,18 +21,14 @@ played_rank_dev:
 played_rank_kid: 
 
 played_players: 
-played_age: 
+played_age: 7
 played_duration: 
 
-played_publisher: 
+played_publisher: ThinkFun
 played_year: 
-played_url_details: 
+played_url_details: https://www.thinkfun.com/products/code-master
 played_url_play: 
 ---
-
-> dai 7 anni  
-> [www.thinkfun.com/products/code-master](https://www.thinkfun.com/products/code-master)  
-{.boxGameDetail}
 
 un gioco dove i 50 livelli si risolvono con procedure di programmazione logica sempre più elaborata.
 semplice e geniale. quando lo hanno finito lo passano agli amici.

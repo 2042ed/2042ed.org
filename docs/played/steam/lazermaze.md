@@ -21,17 +21,14 @@ played_rank_dev:
 played_rank_kid: 
 
 played_players: 
-played_age: 
+played_age: 4
 played_duration: 
 
 played_publisher: 
 played_year: 
-played_url_details: 
+played_url_details: https://www.thinkfun.com/products/laser-maze
 played_url_play: 
 ---
-
-> dai 4 anni  
-> [www.thinkfun.com/products/laser-maze](https://www.thinkfun.com/products/laser-maze)  
 
 inserisci i vari componenti per deviare il raggio di luce laser (un semplice led ;) verso l'obiettivo.
 centinaia di livelli sempre più difficili dove si capirà la rifrazione e la riflessione

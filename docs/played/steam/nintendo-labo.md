@@ -21,17 +21,14 @@ played_rank_dev:
 played_rank_kid: 
 
 played_players: 
-played_age: 
+played_age: 5
 played_duration: 
 
 played_publisher: Nintendo
 played_year: 
-played_url_details: 
+played_url_details: https://labo.nintendo.com
 played_url_play: 
 ---
-
-> dai 5 anni  
-> [labo.nintendo.com](https://labo.nintendo.com)  
 
 Quando espandi la tua consolle con aggeggi costruiti con il cartone. Geniale: dalla canna da pesca all'armatura da robot che ti proietta gigante a camminare nelle città.
 al visore in VR con tanto di ambiente per creare i tuoi scenari e giochi (ci ho fatto un laboratorio con i ragazzi delle superiori.. bello)

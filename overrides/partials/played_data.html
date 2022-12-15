@@ -30,10 +30,10 @@
 | Durata: {{ page.meta.played_duration }} minuti
   {% endif %}
     <br>
-    Complessità: {{ page.meta.played_gameplay_complex}}<br>
-    Strategia: {{ page.meta.played_gameplay_strategy}}<br>
-    Fortuna: {{ page.meta.played_gameplay_luck }}<br>
-    Interazione: {{ page.meta.played_gameplay_interaction }}<br>
+    {% if page.meta.played_gameplay_complex %}Complessità: {{ page.meta.played_gameplay_complex}}<br>{% endif %}
+    {% if page.meta.played_gameplay_strategy %}Strategia: {{ page.meta.played_gameplay_strategy}}<br>{% endif %}
+    {% if page.meta.played_gameplay_luck %}Fortuna: {{ page.meta.played_gameplay_luck }}<br>{% endif %}
+    {% if page.meta.played_gameplay_interaction %}Interazione: {{ page.meta.played_gameplay_interaction }}<br>{% endif %}
 
 </td></tr>
 

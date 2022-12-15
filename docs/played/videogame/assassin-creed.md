@@ -3,7 +3,7 @@ title: "Assassin's Creed"
 slug: assassin-creed
 description: ""
 categories: [videogame]
-tags: [Award,Storia]
+tags: [Award,Storia,Serie]
 date: 2020-12-14
 lastmod: 
 
@@ -26,14 +26,10 @@ played_duration:
 
 played_publisher: 
 played_year: 
-played_url_details: 
+played_url_details: https://www.ubisoft.com/en-us/game/assassins-creed
 played_url_play: 
-played_vg_platforms: []
+played_vg_platforms: [all]
 ---
-
-> #Award #Storia #Serie  
-> *Tutte le piattaforme*  | [www.ubisoft.com](https://www.ubisoft.com/en-us/game/assassins-creed)  
-{.boxGameDetail}
 
 Solo per questo gioco non lasciatevi fuorviare dal PEGI:
 ok sei un combattente ninja che viaggia nel passato a fare quello che deve fare (fai parte di una setta di Assassini...), ma il bello di questa serie di giochi è la ricostruzione storica che hanno fatto .che sia Firenze e Venezia del Rinascimento, l'Antico Egitto o Parigi... IMPRESSIONANTE.

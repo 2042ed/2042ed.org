@@ -21,17 +21,14 @@ played_rank_dev:
 played_rank_kid: 
 
 played_players: 
-played_age: 
+played_age: 8
 played_duration: 
 
 played_publisher: 
 played_year: 
-played_url_details: 
+played_url_details: https://microbit.org
 played_url_play: 
 ---
-
-> dai 8 anni  
-> [microbit.org](https://microbit.org)  
 
 Nato in UK dove ne sono state distribuiti milioni in tutte le scuole elementari per introdurre il coding e lo sviluppo di semplici programmi.  
 A differenza di Arduino è molto più compatto e ha già di serie una griglia di led (per visualizzare testi, icone e animazioni) ha due pulsanti, giroscopio e bluetooth

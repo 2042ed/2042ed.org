@@ -1,5 +1,5 @@
 ---
-title: The Room
+title: The Room 🏆
 slug: the-room
 description: ""
 categories: [videogame]

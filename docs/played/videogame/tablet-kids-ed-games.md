@@ -38,9 +38,8 @@ Nato in UK dove ne sono state distribuiti milioni in tutte le scuole elementari 
 A differenza di Arduino è molto più compatto e ha già di serie una griglia di led (per visualizzare testi, icone e animazioni) ha due pulsanti, giroscopio e bluetooth
 così puoi iniziare a crearci i tuoi programmini con MakeCode (una versione molto più bella ed evoluta di Scratch)
 
-
-
 ---
+
 Sono ormai migliaia le app e i giochi che vorrei che mio figlio giocasse il più possibile sul tablet (sia iOs che Android)
 
 Il mio consiglio è di cercare nelle categorie Kids o Education e preferire le app a pagamento (costano in media 4 euro), così che non hanno assolutamente pubblicità né contenuti nascosti.

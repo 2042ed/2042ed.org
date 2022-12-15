@@ -3,7 +3,7 @@ title: "Animal Crossing"
 slug: animal-crossing
 description: ""
 categories: [videogame]
-tags: []
+tags: [Award, Kids, Family]
 date: 2020-12-14
 lastmod: 
 
@@ -28,14 +28,8 @@ played_publisher:
 played_year: 
 played_url_details: 
 played_url_play: 
-played_vg_platforms: []
+played_vg_platforms: [Nintendo Switch]
 ---
-
-
-> [!info]
-> #Award #Kids #Family  
-> *Nintendo Switch* 
-
 
 ![](img/animal_crossing.webp)
 

@@ -26,16 +26,10 @@ played_duration:
 
 played_publisher: 
 played_year: 
-played_url_details: 
+played_url_details: https://www.guitarhero.com/it/game
 played_url_play: 
-played_vg_platforms: []
+played_vg_platforms: [all]
 ---
-
-*La Rockstar sei tu*
-
-> *Tutte le piattaforme*  | [www.guitarhero.com/it/game](https://www.guitarhero.com/it/game)  
 
 Se siete tra i pochi a non conoscerlo, eccolo: prendi in mano una chitarra e suoni a tempo le più grandi canzoni rock (e non) della storia o del momento.
 E' uno dei giochi musicali più famosi e diffusi al mondo. Divertente e coinvolgente perché ti mette proprio su un palco.
-
-

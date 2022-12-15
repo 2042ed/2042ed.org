@@ -1,7 +1,7 @@
 ---
 title: Unity
 slug: unity
-description: ""
+description: "ambiente professionale per sviluppare videogiochi"
 categories: [steam]
 tags: [GameDev, Tool, KidsMakeGames]
 date: 2020-12-14
@@ -26,13 +26,10 @@ played_duration:
 
 played_publisher: 
 played_year: 
-played_url_details: 
+played_url_details: https://unity.com
 played_url_play: 
+played_vg_platforms: [Desktop]
 ---
-
-> Mac / Win
-> [unity.com](https://unity.com)
-{.boxGameDetail}
 
 fate un regalo ai vostri figli: Unity
 è pure gratuito!

@@ -28,11 +28,7 @@ played_publisher:
 played_year: 
 played_url_details: 
 played_url_play: 
-played_vg_platforms: []
+played_vg_platforms: [all]
 ---
-
-> #Award   
-> *Tutte le piattaforme*  | 
-{.boxGameDetail}
 
 In questo videogioco indie di qualche anno fa, all'apparanza banale per la meccanica platform, si nasconde un goiello: la possibilità di tornare indietro nel tempo

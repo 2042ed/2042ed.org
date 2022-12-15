@@ -21,7 +21,7 @@ played_rank_dev:
 played_rank_kid: 
 
 played_players: 
-played_age: 
+played_age: 8
 played_duration: 
 
 played_publisher: 
@@ -29,8 +29,6 @@ played_year:
 played_url_details: 
 played_url_play: 
 ---
-
-> dai 8 anni
 
 Ci sono ormai dozzine di kit semplici per costruire automobiline che guidano da sole (con un sensore di luminosità) e controllabili via tablet/smartphone via bluetooth.
 

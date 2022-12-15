@@ -31,7 +31,6 @@ played_url_play:
 played_vg_platforms: []
 ---
 
-
 giocare con ingranaggi, meccanismi regolati dalle leggi della fisica, tensione, il movimento e la gravità
 
 {{< youtube btc75Etl1wM >}}

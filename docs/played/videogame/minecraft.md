@@ -29,15 +29,12 @@ played_rank_kid:
 
 played_preferred: 1
 
-played_publisher: 
-played_year: 
-played_url_details: 
+played_publisher: Microsoft
+played_year: 2008
+played_url_details: https://minecraft.net
 played_url_play: 
-played_vg_platforms: []
+played_vg_platforms: [all]
 ---
-
-> **#Creatività #Kids #Family**  
-> *tutte le piattaforme* | [minecraft.net](https://minecraft.net)   
 
 Giocare a Minecraft è esattamente l'equivalente del giocare al LEGO.
 

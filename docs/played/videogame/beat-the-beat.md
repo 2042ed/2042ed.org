@@ -28,10 +28,8 @@ played_publisher:
 played_year: 
 played_url_details: 
 played_url_play: 
-played_vg_platforms: []
+played_vg_platforms: [Wii]
 ---
-
-> *Wii* 
 
 E' un gioco ritmico musicale che purtroppo non hanno rinnovato sulle nuove console (maledizione a queste evoluzioni tecnologiche che rendono facilmente ingiocabili i vecchi giochi!)
 Ma ce ne saranno altri equivalenti.

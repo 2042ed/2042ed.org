@@ -3,7 +3,7 @@ title: Mario Kart
 slug: mario-kart
 description: ""
 categories: [videogame]
-tags: [Fun]
+tags: [Fun, Kids, Party ,Family, Corsa]
 date: 2020-12-14
 lastmod: 
 
@@ -26,13 +26,10 @@ played_duration:
 
 played_publisher: 
 played_year: 
-played_url_details: 
+played_url_details: https://mariokart8.nintendo.com
 played_url_play: 
-played_vg_platforms: []
+played_vg_platforms: [Nintendo Switch]
 ---
-
-> **#Kids #Party #Family**  
-> *Nintendo Switch* | [mariokart8.nintendo.com](https://mariokart8.nintendo.com)   
 
 Gare di macchine per tutta la famiglia, divertentissimo dai 3 ai 90 anni!
 

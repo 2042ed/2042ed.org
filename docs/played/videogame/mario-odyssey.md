@@ -3,7 +3,7 @@ title: Mario Odyssey 🏆
 slug: mario-odyssey
 description: ""
 categories: [videogame]
-tags: [Award]
+tags: [Award,Kids,Family, Puzzle]
 date: 2020-12-14
 lastmod: 
 
@@ -26,13 +26,10 @@ played_duration:
 
 played_publisher: 
 played_year: 
-played_url_details: 
+played_url_details: https://supermario.nintendo.com
 played_url_play: 
-played_vg_platforms: []
+played_vg_platforms: [Nintendo Switch]
 ---
-
-> **#Kids #Family**  
-> *Nintendo Switch* | [supermario.nintendo.com](https://supermario.nintendo.com/)   
 
 Uno dei giochi "perfetti". Non piacerà a tutti, ma ai bambini sì, e stare con loro mentre risolvono i vari livelli, è davvero divertente. Eventualmente si gioca anche in due (il genitore può controllare il cappello di Mario) e godersi una sana mezz'ora di interazione ludica.
 

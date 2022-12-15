@@ -1,5 +1,5 @@
 ---
-title: Geo Mag
+title: Geo Mag 🏆
 slug: geo-mage
 description: ""
 categories: [steam]

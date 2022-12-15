@@ -3,7 +3,7 @@ title: Civilization
 slug: civilization
 description: ""
 categories: [videogame]
-tags: [Storia]
+tags: [Storia, Strategia ,Award]
 date: 2020-12-14
 lastmod: 
 
@@ -26,14 +26,10 @@ played_duration:
 
 played_publisher: 
 played_year: 
-played_url_details: 
+played_url_details: https://civilization.com/it-IT/
 played_url_play: 
-played_vg_platforms: []
+played_vg_platforms: [all]
 ---
-
-> #Storia #Strategia #Award  
-> *Tutte le piattaforme*  | [civilization.com](https://civilization.com/it-IT/)  
-{.boxGameDetail}
 
 E' un gioco doppiamente storico:
 1) ci giocavo già 30 anni fa e si è evoluto in 6 edizioni sempre più belle

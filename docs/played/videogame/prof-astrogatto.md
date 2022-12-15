@@ -31,7 +31,6 @@ played_url_play:
 played_vg_platforms: []
 ---
 
-
 eplorare il Sole, il pianeta dove abitiamo, il Sistema Solare, la nostra galassia e l’Universo.
 
 {{< youtube LTZVGtx9-tc >}}

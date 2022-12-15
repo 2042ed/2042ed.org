@@ -32,7 +32,6 @@ played_url_play:
 played_vg_platforms: []
 ---
 
-
 imparare l'inglese
 
 {{< youtube eYl0bLO26Ig >}}

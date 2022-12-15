@@ -28,10 +28,8 @@ played_publisher: Nintendo
 played_year: 
 played_url_details: https://ringfitadventure.nintendo.com
 played_url_play: 
-played_vg_platforms: []
+played_vg_platforms: [Nintendo Switch]
 ---
-
-> *Nintendo Switch* | [ringfitadventure.nintendo.com](https://ringfitadventure.nintendo.com/)   
 
 Nintendo ha creato un capolavoro di ExerGame: un videogioco che ti fa esercitare con centinaia di esercizi ginnici.
 

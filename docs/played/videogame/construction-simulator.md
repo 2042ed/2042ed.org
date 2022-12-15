@@ -3,7 +3,7 @@ title: Construction Simulator
 slug: construction-simulator
 description: ""
 categories: [videogame]
-tags: [Build]
+tags: [Build, Simulazione, Kids ,Award]
 date: 2020-12-14
 lastmod: 
 
@@ -26,14 +26,10 @@ played_duration:
 
 played_publisher: 
 played_year: 
-played_url_details: 
+played_url_details: https://www.construction-simulator.com
 played_url_play: 
-played_vg_platforms: []
+played_vg_platforms: [all]
 ---
-
-> **#Simulazione #Kids #Award**  
-> *PC / Mac*  | [www.construction-simulator.com](https://www.construction-simulator.com)   
-{.boxGameDetail}
 
 A chi non piacciono ruspe, escavatori e camion?
 In questo "simulatore" apri una azienda edile, e lavoro dopo lavoro, con crescente difficoltà e avanzamento nei mezzi e tecniche, si impara a guidare camion, ruspe, escavatori, rulli.. sostituire tubi delle fognature o impiantare alberi, aggiustare tetti e costruire strade.

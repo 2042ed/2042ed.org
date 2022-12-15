@@ -28,11 +28,8 @@ played_publisher:
 played_year: 
 played_url_details: 
 played_url_play: 
-played_vg_platforms: []
+played_vg_platforms: [Desktop]
 ---
-
-> **#Simulazione**  
-> *PC / Mac*    
 
 Un simulatore di Universo, dove poter sperimentare con tutte le variabili che regolano l'astrofisica, e vedere cosa succede, ad esempio puoi aggiungere un pianeta, una seconda luna, far entrare in collisione corpi celesti.. addirittura galassie!
 

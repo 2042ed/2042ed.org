@@ -31,7 +31,6 @@ played_url_play:
 played_vg_platforms: []
 ---
 
-
 molte attività dal calcolo numerico e alle lingue, fino ad arrivare alla logica, alla musica
 
 {{< youtube 2TIYDUNwsVw >}}

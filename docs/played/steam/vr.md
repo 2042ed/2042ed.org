@@ -20,19 +20,17 @@ played_rank_edu:
 played_rank_dev: 
 played_rank_kid: 
 
-played_players: 
-played_age: 
+played_players: 1
+played_age: 10
 played_duration: 
 
 played_publisher: 
 played_year: 
-played_url_details: 
+played_url_details: https://www.oculus.com
 played_url_play: 
 ---
 
 > la soluzione attualmente migliore è l'Oculus Quest 2
-> [oculus.com](https://www.oculus.com)
-{.boxGameDetail}
 
 E' sicuramente una delle tecnologie più "impressionanti", perché va a cercare di sostituire, quasi a sabotare, i sistemi di percezione per immergerci e farci credere di essere altrove.
 E dopo 30 anni di ricerca e sviluppo finalmente inizia ad essere davvero godibile da tutti, anche dai bambini.

@@ -21,17 +21,14 @@ played_rank_dev:
 played_rank_kid: 
 
 played_players: 
-played_age: 
+played_age: 13
 played_duration: 
 
 played_publisher: 
 played_year: 
-played_url_details: 
+played_url_details: https://www.arduino.cc
 played_url_play: 
 ---
-
-> \>13 anni
-> [www.arduino.cc](https://www.arduino.cc)  
 
 è il più famoso microcomputer per costruire di tutto: dai robot alla domotica, dai sintetizzatori alle luci da discoteca.  
 Per iniziare da zero consiglierei micro:bit, altrimenti per chi vuole fare sul serio (e ha almeno 12 anni) un Kit base di Arduino potrebbe aprire nuove frontiere

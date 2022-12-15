@@ -24,13 +24,12 @@ played_players:
 played_age: 
 played_duration: 
 
-played_publisher: 
+played_publisher: Apple
 played_year: 
 played_url_details: 
 played_url_play: 
+played_vg_platforms: [iOS]
 ---
-
-> iOS
 
 Non è un gioco.. ma ricordiamo che in inglese il verbo Play indica tanto il **giocare** quanto il **suonare** (uno strumento).
 

@@ -31,7 +31,6 @@ played_url_play:
 played_vg_platforms: []
 ---
 
-
 sandbox per costruire città
 
 {{< youtube z2kt2j-EURQ >}}

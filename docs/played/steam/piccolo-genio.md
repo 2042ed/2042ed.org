@@ -21,7 +21,7 @@ played_rank_dev:
 played_rank_kid: 
 
 played_players: 
-played_age: 
+played_age: 5
 played_duration: 
 
 played_publisher: 
@@ -29,8 +29,6 @@ played_year:
 played_url_details: 
 played_url_play: 
 ---
-
-> dai 5 anni
 
 Sono molti i giochi ormai disponibili che trattano temi tecnici e scientifici.  
 Ne avrete già visti diversi anche nei supermercati.
@@ -47,5 +45,3 @@ Lisciani, Clementoni, Quercetti, KidzLab sono ottime marche.
 ![](img/steam_labs.webp)
 
 ![](img/steam_magnete.webp)
-
-

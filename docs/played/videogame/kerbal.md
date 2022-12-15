@@ -26,13 +26,10 @@ played_duration:
 
 played_publisher: 
 played_year: 
-played_url_details: 
+played_url_details: https://www.kerbalspaceprogram.com
 played_url_play: 
-played_vg_platforms: []
+played_vg_platforms: [Desktop]
 ---
-
-> **#Simulazione #Spazio #Award**   
-> *PC / Mac* | [scheda](https://www.kerbalspaceprogram.com/)   
 
 il più grande simulatore di Agenzia Spaziale.
 progetti, costruisci, collaudi ogni mezzo volante e astronautico.

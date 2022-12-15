@@ -10,7 +10,7 @@ lastmod:
 template: played.html
 played_category: videogame
 played_skills: []
-played_gameplay_complex: 
+played_gameplay_complex: 3
 played_gameplay_strategy: 
 played_gameplay_luck: 
 played_gameplay_interaction: 
@@ -21,7 +21,7 @@ played_rank_dev:
 played_rank_kid: 
 
 played_players: 1
-played_age: 
+played_age: 8
 played_duration: 
 
 played_publisher: 
