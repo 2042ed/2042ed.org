@@ -3,11 +3,30 @@ title: 3 Segreti
 slug: 
 summary: 
 categories: [boardgame]
-tags: [scheda_GdT]
+tags: []
 date: 2020-12-14
 lastmod: 
-url_game: 
+
+template: played.html
+played_category: boardgame
+played_skills: []
+played_duration: 
+played_gameplay_complex: 
+played_gameplay_strategy: 
+played_gameplay_luck: 
+played_gameplay_interaction: 
+played_players: 
+played_age: 
+played_rank_edu: 
+played_rank_dev: 
+played_rank_kid: 
+played_preferred: 
+played_publisher: 
+played_year: 
+played_url_details: 
+played_url_play: 
 ---
+
 # 3 Segreti
 > #Family #Deduzione #Collaborativo
 > 2-8g | 8+ | 10m | facile | [scheda](https://www.boardgamegeek.com/boardgame/218314/3-secrets)  

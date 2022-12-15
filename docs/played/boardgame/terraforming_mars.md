@@ -1,12 +1,12 @@
 ---
 title: Terraforming Mars
 slug: 
-summary: 
+summary: colonizzare Marte non è mai stato così...
 categories: [boardgame]
-tags: [scheda_GdT]
+tags: [Space]
 date: 2020-12-14
 lastmod: 
-url_game: 
+
 ---
 > **#Strategia #Spazio #Award**      
 > 1-4g | 12+ | 2h | difficile | [scheda](https://www.boardgamegeek.com/boardgame/167791/terraforming-mars)  
