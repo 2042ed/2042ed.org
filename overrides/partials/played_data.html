@@ -1,10 +1,13 @@
-
-{% if page.meta.summary %}
-<p>{{ page.meta.summary }}</p>
+{% if page.meta.description %}
+<p><em>{{ page.meta.description }}</em></p>
 {% endif %}
+
 <table>
 <tr><td>Categoria</td><td>
-    <span class="md-tag">{{ page.meta.played_category }}</span>
+    <strong>{{ page.meta.played_category }}</strong>
+</td></tr>
+<tr><td>Caratteristiche</td>
+<td>
     {% for tag in tags %}
     {% if tag.url %}
     <a href="{{ tag.url | url }}" class="md-tag{{ icon }}">
@@ -16,17 +19,24 @@
       </span>
     {% endif %}
   {% endfor %}
+  <br>
+  {% if page.meta.played_players %}
+  Giocatori: {{ page.meta.played_players }}
+  {% endif %}
+  {% if page.meta.played_age %}
+| Età: {{ page.meta.played_age }}
+  {% endif %}
+  {% if page.meta.played_duration %}
+| Durata: {{ page.meta.played_duration }} minuti
+  {% endif %}
+    <br>
+    Complessità: {{ page.meta.played_gameplay_complex}}<br>
+    Strategia: {{ page.meta.played_gameplay_strategy}}<br>
+    Fortuna: {{ page.meta.played_gameplay_luck }}<br>
+    Interazione: {{ page.meta.played_gameplay_interaction }}<br>
+
 </td></tr>
-<tr><td>Voto</td>
-    <td>
-     {% if page.meta.played_preferred %}
-        🏆 NOSTRO PREFERITO!<br>
-     {% endif %}
-     Voto Educatore 🎓: {{ page.meta.played_rank_edu }}<br>
-     Voto Developer: {{ page.meta.played_rank_dev }}<br>
-     Voto Kids: {{ page.meta.played_rank_kid }}
-    </td>
-</tr>
+
 <tr><td>Competenze</td>
     <td>
     {% for skill in page.meta.played_skills %}
@@ -34,51 +44,44 @@
     {% if skill == "sk_logic" %}
     <span class="md-tag">🧠 mentale / intellettuale / logico</span><br>
     {% elif skill == "sk_imagination" %}
-        💭 ideazione / pensiero laterale<br>
+    <span class="md-tag">💡 ideazione / pensiero laterale</span><br>
     {% elif skill == "sk_memory" %}
-        📜 memoria e gestione del passato<br>
+    <span class="md-tag">📜 memoria e gestione del passato</span><br>
     {% elif skill == "sk_maths" %}
-        🔢 matematica<br>
+    <span class="md-tag">🔢 matematica</span><br>
     {% elif skill == "sk_emotions" %}
-        🧡 emotivo / empatia / sentimenti<br>
+    <span class="md-tag">🧡 emotivo / empatia / sentimenti</span><br>
     {% elif skill == "sk_communication" %}
-        🗣 parole e comunicazione<br>
+    <span class="md-tag">🗣 parole e comunicazione</span><br>
     {% elif skill == "sk_problemsolving" %}
-        💡 immaginazione / astrazione<br>
+    <span class="md-tag">💭 immaginazione / astrazione</span><br>
     {% elif skill == "sk_movement" %}
-        💪 motorio / destrezza<br>
+    <span class="md-tag">💪 motorio / destrezza</span><br>
     {% elif skill == "sk_perception" %}
-        👀 percezione / visione<br>
+    <span class="md-tag">👀 percezione / visione</span><br>
     {% elif skill == "sk_build" %}
-        🛠 progettazione e costruzione<br>
+    <span class="md-tag">🛠 progettazione e costruzione</span><br>
     {% elif skill == "sk_random" %}
-        - 🎲 probabilità<br>
+    <span class="md-tag">🎲 probabilità</span><br>
     {% else %}
-        - {{skill}}
+    <span class="md-tag">{{skill}}</span>
     {% endif %}
-
     {% endfor %}
     </td>
 </tr>
-<tr><td>Dettagli</td>
+
+<tr><td>Valutazione</td>
     <td>
-        {% if page.meta.played_players %}
-        Giocatori: {{ page.meta.played_players }}<br>
-        {% endif %}
-        {% if page.meta.played_age %}
-        Età: {{ page.meta.played_age }}<br>
-        {% endif %}
-        {% if page.meta.played_duration %}
-        Durata: {{ page.meta.played_duration }}<br>
-        {% endif %}
-        <br>
-    Complessità: {{ page.meta.played_gameplay_complex }}<br>
-    Strategia: {{ page.meta.played_gameplay_strategy  }}<br>
-    Fortuna: {{ page.meta.played_gameplay_luck }}<br>
-    Interazione: {{ page.meta.played_gameplay_interaction }}<br>
+     {% if page.meta.played_preferred %}
+        🏆 NOSTRO PREFERITO!<br>
+     {% endif %}
+     {% if page.meta.played_rank_edu %}🎓 Educatore: {{ page.meta.played_rank_edu }}<br>{% endif %}
+     {% if page.meta.played_rank_kid %}🧒🏻 Kids: {{ page.meta.played_rank_kid }}<br>{% endif %}
+     {% if page.meta.played_rank_dev %}🧑🏽‍💻 Developer: {{ page.meta.played_rank_dev }}{% endif %}
     </td>
 </tr>
-<tr><td>Extra</td>
+
+<tr><td>Dettagli</td>
     <td>
     {% if page.meta.played_url_play %}
         Pubblicato da {{ page.meta.played_publisher }}
