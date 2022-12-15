@@ -22,6 +22,8 @@ _Benvenut*_.
 *guida ai giochi intelligenti*  
 - :fontawesome-solid-book: [Jamurr Labs](jam/index.md)  
 *laboratori per imparare creando*  
+- :fontawesome-solid-book: [Ricerca per Tag](played/tags.md)  
+*se non sai cosa vuoi cercare*  
 
 </div>
 
