@@ -1,7 +1,7 @@
 ---
 title: Libri Labirinto
-slug: 
-description: ""
+slug: libri-labirinto
+description: "ogni pagina un labirinto"
 categories: [book]
 tags: [Puzzle, Kids]
 date: 2020-12-14
@@ -15,7 +15,7 @@ played_gameplay_strategy:
 played_gameplay_luck: 
 played_gameplay_interaction: 
 
-played_preferred: 
+played_preferred: 1
 played_rank_edu: 
 played_rank_dev: 
 played_rank_kid: 
@@ -23,8 +23,6 @@ played_rank_kid:
 played_players: 
 played_age: 
 played_duration: 
-
-
 played_publisher: 
 played_year: 
 played_url_details: 

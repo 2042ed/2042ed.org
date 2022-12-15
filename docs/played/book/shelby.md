@@ -1,7 +1,7 @@
 ---
 title: Shelby
 slug: 
-description: ""
+description: "semplice e geniale"
 categories: [book]
 tags: [Librogame, Kids]
 date: 2020-12-14
@@ -15,23 +15,20 @@ played_gameplay_strategy:
 played_gameplay_luck: 
 played_gameplay_interaction: 
 
-played_preferred: 
+played_preferred: 1
 played_rank_edu: 
 played_rank_dev: 
 played_rank_kid: 
 
 played_players: 
-played_age: 
+played_age: 3
 played_duration: 
-
 
 played_publisher: 
 played_year: 
 played_url_details: 
 played_url_play: 
 ---
-
-> **#Kids  #Visuale**   
 
 I libri gioco / avventura di Shelby sono ideali per bambini piccoli, perché hanno solo immagini e frecce.
 
