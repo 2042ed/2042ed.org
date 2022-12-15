@@ -1,5 +1,6 @@
 ---
 title: 7th Continent
+slug: 7th-continent
 summary: un'avventura come da videogioco ma su un tavolo
 categories: [boardgame]
 tags: [collaborativo,solo, avventura, english]

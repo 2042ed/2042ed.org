@@ -26,6 +26,3 @@ played_year:
 played_url_details: 
 played_url_play: 
 ---
-
-# Detective sulla scena del crimine
-#TODO/scrivere 

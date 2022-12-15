@@ -3,7 +3,7 @@ title: Jaipur
 slug: 
 summary: 
 categories: [boardgame]
-tags: []
+tags: [2Giocatori]
 date: 2020-12-14
 lastmod: 
 
@@ -27,7 +27,6 @@ played_url_details:
 played_url_play: 
 ---
 
-> **#2Giocatori**  
 > 2g | 9+ | 30m | facile | [scheda](https://boardgamegeek.com/boardgame/54043/jaipur)  
 
 vendi o compra tutti i cammelli per negoziare merci preziose e ripulire il mercato prima dell'avversario.

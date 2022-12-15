@@ -3,7 +3,7 @@ title: Kingdomino 🏆
 slug: 
 summary: 
 categories: [boardgame]
-tags: [Award]
+tags: [Family, Visuale, Award]
 date: 2020-12-14
 lastmod: 
 

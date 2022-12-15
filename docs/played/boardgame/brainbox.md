@@ -29,8 +29,6 @@ played_url_details:
 played_url_play: 
 ---
 
-# Brainbox
-
 sono tante scatole.. noi abbiamo quella "english grammar" per ripassare la grammatica inglese... ottimo per un ripasso giocoso estemporaneo
 
 > *Fabio:* per ripassare l'inglese e la memoria.. ogni tanto facciamo una scheda

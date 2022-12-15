@@ -3,7 +3,7 @@ title: Fluxx
 slug: 
 summary: 
 categories: [boardgame]
-tags: []
+tags: [Carte, Compatto]
 date: 2020-12-14
 lastmod: 
 
@@ -27,7 +27,6 @@ played_url_details:
 played_url_play: 
 ---
 
-> **#Carte #Compatto**  
 > 2-6g | 9+ | 5-30m | facile | [scheda](https://boardgamegeek.com/boardgamefamily/8/game-fluxx)  
 
 un gioco di carte dove le regole del gioco e l'obiettivo per vincere cambia in continuazione!

@@ -3,33 +3,29 @@ title: Dixit
 slug: 
 summary: 
 categories: [boardgame]
-tags: []
+tags: [Award, Family, Party, Linguaggio]
 date: 2020-12-14
 lastmod: 
 
 template: played.html
 played_category: boardgame
 played_skills: []
-played_duration: 
-played_gameplay_complex: 
+played_duration: 30
+played_gameplay_complex: 1
 played_gameplay_strategy: 
 played_gameplay_luck: 
 played_gameplay_interaction: 
-played_players: 
-played_age: 
+played_players: 3-6
+played_age: 6
 played_rank_edu: 
 played_rank_dev: 
 played_rank_kid: 
 played_preferred: 
 played_publisher: 
 played_year: 
-played_url_details: 
+played_url_details: https://boardgamegeek.com/boardgame/39856/dixit
 played_url_play: 
 ---
-
-# Dixit
-> **#Family #Party #Parole #Creatività #Award**   
-> 3-6g | 6+ | 30m | facile | [scheda](https://boardgamegeek.com/boardgame/39856/dixit)  
 
 Famosissimo, facilissimo, divertente e "immaginifico", piace a grandi e piccoli.
 Particolarmente adatto per imparare ad esprimersi e immaginare, creando empatia comunicativa con gli altri giocatori.

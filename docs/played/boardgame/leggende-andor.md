@@ -36,6 +36,7 @@ Ci vuole un po' di tempo (almeno 2 ore e mezza a ascenario) ma è completo, avvi
 > *Fabio:*
 > è divertente giocarci in 4 amici e sconfiggere i mostri tutti insieme e ha una mappa bellissima!
 
-{{< figure src="../_img/gdt_casa_bambole.jpg.jpg" >}}
-{{< figure src="../_img/gdt_andor.jpg" >}}
+![](img/andor.webp)
+![](img/andor2.webp)
+
 

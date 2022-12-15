@@ -3,7 +3,7 @@ title: Set & Match
 slug: set-match
 summary: 
 categories: [boardgame]
-tags: [Sport, 2Giocaotori]
+tags: [Sport, 2Giocatori]
 date: 2021-02-17
 lastmod: 
 
@@ -27,6 +27,6 @@ played_url_details:
 played_url_play: 
 ---
 
-#TODO/scrivere 
+TODO/scrivere 
 
 > Fabio: gioco a tennis in casa con mio fratello

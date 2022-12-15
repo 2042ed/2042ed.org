@@ -27,8 +27,6 @@ played_url_details: https://boardgamegeek.com/boardgame/230802/azul
 played_url_play: 
 ---
 
-# Azul
-
 > *Fabio:* 
 {.boxFabio}
 

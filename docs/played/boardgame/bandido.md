@@ -3,32 +3,29 @@ title: Bandido
 slug: bandido
 summary: 
 categories: [boardgame]
-tags: [Kids]
+tags: [Kids, Visuale, Collaborativo]
 date: 2020-12-14
 lastmod: 
 
 template: played.html
 played_category: boardgame
 played_skills: []
-played_duration: 
-played_gameplay_complex: 
+played_duration: 10
+played_gameplay_complex: 1
 played_gameplay_strategy: 
 played_gameplay_luck: 
 played_gameplay_interaction: 
-played_players: 
-played_age: 
+played_players: 1-4
+played_age: 5
 played_rank_edu: 
 played_rank_dev: 
 played_rank_kid: 
 played_preferred: 
 played_publisher: 
 played_year: 
-played_url_details: 
+played_url_details: https://www.boardgamegeek.com/boardgame/191925/bandido
 played_url_play: 
 ---
-
-> **#Kids #Visuale #Collaborativo**   
-> 1-4g | 5+ | 10m | facile | [scheda](https://www.boardgamegeek.com/boardgame/191925/bandido)  
 
 Bisogna bloccare il fuggitivo che vuole scappare di prigione, bloccando tutte le vie di uscita dal labirinto che potrà occuparvi fino a tutto il tavolo!
 veloce, facilissimo e divertente

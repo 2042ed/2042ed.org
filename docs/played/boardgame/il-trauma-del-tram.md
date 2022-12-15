@@ -27,9 +27,8 @@ played_url_details:
 played_url_play: 
 ---
 
-> **#Party**  
 > 5g+ | 12+ | 30m | facile | [scheda](https://www.boardgamegeek.com/boardgame/282171/trial-trolley)  
 
-#TODO/scrivere
+TODO/scrivere
 
 > *Fabio:* ci ho giocato più volte con gli amici e ci divertiamo molto anche se è un po' cattivo

@@ -27,7 +27,7 @@ played_url_details:
 played_url_play: 
 ---
 
-#TODO/scrivere 
+TODO/scrivere 
 
 ![](img/steam_braccio_robot.webp)
 

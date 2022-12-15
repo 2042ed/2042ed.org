@@ -1,9 +1,8 @@
 ---
-title: cascadia
+title: Cascadia
+summary: bello bello bello
 date: 2020-12-14
-lastmod: 
-updated: 2022-12-15
-summary: 
+lastmod: 2022-12-15
 categories: [boardgame]
 tags: [Award, Family]
 

@@ -1,8 +1,8 @@
 ---
 title: Cartographers
-summary: 
+summary: disegna la mappa
 categories: [boardgame]
-tags: []
+tags: [RollWrite]
 date: 2020-12-14
 lastmod: 
 
@@ -14,7 +14,7 @@ played_gameplay_complex:
 played_gameplay_strategy: 
 played_gameplay_luck: 
 played_gameplay_interaction: 
-played_players: 
+played_players: 1-8
 played_age: 
 played_rank_edu: 
 played_rank_dev: 

@@ -1,9 +1,8 @@
 ---
-title: micromacro
-date: 2021-02-17
-lastmod: 
-updated: 2022-12-15
+title: Micro Macro 🏆
 slug: micromacro
+date: 2021-02-17
+lastmod: 2022-12-15
 summary: aguzza la vista e deduci...
 categories: [boardgame]
 tags: [Award, Family]
@@ -27,7 +26,5 @@ played_year:
 played_url_details: 
 played_url_play: 
 ---
-
-#TODO/scrivere 
 
 > Fabio: davvero geniale

@@ -1,35 +1,31 @@
 ---
 title: Carcassonne
-slug: 
-summary: 
+slug: carcassonne
+summary: il classico
 categories: [boardgame]
-tags: []
+tags: [Strategia, Award ,Family]
 date: 2020-12-14
 lastmod: 
 
 template: played.html
 played_category: boardgame
 played_skills: []
-played_duration: 
-played_gameplay_complex: 
-played_gameplay_strategy: 
-played_gameplay_luck: 
-played_gameplay_interaction: 
-played_players: 
-played_age: 
+played_duration: 45
+played_gameplay_complex: 2
+played_gameplay_strategy: 2
+played_gameplay_luck: 1
+played_gameplay_interaction: 2
+played_players: 2-4
+played_age: 8
 played_rank_edu: 
 played_rank_dev: 
 played_rank_kid: 
 played_preferred: 
 played_publisher: 
 played_year: 
-played_url_details: 
+played_url_details: https://www.boardgamegeek.com/boardgame/822/carcassonne
 played_url_play: 
----
-
-# Carcassonne
-> **#Strategia #Award #Family**  
-> 2-4g | 8+ | 1.5h | medio | [scheda](https://www.boardgamegeek.com/boardgame/822/carcassonne)  
+--- 
 
 Carcassonne è ormai la pietra miliare del genere "tiles" ovvero tessere di territorio che vanno a crescere la mappa del mondo, uno strategico semplice ma profondo.
 

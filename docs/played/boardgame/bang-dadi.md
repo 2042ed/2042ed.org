@@ -1,6 +1,6 @@
 ---
 title: Bang Dadi 🏆
-slug: 
+slug: bang-dadi
 summary: 
 categories: [boardgame]
 tags: [Award, Family,Party,Dadi,Compatto]
@@ -26,8 +26,6 @@ played_year:
 played_url_details: https://boardgamegeek.com/boardgame/143741/bang-dice-game
 played_url_play: 
 ---
-
-# Bang Dadi 🏆
 
 Il gioco italiano più venduto al mondo, lo conoscono tutti (nella versione originale). Con i dadi è più veloce, concitante, divertente.
 Molti preferiscono la versione carte perché permette strategie più profonde, mentre qui il caso può fare il bello o cattivo tempo.. ma per i più giovani è un motivo per preferirlo

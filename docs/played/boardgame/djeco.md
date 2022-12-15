@@ -3,7 +3,7 @@ title: Djeco
 slug: djeco-games
 summary: 
 categories: [boardgame]
-tags: [Kids]
+tags: [Kids, Compatto]
 date: 2020-12-14
 lastmod: 
 
@@ -27,7 +27,6 @@ played_url_details:
 played_url_play: 
 ---
 
-> **#Kids #Compatto**  
 > 2-5g | 4+ | 15m | facile  
 
 Sono tantissimi i giochi della Djeco. Noi ne abbiamo un po': scatole piccole e semplici con regole perfette per bambini dai 4 anni. Qualunque prendiate è un diertimento valido.

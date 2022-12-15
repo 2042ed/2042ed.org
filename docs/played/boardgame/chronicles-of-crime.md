@@ -1,37 +1,33 @@
 ---
 title: Chronicles of Crime
-slug: 
+slug: chronicles-of-crime
 summary: 
 categories: [boardgame]
-tags: []
+tags: [Deduzione, Investigazione]
 date: 2020-12-14
 lastmod: 
 
 template: played.html
 played_category: boardgame
 played_skills: []
-played_duration: 
-played_gameplay_complex: 
+played_duration: 120
+played_gameplay_complex: 2
 played_gameplay_strategy: 
 played_gameplay_luck: 
 played_gameplay_interaction: 
-played_players: 
-played_age: 
+played_players: 2-4
+played_age: 10
 played_rank_edu: 
 played_rank_dev: 
 played_rank_kid: 
 played_preferred: 
 played_publisher: 
 played_year: 
-played_url_details: 
+played_url_details: https://boardgamegeek.com/boardgame/239188/chronicles-crime
 played_url_play: 
 ---
-
-# Chronicles of Crime
-> **#Deduzione #App**  
-> 2-4g | 10+ | 2h | medio | [scheda](https://boardgamegeek.com/boardgame/239188/chronicles-crime)  
-
-gioco di investigazione con l'aiuto di un tablet che mostra le stanze in 3D che un giocatore esplora in cerca di indizi.
+ 
+Gioco di investigazione con l'aiuto di un tablet che mostra le stanze in 3D che un giocatore esplora in cerca di indizi.
 si passa nelle varie zone della città e si interrogano i vari personaggi in cerca di prove per poi scoprire il colpevole.
 
 > *Fabio:*

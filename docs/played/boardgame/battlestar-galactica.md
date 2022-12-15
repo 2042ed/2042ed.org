@@ -1,35 +1,31 @@
 ---
-title: "Battlestar Galactica: Starship Battles"
-slug: 
+title: Battlestar Galactica: Starship Battles
+slug: battlestar-galactica
 summary: 
 categories: [boardgame]
-tags: []
+tags: [Spazio, Miniature]
 date: 2020-12-14
 lastmod: 
 
 template: played.html
 played_category: boardgame
 played_skills: []
-played_duration: 
-played_gameplay_complex: 
+played_duration: 60
+played_gameplay_complex: 3
 played_gameplay_strategy: 
 played_gameplay_luck: 
 played_gameplay_interaction: 
-played_players: 
-played_age: 
+played_players: 2-4
+played_age: 10
 played_rank_edu: 
 played_rank_dev: 
 played_rank_kid: 
 played_preferred: 
 played_publisher: 
 played_year: 
-played_url_details: 
+played_url_details: https://www.boardgamegeek.com/boardgame/250821/battlestar-galactica-starship-battles-starter-set
 played_url_play: 
 ---
-
-# Battlestar Galactica: Starship Battles
-> **#Spazio #Miniature**         
-> 2-4g | 10+ | 1h | medio-difficile | [scheda](https://www.boardgamegeek.com/boardgame/250821/battlestar-galactica-starship-battles-starter-set)  
 
 Battaglie spaziali tra Coloni e Siloni, Vipers contro Raiders, nel fantascientifico mondo di BSG (Battlestar Galactica).
 Sul modello pluripremiato gioco Wings of Glory (cercarlo se vi piacciono gli scenari di guerre aeree classiche), si inizia a giocare subito con regole semplici che piano a piano diventano più complesse.  

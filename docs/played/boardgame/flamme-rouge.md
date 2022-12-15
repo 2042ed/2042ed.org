@@ -3,7 +3,7 @@ title: Flamme Rouge
 slug: 
 summary: 
 categories: [boardgame]
-tags: []
+tags: [Family, Sport ,Award]
 date: 2020-12-14
 lastmod: 
 
@@ -26,9 +26,7 @@ played_year:
 played_url_details: 
 played_url_play: 
 ---
-
-# Flamme Rouge
-> **#Family #Sport #Award**   
+ 
 > 2-4g | 8+ | 40m | facile | [scheda](https://boardgamegeek.com/boardgame/172225/exploding-kittens)  
 
 Un gioco di corse di... biciclette!  

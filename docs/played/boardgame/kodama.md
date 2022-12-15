@@ -1,9 +1,9 @@
 ---
-title: Kodama 🏆
+title: Kodama
 slug: 
 summary: 
 categories: [boardgame]
-tags: []
+tags: [Family, Kids]
 date: 2020-12-14
 lastmod: 
 
@@ -26,8 +26,7 @@ played_year:
 played_url_details: 
 played_url_play: 
 ---
-
-> **#Family #Award #Kids**    
+   
 > 2-5g | 6+ | 20m | facile | [scheda](https://boardgamegeek.com/boardgame/181810/kodama-tree-spirits)  
 
 Abbiamo preso questo gioco perché consigliato dal MENSA (vedi)

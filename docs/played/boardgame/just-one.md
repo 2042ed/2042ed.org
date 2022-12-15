@@ -3,7 +3,7 @@ title: Just One
 slug: 
 summary: 
 categories: [boardgame]
-tags: []
+tags: [Family, Party ,Linguaggio, Award]
 date: 2020-12-14
 lastmod: 
 
@@ -27,7 +27,6 @@ played_url_details:
 played_url_play: 
 ---
 
-> **#Family #Party #Parole #Award**   
 > 3-7g | 8+ | 20m | facile | [scheda](https://boardgamegeek.com/boardgame/254640/just-one)   
 
 Un party game che impari in 10 secondi e divertirà tutti: bisogna indovinare una parola dando un solo indizio. ma se si dà lo stesso indizio di un altro giocatore si è penalizzati

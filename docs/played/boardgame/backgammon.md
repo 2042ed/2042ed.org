@@ -3,33 +3,29 @@ title: Backgammon
 slug: 
 summary: 
 categories: [boardgame]
-tags: []
+tags: [2Giocatori]
 date: 2020-12-14
 lastmod: 
 
 template: played.html
 played_category: boardgame
 played_skills: []
-played_duration: 
-played_gameplay_complex: 
-played_gameplay_strategy: 
-played_gameplay_luck: 
+played_duration: 30
+played_gameplay_complex: 2
+played_gameplay_strategy: 3
+played_gameplay_luck: 2
 played_gameplay_interaction: 
-played_players: 
-played_age: 
+played_players: 2
+played_age: 8
 played_rank_edu: 
 played_rank_dev: 
 played_rank_kid: 
 played_preferred: 
 played_publisher: 
 played_year: 
-played_url_details: 
+played_url_details: https://www.boardgamegeek.com/boardgame/2397/backgammon
 played_url_play: 
 ---
-
-# Backgammon
-> **##Family 🎲Dadi #2Giocatori**  
-> 2g | 8+ | 30m | facile | [scheda](https://www.boardgamegeek.com/boardgame/2397/backgammon)
 
 Uno dei pochi giochi storici.. nel senso che ha.. *migliaia di anni!* che ci piace giocare ogni tanto. E' relativamente semplice e una volta capito il meccanismo base permette di far lavorare un po' tutto: strategia, matematica, probabilità.
 

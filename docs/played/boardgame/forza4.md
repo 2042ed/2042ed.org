@@ -3,7 +3,7 @@ title: Forza 4 🏆
 slug: forza4
 summary: 
 categories: [boardgame]
-tags: [Kids, Award]
+tags: [Kids, Award, 2Giocatori, Visuale]
 date: 2020-12-14
 lastmod: 
 
@@ -27,7 +27,6 @@ played_url_details:
 played_url_play: 
 ---
 
-> **#Kids #2Giocatori #Visuale**  
 > 2g | 4+ | 10m | facile  
 
 Uno dei pochi classici davvero immortali e che dovrebbe imperare in ogni cameretta appena compiuti i 3 anni.

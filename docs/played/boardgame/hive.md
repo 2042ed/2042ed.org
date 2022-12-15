@@ -3,7 +3,7 @@ title: Hive
 slug: 
 summary: 
 categories: [boardgame]
-tags: []
+tags: [Award, 2Giocatori, Strategia, Compatto]
 date: 2020-12-14
 lastmod: 
 
@@ -27,7 +27,6 @@ played_url_details:
 played_url_play: 
 ---
 
-> **#Family #Strategia #Award #Compatto**  
 > 2g | 8+ | 20m | facile-medio | [scheda](https://boardgamegeek.com/boardgame/2655/hive)   
 
 Qualcuno lo aveva definito il nuovo "scacchi" che sta in un sacchettino senza tavola.

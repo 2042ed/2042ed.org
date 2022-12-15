@@ -3,7 +3,7 @@ title: Concept Kids 🏆
 slug: concept-kids
 summary: 
 categories: [boardgame]
-tags: [Kids]
+tags: [Kids, Award]
 date: 2020-12-14
 lastmod: 
 
@@ -27,4 +27,3 @@ played_url_details:
 played_url_play: 
 ---
 
-#TODO/scrivere

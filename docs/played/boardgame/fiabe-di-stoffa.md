@@ -27,6 +27,4 @@ played_url_details:
 played_url_play: 
 ---
 
-# Fiabe di stoffa
-
 {{< sc_gallery album="gallery" >}}

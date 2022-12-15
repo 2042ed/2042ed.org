@@ -3,14 +3,29 @@ title: Carcassonne Junior 🏆
 slug: carcassonne-jr
 summary: 
 categories: [boardgame]
-tags: [Kids]
+tags: [Kids, Strategia]
 date: 2020-12-14
-lastmod: 
-url_game: 
-updated: 2022-03-22
+lastmod: 2022-03-22
+
+template: played.html
+played_category: boardgame
+played_skills: []
+played_duration: 15
+played_gameplay_complex: 2
+played_gameplay_strategy: 
+played_gameplay_luck: 
+played_gameplay_interaction: 1
+played_players: 2-4
+played_age: 5
+played_rank_edu: 
+played_rank_dev: 
+played_rank_kid: 
+played_preferred: 
+played_publisher: 
+played_year: 
+played_url_details: https://www.boardgamegeek.com/boardgame/41010/carcassonne-junior
+played_url_play: 
 ---
-> **#Kids #Strategia**  
-> 2-4g | 5+ | 15m | facile | [scheda](https://www.boardgamegeek.com/boardgame/41010/carcassonne-junior)  
 
 Il gioco in scatola regalato per i 5 anni di Bruno è PERFETTO.
 Si impara in 30 secondi, si gioca in 20 minuti ed ha il giusto livello di fortuna tattica per i piccoli e di analisi e arguzia per i più grandi.

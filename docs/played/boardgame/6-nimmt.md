@@ -1,6 +1,6 @@
 ---
 title: 6 Nimmt 🏆
-summary: 
+summary: 6-nimmt
 categories: [boardgame]
 tags: [Award]
 date: 2020-12-14

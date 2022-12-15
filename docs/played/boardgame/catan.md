@@ -1,8 +1,8 @@
 ---
 title: Catan
-summary: 
+summary: un altro grande classico
 categories: [boardgame]
-tags: []
+tags: [Strategia]
 date: 2020-12-14
 lastmod: 
 

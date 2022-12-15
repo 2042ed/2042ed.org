@@ -3,7 +3,7 @@ title: Jungle Speed
 slug: jungle-speed
 summary: 
 categories: [boardgame]
-tags: [Kids]
+tags: [Kids, Destrezza ,Compatto]
 date: 2020-12-14
 lastmod: 
 

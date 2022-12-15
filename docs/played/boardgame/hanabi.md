@@ -3,7 +3,7 @@ title: Hanabi 🏆
 slug: hanabi
 summary: 
 categories: [boardgame]
-tags: []
+tags: [Family, Collaborativo ,Party ,Awar ,Compatto]
 date: 2020-12-14
 lastmod: 
 
@@ -27,7 +27,6 @@ played_url_details:
 played_url_play: 
 ---
 
-> **#Family #Collaborativo #Party #Award #Compatto**  
 > 2-5g | 6+ | 25m | facile | [scheda](https://boardgamegeek.com/boardgame/98778/hanabi)   
 
 Pronti? qui **il giocatore non vede le proprie carte!** incredibile ma funziona alla grande, perché si vedono solo le carte degli altri.

@@ -32,6 +32,6 @@ Ma è mai capitato di essere dispari? oppure un giocatore molto più forte degli
 
 Bene, noi l'abbiamo formalizzato con le carte di *Power Calcino*: un mazzo di carte che determinano delle difficoltà, dei bonus o delle micro missioni per rendere le partite molto più avvincenti, equilibrate e divertenti!
 
-#TODO/vignetta 
+TODO/vignetta 
 
 {{< sc_gallery album="gallery" >}}

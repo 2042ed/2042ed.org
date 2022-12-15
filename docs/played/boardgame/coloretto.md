@@ -2,7 +2,7 @@
 title: Coloretto
 summary: 
 categories: [boardgame]
-tags: []
+tags: [Compatto, Family]
 date: 2020-12-14
 lastmod: 
 

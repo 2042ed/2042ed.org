@@ -33,7 +33,7 @@ played_url_play:
 
 Progetti e costruisci mezzi terrestri e volanti per finire il livello. Gradi di libertà ingegneristica davvero notevoli
 
-#TODO/scrivere 
+TODO/scrivere 
 
 
 {{< sc_gallery album="gallery" >}}
