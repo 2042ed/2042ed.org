@@ -32,6 +32,11 @@ played_url_details:
 played_url_play: 
 ---
 
+![](img/pyramidquest_1.webp){: style="height:200px"}
+![](img/pyramidquest_2.webp){: style="height:200px"}
+![](img/pyramidquest_3.webp){: style="height:200px"}
+![](img/pyramidquest_4.webp){: style="height:200px"}
+
 quest’oggetto è davvero unico nel suo genere: una piramide in legno piena di enigmi e meccanismi meccanici da risolvere per svelare il mistero degli antichi Egizi
 dopo tante escape room digitali o ambientali, ecco mettere alla prova lo spirito di osservazione e la logica deduttiva con qualcosa di manuale. 
 tanto immersiva che dopo un po’ il piccolo Bruno ha avuto quasi paura di un rumore proveniente dall’interno!
@@ -49,5 +54,3 @@ DOVE ACQUISTARLA: cercare Escape Welt / Quest Pyramide io l'ho trovata solo sul 
 
 > *Stefano:* risolverla insieme, in due è meglio, magari la sera, con la pila, e immedesimarsi nei tunnel dentro la piramide!
 {.boxStefano}
-
-{{< sc_gallery album="gallery">}}

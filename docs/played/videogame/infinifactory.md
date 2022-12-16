@@ -31,6 +31,8 @@ played_url_play:
 played_vg_platforms: [Desktop]
 ---
 
+![](img/infinifactory.webp)
+
 Avete mai progettato e costruito degli impianti industriali che producano quello che vi serve?
 magari su un mondo alieno?
 Immagino non capiti tutti i giorni.. ma sappiate che poterlo provare è davvero stimolante. Non è un gioco per tutti (di fatto è prodotto dalla Zachtronics che è specializzata in giochi relativamente cervellotici) ma provatelo!

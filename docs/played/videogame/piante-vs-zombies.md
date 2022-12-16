@@ -31,6 +31,10 @@ played_url_play:
 played_vg_platforms: []
 ---
 
+![](img/piante_vs_zombies.webp){: style="height:200px"}
+![](img/piante_vs_zombies_2.webp){: style="height:200px"}
+![](img/piante_vs_zombies_3.webp){: style="height:200px"}
+
 Un gioco "classico" che tutti hanno provato, molto adatto ai giovanissimi (sopratutto l'1, il 2 è molto più complicato)
 
 > *Bruno:* so tutto delle piante e di tutti gli zombies
@@ -39,4 +43,3 @@ Un gioco "classico" che tutti hanno provato, molto adatto ai giovanissimi (sopra
 > *Stefano:* pianificazione.
 {.boxStefano}
 
-{{< sc_gallery album="gallery" >}}

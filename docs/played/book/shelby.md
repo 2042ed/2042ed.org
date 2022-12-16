@@ -20,7 +20,7 @@ played_rank_edu:
 played_rank_dev: 
 played_rank_kid: 
 
-played_players: 
+played_players: 1
 played_age: 3
 played_duration: 
 
@@ -30,11 +30,9 @@ played_url_details:
 played_url_play: 
 ---
 
+![](img/libro_shelby.webp)
+
 I libri gioco / avventura di Shelby sono ideali per bambini piccoli, perché hanno solo immagini e frecce.
 
 > *Fabio:*
 > disegnato benissimo e li ho giocato con mio fratellino
-
-![](img/libro_shelby.webp)
-
-

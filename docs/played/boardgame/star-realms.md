@@ -30,12 +30,10 @@ played_url_details: https://www.boardgamegeek.com/boardgame/147020/star-realms
 played_url_play: 
 ---
 
+![](img/star_realms.webp)
+
 volevamo un gioco di carte veloce di tipo spaziale (ma c'è anche la versione "fantasy" Hero Realms).
 capisco perché è un pluripremiato, con dozzine di espansioni se il deck base inizia ad essere troppo base :)
 
 > *Fabio:*
 > tantissime astronavi, bella grafica e sopratutto devi creare il tuo mazzo
-
-![](img/star_realms.webp)
-
-

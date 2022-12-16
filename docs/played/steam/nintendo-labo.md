@@ -30,11 +30,14 @@ played_url_details: https://labo.nintendo.com
 played_url_play: 
 ---
 
+![](img/nintendo-labo-logo.webp)
+
 Quando espandi la tua consolle con aggeggi costruiti con il cartone. Geniale: dalla canna da pesca all'armatura da robot che ti proietta gigante a camminare nelle città.
 al visore in VR con tanto di ambiente per creare i tuoi scenari e giochi (ci ho fatto un laboratorio con i ragazzi delle superiori.. bello)
 
 > *Fabio:*
 > bello costruire con il cartone e poi giocarci.. il cartone giocato!
 
-{{< sc_gallery album="gallery" >}}
-
+![](img/nintendo_labo.webp){: style="height:200px"}
+![](img/nintento_labo_1.webp){: style="height:200px"}
+![](img/nintento_labo_2.webp){: style="height:200px"}

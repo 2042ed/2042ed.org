@@ -31,15 +31,6 @@ played_url_play:
 played_vg_platforms: []
 ---
 
-> dai 8 anni  
-> [microbit.org](https://microbit.org)  
-
-Nato in UK dove ne sono state distribuiti milioni in tutte le scuole elementari per introdurre il coding e lo sviluppo di semplici programmi.  
-A differenza di Arduino è molto più compatto e ha già di serie una griglia di led (per visualizzare testi, icone e animazioni) ha due pulsanti, giroscopio e bluetooth
-così puoi iniziare a crearci i tuoi programmini con MakeCode (una versione molto più bella ed evoluta di Scratch)
-
----
-
 Sono ormai migliaia le app e i giochi che vorrei che mio figlio giocasse il più possibile sul tablet (sia iOs che Android)
 
 Il mio consiglio è di cercare nelle categorie Kids o Education e preferire le app a pagamento (costano in media 4 euro), così che non hanno assolutamente pubblicità né contenuti nascosti.
@@ -52,15 +43,13 @@ sul mio sito avevamo iniziato a recensire qualche gioco, potete vedere su [stefa
 > *Fabio:*
 > ho imparato a lavare i piatti.  
 
-{{< sc_gallery album="gallery" >}}
+![](img/tocaboca_games.webp){: style="height:300px"}
 
-gallery_item:
-- album: gallery
-  image: code-the-robot-save-the-cat.jpg
-  caption: Code the Robot - Save the Cat (Learny Land)
-- album: gallery
-  image: think-learn-code-a-pillar.jpg
-  caption: ThinkLearn - Code a Pillar (Fischer Prize)
-- album: gallery
-  image: how-does-the-human-body-work.jpg
-  caption: How does the Human Body work?
+![](img/tablet_code_the_robot_save_the_cat.webp){: style="height:300px"}
+Code the Robot - Save the Cat (Learny Land)
+
+![](img/tablet_think_learn_code_a_pillar.webp){: style="height:300px"}
+ThinkLearn - Code a Pillar (Fischer Prize)
+
+![](img/tablet_how_does_the_human_body_work.webp){: style="height:300px"}
+How does the Human Body work?

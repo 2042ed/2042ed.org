@@ -3,11 +3,9 @@ title: "Stone Age Junior 🏆"
 slug: stone-age-junior
 description: ""
 categories: [boardgame]
-tags: [Kids, Strategia]
-date: 2021-05-05T23:19:49+02:00
+tags: [Award, Kids, Strategia]
+date: 2021-05-05
 lastmod: 
-featured: false
-draft: false
 
 template: played.html
 played_category: boardgame
@@ -31,6 +29,8 @@ played_year:
 played_url_details: https://www.boardgamegeek.com/image/2869624/my-first-stone-age
 played_url_play: 
 ---
+
+![](img/stone_age_junior.webp)
 
 un altro gioco non banale, con elementi di strategia, aritmetica, combinatoria e memoria che un cinquenne afferra in pochi minuti. 
 

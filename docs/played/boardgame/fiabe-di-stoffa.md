@@ -30,4 +30,6 @@ played_url_details:
 played_url_play: 
 ---
 
-{{< sc_gallery album="gallery" >}}
+![](img/fiabe_di_stoffa.webp)
+![](img/fiabe_di_stoffa_miniature.webp)
+![](img/fiabe_di_stoffa_pittura.webp)

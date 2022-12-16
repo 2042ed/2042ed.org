@@ -36,6 +36,9 @@ played_url_play:
 played_vg_platforms: [all]
 ---
 
+![](img/minecrat.webp)
+![](img/minecraft_2.webp)
+
 Giocare a Minecraft è esattamente l'equivalente del giocare al LEGO.
 
 Oggi che i confini digitale / analogico, reale / virtuale, gioco / educazione sono molto fluidi, e le nuove generazioni non li vedono, Minecraft è de facto il gioco popolare più diffuso al mondo.
@@ -44,6 +47,4 @@ Per quanto mi riguarda: più ci giocano, meglio è. sia in creativa che in sopra
 
 > *Fabio:*
 > costruisci un sacco di cose, da solo o con gli amici, è estremamente creativo.
-
-{{< sc_gallery album="gallery" >}}
 

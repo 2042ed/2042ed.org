@@ -31,6 +31,9 @@ played_url_play:
 played_vg_platforms: [iOS]
 ---
 
+![](img/monument_valley.webp){: style="height:200px"}
+![](img/monument_valley2.webp){: style="height:200px"}
+
 Un'estetica visiva e sonora capolavoro per un videogioco di enigmi visuali che sembrano usciti dai disegni di Escher.  
 Una bambina in cerca della sua storia in un mondo affascinante e davvero godibile anche per i più piccoli
 
@@ -38,5 +41,3 @@ Una bambina in cerca della sua storia in un mondo affascinante e davvero godibil
 
 > *Fabio:*
 > rompe le leggi della fisica ed è difficile
-
-{{< sc_gallery album="gallery" >}}

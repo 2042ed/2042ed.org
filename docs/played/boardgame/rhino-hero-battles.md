@@ -30,6 +30,8 @@ played_url_details: https://www.boardgamegeek.com/boardgame/218333/rhino-hero-su
 played_url_play: 
 ---
 
+![](img/rhino_hero.webp)
+
 Ci mancava un gioco di equilibrio, di spazialità e di calcolo matematico, e Rhino Hero coinvolge tutti questi temi in modo divertente, facendo costruire "castelli di carte" e facendoci salire i propri personaggi a combattere con i dadi, stando attenti alle scimmiette in equilibrio
 
 Ricordiamoci che ci sono molte aree dell’intelligenza e a seconda dell’interesse si può trovare il gioco giusto per svilupparle!

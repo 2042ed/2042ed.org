@@ -30,6 +30,8 @@ played_url_details: https://www.oculus.com
 played_url_play: 
 ---
 
+![](img/vr.webp)
+
 > la soluzione attualmente migliore è l'Oculus Quest 2
 
 E' sicuramente una delle tecnologie più "impressionanti", perché va a cercare di sostituire, quasi a sabotare, i sistemi di percezione per immergerci e farci credere di essere altrove.
@@ -43,4 +45,7 @@ Il nuovo modello dell'Oculus, che è un visore indipendente (senza cavi al compu
 > Fabio: è davvero incredibile. faccio arrampicata con The Climb e gioco a The Room.. sembra proprio di essere lì!
 {.boxFabio}
 
-{{< sc_gallery album="gallery" >}}
+![](img/vr_2.webp){: style="height:200px"}
+![](img/vr_3.webp){: style="height:200px"}
+![](img/vr_monitor.webp){: style="height:200px"}
+

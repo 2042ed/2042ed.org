@@ -32,6 +32,6 @@ played_url_play:
 
 Davvero un gioco intelligente, da passarci le ore tutti insieme.
 
-![](img/steam_kaleido_gears.webp)
+![](img/kaleido_gears.webp)
 
 

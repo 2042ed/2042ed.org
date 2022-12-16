@@ -31,6 +31,8 @@ played_url_details: https://boardgamegeek.com/boardgamefamily/48410/deckscape
 played_url_play: 
 ---
 
+![](img/deckscape.webp)
+
 Avventure piene di enigmi non banali da risolvere tutti insieme girando carta dopo carta. Noi li abbiamo giocati tutti e 6 e ci piacciono sempre.
 
 > *Fabio:*
@@ -38,7 +40,5 @@ Avventure piene di enigmi non banali da risolvere tutti insieme girando carta do
 
 > *Stefano:*
 > Per noi è un gioco importante perché ha "aperto" la fase di esplorazione dei giochi compatti in famiglia
-
-![](img/deckscape.webp)
 
 

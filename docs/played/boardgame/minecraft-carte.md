@@ -30,5 +30,6 @@ played_url_details: https://www.boardgamegeek.com/boardgame/186265/minecraft-car
 played_url_play: 
 ---
 
-gioco abbastanza semplice e che si lascia giocare velocemente
+![](img/minecraft_carte.webp)
 
+gioco abbastanza semplice e che si lascia giocare velocemente

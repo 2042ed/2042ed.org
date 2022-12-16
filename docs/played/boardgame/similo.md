@@ -30,6 +30,8 @@ played_url_details: https://boardgamegeek.com/boardgame/268620/similo
 played_url_play: 
 ---
 
+![](img/similo.webp)
+
 16 carte di personaggi di fantasia e bisogna individuare il personaggio segreto grazie a due tipi di indizi: è simile o non è simile ad altri personaggi. semplicissimo. bellissimo.
 
 > *Fabio:*
@@ -37,6 +39,3 @@ played_url_play:
 
 > *Stefano:*
 > Imprescindibile. Sopratutto l'edizione Stora o Miti.
-
-![](./img/similo.webp)
-

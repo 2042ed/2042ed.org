@@ -30,12 +30,11 @@ played_url_details: https://boardgamegeek.com/boardgame/204583/kingdomino
 played_url_play: 
 ---
 
+![](img/kingdomino.webp)
+
 un domino dove si costruisce il territorio intorno al proprio castello
 veloce (10/15 minuti a partita) ma non banale.. ha una profondità notevole
 bello bello
 
 > *Fabio:*
 > è bello pensare alla tattica da usare per scegliere il prossimo terreno e sopratutto alla fine vedere tutto il territorio che hai creato
-
-![](img/kingdomino.webp)
-

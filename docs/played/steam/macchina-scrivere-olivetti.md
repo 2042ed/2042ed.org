@@ -34,6 +34,6 @@ Sarà perché è meccanica con gli ingranaggi a vista, sarà la soddisfazione di
 
 fatto sta che ci si passa ore.
 
-![](img/steam_olivetti.webp)
-![](img/steam_olivetti2.webp)
+![](img/macchina_olivetti.webp)
+![](img/macchina_olivetti2.webp)
 

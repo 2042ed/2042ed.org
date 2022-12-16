@@ -30,6 +30,8 @@ played_url_details: https://www.boardgamegeek.com/boardgame/218314/3-secrets
 played_url_play: 
 ---
 
+![](img/3segreti.webp)
+
 Ogni carta è un mistero da risolvere.
 Un giocatore conosce la storia e può aiutare gli altri giocatori che devono dedurre cosa è successo e perché, con semplici domande a risposta si, no, non rilevante.
 Diversi livelli di difficoltà che impegneranno dai 5 minuti alla mezz'ora.

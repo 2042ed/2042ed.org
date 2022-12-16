@@ -31,6 +31,8 @@ played_url_play:
 played_vg_platforms: []
 ---
 
+![](img/digital_boardgames.webp)
+
 Sono sempre di più i giochi da tavolo in versione app, che hanno il grandissimo vantaggio di poter giocare contro il computer, e quindi di allenarsi in qualsiasi momento. Costano molto meno della scatola e se siete in dubbio o volete fare una prova, è un'opportunità!
 
 Io ho giocato molto a Splendor con mio figlio, ad esempio, o mi sono allenato con Terraforming Mars per capire bene le regole, prima di intavolarlo.

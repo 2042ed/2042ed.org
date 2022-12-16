@@ -3,7 +3,7 @@ title: Bad Piggies
 slug: bad-piggies
 description: ""
 categories: [videogame]
-tags: [Build, Maker]
+tags: [Build, Maker, Award]
 date: 2020-12-14
 lastmod: 
 
@@ -31,9 +31,8 @@ played_url_play:
 played_vg_platforms: [Mobile]
 ---
 
+![](img/bad_piggies.webp){: style="height:200px"}
+![](img/bad_piggies_2.webp){: style="height:200px"}
+![](img/bad_piggies_3.webp){: style="height:200px"}
+
 Progetti e costruisci mezzi terrestri e volanti per finire il livello. Gradi di libertà ingegneristica davvero notevoli
-
-TODO/scrivere 
-
-
-{{< sc_gallery album="gallery" >}}

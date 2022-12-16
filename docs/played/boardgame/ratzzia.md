@@ -33,6 +33,8 @@ played_url_details:
 played_url_play: 
 ---
 
+![](img/ratzzia_featured.webp)
+
 > *Bruno:* per prendere le salsicce devi contare i dadi.. e poi le metti tutte nel sacchettino!
 {.boxFabio}
 

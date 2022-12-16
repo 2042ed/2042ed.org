@@ -30,6 +30,8 @@ played_url_details: https://boardgamegeek.com/boardgame/181810/kodama-tree-spiri
 played_url_play: 
 ---
 
+![](img/kodama.webp)
+
 Abbiamo preso questo gioco perché consigliato dal MENSA (vedi)
 e perché ha i personaggi conosciuti nei films di Myazaki
 e il gioco non delude! bisogna far crescere gli alberi seguendo delle missioni personali.
@@ -38,7 +40,3 @@ c'è anche un regolamento semplificato per bambini
 
 > *Fabio:*
 > omini e ambientazione simpaticissimi e bellissimi
-
-![](img/kodama.webp)
-
-

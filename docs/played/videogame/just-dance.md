@@ -31,10 +31,11 @@ played_url_play:
 played_vg_platforms: [all]
 ---
 
+![](img/just_dance_2.webp){: style="height:200px"}
+![](img/just_dance_2021.webp){: style="height:200px"}
+
 Qui si balla. da uno a 8, tutti insieme.
 E', insieme a Ring Fit Adventure, l'"exergame" più famoso al mondo. Ne esce un'edizione ogni anno con le canzoni più popolari e le coreografie più o meno ufficiali. Da provare tutti insieme!
 
 > *Fabio:*
 > ti insegna a ballare!
-
-{{< sc_gallery album="gallery" >}}

@@ -30,6 +30,8 @@ played_url_details: https://boardgamegeek.com/boardgame/63268/spot-it
 played_url_play: 
 ---
 
+![](img/dobble.webp){width=49%}
+
 Un mazzo di 50 carte rotonde dove tra una carte e l'altra c'è *un solo* elemento in comune e che permette diverse modalità di gioco. Perfetto per bambini (per i più piccoli c'è una versione speciale con disegni più semplici).  
 
 > *Fabio:*
@@ -38,5 +40,4 @@ Un mazzo di 50 carte rotonde dove tra una carte e l'altra c'è *un solo* element
 > *Stefano:*
 > Io ho studiato la matematica che ci sta dietro a questo gioco ed è davvero meravigliosa
 
-![](./img/dobble.webp){width=49%}
 

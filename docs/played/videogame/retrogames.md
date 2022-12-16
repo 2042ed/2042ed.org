@@ -31,6 +31,8 @@ played_url_play:
 played_vg_platforms: []
 ---
 
+![](img/retrogames.webp)
+
 tutti i videogiochi degli anni '80 sono semplici e hanno fatto la storia.
 quelli degli anni '90 hanno fatto scuola per tutto quello che è venuto dopo.  
 

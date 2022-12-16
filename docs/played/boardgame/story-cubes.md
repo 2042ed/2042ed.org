@@ -30,6 +30,8 @@ played_url_details: https://www.boardgamegeek.com/boardgame/20545/rorys-story-cu
 played_url_play: 
 ---
 
+![](img/story_cubes.webp)
+
 I dadi hanno diversi disegni e icone. Li tiri e devi inventare una storia che li contenga.
 Oppure in successione ogni giocatore aggiunge un dato, proseguendo la storia.
 Serve altro?
@@ -39,6 +41,3 @@ Serve altro?
 
 > *Stefano:*
 > Quando lo scoprii ormai 10 anni fa capii che era iniziata una nuova era per la creatività
-
-![](./img/story_cubes.webp)
-

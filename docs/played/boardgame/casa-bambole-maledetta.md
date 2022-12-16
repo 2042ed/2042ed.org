@@ -30,6 +30,7 @@ played_year:
 played_url_details: https://www.boardgamegeek.com/boardgame/311686/escape-room-cursed-dollhouse
 played_url_play: 
 ---
+![](img/casa_bambole.webp)
 
 Una casa dentro casa vostra che vi terrà svegli per almeno 3 ore con enigmi davvero difficili quanto sorprendenti e vari.  
 
@@ -38,6 +39,3 @@ Una casa dentro casa vostra che vi terrà svegli per almeno 3 ore con enigmi dav
 
 > *Stefano:*
 > Montare la casa aprendo la scatola del gioco e indagare ogni angolino con gli infrarossi,, beh.. è stato un gaudio anche per il piccolo Bruno
-
-{{< figure src="gdt_casa_bambole.jpg" >}}
-

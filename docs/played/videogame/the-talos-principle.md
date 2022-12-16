@@ -31,6 +31,8 @@ played_url_play:
 played_vg_platforms: []
 ---
 
+![](img/the_talos_principle.webp)
+
 la storia di una Intelligenza Artificiale e la relazione con il suo "creatore".
 
 il tutto in un gameplay di spazialità e risoluzione di enigmi logico/meccanici/visuali.

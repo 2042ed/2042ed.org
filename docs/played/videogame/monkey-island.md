@@ -31,11 +31,10 @@ played_url_play:
 played_vg_platforms: [all]
 ---
 
+![](img/the_secret_of_monkey_island.webp)
+
 il primo grande gioco avventura Punta e Clicca.  
 Celebre perché divertentissimo, sei un pirata che devi risolvere un grosso problema, sconfiggendo i nemici con duelli di.. insulti!  
 
-
 > *Fabio:*
 > è da giocare perché impari a insultare con stile
-
-

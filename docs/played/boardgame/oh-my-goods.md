@@ -30,12 +30,10 @@ played_url_details: https://boardgamegeek.com/boardgame/183840/oh-my-goods
 played_url_play: 
 ---
 
+![](img/ohmygoods.webp)
+
 gestionale semplice ma davvero profondo
 è un mazzo di 110 carte ma si costruisce di tutto con meccaniche non banali
 
 > *Fabio:*
 > bello produrre e vendere merci e ci sono infinite possibilità di commercio
-
-![](img/ohmygoods.webp)
-
-

@@ -31,6 +31,8 @@ played_url_play:
 played_vg_platforms: [Tablet, Desktop]
 ---
 
+![](img/world_of_goo.webp)
+
 grafica, musica, animazioni, ambientazione e sopratutto livelli crescenti perfetti.
 
 devi inventare il modo di connettere i "goo" per costruire strutture e risolvere i livelli.
@@ -38,4 +40,5 @@ devi inventare il modo di connettere i "goo" per costruire strutture e risolvere
 > *Stefano:* ci giocai io, poi Fabio, poi Bruno
 {.boxStefano}
 
-{{< sc_gallery album="gallery" >}}
+![](img/world_of_goo2.webp)
+

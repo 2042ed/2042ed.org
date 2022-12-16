@@ -30,8 +30,8 @@ played_url_details:
 played_url_play: 
 ---
 
+![](img/pingpong.webp){: style="height:200px"}
+![](img/pingpong_torneo.webp){: style="height:200px"}
+
 giocare a Ping Pong è bello e divertente.
 organizzare un torneo tra amici o nel quartiere è ancora meglio!
-
-{{< sc_gallery album="gallery" >}}
-

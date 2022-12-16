@@ -30,12 +30,10 @@ played_url_details: https://www.boardgamegeek.com/boardgame/267319/roam
 played_url_play: 
 ---
 
+![](img/roam.webp)
+
 trovare i patterns sulla griglia di gioco per conquistare più territorio prima degli avversari.
 grafica bellissima, meccaniche semplici con due livelli di difficoltà
 
 > *Fabio:*
 > mi piace che ogni personaggio abbia una sua propria mossa, ovvero territorio conquistabile
-
-
-![](img/roam.webp)
-

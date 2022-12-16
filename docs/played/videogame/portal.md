@@ -31,6 +31,8 @@ played_url_play:
 played_vg_platforms: [all]
 --- 
 
+![](img/portal_2.webp)
+
 Un gioco di 10 anni fa ma che è ancora attualissimo e davvero educativo:
 avanzare nella storia (bellissima, tra l'altro, con grafica e musica capolavoro) creando dei "portali" tra pareti e pavimenti.
 

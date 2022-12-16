@@ -31,6 +31,10 @@ played_url_details:
 played_url_play: 
 ---
 
+![](img/santorini1.webp){: style="height:200px"}
+![](img/santorini2.webp){: style="height:200px"}
+![](img/santorini3.webp){: style="height:200px"}
+
 per festeggiare ottimi voti, abbiamo inaugurato quello che è entrato subito nella Top5 dei giochi preferiti: Santorini
 così semplice che anche il cinquenne ci gioca dopo 30 secondi di spiegazioni (si tratta di muovere di una casella e alzare torri e vince il primo che sale al terzo livello), ma con una strategia che si inserisce mossa dopo mossa, tra la dama e gli scacchi.
 mi ha davvero sorpreso come in pochi minuti fossimo già a un livello di tattica e complessità maneggevole ma non banale. 
@@ -43,5 +47,3 @@ ovviamente ha vinto Fabio. ma con le partite che durano 10 minuti una tira l’a
 
 > *Stefano:* gioco perfetto
 {.boxStefano}
-
-{{< sc_gallery album="gallery">}}

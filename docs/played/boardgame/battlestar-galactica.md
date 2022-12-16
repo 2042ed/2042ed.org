@@ -40,5 +40,5 @@ Sul modello pluripremiato gioco Wings of Glory (cercarlo se vi piacciono gli sce
 > *Stefano:*
 > Lo ammetto: lo presi perché adoro BSG.. e se non avete visto la serie (quella del 2003) *fatelo!* poi volevamo un gioco di combattimenti tattici, e Andrea Angiolino, l'autore, ha fatto davvero un bel lavoro.
 
-{{< figure src="gdt_bsg.jpg" width="49%">}}
-{{< figure src="gdt_bsg2.jpg" width="49%">}}
+![](img/bsg.webp)
+![](img/bsg2.webp)

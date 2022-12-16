@@ -3,7 +3,7 @@ title: Libri Labirinto
 slug: libri-labirinto
 description: "ogni pagina un labirinto"
 categories: [book]
-tags: [Puzzle, Kids]
+tags: [Puzzle, Kids, Award]
 date: 2020-12-14
 lastmod: 
 
@@ -29,14 +29,10 @@ played_url_details:
 played_url_play: 
 ---
 
-> **#Kids #Mentale #Visuale**   
+![](img/libro_labirinto.webp)
 
 Ce ne sono molti.. basta cercare "libro labirinto"
 I miei figli hanno sviluppato un senso creativo spropositato risolvendo centinaia di tipi di versi di labirinti col dito.
 
 > *Fabio:*
 > che soddisfazione trovare le uscite dai mille labirinti tutti diversi
-
-![](img/libro_labirinto.webp)
-
-

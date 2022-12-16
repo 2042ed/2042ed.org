@@ -30,6 +30,7 @@ played_url_details:
 played_url_play: 
 ---
 
+![](img/guida_galattica_autostoppisti.webp)
 
 di Douglas Adams.
 

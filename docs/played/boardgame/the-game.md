@@ -30,6 +30,8 @@ played_url_details: https://boardgamegeek.com/boardgame/182453/game-fire-compila
 played_url_play: 
 ---
 
+![](img/the_game_faccia_a_faccia.webp)
+
 Un semplice mazzo di carte che vi farà collaborare per finire questo "solitario multigiocatore", il capostipite di molti altri giochi della serie.
 
 > *Fabio:*
@@ -37,8 +39,3 @@ Un semplice mazzo di carte che vi farà collaborare per finire questo "solitario
 
 > *Stefano:*
 > Adoro i giochi estremamente semplici ma geniali.
-
-
-![](img/the_game_faccia_a_faccia.webp)
-
-

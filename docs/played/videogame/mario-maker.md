@@ -31,6 +31,8 @@ played_url_play:
 played_vg_platforms: [Nintendo Switch]
 ---
 
+![](img/super_mario_maker_2.webp)
+
 Vedere un bambino di 4 anni creare nuovi livelli di videogiochi, posizionando trappole, ostacoli, mostri e monete da raccogliere.. e poi presentartelo sfidandoti a risolverlo, non ha prezzo.
 
 O meglio si, in prezzo ce l'ha, il costo di una Nintendo Switch e schedina.

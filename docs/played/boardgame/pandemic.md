@@ -30,13 +30,11 @@ played_url_details: https://boardgamegeek.com/boardgame/30549/pandemic
 played_url_play: 
 ---
 
+![](img/pandemic.webp)
+
 debellare una pandemia di 4 virus prima che sia troppo tardi 
 collaborativo, bello (dal creatore di Deserto Proibito), famoso.
 merita.
 
 > *Fabio:*
 > bello viaggiare in tutto il mondo per fermare il virus
-
-![](img/pandemic.webp)
-
-

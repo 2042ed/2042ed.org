@@ -30,6 +30,8 @@ played_url_details: https://www.boardgamegeek.com/boardgame/148228/splendor
 played_url_play: 
 ---
 
+![](img/splendor.webp)
+
 Dateci retta: compratelo senza indugio.
 Le componenti sono splendide, è facile da imparare, è profondo.
 
@@ -42,6 +44,3 @@ Noi l'abbiamo giocato tanto anche sul tablet perché ci sono le missioni avanzat
 
 > *Stefano:*
 > Adoro gli Space Cowboys (game designers francesi)
-
-![](img/splendor.webp)
-

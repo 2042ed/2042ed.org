@@ -31,6 +31,8 @@ played_url_play:
 played_vg_platforms: [Desktop]
 ---
 
+![](img/kerbal-space-academy.webp)
+
 il più grande simulatore di Agenzia Spaziale.
 progetti, costruisci, collaudi ogni mezzo volante e astronautico.
 vai in orbita e fino sulla Luna o altri pianeti.

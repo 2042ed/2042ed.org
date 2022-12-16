@@ -33,6 +33,8 @@ played_url_details: https://www.boardgamegeek.com/boardgame/70323/king-tokyo
 played_url_play: 
 ---
 
+![](img/king_tokyo_featured.webp)
+
 > *Fabio:* 
 {.boxFabio}
 

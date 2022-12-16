@@ -31,8 +31,7 @@ played_url_play:
 played_vg_platforms: [Desktop]
 ---
 
+![](img/unity.webp)
+
 fate un regalo ai vostri figli: Unity
 è pure gratuito!
-
-
-{{< sc_gallery album="gallery" >}}

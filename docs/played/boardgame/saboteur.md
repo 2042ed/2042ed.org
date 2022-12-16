@@ -30,11 +30,10 @@ played_url_details: https://www.boardgamegeek.com/boardgame/143147/saboteur-comp
 played_url_play: 
 --- 
 
+![](img/saboteur.webp)
+
 In Saboteur siamo tutti nani, ma alcuni sono "sabotatori" segreti che devono impedire agli altri di trovare le gemme scavando dei tunnel sotterranei.. davvero coinvolgente perché è tutto un gioco di squadra e controsquadra, cercando di capire chi va e dove.. e alla fine vince una delle due squadre.. ma su più turni puoi cambiare squadra!
 divertente! ottimo quando siamo in tantissimi.
 
 > *Fabio:*
 > è divertente sia essere un nano e cercare l'oro sia fare l'impostore. e l'essere in miniera ci piace sempre a noi ragazzi
-
-![](img/saboteur.webp)
-

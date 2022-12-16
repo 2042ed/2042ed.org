@@ -30,13 +30,11 @@ played_url_details: https://boardgamegeek.com/boardgamefamily/8/game-fluxx
 played_url_play: 
 ---
 
+![](img/fluxx.webp)
+
 un gioco di carte dove le regole del gioco e l'obiettivo per vincere cambia in continuazione!
 geniale. ci sono molte ambientazioni (in inglese una dozzina) alcune addirittura tematiche su chimica o matematica!
 in italiano abbiamo questa edizione Chtulu
 
 > *Fabio:*
 > carte molto strane e l'unico in cui le regole del gioco cambiano mentre giochi
-
-![](img/fluxx.webp)
-
-

@@ -30,9 +30,9 @@ played_url_details: https://boardgamegeek.com/boardgame/146508/time-stories
 played_url_play: 
 ---
 
+![](img/time_stories.webp)
+
+
 si collabora tutti nell'avventursi nel tempo per risolvere missioni. neessita una buona conversazione con i compagni di viaggio.
 
 Unico neo che finita un'avventura, le altre sono moduli opzionali da acquistare separatamente
-
-![](img/time_stories.webp)
-

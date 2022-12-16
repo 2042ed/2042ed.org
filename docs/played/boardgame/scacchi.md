@@ -30,6 +30,8 @@ played_url_details:
 played_url_play: 
 ---
 
+![](img/scacchi.webp)
+
 Non dovrebbe necessitare presentazioni se non accennare a delle buone motivazioni per intavolarlo, ogni tanto, senza la pretesa di diventare una regina degli scacchi
 
 1. è giocato da TUTTI nel mondo.
@@ -38,5 +40,3 @@ Non dovrebbe necessitare presentazioni se non accennare a delle buone motivazion
 4. ti obbliga a pensare la mossa possibile, e immaginare / prevedere, almeno le prossime 2 mosse (avversario e mia risposta), quindi intuire cosa sia una strategia
 5. ai ragazzi piace
 6. esistono centinaia di versioni.. anche in digitale dove i pezzi combattono sanguinosamente! :) (cercate BattleChess)
-
-{{< sc_gallery album="gallery" >}}

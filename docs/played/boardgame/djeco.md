@@ -30,6 +30,8 @@ played_url_details:
 played_url_play: 
 ---
 
+![](img/djeco.webp){width=49%}
+
 Sono tantissimi i giochi della Djeco. Noi ne abbiamo un po': scatole piccole e semplici con regole perfette per bambini dai 4 anni. Qualunque prendiate è un diertimento valido.
 
 > *Fabio:*
@@ -38,5 +40,4 @@ Sono tantissimi i giochi della Djeco. Noi ne abbiamo un po': scatole piccole e s
 > *Stefano:*
 > La Djeco è una di quelle marche che garantisce una costante qualità in tutti i suoi prodotti. Bisogna imparare a riconoscerle e poi fidarsi.
 
-![](./img/djeco.webp){width=49%}
 

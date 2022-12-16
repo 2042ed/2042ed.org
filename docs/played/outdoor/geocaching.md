@@ -30,6 +30,10 @@ played_url_details:
 played_url_play: 
 ---
 
+![](img/geocaching.webp){: style="height:200px"}
+![](img/geocaching_2.webp){: style="height:200px"}
+![](img/geocaching_3.webp){: style="height:200px"}
+
 - ho un pò paura ad infilare la mano lì dentro
 - "la paura uccide la mente". non aver paura. (e tranquillo ho già verificato che non ci siano vipere 🐍
 - niente
@@ -42,5 +46,3 @@ dopo un'ora di ricerche non l'abbiamo trovato.. sebbene a ottobre qualcuno l'ave
 Anche il piccolo Bruno si è divertito a spostare tutti i sassi e cercare indizi.
 Presto ne creeremo una anche noi vicino casa. così potete venire a trovarci per una tisana premio (solo se lo troverete, ovvio)
 cercate Geocaching e buone avventure!
-
-{{< sc_gallery album="gallery" >}}

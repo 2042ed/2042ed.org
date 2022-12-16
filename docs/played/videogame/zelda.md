@@ -31,6 +31,8 @@ played_url_play:
 played_vg_platforms: [Nintendo]
 ---
 
+![](img/zelda.webp)
+
 I videogiochi della serie di Zelda hanno accompagnato tre generazioni ormai (il primo titolo è di fine anni '80') diventando di fatto una componente culturale pop davvero universale.
 
 I giochi sono fatti bene, con grandi storie, personaggi, missioni da compiere in mondi infiniti, e colonne sonore che ci fanno i tour mondiali con l'orchestra (siamo andati a sentirne uno! forse l'unico concerto di musica classica che Fabio ha desiderato andarci)

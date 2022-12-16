@@ -30,4 +30,6 @@ played_url_details: https://www.boardgamegeek.com/boardgame/282171/trial-trolley
 played_url_play: 
 ---
 
+![](img/trauma_tram.webp)
+
 > *Fabio:* ci ho giocato più volte con gli amici e ci divertiamo molto anche se è un po' cattivo

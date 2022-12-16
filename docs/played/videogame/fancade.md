@@ -31,6 +31,8 @@ played_url_play:
 played_vg_platforms: [mobile, web]
 ---
 
+![](img/fancade.webp)
+
 Migliaia di mini-giochi. divertenti, originali, incredibili
 e il bello è che si possono creare nuovi giochi da dentro l'app!
 Partite brevi da pochi minuti per ogni occasione.

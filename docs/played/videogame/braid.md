@@ -31,4 +31,6 @@ played_url_play:
 played_vg_platforms: [all]
 ---
 
+![](img/braid.webp)
+
 In questo videogioco indie di qualche anno fa, all'apparanza banale per la meccanica platform, si nasconde un goiello: la possibilità di tornare indietro nel tempo

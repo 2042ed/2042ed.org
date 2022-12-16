@@ -31,10 +31,12 @@ played_url_play:
 played_vg_platforms: [Desktop]
 ---
 
+![](img/simple_planes.webp){: style="height:200px"}
+![](img/simple_planes_2.webp){: style="height:200px"}
+
 Un semplicissimo simulatore di volo e di costruzione di qualsiasi velivolo.
 Perfetto per i ragazzi o per chi vuole divertirsi e giocare con l'ingegneria senza scomodare mostri quali Flight Simulator (che è un capolavoro, sia inteso, ma decisamente su un'altra scala)
 
 > *Fabio:*
 > Qui ho imparato a volare e a costruire aerei di tutti i tipi!
 
-{{< sc_gallery album="gallery" >}}

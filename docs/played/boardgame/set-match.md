@@ -30,4 +30,8 @@ played_url_details:
 played_url_play: 
 ---
 
+![](img/set_match_featured.webp)
+
 > Fabio: gioco a tennis in casa con mio fratello
+
+![](img/set_match_2.webp)

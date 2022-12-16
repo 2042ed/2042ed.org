@@ -31,6 +31,10 @@ played_url_play:
 played_vg_platforms: [all]
 ---
 
+![](img/the_witness.webp){: style="height:200px"}
+![](img/the_witness_1.webp){: style="height:200px"}
+![](img/the_witness_2.webp){: style="height:200px"}
+
 un'avventura tranquillissima, senza una parola scritta.
 dove cercare di risolvere i 200 enigmi con la sola forza della mente e della deduzione. e un dito.
 
@@ -40,4 +44,3 @@ dove cercare di risolvere i 200 enigmi con la sola forza della mente e della ded
 > *Stefano:* capolavoro. non facilissimo, ma stimola davvero il pensiero laterale, logico, deduttivo
 {.boxStefano}
 
-{{< sc_gallery album="gallery" >}}

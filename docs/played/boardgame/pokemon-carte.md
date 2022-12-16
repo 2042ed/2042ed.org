@@ -30,6 +30,8 @@ played_url_details: https://www.boardgamegeek.com/boardgame/2165/pokemon-trading
 played_url_play: 
 ---
 
+![](img/pokemon.webp)
+
 organizzando tornei fino in 20
 
 il famosissimo gioco di carte che lo giocano quasi tutti i ragazzi ogni settimana.
@@ -37,7 +39,3 @@ l'ho studiato un po' e non è male neanche per gli adulti ogni tanto fare una pa
 
 > *Fabio:*
 > bello ottimizzare il proprio mazzo di carte, ci sono tantissimi Pokemon ognuno con sue abilità e mosse, e poi ci giocano tutti quindi è buono per farsi nuovi amici
-
-
-![](img/pokemon.webp)
-

@@ -31,6 +31,7 @@ played_year:
 played_url_details: 
 played_url_play: 
 ---
+![](img/woodix_featured.webp)
 
 6 rompicapo in legno dalla Djeco
 
@@ -40,4 +41,4 @@ played_url_play:
 > *Stefano:* non me l'aspettavo che piacessero tantissimo anche al piccolo Bruno, che li chiede.
 {.boxStefano}
 
-{{< sc_gallery album="gallery">}}
+![](img/woodix.webp)

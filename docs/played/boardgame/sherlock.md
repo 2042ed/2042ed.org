@@ -30,12 +30,11 @@ played_url_details: https://www.boardgamegeek.com/boardgamefamily/48472/series-q
 played_url_play: 
 ---
 
+![](img/sherlock.webp)
+
 il gioco più piccolo esistente (quasi un pacchetto di fiammiferi) con dentro giusto le 40 carte necessarie ad intavolare un caso misterioso da risolvere con collaborazione e tanto dialogo!
 
 ci sono molti episodi noi ne abbiamo provati un paio.. un must se vi piacciono i gialli!
 
 > *Fabio:*
 > molto difficile ma anche molto sorprendente quando confronti la tua soluzione
-
-![](img/sherlock.webp)
-

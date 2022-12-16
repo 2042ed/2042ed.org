@@ -30,6 +30,8 @@ played_url_details:
 played_url_play: 
 ---
 
+![](img/tabella_elementi.webp)
+
 Qusta tabella è liberamente scaricabile come PDF e rappresenta tutti gli elementi chimici con dei chiarissimi riferimenti agli oggetti di uso quotidiano che li contengono.
 
 Ci abbiamo discusso molto e potrebbe essere un simpatico regalo
