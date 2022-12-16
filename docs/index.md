@@ -12,11 +12,11 @@ hide:
 
 <div class="grid cards" markdown>
 
-- :fontawesome-solid-book: [Ludosofia](ludosofia/index.md)  
+- :fontawesome-solid-book: [Ludosofia](studio/ludosofia/index.md)  
 *manuale al giocare bene insieme*  
 - :fontawesome-solid-book: [PlayED](played/index.md)  
 *guida ai giochi e cose intelligenti*  
-- :fontawesome-solid-book: [Jamurr Labs](jam/index.md)  
+- :fontawesome-solid-book: [Jam + Labs](jam/index.md)  
 *laboratori per imparare creando*  
 - :fontawesome-solid-book: [Ricerca per Tag](played/tags.md)  
 *se non sai cosa vuoi cercare*  
@@ -43,17 +43,25 @@ hide:
 In questo sito parliamo dell'intersezione tra gioco, tecnologia, educazione. Se non conosci termini quali _Game Based Learning_, _Didattica Ludica_, _Educazione Diffusa_, _Gamification_, _Atteggiamento Ludico_, _Genitori 2.0_, _STEAM_, _Maker_, _GameJam_, se non sai come funzionano le A.I. o il Metaverso, come si progetta un Librogame o un'Avventura Grafica... Che tu sia una game designer o un genitore, un'educatrice o un giocatore. Se ami la filosofia, l'ingegneria ludica, l'ozio creativo, lo sviluppo dell'intelligenza e il futuro della scuola...  
 _Benvenut*_.
 
+---
+
 ## Changelog (ultimi aggiornamenti)
 
 ### <small>13 Dicembre 2022</small>
 - finalmente con un po' di sprint mi ci metto e metto insieme questo sito. E' in _alpha_ ma meglio che niente.
 
+---
+
 ## Per rimanere aggiornati
 <div class="grid cards" markdown>
 
 - :fontawesome-brands-telegram: **[Canale Telegram](https://t.me/ed2042)**  
-- :fontawesome-brands-telegram: **[Canale WhatsApp](https://t.me/ed2042)**  
+- :fontawesome-brands-whatsapp: **[Canale WhatsApp](https://chat.whatsapp.com/CjWcksEAFHZKG9Edahs2yO)**  
 - :fontawesome-solid-envelope-open-text: **[Newsletter mensile](https://tinyletter.com/2042ed)**  
 - :fontawesome-brands-facebook: **[Facebook](https://facebook.com/2042ed)**  
 
 </div>
+
+---
+
+_Play Well, Die Happy!_

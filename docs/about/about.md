@@ -3,7 +3,7 @@ title: Informazioni
 ---
 ## Chi
 
-![](../ludosofia/libro/_img/foto_autori.webp)
+![](../studio/ludosofia/_img/foto_autori.webp)
 
 Questo progetto nasce molto tempo fa, quando fin da ragazzo Stefano Cecere pensava quanto i media interattivi (sviluppava videogiochi e cd-rom multimediali agli inizi del agli '90) avessero il potere di veicolare esperienze interessanti, per imparare a pensare e fare meglio.  
 
