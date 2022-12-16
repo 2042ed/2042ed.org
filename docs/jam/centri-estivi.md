@@ -1,3 +1,0 @@
----
-title: Centri Estivi
----
