@@ -1,5 +1,7 @@
 ---
-title: Centri Estivi
+title: centri-estivi
+date: 2022-12-13
+updated: 2022-12-16
 tags: [CentriEstivi, STEAM]
 ---
 
@@ -15,7 +17,7 @@ anno 2021
 
 prima giornata di CentriEstivi: sopravvissuto.
 
-Dai principi base del computer a fare calcoli aritmetici con i dadi, dalla matematica nei videogiochi alle illusioni ottiche per mancanza di prospettiva. e poi tante partite a #UNO, a #Mancala, #Sudoku di tutti i livelli (perché chi è al primo e chi è esperto). unico effetto collaterale il caldo afoso di oggi, sofferto più da noi grandi che dai ragazzi.
+Dai principi base del computer a fare calcoli aritmetici con i dadi, dalla matematica nei videogiochi alle illusioni ottiche per mancanza di prospettiva. e poi tante partite a [UNO](../../played/boardgame/uno.md), a [mancala](../../played/boardgame/mancala.md), *Sudoku* di tutti i livelli (perché chi è al primo e chi è esperto). unico effetto collaterale il caldo afoso di oggi, sofferto più da noi grandi che dai ragazzi.
 
 NB: mentre io avevo un gruppo per matematica e digitale, in parallelo un altro gruppo faceva danza, arte e numeri. poi ci scambiavamo.
 
@@ -50,7 +52,7 @@ il pianoforte sempre al centro, insieme a volano e palloni.
 
 Abbiamo parlato di hardware e software, “programmato” alcuni ragazzi per eseguire delle istruzioni per accendere le luci della stanza, c’è corrispondenza tra come la nostra mente esegue delle procedure e come le esegue un computer? e cosa è invece un’Intelligenza Artificiale? è vero che dovremo convivere con un mondo totalmente diverso e imparare come funzionano le macchine e internet è importante?
 
-Abbiamo poi giocato a [Rock'n'Roll Robots](../../played/boardgame/rock-roll-robot.md) per stimolare la progettazione mentale, a #NomeInCodice per la deduzione e la comunicazione, [RushHour](../../played/boardgame/rush-hour.md) e #Mastermind per le capacità logiche, e infine #Minecraft gioco da tavolo (che entusiasma molto soprattutto i più piccoli) per la strategia e il calcolo.
+Abbiamo poi giocato a [Rock'n'Roll Robots](../../played/boardgame/rock-roll-robot.md) per stimolare la progettazione mentale, a [Nome In Codice](../../played/boardgame/nome-in-codice.md)) per la deduzione e la comunicazione, [RushHour](../../played/boardgame/rush-hour.md) e [Mastermind](../../played/boardgame/master-mind.md) per le capacità logiche, e infine [Minecraft](../../played/boardgame/minecraft.md) gioco da tavolo (che entusiasma molto soprattutto i più piccoli) per la strategia e il calcolo.
 
 Hanno portato partiture musicali e un piccolo concerto ha ispirato i più piccoli e anche i grandi hanno composto loro canzoni. 
 
@@ -85,7 +87,7 @@ Ho impostato la settimana intorno al tema dell'esplorazione della Terra, dello S
 
 Pausa volano, Mondo e bici in cortile e poi si passa a costruire le prime piramidi, come faremmo tutti se ci insediassimo su un nuovo pianeta, vero? Plastilina colorate e stuzzicadenti per formare prima un triangolo, poi una piramide e poi costruzioni fantasiose. Un po' di preoccupazione iniziale perché pensavano di non riuscirci invece poi tutti entusiasti dalla facilità di creare forme 3D.
 
-Nella giornata sono stati esplorati e giocati diversi giochi: da Robot Turtles che introduce al coding programmando le nostre tartarughe laser a Zombie Kids, il miglior gioco collaborativo per bambini, da Kaleidos dove si cercano oggetti per categorie (duri, morbidi, che si muovono, che profumano) al gioco dell'anno Dragomino che sviluppa la visione tattica nel comporre i terreni e far crescere i propri draghi, da Stone Age Jr che introduce alla gestione delle risorse per costruire il proprio villaggio con un minimo di memory a Concept Kids con cui si comunica attraverso simboli e aggettivi.
+Nella giornata sono stati esplorati e giocati diversi giochi: da [Robot Turtles](../../played/steam/robot-turtles.md) che introduce al coding programmando le nostre tartarughe laser a [Zombie Kids](../../played/boardgame/zombie-kids-evolution.md), il miglior gioco collaborativo per bambini, da Kaleidos dove si cercano oggetti per categorie (duri, morbidi, che si muovono, che profumano) al gioco dell'anno [Dragomino](../../played/boardgame/dragomino.md) che sviluppa la visione tattica nel comporre i terreni e far crescere i propri draghi, da [Stone Age Jr](../../played/boardgame/stone-age-junior.md) che introduce alla gestione delle risorse per costruire il proprio villaggio con un minimo di memory a [Concept Kids](../../played/boardgame/concept-kids.md) con cui si comunica attraverso simboli e aggettivi.
 
 La sintesi è arrivata da una bambina **"questo è il miglior centro estivo del mondo perché si gioca tantissimo!"**
 
@@ -97,11 +99,9 @@ Sebbene fossi inizialmente un po' terrorizzato dal gestire tutto il giorno una s
 
 ![](img/centro-estivo-2021-steam-2.webp)
 
-Ecco la sintesi della seconda giornata di questo centro estivo alla Casa del Popolo di Settignano con 10 seienni (mentre io supervisiono loro, ci sono altri due gruppi in parallelo di 7-10enni e di piccolini).
-
 Nella prima mezz'ora di gioco libero qualcuno si era già messo con il gioco delle Robot Turtles.. bene perché è uno dei temi della giornata: il nostro Paxi (la mascotte animata dell'ESA) ci porterà a scoprire il pianeta Marte, e così parliamo e ripassiamo il sistema solare, cosa sono i satelliti e come funzionano i vari robot tipo Curiosity che stanno esplorando il pianeta rosso (lo sapete vero perché sia chiama Marte?).
 
-E quindi svegliamo il nostro robottino Mind e tutti faranno l'esperienza di programmarlo, con i tasti o con la voce, risolvendo missioni o facendolo disegnare.
+E quindi svegliamo il nostro robottino [Mind](../../played/steam/mind-designer.md) e tutti faranno l'esperienza di programmarlo, con i tasti o con la voce, risolvendo missioni o facendolo disegnare.
 Dopo la merenda di pane olio e pane marmellata, l'attività clou della mattinata è armare il nostro esercito: costruendo CATAPULTE con legnetti ed elastici e tutto quello che troviamo. salvo i proiettili che sono stati dei ceci rigorosamente bio!
 Per costruire i muri di difesa abbiamo sperimentato per la prima volta il "trasportatore elastico collaborativo": un elastico comandato da 8 fili a raggiera, che impone un coordinamento incredibile per raccogliere, trasportare e depositare i bicchieroni a formare un muro.  
 Divertente e non impossibile.
@@ -149,7 +149,7 @@ Tra una danza classica e un fortino di difesa dai grandi, si continua a costruir
 
 Si aggiungeranno poi gli squali mangiatutto e i robot/draghi/animali 3D che ti seguono con lo sguardo! (vedere il video per credere)
 
-I giochi da tavolo sono sempre gettonatissimi: oggi tanto Pirilin Pinpin, Similo, Othello, Hockey, il robot Mind, Stone Age Jr.
+I giochi da tavolo sono sempre gettonatissimi: oggi tanto [pirilin-pinpin](../../played/boardgame/pirilin-pinpin.md), [similo](../../played/boardgame/similo.md), [othello](../../played/boardgame/othello.md), Hockey, il robot Mind, [Stone Age Jr](../../played/boardgame/stone-age-junior.md).
 
 Ho spiegato infine perché domani non ci sarò: anche i "maestri" devono imparare le cose nuove, e per conoscere bene i giochi bisogna studiare e saperli creare, per questo domani e sabato sarò a Modena per il PLAY: Festival del Gioco.
 
@@ -163,10 +163,10 @@ giusto per chiudere la prima settimana di questi centri estivi ludo-didattici co
 
 Il contributo della Fondazione Cassa di Risparmio di Firenze ha permesso di rendere la settimana gratuita a quasi tutti. e noi siamo stati bravi a fare tutto con materiali molto economici.
 
-E ieri pensavo: sono più contento di aver innescato un po' di entusiasmo per le tecnologie, il digitale, le #STEM (science, tech, engineering, maths), il gioco didattico con ragazzi che altrimenti non si sarebbero avvicinati facilmente in modo autonomo.
+E ieri pensavo: sono più contento di aver innescato un po' di entusiasmo per le tecnologie, il digitale, le #STEAM (science, tech, engineering, maths), il gioco didattico con ragazzi che altrimenti non si sarebbero avvicinati facilmente in modo autonomo.
 
 Certo, le scuole si stanno attrezzando per fare formazione a tutti, ma ci vorrà molto tempo prima che diventi universale e di buon livello.
 
-Un po' come abbiamo fatto con il videogioco Antura And The Letters dove abbiamo creato un prodotto di altissima qualità grazie ai finanziamenti di un bando e fondazioni, per poterlo regalare a tutti.
+Un po' come abbiamo fatto con il videogioco [Antura And The Letters](../../played/videogame/antura.md) dove abbiamo creato un prodotto di altissima qualità grazie ai finanziamenti di un bando e fondazioni, per poterlo regalare a tutti.
 
 E sapete la cosa che più mi ha sorpreso (a parte l'aneddoto della ragazzina che già citai)? che alcuni giovanissimi, di 6/7/8 anni, non scolarizzati che sapevano a mala pena scrivere il proprio nome, nel momento in cui li metti a fare esperimenti logico/deduttivi o di manualità di precisione (tipo elettronica) hanno altissima intelligenza. e venivano entusiasti "VOGLIO IMPARARE IL COMPUTER! VOGLIO IMPARARE LA MATEMATICA!"
