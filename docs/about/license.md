@@ -11,7 +11,7 @@ featured: false
 draft: false
 ---
 
-Salvo quando esplicitato diversamente e per i contenuti non miei (ad esempio immagini liberamente trovate su Internet) i contenuti di questo sito li rilascio sotto licenza [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0)
+Salvo quando esplicitato diversamente e per i contenuti non miei (ad esempio immagini liberamente trovate su Internet) i contenuti di questo sito li rilascio sotto licenza [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0) fino all'anno 2042. Poi saranno CC Zero, ovvero di pubblico dominio.
 
 **Cosa significa?**
 Che puoi liberamente copiarli e o distribuirli, anche modificarli, basta che mi citi esplicitamente (Stefano Cecere e questo sito 2042ed.org) e che non li usi per scopi commerciali, altrimenti devi chiedermi il permesso.
