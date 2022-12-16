@@ -9,7 +9,10 @@ Questo progetto nasce molto tempo fa, quando fin da ragazzo Stefano Cecere pensa
 
 Avendo sempre tenuto alto lo spirito ludico e la ricerca di attività "anagogiche", che elevassero la conoscenza e lo spirito, ha avuto la massima espressione con la nascita e quindi l'educazione dei suoi figli.
 
-Dal 2013 ha iniziato a organizzare eventi di didattica ludica e creativa prima con il proprio figlio, poi con amici, poi eventi pubblici, quindi ha iniziato a insegnare ai game designers e scoprendo quanto i moltissimi amici genitori e insegnati fossero interessati a questo mondo del "gioco educativo", della tecnologia creativa e della pedagogia ludica, ha iniziato a scrivere una guida sempre più estesa e alla portata di tutti.
+Dal 2013 ha iniziato a organizzare eventi di didattica ludica e creativa prima con il proprio figlio, poi con amici, poi eventi pubblici, quindi ha iniziato a insegnare ai game designers e scoprendo quanto i moltissimi amici genitori e insegnanti fossero interessati a questo mondo del "gioco educativo", della tecnologia creativa e della pedagogia ludica, ha iniziato a scrivere una guida sempre più estesa e alla portata di tutti.
+
+E questo è un suo primo risultato.  
+Speriamo vi possa tornare utile e nel caso [fatecelo sapere](contact.md)!
 
 PS: Oltre a questo sito, Stefano lavora come sviluppatore di videogiochi educativi ed impatto sociale con [Videogames Without Borders](https://vgwb.org), è vicepresidente di una bella [Casa del Popolo](https://cdp.settignano.org) sulle colline di Firenze, ed è da sempre un attivista umanista per il tema della nonviolenza e la cittadinanza attiva (oggi con [2050x](https://2050x.org)). Potete seguirlo da [qui](https://cecere.xyz).
 
