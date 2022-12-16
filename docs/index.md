@@ -43,14 +43,10 @@ hide:
 In questo sito parliamo dell'intersezione tra gioco, tecnologia, educazione. Se non conosci termini quali _Game Based Learning_, _Didattica Ludica_, _Educazione Diffusa_, _Gamification_, _Atteggiamento Ludico_, _Genitori 2.0_, _STEAM_, _Maker_, _GameJam_, se non sai come funzionano le A.I. o il Metaverso, come si progetta un Librogame o un'Avventura Grafica... Che tu sia una game designer o un genitore, un'educatrice o un giocatore. Se ami la filosofia, l'ingegneria ludica, l'ozio creativo, lo sviluppo dell'intelligenza e il futuro della scuola...  
 _Benvenut*_.
 
----
-
 ## Changelog (ultimi aggiornamenti)
 
 ### <small>13 Dicembre 2022</small>
 - finalmente con un po' di sprint mi ci metto e metto insieme questo sito. E' in _alpha_ ma meglio che niente.
-
----
 
 ## Per rimanere aggiornati
 <div class="grid cards" markdown>
