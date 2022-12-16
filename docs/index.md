@@ -5,6 +5,7 @@ hide:
   - toc
 ᴴₒᴴₒᴴₒ: true
 ---
+![2042 logo](assets/logo_2042_black.png){ width="300"; align=right }
 # Uno spazio speciale
 
 In questo sito troverai l'intersezione tra gioco, tecnologia, educazione.  
@@ -45,5 +46,7 @@ _Benvenut*_.
 ## Changelog (ultimi aggiornamenti)
 
 ### <small>13 Dicembre 2022</small>
-- prima release pubblica di questo sito, riorganizzando materiali precedenti
+- finalmente con un po' di sprint mi ci metto e metto insieme questo sito. E' in _alpha_ ma meglio che niente.
 
+### <small>21 Giugno 2021</small>
+- nasce l'idea di un sito per sistemare tutte le recensioni di Ludosofia, dei giochi, i laboratori di Jamurr, i corsi per i Game Dev. Ma non ho tempo...
