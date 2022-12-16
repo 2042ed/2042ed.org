@@ -1,3 +1,6 @@
+---
+title: Contatto
+---
 ## Seguici
 Per essere aggiornati velocemente sugli sviluppi di questo sito e sulle attività consigliamo **Telegram** o la **Newsletter**:
 
