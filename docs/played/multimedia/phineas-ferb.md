@@ -44,5 +44,5 @@ E' una delle serie di cartoni animati che più amiamo perché:
 > in ogni puntata costruiscono qualcosa di nuovo
 
 
-![](../../studio/ludosofia/_img/media_paf.webp)
+![](../../ludosofia/_img/media_paf.webp)
 

@@ -1,11 +1,12 @@
 ---
-title: Sherlock Holmes - Consulente Investigativo
+title: sherlock-holmes-consulente-investigativo
+date: 2020-12-14
+lastmod: 
+updated: 2022-12-16
 slug: sherlock-holmes-consulente-investigativo
 description: ""
 categories: [boardgame]
-tags: [Narrativo, Collaborativo, Investigativo]
-date: 2020-12-14
-lastmod: 
+tags: [Narrativo, Collaborativo, Investigazione]
 
 template: played.html
 played_category: boardgame

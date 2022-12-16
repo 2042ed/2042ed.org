@@ -1,11 +1,12 @@
 ---
-title: Retrogames
+title: retrogames
+date: 2020-12-14
+lastmod: 
+updated: 2022-12-16
 slug: retrogames
 description: ""
 categories: [videogame]
-tags: [Classic]
-date: 2020-12-14
-lastmod: 
+tags: [Classico]
 
 template: played.html
 played_category: videogame
