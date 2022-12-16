@@ -33,4 +33,4 @@ played_vg_platforms: []
 
 anatomia, ambiente e abitudini di 5 mammiferi
 
-{{< youtube shu3jKisAQ4 >}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/shu3jKisAQ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

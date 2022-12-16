@@ -1,10 +1,10 @@
 ---
-title: endless-alphabet
-date: 2021-04-12
-lastmod: 
-updated: 2022-12-15
+title: Endless Alphabet
 slug: endless-alphabet
 description: ""
+date: 2021-04-12
+updated: 2022-12-15
+lastmod: 
 categories: [videogame]
 tags: [Linguaggio, Kids]
 
@@ -34,4 +34,4 @@ played_vg_platforms: []
 
 imparare l'inglese
 
-{{< youtube eYl0bLO26Ig >}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eYl0bLO26Ig" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

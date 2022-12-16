@@ -33,4 +33,4 @@ played_vg_platforms: []
 
 app per creare brevi cartoni animati
 
-{{< youtube c0I58rFe18Q >}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c0I58rFe18Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

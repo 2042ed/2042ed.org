@@ -33,4 +33,4 @@ played_vg_platforms: []
 
 giocare con ingranaggi, meccanismi regolati dalle leggi della fisica, tensione, il movimento e la gravità
 
-{{< youtube btc75Etl1wM >}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/btc75Etl1wM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
