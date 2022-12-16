@@ -6,7 +6,7 @@ hide:
   - toc
 ᴴₒᴴₒᴴₒ: true
 ---
-![2042 logo](assets/logo_2042_black.png)
+![2042 logo](assets/img/banner_2042ed.webp)
 
 ## PLAY: per educatori, genitori e giocatori
 
@@ -47,3 +47,13 @@ _Benvenut*_.
 
 ### <small>13 Dicembre 2022</small>
 - finalmente con un po' di sprint mi ci metto e metto insieme questo sito. E' in _alpha_ ma meglio che niente.
+
+## Per rimanere aggiornati
+<div class="grid cards" markdown>
+
+- :fontawesome-brands-telegram: **[Canale Telegram](https://t.me/ed2042)**  
+- :fontawesome-brands-telegram: **[Canale WhatsApp](https://t.me/ed2042)**  
+- :fontawesome-solid-envelope-open-text: **[Newsletter mensile](https://tinyletter.com/2042ed)**  
+- :fontawesome-brands-facebook: **[Facebook](https://facebook.com/2042ed)**  
+
+</div>
