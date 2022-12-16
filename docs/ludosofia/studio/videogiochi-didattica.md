@@ -4,8 +4,7 @@ slug: videogiochi-didattica
 summary: 
 date: 2021-04-01
 type: book
-tags:
-  - Doc
+tags: [Doc, Presentazione, Didattica, GameBasedLearning]
 weight: 1000
 lastmod: 2021-10-28
 slides:
@@ -15,10 +14,8 @@ presentation:
   width: 1024
   height: 800
 ---
-
+# Videogiochi e Didattica
 Alcuni appunti sul tema videogiochi usati in ambito educativo e scolastico
-
-![](../../played/boardgame/img/battlechess.webp)
 
 ## Introduzione
 
@@ -276,16 +273,16 @@ Considerare:
 - l’identificazione dei giochi da utilizzare (considerando le meccaniche di gioco e le caratteristiche dell’interfaccia in relazione agli obiettivi da perseguire)
 - i possibili effetti sulle prestazioni scolastiche degli studenti, i loro comportamenti e i loro atteggiamenti.
 
-### selezione dei giochi
+### Selezione dei giochi
 - capire come le meccaniche di gioco e le caratteristiche dell’interfaccia (appeal, funzionalità, usabilità) siano funzionali agli obiettivi educativi che si vuole perseguire
 - scegliere accuratamente i livelli di difficoltà e la loro progressione
 - calibrare in modo appropriato il livello di assistenza da offrire ad ogni studente in modo da attivare il ragionamento e il pensiero strategico e supportare adeguatamente la motivazione e l’impegno
 - considerare che, in generale, l’uso dei giochi può rivelarsi utile se non è sporadico e pianificato a breve termine, ma se è incorporato in una progettazione pedagogica che copra un **periodo di tempo medio/lungo**.
 
-### debrief / post-gioco
+### Debrief / Post-gioco
 fondamentale
 
-### spazio
+### Spazio
 #TODO/img classe_disposizione.png
 
 ### Insegnanti ed educatori
