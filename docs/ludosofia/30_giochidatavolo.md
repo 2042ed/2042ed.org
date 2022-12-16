@@ -1,12 +1,12 @@
 ---
 title: Giochi da Tavolo
-slug: boardgames
-summary: scopriamo il mondo contemporaneo di cosa si può fare intorno ad un tavolo
 date: 2021-04-01
+slug: giochidatavolo
+summary: scopriamo il mondo contemporaneo di cosa si può fare intorno ad un tavolo
 type: book
 tags: [Doc]
 weight: 30
-updated: 2022-03-22
+updated: 2022-12-16
 ---
 # Giochi da Tavolo
 

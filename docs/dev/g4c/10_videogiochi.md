@@ -1,8 +1,9 @@
 ---
-title: "Oltre l'Entertainment"
-summary: "panoramica sui media e l'impatto sociale e caratteristiche dei giochi come strumenti di educazione, persuasione e trasformazione"
-date: 2017-09-09T00:00:00
+title: 10_videogiochi
+date: 2022-05-05
 lastmod: 2022-02-08T00:00:00
+updated: 2022-12-16
+summary: "panoramica sui media e l'impatto sociale e caratteristiche dei giochi come strumenti di educazione, persuasione e trasformazione"
 type: book
 weight: 10
 toc: true
@@ -206,7 +207,7 @@ Il mondo sociale è interconnesso e il nostro benessere è relazionato.
 
 Che siano conoscenza, salute, indipendenza, libertà, felicità, tutti i temi vissuti dall’uomo sono condivisi e soprattutto si migliorano con lo sviluppo personale, dall'interno, non dall'esterno.
 
-In quest'ottica i videogiochi sono degli strumenti di sviluppo personale molto utili dal punto di vista #sociale e #politico e #spirituale
+In quest'ottica i videogiochi sono degli strumenti di sviluppo personale molto utili dal punto di vista **sociale** e **politico** e **spirituale**.
 
 Inoltre c’è crescente preoccupazione e interesse del “mercato”, quindi toccare determinate questioni ci apre automaticamente nuovi sbocchi.
 

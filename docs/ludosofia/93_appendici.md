@@ -1,12 +1,12 @@
 ---
 title: Appendici
-slug: resources
-summary: per approfondire
 date: 2021-04-01
+slug: appendici
+summary: per approfondire
 type: book
 tags: [Doc]
 weight: 700
-updated: 2022-03-22
+updated: 2022-12-16
 ---
 # Appendici
 Per approfondire tutto quanto visto

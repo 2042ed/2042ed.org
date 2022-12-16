@@ -1,12 +1,12 @@
 ---
 title: Ludus e Sofia
+date: 2021-04-01
 slug: ludosofia
 summary: "introduzione al gioco e all'atteggiamento ludico come strumenti positivi"
-date: 2021-04-01
 type: book
 tags: [Doc]
 weight: 10
-updated: 2022-03-22
+updated: 2022-12-16
 ---
 # Ludus e Sofia
 

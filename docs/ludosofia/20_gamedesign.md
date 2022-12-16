@@ -1,12 +1,12 @@
 ---
-title: Creare giochi
-slug: game-design
-summary: per conoscere una cosa è bene sapere come viene creata. Magari poi vi viene voglia di cimentarvi!
+title: Game Design, ovvero creare giochi
 date: 2021-04-01
+slug: gamedesign
+summary: per conoscere una cosa è bene sapere come viene creata. Magari poi vi viene voglia di cimentarvi!
 type: book
 tags: [Doc]
 weight: 20
-updated: 2022-03-22
+updated: 2022-12-16
 ---
 # Game Design, ovvero creare giochi
 

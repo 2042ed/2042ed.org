@@ -1,7 +1,9 @@
 nav:
   - index.md
   - about
+  - blog
   - played
-  - studio
   - jam
   - dev
+  - ludosofia
+  - studio

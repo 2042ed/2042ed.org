@@ -1,12 +1,12 @@
 ---
 title: Laboratori e progetti
-slug: labs
-summary: ludici che abbiamo fatto e che potrebbero ispirare altri
 date: 2021-04-01
+slug: laboratori
+summary: ludici che abbiamo fatto e che potrebbero ispirare altri
 type: book
 tags: [Doc, Workshop]
 weight: 70
-updated: 2022-03-22
+updated: 2022-12-16
 ---
 # Laboratori e progetti
 > Giocare ad un gioco è bello. ma *crearlo* è meglio!

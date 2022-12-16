@@ -1,12 +1,12 @@
 ---
 title: Introduzione
-slug: intro
-summary: introduzione
 date: 2021-04-01
+slug: introduzione
+summary: introduzione
 type: book
 tags: []
 weight: 1
-updated: 2022-03-22
+updated: 2022-12-16
 ---
 # Introduzione
 
@@ -16,8 +16,8 @@ updated: 2022-03-22
 ## Perché questo libro?
 
 ![](_img/vignetta_maestro.webp)
-Perché da dodici anni convivo 
-Per raccontare la sintesi di anni di vita nel mondo dei giochi contemporanei, sia come giocatori che come sviluppatori e ricercatori e sopratutto come **papà** e **figli**, per darvi quelle che pensiamo siano le basi minime per conoscere questo mondo, scoprire nuovi giochi e sopratutto giocare di più.
+
+Non sappiamo il motivo per cui avete aperto questo libro, ma vi esponiamo il nostro interesse: raccontare la sintesi di anni di vita nel mondo dei giochi contemporanei, sia come _giocatori_ che come _sviluppatori_ e _ricercatori_, e sopratutto come **papà** e **figli**. Per darvi quelle che pensiamo siano le basi minime per conoscere questo mondo, scoprire nuovi giochi e sopratutto giocare di più.
 
 L'assioma base di questo libro è che **dobbiamo giocare tutti di più e meglio**, e la famiglia è un ottimo ambito dove iniziare a farlo, oltreché essere una delle migliori pratiche educative e pedagogiche per i ragazzi e per le relazioni sociali. Essendo poi uno dei nostri massimi propositi il migliorare la crescita di *tutti* i bambini e ragazze, la cosa migliore è condividere e coinvolgere.
 
@@ -56,7 +56,7 @@ Ultima cosa: questa guida è nata come una raccolta di un decennio di studio, ap
 Nato con i primi home computer e sintetizzatori digitali, ha studiato ingegneria, filosofia e musica, iniziando a lavorare giovane con lo sviluppo di progetti interattivi, i concerti rock (giocando.. ehm.. *playing* con artisti come Battiato e Jovanotti), l'editoria multimediale, le tecnologie web, la Realtà Virtuale e Aumentata, l'Intelligenza Artificiale e i videogiochi applicati alla società e alla formazione (ad esempio il pluripremiato *Antura and the Letters* per insegnare l'arabo ai bambini siriani).
 
 Unendo sempre la ricerca e lo sviluppo con la divulgazione e i laboratori per condividere quanto imparato, sopratutto con i giovanissimi. Oggi studia Scienze dell'Educazione e Filosofia della Scienza, sviluppa giochi e videogiochi e tiene corsi sulle nuove tecnologie dei videogiochi, la collaborazione e il Nuovo Umanesimo, producendo nel mentre dei libri e dei video con tutto quanto. Ha impegnato gli ultimi 12 anni a studiare insieme ai suoi figli ed è sempre online.  
-Il suo sito è [stefanocecere.com](https://stefanocecere.com)
+Il suo sito è [cecere.xyz](https://cecere.xyz)
 
 Questo libro non sarebbe nato e non sarebbe così senza i contributi attivi di:
 

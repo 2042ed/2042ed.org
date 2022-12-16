@@ -11,7 +11,7 @@ Qui alcuni studi e lavori di approfondimento su temi vari, dalla tecnologia alla
 
 ## Ludosofia - giocare bene, imparare insieme
 
-[Questo libro](ludosofia/index.md) riassume il potenziale delle esperienze ludiche, i meccanismi base dei giochi da tavolo e dei videogiochi, come vengono creati, come valutarli, come massimizzarli.
+[Questo libro](../ludosofia/index.md) riassume il potenziale delle esperienze ludiche, i meccanismi base dei giochi da tavolo e dei videogiochi, come vengono creati, come valutarli, come massimizzarli.
 
 ## Educazione
 Ricerche e materiali nel campo della pedagogia e dell'educazione.

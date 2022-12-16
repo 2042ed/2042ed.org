@@ -1,12 +1,13 @@
 ---
 title: Videogiochi e Didattica
+date: 2021-04-01
+lastmod: 2021-10-28
+updated: 2022-12-16
 slug: videogiochi-didattica
 summary: 
-date: 2021-04-01
 type: book
-tags: [Doc, Presentazione, Didattica, GameBasedLearning]
+tags: [Doc, Presentazione, DidatticaLudica, GameBasedLearning]
 weight: 1000
-lastmod: 2021-10-28
 slides:
   theme: white
   highlight_style: github
@@ -90,7 +91,7 @@ Gli effetti dipendono dal tipo di videogioco in uso. Si possono verificare conse
 
 ### Come impariamo con i giochi?
 #### Player flow
-![](../ludosofia/_img/graph_flow.webp)
+![](../../ludosofia/_img/graph_flow.webp)
 <!-- slide -->
 #### Competitività
 ma non pericolosi
@@ -300,7 +301,7 @@ gli insegnanti devono essere informati non solo sulle potenzialità, le caratter
 - imparare creando giochi
 - imparare dai giochi come insegnare
 <!-- slide -->
-![](../ludosofia/_img/vg_mercato.webp)
+![](../../ludosofia/_img/vg_mercato.webp)
 
 ### PEGI e Parental Control
 

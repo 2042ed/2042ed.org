@@ -1,12 +1,12 @@
 ---
 title: Videogiochi
-slug: videogames
-summary: non sono più "giochini" e non sono tutti uguali. e se fossero un intelligente connubio tra tecnologia, arte, educazione e società?
 date: 2021-04-01
+slug: videogiochi
+summary: non sono più "giochini" e non sono tutti uguali. e se fossero un intelligente connubio tra tecnologia, arte, educazione e società?
 type: book
 tags: [Doc]
 weight: 50
-updated: 2022-03-22
+updated: 2022-12-16
 ---
 # Videogiochi
 

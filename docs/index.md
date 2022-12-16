@@ -12,7 +12,7 @@ hide:
 
 <div class="grid cards" markdown>
 
-- :fontawesome-solid-book: [Ludosofia](studio/ludosofia/index.md)  
+- :fontawesome-solid-book: [Ludosofia](ludosofia/index.md)  
 *manuale al giocare bene insieme*  
 - :fontawesome-solid-book: [PlayED](played/index.md)  
 *guida ai giochi e cose intelligenti*  
