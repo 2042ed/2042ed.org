@@ -9,7 +9,6 @@ lastmod:
 template: played.html
 played_category: boardgame
 played_skills: []
-played_duration: 10
 played_gameplay_complex: 1
 played_gameplay_strategy: 2
 played_gameplay_luck: 2
