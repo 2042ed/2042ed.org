@@ -1,5 +1,5 @@
 ---
-title: centri-estivi
+title: Centri Estivi
 date: 2022-12-13
 updated: 2022-12-16
 tags: [CentriEstivi, STEAM]
