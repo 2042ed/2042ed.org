@@ -41,19 +41,30 @@ Questo progetto non sarebbe nato e non avrebbe tanto contenuto senza la collabor
 - Christian CH Costanza
 - Michele Gotuzzo
 - Michele Lanzo
-- Giacomo Guccinelli
-- Sara Sasi
-- Rugerfred
+- Francesco Rugerfred Sedda
 - Ivan Venturi
 - Stefano Pippa
-- Alessandra Zanazzi
+- Alessandra Zanazzi e l'INAF
 - Giacomo Salvadori
 - Michele Pirovano
+- Mark Boas
 - Francesco Cavallari
+- Giacomo Guccinelli
+- Sara Sasi
+- Francesco Lanzo
 - Dario Pelella
+- Matteo Papadopoulos
+- Lorenzo Palumbo
+- Francesco Piersoft Paoloncelli
+- Andrea Millozzi
+- Thalita Malago
+- Giorgio Catania
 - Mauro Stegani
 - Mario Rodriguez Cobos
 - Gabriele Mari
+- Beniamino Sidoti
+- Andrea Angiolino
+- Francesco Mattioli
 - Doriano Benaglia
 - TheSIGN – Comics & Arts Academy 
 - la Gilda degli Educatori Ludici
@@ -64,5 +75,7 @@ Questo progetto non sarebbe nato e non avrebbe tanto contenuto senza la collabor
 - il PlayFestival, Internet Festival e Lucca Comics & Games
 - i nerd di GitHub / Obsidian
 - Il Giuoco della Perle di Vetro
+- M.C. Escher
+- Douglas Hofstaedter
 - Douglas Adams
 - tu!
