@@ -1,8 +1,8 @@
 ---
 title: Attività
+date: 2022-12-13
+updated: 2022-12-17
 ---
-
-![](../assets/img/jamurr-logo.webp)
 
 Laboratori, GameJam e workshops fatti e riproducibili facilmente
 
