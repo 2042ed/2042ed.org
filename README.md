@@ -1,5 +1,4 @@
-# 2042ed.org
-Giochi Educazione Tecnologia
+# 2042ed.org - scuola giochi futuro
 
 repository del sito <https://2042ed.org>  
 il repository pubblico di questo libro è <https://github.com/2042ed/2042ed.org>
