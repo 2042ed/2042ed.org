@@ -78,7 +78,7 @@ plugins:
   - glightbox
 
 repo_url: https://github.com/2042ed/2042ed.org
-edit_uri: edit/main/docs/
+edit_uri: "" #edit/main/docs/
 
 extra_css:
   - assets/stylesheets/extra.css
