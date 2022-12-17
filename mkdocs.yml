@@ -8,17 +8,18 @@ theme:
   name: material
   custom_dir: overrides
   language: it
-  logo: assets/logo.png
+  logo: assets/logo.webp
   favicon: assets/favicon.png
   icon:
     repo: fontawesome/brands/git-alt
     edit: material/file-edit-outline
   features:
     - navigation.footer
-    - navigation.indexes
     - navigation.tabs
 #    - navigation.tabs.sticky
     - navigation.top
+    - navigation.indexes
+#    - navigation.expand
 #    - navigation.sections
     - announce.dismiss
   font:
