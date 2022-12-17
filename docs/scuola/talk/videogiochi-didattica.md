@@ -91,7 +91,7 @@ Gli effetti dipendono dal tipo di videogioco in uso. Si possono verificare conse
 
 ### Come impariamo con i giochi?
 #### Player flow
-![](../../ludosofia/_img/graph_flow.webp)
+![](../ludosofia/_img/graph_flow.webp)
 <!-- slide -->
 #### Competitività
 ma non pericolosi
@@ -301,7 +301,7 @@ gli insegnanti devono essere informati non solo sulle potenzialità, le caratter
 - imparare creando giochi
 - imparare dai giochi come insegnare
 <!-- slide -->
-![](../../ludosofia/_img/vg_mercato.webp)
+![](../ludosofia/_img/vg_mercato.webp)
 
 ### PEGI e Parental Control
 

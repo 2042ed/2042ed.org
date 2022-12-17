@@ -6,17 +6,19 @@ hide:
   - toc
 ᴴₒᴴₒᴴₒ: true
 ---
-![2042 logo](assets/img/banner_2042ed.webp)
+![2042 logo](assets/img/logo/banner_2042ed.webp)
 
 ## PLAY: per educatori, genitori e giocatori
 
 <div class="grid cards" markdown>
 
-- :fontawesome-solid-book: [Ludosofia](ludosofia/index.md)  
-*manuale al giocare bene insieme*  
-- :fontawesome-solid-book: [PlayED](played/index.md)  
+- :fontawesome-solid-book: [Inizia qui](ask/index.md)  
+*puoi chiedere qualsiasi cosa*  
+- :fontawesome-solid-book: [Giochi](played/index.md)  
 *guida ai giochi e cose intelligenti*  
-- :fontawesome-solid-book: [Jam + Labs](jam/index.md)  
+- :fontawesome-solid-book: [Ludosofia](scuola/ludosofia/index.md)  
+*manuale al giocare bene insieme*  
+- :fontawesome-solid-book: [Laboratori e Attività](2042/index.md)  
 *laboratori per imparare creando*  
 - :fontawesome-solid-book: [Ricerca per Tag](played/tags.md)  
 *se non sai cosa vuoi cercare*  
@@ -27,13 +29,13 @@ hide:
 
 <div class="grid cards" markdown>
 
-- :fontawesome-solid-book: [Intelligenza Collettiva e Sviluppo Distribuito](dev/ci/index.md)  
+- :fontawesome-solid-book: [Intelligenza Collettiva e Sviluppo Distribuito](scuola/game-dev/ci/index.md)  
 *da Git all'Immortalità* 
-- :fontawesome-solid-book: [Extended Reality](dev/xr/index.md)  
+- :fontawesome-solid-book: [Extended Reality](scuola/game-dev/xr/index.md)  
 *XR = AR + VR + MR: le nuove tecnologie immersive*  
-- :fontawesome-solid-book: [Game A.I.](dev/ai/index.md)  
+- :fontawesome-solid-book: [Game A.I.](scuola/game-dev/ai/index.md)  
 *Intelligenza Artificiale nei Videogiochi*
-- :fontawesome-solid-book: [Human Games](dev/g4c/index.md)  
+- :fontawesome-solid-book: [Human Games](scuola/game-dev/g4c/index.md)  
 *Games 4 Change e Business oltre l’Entertainment*  
 
 </div>

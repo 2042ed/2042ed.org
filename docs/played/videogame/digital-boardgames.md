@@ -44,6 +44,6 @@ oppure direttamente giocabili via browser ci sono centinaia di titolo gratuiti s
 > *Fabio:*
 > belli perché qui sei sicuro di non sbagliare le regole
 
-![giochi_da_tavolo_digitali](../../ludosofia/_img/giochi_da_tavolo_digitali.webp)
+![giochi_da_tavolo_digitali](../../scuola/ludosofia/_img/giochi_da_tavolo_digitali.webp)
 
 
