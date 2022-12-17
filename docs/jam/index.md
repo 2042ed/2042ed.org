@@ -1,5 +1,5 @@
 ---
-title: Jams & Labs
+title: Attività
 ---
 
 ![](../assets/img/jamurr-logo.webp)
