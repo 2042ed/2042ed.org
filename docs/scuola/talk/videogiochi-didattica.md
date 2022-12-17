@@ -2,7 +2,7 @@
 title: Videogiochi e Didattica
 date: 2021-04-01
 lastmod: 2021-10-28
-updated: 2022-12-16
+updated: 2022-12-17
 slug: videogiochi-didattica
 summary: 
 type: book

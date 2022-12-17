@@ -1,14 +1,13 @@
 ---
-title: Umanesimo e Nuove Tecnologie
-slug: talk
+title: Umanesimo, Videogiochi, Intelligenza Artificiale e Realtà Virtuale
 date: 2017-09-09
-linktitle: Presentazione
+updated: 2022-12-17
 description: "Le avanguardie nella ricerca e sviluppo nei campi dell'AI e della XR sono sempre più interconnesse con la fisiologia e la psicologia umana e con questioni filosofiche che richiedono un approccio interdisciplinare e scelte etiche, in vista di un'imminente diffusione massiva e popolare di queste tecnologie. Gli sviluppatori di videogiochi potrebbero essere i prossimi a dover rispettare un giuramento di Ippocrate?"
 type: book
 weight: 1
 toc: true
 ---
-# Umanesimo, Videogiochi, Intelligenza Artificiale e Realtà Virtuale
+# Umanesimo, Videogiochi, Intelligenza Artificiale e Realtà Virtuale
 
 > Le avanguardie nella ricerca e sviluppo nei campi dell'AI e della XR sono sempre più interconnesse con la fisiologia e la psicologia umana e con questioni filosofiche che richiedono un approccio interdisciplinare e scelte etiche, in vista di un'imminente diffusione massiva e popolare di queste tecnologie. Gli sviluppatori di videogiochi potrebbero essere i prossimi a dover rispettare un giuramento di Ippocrate?
 
