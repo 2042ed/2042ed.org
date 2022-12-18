@@ -1,6 +1,6 @@
 ---
 title: Hive
-slug
+slug: hive
 description: ""
 type: PlayED
 categories:
