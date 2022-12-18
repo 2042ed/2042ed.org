@@ -3,6 +3,7 @@ title: El Dorado
 description: un altro capolavoro di Reiner Kniza
 slug: el-dorado
 type: playED
+type: PlayED
 categories:
   - boardgame
 tags:
@@ -20,18 +21,19 @@ played_gameplay_luck: 1
 played_gameplay_interaction: 2
 
 played_preferred: 1
-played_rank_edu: null
-played_rank_dev: null
-played_rank_kid: null
+played_rank_dad:
+played_rank_edu:
+played_rank_dev:
+played_rank_kid: 
 
 played_players: 2-4
 played_age: 8
 played_duration: 30
 
-played_publisher: null
+played_publisher: 
 played_year: 2017
 played_url_details: https://boardgamegeek.com/boardgame/217372/quest-el-dorado
-played_url_play: null
+played_url_play: 
 ---
 
 ![](img/el-dorado.webp)

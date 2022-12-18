@@ -1,10 +1,14 @@
 ---
-title: Othello 
+title: Othello
 description: non si smette mai di giocare.. semplicissimo ma eterno.
-categories: [boardgame]
-tags: [Award, Family]
+type: PlayED
+categories:
+  - boardgame
+tags:
+  - Award
+  - Family
 date: 2020-12-14
-lastmod: 
+lastmod: 2022-12-18
 
 template: played.html
 played_category: boardgame
@@ -15,8 +19,9 @@ played_gameplay_luck: 0
 played_gameplay_interaction: 0
 
 played_preferred: 1
-played_rank_edu: 
-played_rank_dev: 
+played_rank_dad: 
+played_rank_edu:
+played_rank_dev:
 played_rank_kid: 
 
 played_players: 2

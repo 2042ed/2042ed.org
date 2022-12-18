@@ -1,11 +1,16 @@
 ---
 title: Spirit Island
-slug: 
+slug
 description: ""
-categories: [boardgame]
-tags: [Collaborativo, Strategia ,Award]
+type: PlayED
+categories:
+  - boardgame
+tags:
+  - Collaborativo
+  - Strategia
+  - Award
 date: 2020-12-14
-lastmod: 
+lastmod: 2022-12-18
 
 template: played.html
 played_category: boardgame
@@ -15,9 +20,10 @@ played_gameplay_strategy: 5
 played_gameplay_luck: 1
 played_gameplay_interaction: 3
 
-played_preferred: 
-played_rank_edu: 
-played_rank_dev: 
+played_preferred:
+played_rank_dad: 
+played_rank_edu:
+played_rank_dev:
 played_rank_kid: 
 
 played_players: 1-4

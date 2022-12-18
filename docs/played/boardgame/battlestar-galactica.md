@@ -2,28 +2,32 @@
 title: Battlestar Galactica Starship Battles
 slug: battlestar-galactica
 description: ""
-categories: [boardgame]
-tags: [Spazio, Miniature]
+type: PlayED
+categories:
+  - boardgame
+tags:
+  - Spazio
+  - Miniature
 date: 2020-12-14
-lastmod: 
+lastmod: 2022-12-18
 
 template: played.html
 played_category: boardgame
 played_skills: []
-played_duration: 60
 played_gameplay_complex: 3
-played_gameplay_strategy: 
-played_gameplay_luck: 
+played_gameplay_strategy:
+played_gameplay_luck:
 played_gameplay_interaction: 2
 
-played_preferred: 
-played_rank_edu: 
-played_rank_dev: 
+played_preferred:
+played_rank_dad: 
+played_rank_edu:
+played_rank_dev:
 played_rank_kid: 
 
 played_players: 2-4
 played_age: 10
-played_duration: 
+played_duration: 60
 
 played_publisher: 
 played_year: 

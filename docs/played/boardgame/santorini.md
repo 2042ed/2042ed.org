@@ -1,29 +1,34 @@
 ---
-title: "Santorini 🏆"
+title: Santorini 🏆
 slug: santorini
 description: ""
-categories: [boardgame]
-tags: [Strategia, Award, 2Giocatori]
+type: PlayED
+categories:
+  - boardgame
+tags:
+  - Strategia
+  - Award
+  - 2Giocatori
 date: 2021-05-16T12:51:52+02:00
-lastmod: 
+lastmod: 2022-12-18
 
 template: played.html
 played_category: boardgame
 played_skills: []
-played_duration: 15
 played_gameplay_complex: 2
-played_gameplay_strategy: 
-played_gameplay_luck: 
-played_gameplay_interaction: 
+played_gameplay_strategy:
+played_gameplay_luck:
+played_gameplay_interaction:
 
 played_preferred: 9
-played_rank_edu: 
-played_rank_dev: 
+played_rank_dad: 
+played_rank_edu:
+played_rank_dev:
 played_rank_kid: 
 
 played_players: 2
 played_age: 8
-played_duration: 30
+played_duration: 15
 
 played_publisher: 
 played_year: 

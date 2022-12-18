@@ -2,10 +2,17 @@
 title: "The Crew: Alla Scoperta del Pianeta Nove 🏆"
 slug: the-crew
 description: ""
-categories: [boardgame]
-tags: [Carte, Family ,Nonni ,Award, Collaborativo]
+type: PlayED
+categories:
+  - boardgame
+tags:
+  - Carte
+  - Family
+  - Nonni
+  - Award
+  - Collaborativo
 date: 2020-12-14
-lastmod: 
+lastmod: 2022-12-18
 
 template: played.html
 played_category: boardgame
@@ -15,9 +22,10 @@ played_gameplay_strategy: 3
 played_gameplay_luck: 1
 played_gameplay_interaction: 4
 
-played_preferred: 
-played_rank_edu: 
-played_rank_dev: 
+played_preferred:
+played_rank_dad: 
+played_rank_edu:
+played_rank_dev:
 played_rank_kid: 
 
 played_players: 2-5

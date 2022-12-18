@@ -1,23 +1,29 @@
 ---
 title: Libri Labirinto
 slug: libri-labirinto
-description: "ogni pagina un labirinto"
-categories: [book]
-tags: [Puzzle, Kids, Award]
+description: ogni pagina un labirinto
+type: PlayED
+categories:
+  - book
+tags:
+  - Puzzle
+  - Kids
+  - Award
 date: 2020-12-14
-lastmod: 
+lastmod: 2022-12-18
 
 template: played.html
 played_category: book
 played_skills: []
-played_gameplay_complex: 
-played_gameplay_strategy: 
-played_gameplay_luck: 
-played_gameplay_interaction: 
+played_gameplay_complex:
+played_gameplay_strategy:
+played_gameplay_luck:
+played_gameplay_interaction:
 
 played_preferred: 1
-played_rank_edu: 
-played_rank_dev: 
+played_rank_dad: 
+played_rank_edu:
+played_rank_dev:
 played_rank_kid: 
 
 played_players: 

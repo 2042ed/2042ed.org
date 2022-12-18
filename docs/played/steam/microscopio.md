@@ -2,22 +2,26 @@
 title: Microscopio
 slug: microscopio
 description: ""
-categories: [steam]
-tags: [Tool]
+type: PlayED
+categories:
+  - steam
+tags:
+  - Tool
 date: 2021-04-03
-lastmod: 
+lastmod: 2022-12-18
 
 template: played.html
 played_category: steam
 played_skills: []
-played_gameplay_complex: 
-played_gameplay_strategy: 
-played_gameplay_luck: 
-played_gameplay_interaction: 
+played_gameplay_complex:
+played_gameplay_strategy:
+played_gameplay_luck:
+played_gameplay_interaction:
 
-played_preferred: 
-played_rank_edu: 
-played_rank_dev: 
+played_preferred:
+played_rank_dad: 
+played_rank_edu:
+played_rank_dev:
 played_rank_kid: 
 
 played_players: 

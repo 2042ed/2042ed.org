@@ -1,11 +1,19 @@
 ---
-title: "The Mind 🏆"
+title: The Mind 🏆
 slug: the-mind
 description: Non - potrete - crederci.
-categories: [boardgame]
-tags: [Family, Carte ,Empatia ,Mentale ,Collaborativo ,Award]
+type: PlayED
+categories:
+  - boardgame
+tags:
+  - Family
+  - Carte
+  - Empatia
+  - Mentale
+  - Collaborativo
+  - Award
 date: 2020-12-14
-lastmod: 
+lastmod: 2022-12-18
 
 template: played.html
 played_category: boardgame
@@ -16,8 +24,9 @@ played_gameplay_luck: 1
 played_gameplay_interaction: 5
 
 played_preferred: 1
-played_rank_edu: 
-played_rank_dev: 
+played_rank_dad: 
+played_rank_edu:
+played_rank_dev:
 played_rank_kid: 
 
 played_players: 2-4

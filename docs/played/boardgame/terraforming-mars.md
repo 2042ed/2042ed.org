@@ -1,29 +1,34 @@
 ---
 title: Terraforming Mars
-slug: 
+slug
 description: colonizzare Marte non è mai stato così...
-categories: [boardgame]
-tags: [Award, Spazio, Strategia]
+type: PlayED
+categories:
+  - boardgame
+tags:
+  - Award
+  - Spazio
+  - Strategia
 date: 2020-12-14
-lastmod: 
+lastmod: 2022-12-18
 
 template: played.html
 played_category: videogame
 played_skills: []
-played_duration: 90
 played_gameplay_complex: 4
 played_gameplay_strategy: 4
 played_gameplay_luck: 1
 played_gameplay_interaction: 1
 
 played_preferred: 1
-played_rank_edu: 
-played_rank_dev: 
+played_rank_dad: 
+played_rank_edu:
+played_rank_dev:
 played_rank_kid: 
 
 played_players: 1-4
 played_age: 12
-played_duration: 60
+played_duration: 90
 
 played_publisher: 
 played_year: 

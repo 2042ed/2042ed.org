@@ -1,23 +1,29 @@
 ---
 title: The Crusoe Crew
-slug: 
+slug
 description: ""
-categories: [book]
-tags: [Librogame, Collaborativo, English]
+type: PlayED
+categories:
+  - book
+tags:
+  - Librogame
+  - Collaborativo
+  - English
 date: 2020-12-14
-lastmod: 
+lastmod: 2022-12-18
 
 template: played.html
 played_category: book
 played_skills: []
-played_gameplay_complex: 
-played_gameplay_strategy: 
-played_gameplay_luck: 
-played_gameplay_interaction: 
+played_gameplay_complex:
+played_gameplay_strategy:
+played_gameplay_luck:
+played_gameplay_interaction:
 
-played_preferred: 
-played_rank_edu: 
-played_rank_dev: 
+played_preferred:
+played_rank_dad: 
+played_rank_edu:
+played_rank_dev:
 played_rank_kid: 
 
 played_players: 1-4

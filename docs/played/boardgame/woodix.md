@@ -2,10 +2,14 @@
 title: Woodix
 slug: woodix
 description: rompicapo in legno per tutte le teste
-categories: [boardgame]
-tags: [Kids, Puzzle]
+type: PlayED
+categories:
+  - boardgame
+tags:
+  - Kids
+  - Puzzle
 date: 2021-04-07T15:48:58+02:00
-lastmod: 
+lastmod: 2022-12-18
 featured: false
 draft: false
 
@@ -14,12 +18,13 @@ played_category: boardgame
 played_skills: []
 played_gameplay_complex: 1
 played_gameplay_strategy: 2
-played_gameplay_luck: 
-played_gameplay_interaction: 
+played_gameplay_luck:
+played_gameplay_interaction:
 
-played_preferred: 
-played_rank_edu: 
-played_rank_dev: 
+played_preferred:
+played_rank_dad: 
+played_rank_edu:
+played_rank_dev:
 played_rank_kid: 
 
 played_players: 1

@@ -2,23 +2,29 @@
 title: Among Us
 slug: among-us
 description: ""
-categories: [videogame]
-tags: [Award,Party, Impostore]
+type: PlayED
+categories:
+  - videogame
+tags:
+  - Award
+  - Party
+  - Impostore
 date: 2020-12-14
-lastmod: 
+lastmod: 2022-12-18
 
 template: played.html
 played_category: videogame
 played_skills: []
-played_gameplay_complex: 
-played_gameplay_strategy: 
-played_gameplay_luck: 
-played_gameplay_interaction: 
+played_gameplay_complex:
+played_gameplay_strategy:
+played_gameplay_luck:
+played_gameplay_interaction:
 
-played_preferred: 
-played_rank_edu: 
-played_rank_dev: 
-played_rank_kid:
+played_preferred:
+played_rank_dad: 
+played_rank_edu:
+played_rank_dev:
+played_rank_kid: 
 
 played_players: 4-10
 played_age: 
@@ -27,7 +33,8 @@ played_publisher: InnerSloth
 played_year: 
 played_url_details: http://www.innersloth.com/gameAmongUs.php
 played_url_play: 
-played_vg_platforms: [all]
+played_vg_platforms:
+  - all
 ---
 
 ![](img/amongus.webp)

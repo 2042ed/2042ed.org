@@ -2,10 +2,15 @@
 title: Scacchi
 slug: scacchi
 description: ""
-categories: [boardgame]
-tags: [Strategia, Classico, Award]
+type: PlayED
+categories:
+  - boardgame
+tags:
+  - Strategia
+  - Classico
+  - Award
 date: 2020-12-14
-lastmod: 
+lastmod: 2022-12-18
 
 template: played.html
 played_category: boardgame
@@ -15,9 +20,10 @@ played_gameplay_strategy: 5
 played_gameplay_luck: 0
 played_gameplay_interaction: 0
 
-played_preferred: 
-played_rank_edu: 
-played_rank_dev: 
+played_preferred:
+played_rank_dad: 
+played_rank_edu:
+played_rank_dev:
 played_rank_kid: 
 
 played_players: 2

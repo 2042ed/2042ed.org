@@ -1,6 +1,7 @@
 ---
 title: Rush & Bash
 description: rush-bash
+type: PlayED
 categories: [boardgame]
 tags: [Corsa]
 date: 2020-12-14
@@ -15,6 +16,7 @@ played_gameplay_luck:
 played_gameplay_interaction: 
 
 played_preferred: 
+played_rank_dad:
 played_rank_edu: 
 played_rank_dev: 
 played_rank_kid: 

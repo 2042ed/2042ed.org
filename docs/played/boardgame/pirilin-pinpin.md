@@ -2,22 +2,28 @@
 title: Pirilin Pin Pin
 slug: pirilin-pinpin
 description: ""
-categories: [boardgame]
-tags: [Kids, Compatto ,Carte]
+type: PlayED
+categories:
+  - boardgame
+tags:
+  - Kids
+  - Compatto
+  - Carte
 date: 2020-12-14
-lastmod: 
+lastmod: 2022-12-18
 
 template: played.html
 played_category: boardgame
 played_skills: []
 played_gameplay_complex: 1
-played_gameplay_strategy: 
-played_gameplay_luck: 
-played_gameplay_interaction: 
+played_gameplay_strategy:
+played_gameplay_luck:
+played_gameplay_interaction:
 
-played_preferred: 
-played_rank_edu: 
-played_rank_dev: 
+played_preferred:
+played_rank_dad: 
+played_rank_edu:
+played_rank_dev:
 played_rank_kid: 
 
 played_players: 2-5

@@ -2,38 +2,40 @@
 title: Minecraft 🏆
 slug: minecraft
 description: ""
-categories: [videogame]
-tags: [Award, Sandbox, Build]
+type: PlayED
+categories:
+  - videogame
+tags:
+  - Award
+  - Sandbox
+  - Build
 date: 2020-12-14
-lastmod: 
+lastmod: 2022-12-18
 
 template: played.html
 played_category: videogame
 played_skills: []
-played_gameplay_complex: 
-played_gameplay_strategy: 
-played_gameplay_luck: 
-played_gameplay_interaction: 
+played_gameplay_complex: 1
+played_gameplay_strategy: 1
+played_gameplay_luck: 1
+played_gameplay_interaction: 3
 
-played_preferred: 
-played_rank_edu: 
-played_rank_dev: 
-played_rank_kid: 
+played_preferred: 10
+played_rank_dad: 10
+played_rank_edu: 10
+played_rank_dev: 10
+played_rank_kid: 10
 
-played_players: 
-played_age: 
+played_players: 1
+played_age: 5
 played_duration: 
-played_rank_edu: 
-played_rank_dev: 
-played_rank_kid: 
-
-played_preferred: 1
 
 played_publisher: Microsoft
 played_year: 2008
 played_url_details: https://minecraft.net
 played_url_play: 
-played_vg_platforms: [all]
+played_vg_platforms:
+  - all
 ---
 
 ![](img/minecrat.webp)

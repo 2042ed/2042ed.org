@@ -2,22 +2,26 @@
 title: Corda
 slug: corda
 description: ""
-categories: [outdoor]
-tags: [ExerGame]
+type: PlayED
+categories:
+  - outdoor
+tags:
+  - ExerGame
 date: 2021-09-09
-lastmod: 
+lastmod: 2022-12-18
 
 template: played.html
 played_category: outdoor
 played_skills: []
-played_gameplay_complex: 
-played_gameplay_strategy: 
-played_gameplay_luck: 
-played_gameplay_interaction: 
+played_gameplay_complex:
+played_gameplay_strategy:
+played_gameplay_luck:
+played_gameplay_interaction:
 
-played_preferred: 
-played_rank_edu: 
-played_rank_dev: 
+played_preferred:
+played_rank_dad: 
+played_rank_edu:
+played_rank_dev:
 played_rank_kid: 
 
 played_players: 

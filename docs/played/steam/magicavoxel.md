@@ -2,22 +2,29 @@
 title: Magica Voxel
 slug: modellazione 3D semplice per tutti
 description: ""
-categories: [steam]
-tags: [Creare,Visuale, Tool, Free]
+type: PlayED
+categories:
+  - steam
+tags:
+  - Creare
+  - Visuale
+  - Tool
+  - Free
 date: 2020-12-14
-lastmod: 
+lastmod: 2022-12-18
 
 template: played.html
 played_category: steam
 played_skills: []
-played_gameplay_complex: 
-played_gameplay_strategy: 
-played_gameplay_luck: 
-played_gameplay_interaction: 
+played_gameplay_complex:
+played_gameplay_strategy:
+played_gameplay_luck:
+played_gameplay_interaction:
 
-played_preferred: 
-played_rank_edu: 
-played_rank_dev: 
+played_preferred:
+played_rank_dad: 
+played_rank_edu:
+played_rank_dev:
 played_rank_kid: 
 
 played_players: 
@@ -28,7 +35,8 @@ played_publisher:
 played_year: 
 played_url_details: https://ephtracy.github.io
 played_url_play: 
-played_vg_platforms: [Desktop]
+played_vg_platforms:
+  - Desktop
 ---
 
 ![](img/magica_voxel.webp){: style="height:200px"}

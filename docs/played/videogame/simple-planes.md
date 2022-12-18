@@ -2,22 +2,26 @@
 title: Simple Planes
 slug: simple-planes
 description: ""
-categories: [videogame]
-tags: [Simulazione]
+type: PlayED
+categories:
+  - videogame
+tags:
+  - Simulazione
 date: 2020-12-14
-lastmod: 
+lastmod: 2022-12-18
 
 template: played.html
 played_category: videogame
 played_skills: []
-played_gameplay_complex: 
-played_gameplay_strategy: 
-played_gameplay_luck: 
-played_gameplay_interaction: 
+played_gameplay_complex:
+played_gameplay_strategy:
+played_gameplay_luck:
+played_gameplay_interaction:
 
-played_preferred: 
-played_rank_edu: 
-played_rank_dev: 
+played_preferred:
+played_rank_dad: 
+played_rank_edu:
+played_rank_dev:
 played_rank_kid: 
 
 played_players: 
@@ -28,7 +32,8 @@ played_publisher:
 played_year: 
 played_url_details: https://www.simpleplanes.com
 played_url_play: 
-played_vg_platforms: [Desktop]
+played_vg_platforms:
+  - Desktop
 ---
 
 ![](img/simple_planes.webp){: style="height:200px"}

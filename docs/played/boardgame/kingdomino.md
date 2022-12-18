@@ -1,33 +1,39 @@
 ---
 title: Kingdomino 🏆
-slug: 
-description: ""
-categories: [boardgame]
-tags: [Family, Visuale, Award]
+slug: null
+description: un domino speciale
+type: PlayED
+categories:
+  - boardgame
+tags:
+  - Family
+  - Visuale
+  - Award
 date: 2020-12-14
-lastmod: 
+lastmod: 2022-12-18
 
 template: played.html
 played_category: boardgame
 played_skills: []
-played_gameplay_complex: 
-played_gameplay_strategy: 
-played_gameplay_luck: 
-played_gameplay_interaction: 
+played_gameplay_comple: nul
+played_gameplay_strategy: 12
+played_gameplay_luck: null
+played_gameplay_interaction: null
 
-played_preferred: 
-played_rank_edu: 
-played_rank_dev: 
-played_rank_kid: 
+played_preferred: null
+played_rank_dad: null
+played_rank_edu: null
+played_rank_dev: null
+played_rank_kid: null
 
 played_players: 2-4
 played_age: 7
 played_duration: 20
 
-played_publisher: 
-played_year: 
+played_publisher: null
+played_year: null
 played_url_details: https://boardgamegeek.com/boardgame/204583/kingdomino
-played_url_play: 
+played_url_play: null
 ---
 
 ![](img/kingdomino.webp)
