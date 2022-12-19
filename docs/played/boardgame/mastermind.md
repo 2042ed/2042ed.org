@@ -1,14 +1,14 @@
 ---
-title: master-mind
+title: Mastermind
 date: 2022-12-15
 lastmod: 2022-12-18
-updated: 2022-12-16
 description: il più famoso gioco di deduzione logica
 type: PlayED
 categories:
   - boardgame
 tags:
   - Strategia
+  - 2Giocatori
 
 template: played.html
 played_category: boardgame
@@ -28,9 +28,9 @@ played_players: 2
 played_age: 6
 played_duration: 20
 
-played_publisher: null
-played_year: null
-played_url_details: null
+played_publisher: 
+played_year: 1971
+played_url_details: https://boardgamegeek.com/boardgame/2392/mastermind
 played_url_play: null
 ---
 

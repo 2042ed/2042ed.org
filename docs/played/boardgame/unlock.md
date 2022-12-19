@@ -1,7 +1,7 @@
 ---
 title: Unlock
-slug: 
-description: ""
+slug: unlock
+description: "Avventure Escape: un mazzo di carte, un'app che fa da master, e via con la squadra a risolvere gli enigmi"
 type: PlayED
 categories:
   - boardgame

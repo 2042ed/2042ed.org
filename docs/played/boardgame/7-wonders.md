@@ -45,4 +45,4 @@ Abbastanza semplice e BELLO.
 > *Stefano:*
 > È uscita ora tutta la nuova edizione! Per chi non si accontenta del gioco usa e getta.
 
-{{< figure src="gdt_7wonders.jpg" >}}
+![](img/7wonders.webp)

@@ -52,7 +52,7 @@ il pianoforte sempre al centro, insieme a volano e palloni.
 
 Abbiamo parlato di hardware e software, “programmato” alcuni ragazzi per eseguire delle istruzioni per accendere le luci della stanza, c’è corrispondenza tra come la nostra mente esegue delle procedure e come le esegue un computer? e cosa è invece un’Intelligenza Artificiale? è vero che dovremo convivere con un mondo totalmente diverso e imparare come funzionano le macchine e internet è importante?
 
-Abbiamo poi giocato a [Rock'n'Roll Robots](../../played/boardgame/rock-roll-robot.md) per stimolare la progettazione mentale, a [Nome In Codice](../../played/boardgame/nome-in-codice.md)) per la deduzione e la comunicazione, [RushHour](../../played/boardgame/rush-hour.md) e [Mastermind](../../played/boardgame/master-mind.md) per le capacità logiche, e infine [Minecraft](../../played/boardgame/minecraft.md) gioco da tavolo (che entusiasma molto soprattutto i più piccoli) per la strategia e il calcolo.
+Abbiamo poi giocato a [Rock'n'Roll Robots](../../played/boardgame/rock-roll-robot.md) per stimolare la progettazione mentale, a [Nome In Codice](../../played/boardgame/nome-in-codice.md)) per la deduzione e la comunicazione, [RushHour](../../played/boardgame/rush-hour.md) e [Mastermind](../../played/boardgame/mastermind.md) per le capacità logiche, e infine [Minecraft](../../played/boardgame/minecraft.md) gioco da tavolo (che entusiasma molto soprattutto i più piccoli) per la strategia e il calcolo.
 
 Hanno portato partiture musicali e un piccolo concerto ha ispirato i più piccoli e anche i grandi hanno composto loro canzoni. 
 
