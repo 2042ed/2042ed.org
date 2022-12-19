@@ -1,7 +1,7 @@
 ---
 title: Hanabi 🏆
 slug: hanabi
-description: ""
+description: "collaborativo ma non vedi le tue carte! le vedono gli altri giocatori!"
 type: PlayED
 categories:
   - boardgame
@@ -18,24 +18,24 @@ template: played.html
 played_category: boardgame
 played_skills: []
 played_gameplay_complex: 2
-played_gameplay_strategy:
-played_gameplay_luck:
-played_gameplay_interaction:
+played_gameplay_strategy: 3
+played_gameplay_luck: 3
+played_gameplay_interaction: 4
 
 played_preferred: 1
-played_rank_dad: 
+played_rank_dad: 6
 played_rank_edu: 
-played_rank_dev: 
-played_rank_kid: 
+played_rank_dev: 8
+played_rank_kid: 5
 
 played_players: 2-5
 played_age: 6
 played_duration: 25
 
 played_publisher: 
-played_year: 
+played_year: 2010
 played_url_details: https://boardgamegeek.com/boardgame/98778/hanabi
-played_url_play: 
+played_url_play: https://boardgamearena.com/gamepanel?game=hanabi
 ---
 
 Pronti? qui **il giocatore non vede le proprie carte!** incredibile ma funziona alla grande, perché si vedono solo le carte degli altri.

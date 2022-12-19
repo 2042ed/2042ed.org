@@ -16,9 +16,9 @@ template: played.html
 played_category: boardgame
 played_skills: []
 played_gameplay_complex: 1-3
-played_gameplay_strategy:
-played_gameplay_luck:
-played_gameplay_interaction:
+played_gameplay_strategy: 
+played_gameplay_luck: 
+played_gameplay_interaction: 
 
 played_preferred: 1
 played_rank_dad: 

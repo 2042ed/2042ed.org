@@ -20,7 +20,7 @@ played_gameplay_strategy: 2
 played_gameplay_luck: 1
 played_gameplay_interaction: 2
 
-played_preferred:
+played_preferred: 
 played_rank_dad: 
 played_rank_edu: 
 played_rank_dev: 

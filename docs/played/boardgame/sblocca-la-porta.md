@@ -16,11 +16,11 @@ template: played.html
 played_category: boardgame
 played_skills: []
 played_gameplay_complex: 1
-played_gameplay_strategy:
-played_gameplay_luck:
+played_gameplay_strategy: 
+played_gameplay_luck: 
 played_gameplay_interaction: 3
 
-played_preferred:
+played_preferred: 
 played_rank_dad: 
 played_rank_edu: 
 played_rank_dev: 

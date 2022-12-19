@@ -21,9 +21,9 @@ played_skills: []
 played_gameplay_complex: 1
 played_gameplay_strategy: 1
 played_gameplay_luck: 2
-played_gameplay_interaction:
+played_gameplay_interaction: 
 
-played_preferred:
+played_preferred: 
 played_rank_dad: 
 played_rank_edu: 
 played_rank_dev: 

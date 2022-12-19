@@ -18,15 +18,15 @@ template: played.html
 played_category: boardgame
 played_skills: []
 played_gameplay_complex: 2
-played_gameplay_strategy:
-played_gameplay_luck:
-played_gameplay_interaction:
+played_gameplay_strategy: 3
+played_gameplay_luck: 2
+played_gameplay_interaction: 2
 
 played_preferred: 1
-played_rank_dad: 
-played_rank_edu: 
-played_rank_dev: 
-played_rank_kid: 
+played_rank_dad: 7
+played_rank_edu: 3
+played_rank_dev: 7
+played_rank_kid: 3
 
 played_players: 2-4
 played_age: 7
@@ -35,7 +35,7 @@ played_duration: 30
 played_publisher: Space Cowboys
 played_year: 
 played_url_details: https://www.boardgamegeek.com/boardgame/148228/splendor
-played_url_play: 
+played_url_play: https://boardgamearena.com/gamepanel?game=splendor
 ---
 
 ![](img/splendor.webp)

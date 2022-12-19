@@ -15,10 +15,10 @@ lastmod: 2022-12-18
 template: played.html
 played_category: boardgame
 played_skills: []
-played_gameplay_comple: nul
-played_gameplay_strategy: 12
-played_gameplay_luck: null
-played_gameplay_interaction: null
+played_gameplay_comple: 1
+played_gameplay_strategy: 3
+played_gameplay_luck: 3
+played_gameplay_interaction: 1
 
 played_preferred: null
 played_rank_dad: null
@@ -28,12 +28,12 @@ played_rank_kid: null
 
 played_players: 2-4
 played_age: 7
-played_duration: 20
+played_duration: 25
 
-played_publisher: null
-played_year: null
+played_publisher: BLue Orange
+played_year: 2016
 played_url_details: https://boardgamegeek.com/boardgame/204583/kingdomino
-played_url_play: null
+played_url_play: https://boardgamearena.com/gamepanel?game=kingdomino
 ---
 
 ![](img/kingdomino.webp)
