@@ -1,6 +1,6 @@
 ---
 title: Lost Cities
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

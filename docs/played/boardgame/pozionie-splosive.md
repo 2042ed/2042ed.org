@@ -1,6 +1,6 @@
 ---
 title: Pozioni Esplosive
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

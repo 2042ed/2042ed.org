@@ -1,6 +1,6 @@
 ---
 title: The Labyrinth
-slug
+slug: 
 description: un'avventura come poche, con un'edizione davvero speciale
 type: PlayED
 categories:

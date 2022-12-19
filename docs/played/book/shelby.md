@@ -1,6 +1,6 @@
 ---
 title: Shelby
-slug
+slug: 
 description: semplice e geniale
 type: PlayED
 categories:

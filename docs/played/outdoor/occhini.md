@@ -1,6 +1,6 @@
 ---
 title: Occhini
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

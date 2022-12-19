@@ -1,6 +1,6 @@
 ---
 title: Fluxx
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

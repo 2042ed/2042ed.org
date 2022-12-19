@@ -1,6 +1,6 @@
 ---
 title: Star Realms 🏆
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

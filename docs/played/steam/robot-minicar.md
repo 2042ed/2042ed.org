@@ -1,6 +1,6 @@
 ---
 title: Robot Mini Car
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

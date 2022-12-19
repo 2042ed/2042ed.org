@@ -1,6 +1,6 @@
 ---
 title: The Crusoe Crew
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

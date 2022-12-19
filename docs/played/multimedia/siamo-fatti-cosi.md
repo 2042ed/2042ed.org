@@ -1,6 +1,6 @@
 ---
 title: Siamo fatti così
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

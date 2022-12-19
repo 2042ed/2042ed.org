@@ -1,6 +1,6 @@
 ---
 title: Flamme Rouge
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

@@ -8,6 +8,7 @@ categories:
 tags:
   - Deduzione
   - Investigazione
+  - App
 date: 2020-12-14
 lastmod: 2022-12-18
 

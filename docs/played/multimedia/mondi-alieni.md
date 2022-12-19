@@ -1,6 +1,6 @@
 ---
 title: Mondi Alieni
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

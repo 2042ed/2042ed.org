@@ -1,6 +1,6 @@
 ---
 title: Just One
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

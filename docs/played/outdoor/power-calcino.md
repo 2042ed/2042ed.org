@@ -1,6 +1,6 @@
 ---
 title: Power Calcino
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

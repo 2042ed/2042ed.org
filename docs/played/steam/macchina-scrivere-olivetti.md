@@ -1,6 +1,6 @@
 ---
 title: Macchina da Scrivere 🏆
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

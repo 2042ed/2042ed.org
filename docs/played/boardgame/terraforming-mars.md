@@ -1,6 +1,6 @@
 ---
 title: Terraforming Mars
-slug
+slug: 
 description: colonizzare Marte non è mai stato così...
 type: PlayED
 categories:

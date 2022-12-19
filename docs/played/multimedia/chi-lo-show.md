@@ -1,6 +1,6 @@
 ---
 title: Chi è lo Show
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

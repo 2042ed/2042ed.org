@@ -1,6 +1,6 @@
 ---
 title: La Tarma Imbrogliona
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

@@ -1,6 +1,6 @@
 ---
 title: Munchkin
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

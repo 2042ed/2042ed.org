@@ -1,6 +1,6 @@
 ---
 title: Fiabe di stoffa
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

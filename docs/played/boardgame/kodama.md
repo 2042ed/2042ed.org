@@ -1,6 +1,6 @@
 ---
 title: Kodama
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

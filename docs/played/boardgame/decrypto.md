@@ -1,6 +1,6 @@
 ---
 title: Decrypto
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

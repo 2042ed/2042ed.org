@@ -1,6 +1,6 @@
 ---
 title: Dixit
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

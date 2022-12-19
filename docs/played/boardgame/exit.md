@@ -1,6 +1,6 @@
 ---
 title: Exit - The Game
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

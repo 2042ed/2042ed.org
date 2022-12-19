@@ -1,6 +1,6 @@
 ---
 title: Strade d'Inchiostro
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

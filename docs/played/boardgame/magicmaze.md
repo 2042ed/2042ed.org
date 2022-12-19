@@ -1,6 +1,6 @@
 ---
 title: Magic Maze
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

@@ -1,6 +1,6 @@
 ---
 title: Phineas e Ferb 🏆
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

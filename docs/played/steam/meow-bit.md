@@ -1,6 +1,6 @@
 ---
 title: Meowbit
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

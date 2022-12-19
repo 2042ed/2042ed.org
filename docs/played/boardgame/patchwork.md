@@ -1,6 +1,6 @@
 ---
 title: Patchwork
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

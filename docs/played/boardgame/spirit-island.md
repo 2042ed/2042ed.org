@@ -1,6 +1,6 @@
 ---
 title: Spirit Island
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

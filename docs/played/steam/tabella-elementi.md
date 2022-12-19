@@ -1,6 +1,6 @@
 ---
 title: Tabella Elementi Chimici 🏆
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

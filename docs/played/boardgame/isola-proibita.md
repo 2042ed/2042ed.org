@@ -1,6 +1,6 @@
 ---
 title: Isola Proiebita
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

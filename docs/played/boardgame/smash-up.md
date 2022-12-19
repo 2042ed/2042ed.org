@@ -1,6 +1,6 @@
 ---
 title: Smash Up
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

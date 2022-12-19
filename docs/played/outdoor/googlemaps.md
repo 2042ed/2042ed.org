@@ -1,6 +1,6 @@
 ---
 title: Google Maps
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

@@ -1,6 +1,6 @@
 ---
 title: Lupo Solitario
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

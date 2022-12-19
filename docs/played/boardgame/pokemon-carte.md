@@ -1,6 +1,6 @@
 ---
 title: Pokemon (carte)
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

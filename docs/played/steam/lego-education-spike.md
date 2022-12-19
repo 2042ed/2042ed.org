@@ -1,6 +1,6 @@
 ---
 title: Lego Education - Spike 🏆
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

@@ -1,6 +1,6 @@
 ---
 title: Samurai Sword
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

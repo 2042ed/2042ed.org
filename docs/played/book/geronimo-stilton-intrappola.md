@@ -1,6 +1,6 @@
 ---
 title: Geronimo Stilton
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

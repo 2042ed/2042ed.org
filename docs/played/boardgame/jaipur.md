@@ -1,6 +1,6 @@
 ---
 title: Jaipur
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

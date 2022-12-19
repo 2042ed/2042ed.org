@@ -1,6 +1,6 @@
 ---
 title: Nome in Codice
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

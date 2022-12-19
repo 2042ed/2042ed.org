@@ -1,6 +1,6 @@
 ---
 title: Johnnyfer Jaypegg
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

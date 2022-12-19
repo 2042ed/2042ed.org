@@ -1,6 +1,6 @@
 ---
 title: Backgammon
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

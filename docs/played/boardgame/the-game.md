@@ -1,6 +1,6 @@
 ---
 title: The Game
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

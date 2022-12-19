@@ -1,6 +1,6 @@
 ---
 title: Four Against Darkness
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

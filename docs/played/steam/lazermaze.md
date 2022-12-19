@@ -1,6 +1,6 @@
 ---
 title: Laser Maze
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

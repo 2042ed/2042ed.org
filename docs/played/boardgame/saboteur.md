@@ -1,6 +1,6 @@
 ---
 title: Saboteur
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

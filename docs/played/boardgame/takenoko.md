@@ -1,6 +1,6 @@
 ---
 title: Takenoko
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

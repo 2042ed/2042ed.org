@@ -1,6 +1,6 @@
 ---
 title: Vodooo
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

@@ -1,6 +1,6 @@
 ---
 title: Dungeons and Dragons
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

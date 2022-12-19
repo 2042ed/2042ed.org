@@ -1,6 +1,6 @@
 ---
 title: One Deck Dungeon 🎲
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

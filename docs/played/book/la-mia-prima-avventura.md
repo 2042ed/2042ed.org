@@ -1,6 +1,6 @@
 ---
 title: La Mia Prima Avventura
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

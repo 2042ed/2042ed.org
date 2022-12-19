@@ -1,6 +1,6 @@
 ---
 title: Lupus in Tabula 🗣
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

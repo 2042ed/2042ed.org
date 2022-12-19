@@ -1,6 +1,6 @@
 ---
 title: Leggende di Andor 🏆
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

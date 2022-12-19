@@ -1,6 +1,6 @@
 ---
 title: Citadels
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

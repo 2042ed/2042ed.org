@@ -1,6 +1,6 @@
 ---
 title: Escape Quest - Alla ricerca del tesoro perduto
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

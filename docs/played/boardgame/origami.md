@@ -1,6 +1,6 @@
 ---
 title: Origami
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

@@ -1,6 +1,6 @@
 ---
 title: Pandemic
-slug
+slug: 
 description: ""
 type: PlayED
 categories:

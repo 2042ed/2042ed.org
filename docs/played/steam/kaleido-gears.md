@@ -1,6 +1,6 @@
 ---
 title: Kaleido Gears
-slug
+slug: 
 description: ""
 type: PlayED
 categories:
