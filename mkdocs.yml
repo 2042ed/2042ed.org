@@ -15,6 +15,7 @@ theme:
     edit: material/file-edit-outline
   features:
     - navigation.footer
+    - navigation.tracking
     - navigation.tabs
 #    - navigation.tabs.sticky
     - navigation.top
@@ -56,11 +57,11 @@ markdown_extensions:
 plugins:
   - search:
       lang: it
-  - social:
-      cards: !ENV [CI, false]
-      cards_color:
-        fill: "#007C77"
-        text: "#FFFFFF"
+#  - social:
+#      cards: !ENV [CI, false]
+#      cards_color:
+#        fill: "#007C77"
+#        text: "#FFFFFF"
 #  - table-reader
   - minify:
       minify_html: true
