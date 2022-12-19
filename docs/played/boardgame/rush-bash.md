@@ -21,7 +21,7 @@ played_rank_edu:
 played_rank_dev: 
 played_rank_kid: 
 
-played_players:2-4 
+played_players: 2-4 
 played_age: 
 played_duration: 
 
