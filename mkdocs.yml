@@ -1,4 +1,4 @@
-site_name: 2042ᴱᴰ | scuola giochi futuro
+site_name: 2042ed | scuola giochi futuro
 site_url: https://2042ed.org
 site_author: Stefano Cecere
 site_description: Una scuola opensource di giochi, educazione, creatività, STEM, futuro. Per educatori, genitori, sviluppatori, giocatori. Game Based Learning, Didattica Ludica, Educazione Diffusa.
@@ -57,6 +57,7 @@ plugins:
   - search:
       lang: it
   - social:
+      cards: !ENV [CI, false]
       cards_color:
         fill: "#007C77"
         text: "#FFFFFF"
@@ -67,6 +68,7 @@ plugins:
   - tags:
       tags_file: played/tags.md
   - git-revision-date-localized:
+      enabled: !ENV [CI, false]
       type: date
       locale: it
       enable_creation_date: false
