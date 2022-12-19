@@ -2,7 +2,7 @@
 title: Futuro
 ---
 
-[Cosa ci attende?](futuro.md)
+[Cosa ci attende?](futuro/index.md)
 
 [Cosa possiamo fare?](lab/index.md)
 
