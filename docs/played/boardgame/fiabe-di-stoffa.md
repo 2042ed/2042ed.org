@@ -1,7 +1,7 @@
 ---
 title: Fiabe di stoffa
-slug: 
-description: ""
+slug: fiabe-di-stoffa
+description: "un libro avventura collaborativa che vi riempirà 30 serate in un mondo tipo Toy Story"
 type: PlayED
 categories:
   - boardgame
@@ -17,24 +17,24 @@ lastmod: 2022-12-18
 template: played.html
 played_category: boardgame
 played_skills: []
-played_gameplay_complex:
-played_gameplay_strategy:
-played_gameplay_luck:
-played_gameplay_interaction:
+played_gameplay_complex: 3
+played_gameplay_strategy: 2
+played_gameplay_luck: 1
+played_gameplay_interaction: 3
 
 played_preferred: 1
-played_rank_dad: 
-played_rank_edu:
-played_rank_dev:
-played_rank_kid: 
+played_rank_dad: 5
+played_rank_edu: 2
+played_rank_dev: 5
+played_rank_kid: 7
 
 played_players: 2-4
 played_age: 7
-played_duration: 30
+played_duration: 60
 
-played_publisher: 
-played_year: 
-played_url_details: 
+played_publisher: Plaid Hat Games - Asmodee
+played_year: 2018
+played_url_details: https://boardgamegeek.com/boardgame/233312/stuffed-fables
 played_url_play: 
 ---
 

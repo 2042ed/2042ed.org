@@ -23,8 +23,8 @@ played_gameplay_interaction:
 
 played_preferred: 1
 played_rank_dad: 
-played_rank_edu:
-played_rank_dev:
+played_rank_edu: 
+played_rank_dev: 
 played_rank_kid: 
 
 played_players: 3-6
