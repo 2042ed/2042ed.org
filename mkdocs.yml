@@ -1,8 +1,8 @@
-site_name: 2042ed | scuola giochi futuro
+site_name: 2042ed | play well, die happy
 site_url: https://2042ed.org
 site_author: Stefano Cecere
-site_description: Una scuola opensource di giochi, laboratori, creatività, STEM, filosofia. Per educatori, genitori, sviluppatori, giocatori. Game Based Learning, Didattica Ludica, Educazione Diffusa.
-copyright: <a href="/about">© ≤2042 Stefano Cecere | CC BY-NC-SA</a> - <em>Play Well, Die Happy!</em>
+site_description: Giochi, Scuola, Futuro, OpenSource,. laboratori, creatività, STEM, filosofia. Per educatori, genitori, sviluppatori, giocatori. Game Based Learning, Didattica Ludica, Educazione Diffusa.
+copyright: Made with ❤️🧠🦾 | <a href="/about">© Stefano Cecere | CC BY-NC-SA</a> - <em>Play Well, Die Happy!</em>
 
 theme:
   name: material

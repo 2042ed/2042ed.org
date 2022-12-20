@@ -6,7 +6,9 @@ hide:
   - toc
 ᴴₒᴴₒᴴₒ: true
 ---
-![2042 logo](assets/img/logo/banner_2042ed.webp)
+![2042 logo](assets/img/logo/header_2042ed.webp)
+
+_Benvenuti in questo spazio opensource e un po' familiare nell'intersezione tra il gioco, l'educazione e il futuro. Per genitori, educatori, sviluppatori, giocatori._
 
 ## PLAY: per educatori, genitori e giocatori
 
