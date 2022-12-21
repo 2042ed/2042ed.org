@@ -20,6 +20,9 @@ Eventualmente potete seguirlo su [cecere.xyz](https://cecere.xyz/contact/).
 ## Perché 2042?
 ...
 
+## Play Well, Die Happy
+cosa significa?
+
 ## Contatto e Partecipazione
 Per suggerire modifiche o fare critiche, per chiedere una consulenza o una collaborazione, per seguire gli aggiornamenti del sito e gli eventi che segnaliamo, [contattateci!](contact.md).
 
@@ -65,6 +68,7 @@ Questo progetto non sarebbe nato e non avrebbe tanto contenuto senza la collabor
 - Beniamino Sidoti
 - Andrea Angiolino
 - Francesco Mattioli
+- Adolfo Zilli
 - Doriano Benaglia
 - TheSIGN – Comics & Arts Academy 
 - la Gilda degli Educatori Ludici
