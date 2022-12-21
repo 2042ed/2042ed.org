@@ -18,10 +18,12 @@ PS: Oltre a questo sito, Stefano lavora come sviluppatore di videogiochi educati
 Eventualmente potete seguirlo su [cecere.xyz](https://cecere.xyz/contact/).
 
 ## Perché 2042?
-...
+Cosa sta succendendo? Come sta cambiando il mondo? Cosa faremo nei prossimi (2042 - anno di oggi) anni?  
+
 
 ## Play Well, Die Happy
-cosa significa?
+▶️👍🎲😊  
+Cosa significa?
 
 ## Contatto e Partecipazione
 Per suggerire modifiche o fare critiche, per chiedere una consulenza o una collaborazione, per seguire gli aggiornamenti del sito e gli eventi che segnaliamo, [contattateci!](contact.md).
@@ -32,22 +34,23 @@ Puoi cercare per [tag](../played/tags.md) o usare il potentissimo motore di rice
 ## Grazie
 Questo progetto non sarebbe nato e non avrebbe tanto contenuto senza la collaborazione, l'amicizia e la solidarietà di molti amici. Ne ricordo qui alcuni:
 
+- Il Giuoco delle Perle di Vetro
 - Pietro Polsinelli
 - Mauro Vanetti
 - Antonella Prunecchi
 - Fabio e Bruno Cecere
 - Alessandro Mancini
-- i 7 Frames
-- la banda del PlayFriday
+- [i 7 Frames](../2042/jam/7-frames.md)
+- la banda del [PlayFriday](../2042/lab/play-friday.md)
 - Annabella Coiro
 - Greta Rombolotti
-- Christian CH Costanza
+- Christian "CH" Costanza
+- Christian "Zoltar" Bellomo
 - Michele Gotuzzo
 - Michele Lanzo
 - Francesco Rugerfred Sedda
 - Ivan Venturi
 - Stefano Pippa
-- Alessandra Zanazzi e l'INAF
 - Giacomo Salvadori
 - Michele Pirovano
 - Mark Boas
@@ -65,20 +68,23 @@ Questo progetto non sarebbe nato e non avrebbe tanto contenuto senza la collabor
 - Mauro Stegani
 - Mario Rodriguez Cobos
 - Gabriele Mari
+- Martino Chiacchiera
 - Beniamino Sidoti
 - Andrea Angiolino
 - Francesco Mattioli
 - Adolfo Zilli
 - Doriano Benaglia
+- Alessandra Zanazzi e l'INAF
+- il GAME Science Research Center
 - TheSIGN – Comics & Arts Academy 
 - la Gilda degli Educatori Ludici
-- gli amici del GAME Science Research Center
 - la Casa del Popolo di Settignano
 - Stratagemma (Firenze)
-- Ludissea 42, Zio Ludovico e Lumaca
-- il PlayFestival, Internet Festival e Lucca Comics & Games
+- Ludissea 42
+- Zio Ludovico
+- Firenze Gioca, PlayFestival, Internet Festival e Lucca Comics & Games
 - i nerd di GitHub / Obsidian
-- Il Giuoco della Perle di Vetro
+- [BoardGameGeek](https://boardgamegeek.com/) e [Board Game Arena](https://boardgamearena.com/)
 - M.C. Escher
 - Douglas Hofstaedter
 - Douglas Adams
