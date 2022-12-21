@@ -31,7 +31,7 @@ Per suggerire modifiche o fare critiche, per chiedere una consulenza o una colla
 Puoi cercare per [tag](../played/tags.md) o usare il potentissimo motore di ricerca nella barra in alto. Puoi scaricarlo sul tuo computer o esportarlo in PDF. Ricordati però la [Licenza d'uso](license.md), ovvero **non puoi rivendere niente** e devi sempre citare questo sito e Stefano Cecere come autori originali, almeno fino al 2042.
 
 ## Grazie
-Questo progetto non sarebbe nato e non avrebbe tanto contenuto senza la collaborazione, l'amicizia e la solidarietà di molti amici.
+Questo progetto non sarebbe nato e non avrebbe sostanza senza la collaborazione, l'amicizia, la solidarietà, il lavoro o la semplice esistenza di:
 
 - Il Giuoco delle Perle di Vetro
 - Pietro Polsinelli
@@ -53,12 +53,13 @@ Questo progetto non sarebbe nato e non avrebbe tanto contenuto senza la collabor
 - Giacomo Salvadori
 - Michele Pirovano
 - Mark Boas
-- Francesco Cavallari
+- Francesco Cavallari e [Videogames Without Borders](https://vgwb.org)
+- Daniele Giardini
 - Giacomo Guccinelli
 - Sara Sasi
 - Francesco Lanzo
 - Dario Pelella
-- Matteo Papadopoulos
+- [Matteo Papadopoulos](https://www.spleenteo.org)
 - Lorenzo Palumbo
 - Francesco Piersoft Paoloncelli
 - Andrea Millozzi
@@ -72,19 +73,22 @@ Questo progetto non sarebbe nato e non avrebbe tanto contenuto senza la collabor
 - Andrea Angiolino
 - Francesco Mattioli
 - Christian Giove
+- Emiliano Sciarra
+- Zio Ludovico
 - Adolfo Zilli
 - Doriano Benaglia e Lindasoft
 - Alessandra Zanazzi e l'[INAF](http://www.inaf.it/it)
+- [Games For Change](https://www.gamesforchange.org)
 - il [GAME Science Research Center](https://gamescience.imtlucca.it)
 - [TheSIGN – Comics & Arts Academy](https://thesign.academy)
 - la Gilda degli Educatori Ludici
 - la [Casa del Popolo di Settignano](https://cdp.settignano.org)
 - [Stratagemma (Firenze)](https://www.stratagemmaonline.com)
 - [Ludissea 42](https://www.ludissea.it)
-- Zio Ludovico
 - [Firenze Gioca](https://firenzegioca.it), [PlayFestival](https://www.play-modena.it), [Internet Festival](https://www.internetfestival.it) e [Lucca Comics & Games](https://www.luccacomicsandgames.com)
-- i nerd di GitHub / [Obsidian](https://obsidian.md)
 - [BoardGameGeek](https://boardgamegeek.com/) e [Board Game Arena](https://boardgamearena.com/)
+- i nerd di GitHub / [Obsidian](https://obsidian.md)
+- l'OpenSource
 - M.C. Escher
 - Douglas Hofstaedter
 - Douglas Adams
