@@ -92,13 +92,13 @@ extra:
     provider: google
     property: G-FKCYXX74SX
     feedback:
-      title: Ti è stata utile questa pagina?
+      title: Ti è piaciuta questa pagina?
       ratings:
         - icon: material/thumb-up-outline
           name: Questa pagina è stata utile
           data: 1
           note: >-
-            Grazie per avermelo detto!
+            Grazie! E che ci siano altre pagine interessanti.
         - icon: material/thumb-down-outline
           name: Questa pagina può essere migliorata
           data: 0
