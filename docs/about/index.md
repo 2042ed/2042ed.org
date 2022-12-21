@@ -44,7 +44,7 @@ Questo progetto non sarebbe nato e non avrebbe sostanza senza la collaborazione,
 - Annabella Coiro
 - [Rita Greta Rombolotti](https://www.studiohelda.it)
 - [Christian "CH" Costanza](https://www.facebook.com/profile.php?id=100085391032077)
-- Christian "Zoltar" Bellomo
+- [Christian "Zoltar" Bellomo](https://www.instagram.com/z0ltar/)
 - Michele Gotuzzo
 - Michele Lanzo e [MixArt](https://www.mix-art.org)
 - [Francesco Rugerfred Sedda](https://www.rugerfred.com)
@@ -67,7 +67,7 @@ Questo progetto non sarebbe nato e non avrebbe sostanza senza la collaborazione,
 - Giorgio Catania
 - Marco Stegani
 - [Mario Rodriguez Cobos](http://silo.net)
-- Gabriele Mari
+- [Gabriele Mari e gli Educatori Ludici](https://www.facebook.com/educatoriludici)
 - Martino Chiacchiera
 - Beniamino Sidoti
 - Andrea Angiolino
