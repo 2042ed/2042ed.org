@@ -42,14 +42,14 @@ Questo progetto non sarebbe nato e non avrebbe tanto contenuto senza la collabor
 - [i 7 Frames](../2042/jam/7-frames.md)
 - la banda del [PlayFriday](../2042/lab/play-friday.md)
 - Annabella Coiro
-- Greta Rombolotti
+- [Rita Greta Rombolotti](https://www.studiohelda.it)
 - [Christian "CH" Costanza](https://www.facebook.com/profile.php?id=100085391032077)
 - Christian "Zoltar" Bellomo
 - Michele Gotuzzo
 - Michele Lanzo e [MixArt](https://www.mix-art.org)
 - [Francesco Rugerfred Sedda](https://www.rugerfred.com)
-- Ivan Venturi
-- Stefano Pippa
+- Ivan Venturi, Svilupparty e IPID
+- Stefano Pippa e i Fossolo
 - Giacomo Salvadori
 - Michele Pirovano
 - Mark Boas
@@ -64,7 +64,7 @@ Questo progetto non sarebbe nato e non avrebbe tanto contenuto senza la collabor
 - Andrea Millozzi
 - Thalita Malago
 - Giorgio Catania
-- Mauro Stegani
+- Marco Stegani
 - [Mario Rodriguez Cobos](http://silo.net)
 - Gabriele Mari
 - Martino Chiacchiera
@@ -73,7 +73,7 @@ Questo progetto non sarebbe nato e non avrebbe tanto contenuto senza la collabor
 - Francesco Mattioli
 - Christian Giove
 - Adolfo Zilli
-- Doriano Benaglia
+- Doriano Benaglia e Lindasoft
 - Alessandra Zanazzi e l'[INAF](http://www.inaf.it/it)
 - il [GAME Science Research Center](https://gamescience.imtlucca.it)
 - [TheSIGN – Comics & Arts Academy](https://thesign.academy)
