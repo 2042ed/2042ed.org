@@ -1,0 +1,338 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "default",
+      "pageBundle": false,
+      "previewPath": null,
+      "fields": [
+        {
+          "title": "Title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "Description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "Publishing date",
+          "name": "date",
+          "type": "datetime",
+          "default": "{{now}}",
+          "isPublishDate": true
+        },
+        {
+          "title": "Content preview",
+          "name": "preview",
+          "type": "image"
+        },
+        {
+          "title": "Is in draft",
+          "name": "draft",
+          "type": "draft"
+        },
+        {
+          "title": "Tags",
+          "name": "tags",
+          "type": "tags"
+        },
+        {
+          "title": "Categories",
+          "name": "categories",
+          "type": "categories"
+        }
+      ]
+    },
+    {
+      "name": "PlayED",
+      "pageBundle": false,
+      "fields": [
+        {
+          "title": "title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "name": "type",
+          "type": "string",
+          "default": "PlayED2",
+          "hidden": true
+        },
+        {
+          "title": "categories",
+          "name": "categories",
+          "type": "categories"
+        },
+        {
+          "title": "tags",
+          "name": "tags",
+          "type": "tags"
+        },
+        {
+          "title": "date",
+          "name": "date",
+          "type": "datetime"
+        },
+        {
+          "title": "lastmod",
+          "name": "lastmod",
+          "type": "datetime"
+        },
+        {
+          "title": "template",
+          "name": "template",
+          "type": "string"
+        },
+        {
+          "title": "played_category",
+          "name": "played_category",
+          "type": "string"
+        },
+        {
+          "title": "played_skills",
+          "name": "played_skills",
+          "type": "choice",
+            "choices": [
+              "",
+              "sk_logic",
+              "sk_imagination",
+              "sk_memory",
+              "sk_maths",
+              "sk_emotions",
+              "sk_communication",
+              "sk_problemsolving",
+              "sk_movement",
+              "sk_perception",
+              "sk_build",
+              "sk_random"
+            ]
+        },
+        {
+          "title": "played_gameplay_complex",
+          "name": "played_gameplay_complex",
+          "type": "number"
+        },
+        {
+          "title": "played_gameplay_strategy",
+          "name": "played_gameplay_strategy",
+          "type": "number"
+        },
+        {
+          "title": "played_gameplay_luck",
+          "name": "played_gameplay_luck",
+          "type": "number"
+        },
+        {
+          "title": "played_gameplay_interaction",
+          "name": "played_gameplay_interaction",
+          "type": "datetime"
+        },
+        {
+          "title": "played_preferred",
+          "name": "played_preferred",
+          "type": "number"
+        },
+        {
+          "title": "played_rank_dad",
+          "name": "played_rank_dad",
+          "type": "number"
+        },
+        {
+          "title": "played_rank_edu",
+          "name": "played_rank_edu",
+          "type": "number"
+        },
+        {
+          "title": "played_rank_dev",
+          "name": "played_rank_dev",
+          "type": "number"
+        },
+        {
+          "title": "played_rank_kid",
+          "name": "played_rank_kid",
+          "type": "number"
+        },
+        {
+          "title": "played_players",
+          "name": "played_players",
+          "type": "string"
+        },
+        {
+          "title": "played_age",
+          "name": "played_age",
+          "type": "string"
+        },
+        {
+          "title": "played_duration",
+          "name": "played_duration",
+          "type": "number"
+        },
+        {
+          "title": "played_publisher",
+          "name": "played_publisher",
+          "type": "string"
+        },
+        {
+          "title": "played_year",
+          "name": "played_year",
+          "type": "number"
+        },
+        {
+          "title": "played_url_details",
+          "name": "played_url_details",
+          "type": "string",
+          "single": true
+        },
+        {
+          "title": "played_url_play",
+          "name": "played_url_play",
+          "type": "string",
+          "single": true
+        }
+      ]
+    }
+  ],
+  "frontMatter.taxonomy.tags": [
+    "2Giocatori",
+    "AR",
+    "App",
+    "Avventura",
+    "Award",
+    "Build",
+    "Carte",
+    "Classico",
+    "Coding",
+    "Collaborativo",
+    "Collaborazione",
+    "Combattimento",
+    "Compatto",
+    "Comunicazione Impostore",
+    "Corsa",
+    "Creare",
+    "Dadi",
+    "Deduzione",
+    "Destrezza",
+    "DidatticaLudica",
+    "Doc",
+    "Edu",
+    "Empatia",
+    "English",
+    "Episodi",
+    "Escape",
+    "Etica",
+    "ExerGame",
+    "Exergame",
+    "Family",
+    "Fantasia",
+    "Free",
+    "Fun",
+    "GameBasedLearning",
+    "GameDev",
+    "GdR",
+    "Geo",
+    "Geografia",
+    "Impostore",
+    "Investigazione",
+    "Kids",
+    "KidsMakeGames",
+    "Legacy",
+    "Librogame",
+    "Linguaggio",
+    "Livelli",
+    "Logica",
+    "Maker",
+    "Matematica",
+    "Mentale",
+    "Music",
+    "Narrativo",
+    "Nature",
+    "Nonni",
+    "Outdoor",
+    "Ovunque",
+    "Party",
+    "Presentazione",
+    "Puzzle",
+    "Robot",
+    "RollWrite",
+    "STEAM",
+    "Sandbox",
+    "Serie",
+    "Simulazione",
+    "Solo",
+    "Spazio",
+    "Sport",
+    "Storia",
+    "Strategia",
+    "TV",
+    "Tablet",
+    "Team",
+    "Tool",
+    "VR",
+    "Visuale"
+  ],
+  "frontMatter.taxonomy.categories": [
+    "boardgame",
+    "book",
+    "media",
+    "outdoor",
+    "steam",
+    "tool",
+    "videogame"
+  ],
+  "frontMatter.content.autoUpdateDate": true,
+  "frontMatter.content.fmHighlight": false,
+  "frontMatter.content.pageFolders": [
+    {
+      "path": "[[workspace]]/docs/played/book",
+      "title": "book",
+      "contentTypes": [
+        "PlayED"
+      ]
+    },
+    {
+      "path": "[[workspace]]/docs/played/multimedia",
+      "title": "multimedia",
+      "contentTypes": [
+        "PlayED"
+      ]
+    },
+    {
+      "path": "[[workspace]]/docs/played/steam",
+      "title": "steam",
+      "contentTypes": [
+        "PlayED"
+      ]
+    },
+    {
+      "path": "[[workspace]]/docs/played/outdoor",
+      "title": "outdoor",
+      "contentTypes": [
+        "PlayED"
+      ]
+    },
+    {
+      "path": "[[workspace]]/docs/played/videogame",
+      "title": "videogame",
+      "contentTypes": [
+        "PlayED"
+      ]
+    },
+    {
+      "path": "[[workspace]]/docs/played/boardgame",
+      "title": "boardgame",
+      "contentTypes": [
+        "PlayED"
+      ]
+    }
+  ],
+  "frontMatter.content.publicFolder": "docs/assets/",
+  "frontMatter.framework.id": "other",
+  "frontMatter.taxonomy.dateFormat": "yyyy-MM-dd"
+}
