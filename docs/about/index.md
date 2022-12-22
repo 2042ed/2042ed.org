@@ -49,22 +49,18 @@ Questo progetto non sarebbe nato e non avrebbe sostanza senza la collaborazione,
 - Michele Lanzo e [MixArt](https://www.mix-art.org)
 - [Francesco Rugerfred Sedda](https://www.rugerfred.com)
 - Ivan Venturi, Svilupparty e IPID
+- Dario Pelella
 - Stefano Pippa e i Fossolo
-- Giacomo Salvadori
 - Michele Pirovano
 - Mark Boas
 - Francesco Cavallari e [Videogames Without Borders](https://vgwb.org)
 - Daniele Giardini
-- Giacomo Guccinelli
-- Sara Sasi
-- Francesco Lanzo
-- Dario Pelella
+- Giacomo Guccinelli, Sara Sasi e la [TheSIGN – Comics & Arts Academy](https://thesign.academy)
+- Giacomo Salvadori
 - [Matteo Papadopoulos](https://www.spleenteo.org)
 - Lorenzo Palumbo
 - Francesco Piersoft Paoloncelli
-- Andrea Millozzi
-- Thalita Malago
-- Giorgio Catania
+- [Andrea Millozzi](https://www.andreamillozzi.it)
 - Marco Stegani
 - [Mario Rodriguez Cobos](http://silo.net)
 - [Gabriele Mari e gli Educatori Ludici](https://www.facebook.com/educatoriludici)
@@ -76,20 +72,16 @@ Questo progetto non sarebbe nato e non avrebbe sostanza senza la collaborazione,
 - Emiliano Sciarra
 - Zio Ludovico
 - Adolfo Zilli
+- Thalita Malago, Giorgio Catania e [IIDEA](https://iideassociation.com)
 - Doriano Benaglia e Lindasoft
 - Alessandra Zanazzi e l'[INAF](http://www.inaf.it/it)
 - [Games For Change](https://www.gamesforchange.org)
 - il [GAME Science Research Center](https://gamescience.imtlucca.it)
-- [TheSIGN – Comics & Arts Academy](https://thesign.academy)
-- la Gilda degli Educatori Ludici
 - la [Casa del Popolo di Settignano](https://cdp.settignano.org)
 - [Stratagemma (Firenze)](https://www.stratagemmaonline.com)
 - [Ludissea 42](https://www.ludissea.it)
 - [Firenze Gioca](https://firenzegioca.it), [PlayFestival](https://www.play-modena.it), [Internet Festival](https://www.internetfestival.it) e [Lucca Comics & Games](https://www.luccacomicsandgames.com)
 - [BoardGameGeek](https://boardgamegeek.com/) e [Board Game Arena](https://boardgamearena.com/)
-- i nerd di GitHub / [Obsidian](https://obsidian.md)
-- l'OpenSource
-- M.C. Escher
-- Douglas Hofstaedter
-- Douglas Adams
+- i nerd di GitHub / [Obsidian](https://obsidian.md) e l'OpenSource
+- M.C. Escher, Douglas Hofstaedter, Douglas Adams
 - tu!
