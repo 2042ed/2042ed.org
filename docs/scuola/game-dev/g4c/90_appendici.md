@@ -12,6 +12,8 @@ header:
     enable: false
 ---
 
+# Appendici
+
 ## Eventi
 
 ### Games 4 Change
@@ -32,7 +34,18 @@ Explore how immersive media and cutting edge technologies are creating new ways 
 ### UNESCO - Mobile Learning Week
 <https://en.unesco.org/mlw/>
 
+Artificial Intelligence for Sustainable Development
+
+UNESCO’s Mobile Learning Week focus on Artificial Intelligence and sustainable development.
+
 Held annually at UNESCO Headquarters in Paris, the event convenes education and technology experts from around the world. 
+
+The aim: To look at the opportunities and threats linked to the use of AI in education. Key issues include:
+
+- How to ensure inclusive and equitable use of AI in education?
+- How to leverage AI to enhance education and learning?
+- How to promote skills development for jobs and life in the AI era?
+- How to safeguarding transparent and auditable use of education data?
 
 ### Immersive Education Initiative
 <http://immersiveeducation.org/>
@@ -77,6 +90,25 @@ The Unity for Humanity Challenge is a skills based contest and is designed to fi
 - alto livello di ambizione commerciale e ampio potenziale transnazionale in grado di raggiungere i mercati internazionali ed Europei.
 
 <http://www.europacreativa-media.it/sostegni-finanziari/videogames>
+
+### Secret City Trails
+<https://www.secretcitytrails.com>
+
+### Bando innovazione sociale
+Ai fini indicati in questo programma per supportare l'implementazione di Progetti di innovazione sociale, solo progetti che possono proporre soluzioni alle seguenti sfide:
+
+- Sfida per far fronte allo spopolamento delle aree rurali per il ritorno e l'insediamento di giovani nelle aree rurali.
+- Sfida mirata all'invecchiamento della popolazione, nonché progetti che aiutano migliorare la qualità della vita degli anziani e delle persone a carico.
+- Sfida contro il divario digitale nelle aree rurali.
+- Sfida per la promozione dell'imprenditoria sociale.
+- Sfida per migliorare la vita degli anziani nella provincia.
+- Sfida per l'attivazione di azioni di formazione e addestramento per le entità sociale**.**
+- Sfida per la promozione della cultura imprenditoriale nella provincia in particolare rivolto a giovani e donne nelle zone rurali.
+- Sfida per valorizzare le risorse naturali del territorio in un certo senso sostenibile, attraverso azioni innovative nel settore zootecnico, agricolo e agricolo l'ambiente
+- Sfida per l'inclusione sociale delle persone con diversità funzionale e, in particolare, quelli con ASD.
+- Altre proposte e sfide considerate dalle entità sociali, che
+
+supponiamo un beneficio o un contributo sociale dall'innovazione sociale per la provincia di Malaga e in particolare per i comuni con meno di 20.000 abitanti.
 
 ## Libri
 
