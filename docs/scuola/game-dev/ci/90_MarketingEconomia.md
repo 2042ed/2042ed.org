@@ -6,6 +6,7 @@ weight: 90
 toc: true
 draft: false
 ---
+# Marketing ed Economia
 
 - conoscersi per valorizzarsi
 - farsi conoscere per farsi valorizzare

@@ -6,6 +6,8 @@ weight: 1
 toc: true
 ---
 
+# Introduzione
+
 ![](img/future_proof.webp)
 
 ## il passato
@@ -24,9 +26,9 @@ Avevo un bellissimo gioco per Nintendo Wii, Beat the Beat, di 10 anni fa. Non ho
 - il tuo progetto sopravviverà fino al 2042? e oltre? 
 - oggi non c'è più la tecnologia di 10 anni fa.. figuriamoci di 30 .. e cosa succede fra 10 o 20 anni?
 
-Siamo in due a lavorare ad un gioco ma sta crescendo velocemetne e piace.. nel giro di due mesi diventiamo in 7 e poi in 12
+Siamo in due a lavorare ad un gioco ma sta crescendo velocemente e piace.. nel giro di due mesi diventiamo in 7 e poi in 12
 - come lavorare e collaborare meglio?
-- come far si che ad ogni nuova entrata non si perde un mese di formazione e inizializzatione e tutti possano lavorare bene fin da subito?
+- come far si che ad ogni nuova entrata non si perde un mese di formazione e inizializzazione e tutti possano lavorare bene fin da subito?
 
 Stiamo sviluppando un gioco e abbiamo dei modelli di riferimento:
 - come hanno creato quell'Intelligenza Artificiale?

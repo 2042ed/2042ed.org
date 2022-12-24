@@ -6,6 +6,7 @@ weight: 80
 toc: true
 draft: false
 ---
+# Preservazione e Immortalità
 
 ![](img/future_proof_approved.webp)
 
@@ -17,7 +18,7 @@ The GitHub Archive Program:
 <https://archiveprogram.github.com/>
 
 ## Wiki
-il primo grande progetto di registazione della memoria collettiva
+il primo grande progetto di registrazione della memoria collettiva
 
 ## Second Brains software e metolodogie
 vedi <https://obsidian.md>

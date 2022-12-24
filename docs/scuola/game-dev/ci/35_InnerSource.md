@@ -5,7 +5,7 @@ type: book
 weight: 35
 toc: true
 ---
-
+# InnerSource
 l'InnerSource è il processo di sviluppo collaborativo di progetti basandosi sulle tecnologie e procedure OpenSource, ma stando all'interno di un ambiente privato, non pubblico.
 
 l'InnerSource usa le skills degli sviluppatori abituati all'OpenSource e le porta dentro i firewalls dei progetti privati, garantendo una piattaforma interna per collaborare ai progetti.

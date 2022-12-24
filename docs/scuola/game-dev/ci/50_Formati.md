@@ -6,6 +6,7 @@ weight: 50
 toc: true
 draft: false
 ---
+# Formati e Interscambio
 
 ## Interoperability e Future Proof
 - formati aperti e formati chiusi

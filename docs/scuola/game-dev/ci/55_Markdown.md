@@ -120,7 +120,7 @@ Note that this line is separate, but within the same paragraph.
 
 ## Images
 
-Save your image (webp or webp format only) to `img/` and insert it like this:
+Save your image (jpg or png format only) to `img/` and insert it like this:
 
 ![Figure 1 caption text](img/image.webp)
 

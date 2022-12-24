@@ -1,61 +1,58 @@
 ---
-title: "Intelligenza Collettiva"
-date: 2017-09-09T00:00:00
-type: book
-weight: 20
-toc: true
+title: Intelligenza Collettiva
+parent: CI
+has_children: false
+nav_order: 20
+date: 2022-03-22
+updated: 2022-03-22
 ---
+# Intelligenza Collettiva
 
-# Contesto Esistenziale
-![](img/galassia.webp)
+## Contesto Esistenziale
 
-# Capre
-![](img/goats_tree.webp)
+![](galassia.webp)
+## Capre
 
-# Connessioni
-<!-- slide data-notes="neuroni + albo alunni: nesso?"-->
-![](img/neurons.webp)
+![](goats_tree.webp)
+## Connessioni
+
+![](neurons.webp)
+neuroni + albo alunni: nesso?
 
 # la costruzione della memoria
 <https://www.youtube.com/watch?v=hb7tjqhfDus>
 
 # giocatori
-<!-- slide data-notes="giocatori e i loro cervelli, esperienze si costruiscono con la multisensorialità e ripetizione" -->
-![](img/videogame-brain.webp)
+![](videogame-brain.webp)
+giocatori e i loro cervelli, esperienze si costruiscono con la multisensorialità e ripetizione
 
-<!-- slide data-notes="giocatori e i loro cervelli, esperienze si costruiscono con la multisensorialità e ripetizione" -->
-![](img/videogamer-brain.webp)
+![](videogamer-brain.webp)
+giocatori e i loro cervelli, esperienze si costruiscono con la multisensorialità e ripetizione
 
-<!-- slide data-notes="videogiochi sono media mutidisciplinari: gli strument perfetti" -->
-![](img/multidisplipines.webp)
 
+![](multidisplipines.webp)
+videogiochi sono media multidisciplinari: gli strumenti perfetti
 # lavorare insieme non è facile
-<!-- slide data-notes="per forza devono essere svilupti in tanti a difficoltà a lavoare insime"-->
-<!-- ### progetti di gruppo -->
-![](img/progetti-di-gruppo.webp)
 
-<!-- slide data-notes="serve un'immagine coerente, ma sopratutto una sua utilità esperienziale" -->
-![](img/knowledge-experience.webp)
+![](progetti-di-gruppo.webp)
+per forza devono essere sviluppati in tanti a difficoltà a lavorare insieme
+
+![](knowledge-experience.webp)
+serve un'immagine coerente, ma sopratutto una sua utilità esperienziale
 
 # Intelligenza Collettiva
 
-![](img/intelligenza_collettiva.webp)
+![](intelligenza_collettiva.webp)
 
-![](img/intelligenza_collettiva_2.webp)
-
+![](intelligenza_collettiva_2.webp)
 # spaceX
-SpaceX: lavoraotori.. sono in missione, che va al di la del prestigio personale o dei soldi, o del nerdame: aituare l'umanità
+SpaceX: lavoratori.. sono in missione, che va al di la del prestigio personale o dei soldi, o del nerdame: aiutare l'umanità
 
-![](img/spacex-workers.webp)
-
+![](spacex-workers.webp)
 # Ikigai
-<!-- slide data-notes="" -->
-![](img/ikigai.webp)
 
-<!-- slide data-notes="" -->
+![](2042ed/gamedev/book_CI/img/ikigai.webp)
 serve un IKIGAI personale
-
-<!-- slide data-notes="" -->
 e un mito sociale
 
 # cosa sono i miti?
@@ -64,28 +61,31 @@ possono essere storie che traghettano i popoli in difficoltà
 una storia condivisa che dia l'energia per preoccuparsi del progetto comune, prima che del proprio Io. 
 
 # azione individuale e collettiva
+
 il rischio è che tutti facciano il meglio per sè, e il minimo per il progetto.
-![](img/caos-media.webp)
 
+![](caos-media.webp)
 # diagramma stupidità
-![](img/diagramma-di-cipolla-stupidita_featured.webp)
 
+![](2042ed/gamedev/book_CI/img/diagramma-di-cipolla-stupidita_featured.webp)
 # comportamento emergente
 
 si mettono regole e procedure  
 
-![](img/radici.webp)
-
+![](radici.webp)
 # reti organizzate +  tecnologie sociali 
 
-![](img/intelligenza_collettiva_3.webp)
+![](intelligenza_collettiva_3.webp)
 
 # human centric
-![](img/humanistic-player.webp)
 
+![](humanistic-player.webp)
 # formiche
 
-![](img/ant_1.webp)
-![](img/ant_2.webp)
-![](img/ant_3.webp)
-![](img/ant_4.webp)
+![](ant_1.webp)
+
+![](ant_2.webp)
+
+![](ant_3.webp)
+
+![](ant_4.webp)

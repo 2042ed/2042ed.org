@@ -6,6 +6,7 @@ weight: 95
 toc: true
 draft: false
 ---
+# Appendici e Risorse
 
 ## progetti OpenSource
 - OpenSource projects finder: <https://www.findbestopensource.com>

@@ -7,6 +7,7 @@ weight: 42
 toc: true
 draft: false
 ---
+# Piattaforme di sviluppo collaborativo
 
 ## Video
 *What is GitHub?*
@@ -107,5 +108,6 @@ Hg, Perforce, SVN sono solo alcuni, ma Git sta diventando lo standard
 
 
 ## Per approfondire
-- <https://lab.github.com/courses>
+- Git Pro book: https://git-scm.com/book/en/v2
+- Laboratori: https://lab.github.com/courses
 - <https://www.git-tower.com/learn/git/ebook/en/desktop-gui/introduction>

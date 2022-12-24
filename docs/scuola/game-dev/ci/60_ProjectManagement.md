@@ -6,7 +6,7 @@ weight: 60
 toc: true
 draft: false
 ---
-
+# Project Management
 *Cosa c'è da fare?*
 
 ## Code of Conduct
@@ -34,7 +34,7 @@ https://www.conventionalcommits.org
 - `Removed` per funzionalità rimosse in questa release.
 - `Fixed` per tutti i bug fix.
 - `Security` per invitare gli utilizzatori ad aggiornare in caso di vulnerabilità.
-- 
+
 ## Issues
 e di tracciamento delle cose da fare e roadmap (issues, milestones), tipo GitHub Issues, Trello, Jira, Google Sheets
 

@@ -5,6 +5,7 @@ type: book
 weight: 25
 toc: true
 ---
+# I.C. nei progetti digitali
 
 ## Teamwork
 - l'arte e la cultura della collaborazione va studiata e messa in pratica. non nasciamo guru
