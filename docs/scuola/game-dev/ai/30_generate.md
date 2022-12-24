@@ -6,6 +6,7 @@ weight: 30
 toc: true
 draft: false
 ---
+# Generate Content
 
 ## Procedural Content Generation (PCG)
 
@@ -38,34 +39,40 @@ Content looks "computer-generated
 
 ## Metodi di generazione
 ## Search-Based
+- A search algorithm
+- A content representation
+- evaluation functions
 
 ## Solver-based
 Ropossum https://www.youtube.com/watch?v=FM3v0tbdKrs
 
 ## Grammar-based
+or production rules
+ ![](game.refraction.jpg)
+
 ### L-System
-- http://www.kevs3d.co.uk/dev/lsystems/#
-- http://www.malsys.cz/Process
-- https://onlinemathtools.com/l-system-generator
-vedi [[32_LSystems)
+- <http://www.kevs3d.co.uk/dev/lsystems/#>
+- <http://www.malsys.cz/Process>
+- <https://onlinemathtools.com/l-system-generator>
+vedi [[32_LSystems]]
 
 ## Cellular automata
-- https://bitstorm.org/gameoflife/
-- https://gamedevelopment.tutsplus.com/tutorials/generate-random-cave-levels-using-cellular-automata--gamedev-9664
+- <https://bitstorm.org/gameoflife/>
+- <https://gamedevelopment.tutsplus.com/tutorials/generate-random-cave-levels-using-cellular-automata--gamedev-9664>
 
 ## Noise and fractals
-http://www.mazegenerator.net/
+<http://www.mazegenerator.net/>
 
 ## Machine learning
 ### GAN
 Semantic Image Synthesis with Spatially-Adaptive Normalization
-https://nvlabs.github.io/SPADE/
-video https://www.youtube.com/watch?v=p5U4NgVGAwg
+<https://nvlabs.github.io/SPADE/>
+video <https://www.youtube.com/watch?v=p5U4NgVGAwg>
 
-https://www.theverge.com/2019/3/6/18222203/video-game-ai-future-procedural-generation-deep-learning
+<https://www.theverge.com/2019/3/6/18222203/video-game-ai-future-procedural-generation-deep-learning>
 
 ### AI Dungeon
-https://play.aidungeon.io
+<https://play.aidungeon.io>
 
 ### GPT3
 OpenAI’s new GPT-3 language explained in under 3 minutes

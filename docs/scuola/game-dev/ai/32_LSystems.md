@@ -7,6 +7,7 @@ toc: true
 draft: false
 ---
 
+# L-Systems
 examples to be used in 
 http://www.malsys.cz/Process
 
@@ -135,7 +136,7 @@ process all with ThreeJsRenderer;
 lsystem SierpinskiTrangle {
   set compressSvg = false;
   set symbols axiom = F + F + F;
-  set iterations = 7;
+  set iterations = 1;
  
   interpret F f as MoveForward(2 ^ -currentIteration * 600);
   interpret + as TurnLeft(120);
