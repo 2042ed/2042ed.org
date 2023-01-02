@@ -12,12 +12,12 @@ il repository pubblico di questo libro è <https://github.com/2042ed/2042ed.org>
 
 **Install**
 
-pip3 install mkdocs-material==9.0.0b4 mkdocs-minify-plugin pillow cairosvg mkdocs-table-reader-plugin mkdocs-awesome-pages-plugin mkdocs-git-revision-date-localized-plugin mkdocs-exclude mkdocs-glightbox
+pip3 install mkdocs-material mkdocs-minify-plugin pillow cairosvg mkdocs-table-reader-plugin mkdocs-awesome-pages-plugin mkdocs-git-revision-date-localized-plugin mkdocs-exclude mkdocs-glightbox
 
 upgrade:  
 `pip3 install --upgrade mkdocs-material`
 
-check veresion:  
+check version:  
 `pip3 show mkdocs-material`
 
 **Python Environment**
