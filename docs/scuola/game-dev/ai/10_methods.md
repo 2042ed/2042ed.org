@@ -8,17 +8,7 @@ weight: 10
 
 # Metodi AI nei videogiochi
 
-AI Plays and Improves Your Game.
-enhances the experience of the player.
-
-AI può giocare con due obiettivi:
-1. play **well** 
-	a) il giocatore (play test e valutazione game design)
-	b) gli NPC (per bilanciamento difficoltà dinamica)
-
-2. play **believably**
-	a) debug e simulazione
-	b) credibilità e umanizzazione
+>  Knowing when to be complex and when to stay simple is the most difficult element of the game AI programmer’s art.
 
 ## AI Model
 ![](img/AI-model.webp)
@@ -64,11 +54,11 @@ si seleziona un nodo figlio. se succeds, esso stesso succeds.
 se figlio failure, se ne seleziona un altro (by priority) oppure failure (probability).
 
 **decorator**
-arricchisce il nodo fliglio: ad esempio ne nega il risultato, oppure lo fa andare n volte (repeater)
+arricchisce il nodo figlio: ad esempio ne nega il risultato, oppure lo fa andare n volte (repeater)
 
-[📖 Intro to BT](https://www.gamasutra.com/blogs/ChrisSimpson/20140717/221339/Behavior_trees_for_AI_How_they_work.php)
-[📽 Intro to BT](https://www.youtube.com/watch?v=uq8hnnkAxsw)
-[📽 Behavior Designer](https://www.youtube.com/watch?v=T_of4_jRoJA)
+> [📖 Intro to BT](https://www.gamasutra.com/blogs/ChrisSimpson/20140717/221339/Behavior_trees_for_AI_How_they_work.php)  
+> [📽 Intro to BT](https://www.youtube.com/watch?v=uq8hnnkAxsw)  
+> [📽 Behavior Designer](https://www.youtube.com/watch?v=T_of4_jRoJA)  
 
 ### Utility-based AI
 
@@ -132,6 +122,10 @@ A* può essere usato anche per navigare negli spazi degli stti di gioco, non sol
 
 ![](img/ai.minmax.webp)
 
+**AI in boardgames**
+[📽 How does a Board Game AI Work? (Connect 4, Othello, Chess, Checkers) - Minimax Algorithm Explained](https://www.youtube.com/watch?v=y7AKtWGOPAE)
+
+
 [📽 Algorithms Explained – minimax and alpha-beta pruning](https://www.youtube.com/watch?v=l-hh51ncgDI)
 
 ### Monte Carlo Tree Search
@@ -171,7 +165,11 @@ vedere [GOAP](12_GOAP.md)
 
 ## Sensori
 
-## Evolutionary Computation / Genetic
+## Evolutionary Computation / Genetic algorithm
+
+Un algoritmo genetico è un approccio più sofisticato basato sull'idea di evoluzione naturale. Imita la selezione naturale scegliendo gli individui più forti per produrre la prole della generazione successiva.
+
+I GA sono ampiamente utilizzati per scopi di ottimizzazione. I GA sono stati utilizzati nei giochi da tavolo che utilizzavano varie strategie di ricerca per trovare le mosse migliori in passato. Adattare il comportamento degli NPC con le moderne applicazioni di GA li aiuta a difendersi da tattiche forti ma prevedibili che i giocatori umani potrebbero usare. 
 
 ### Ottimizzazione
 è necessaria una utility function, evaluation function o fitness function che restituisca la un valore numerico con la bontà (fitness) della soluzione, da massimizzare o minimizzare.
@@ -194,7 +192,6 @@ Si cerca di rappresentare una soluzione come un array di valori (es. le azioni p
 3. VALUTAZIONE di s'
 4. se s' è migliore, si tiene s'
 5. -> 2
-
 
 ![](img/ai.local_search.webp)
 

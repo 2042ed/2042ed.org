@@ -7,6 +7,18 @@ weight: 20
 ---
 # Play
 
+AI Plays and Improves Your Game.
+enhances the experience of the player.
+
+AI può giocare con due obiettivi:
+1. play **well** 
+	a) il giocatore (play test e valutazione game design)
+	b) gli NPC (per bilanciamento difficoltà dinamica)
+
+2. play **believably**
+	a) debug e simulazione
+	b) credibilità e umanizzazione
+
 ![](img/ai.playfor.webp)
 
 ![](img/ai.game_characteristics.webp)

@@ -85,11 +85,22 @@ L'intelligenza artificiale del gioco può capire l'abilità e lo stato emotivo d
 
 ## Che tipi di AI ci sono nei giochi?
 
+> "Se sembra un pesce e nuota come un pesce, probabilmente è un pesce"
+
 I tipi più comuni di AI nei videogiochi sono:
 
 ### Tecniche Deterministiche
 
 Le tecniche deterministiche sono le più utilizzate. Il comportamento deterministico  è molto prevedibile. Non c'è alcun elemento di incertezza. Sono tecniche piuttosto veloci e facili da implementare, comprendere, testare e debuggare. Il problema è che i metodi deterministici costringono gli sviluppatori ad anticipare tutti i possibili scenari e pre-codificare tutto il comportamento. Questi metodi non consentono l'apprendimento o l'evoluzione, il che rende i comportamenti del gioco prevedibili e potenzialmente limitanti la durata del gioco stesso.
+
+Possiamo individuare qui tre diverse metodologie di implementazione:
+
+- **Hack**  
+  soluzioni ad hoc
+- **Euristica**  
+  regole empiriche
+- **Algoritmica**  
+  programmate come si deve
 
 ### Tecniche Non Deterministiche
 
@@ -122,3 +133,24 @@ Il gioco diventa imprevedibile quando viene utilizzato un comportamento non dete
 - Spesso è necessario che gli agenti appaiano "realistici", in modo che i giocatori possano sentire che stanno gareggiando contro avversari quasi umani. Il programma AlphaGo è stato in grado di diventare molto migliore degli umani, ma le mosse scelte erano così lontane dalla comprensione tradizionale del gioco che avversari esperti direbbero che "mi sembrava quasi di giocare contro un alieno". Se un gioco sta simulando un avversario umano, questo è in genere indesiderabile, quindi l'algoritmo dovrebbe essere ottimizzato **per prendere decisioni credibili piuttosto che ideali.**
 - Deve essere eseguito in "tempo reale", l'algoritmo non può monopolizzare l'utilizzo della CPU per lungo tempo per prendere una decisione. Anche impiegare solo 10 millisecondi per prendere una decisione è troppo perché la maggior parte dei giochi ha solo tra 16 e 33 millisecondi per eseguire tutta l'elaborazione per il fotogramma successivo della grafica.
 - È ideale se almeno una parte del sistema sia `data-driven` anziché codificata, in modo che i *non* programmatori possano apportare modifiche e che possano essere apportate più rapidamente.
+
+## Domande
+- come lavora il cervello?
+- come percepiamo l'intelligenza negli altri?
+
+> **Il nostro lavoro (di game developers): creare una bella esperienza.**  
+> tutto deve supportare questo lavoro. anche le AI.
+
+## Come lavora il cervello?
+è importante capire come funziona il sistema di percezione del cervello.
+I nostri cervelli cercano patterns. sempre.
+Siamo bravissimi a identificare i più piccoli indizi di ripetizione.
+
+Antropormofizziamo tutto
+
+Viviamo delle narrazioni, ma non abbiamo memoria precisa come un computer, creiamo narrative.
+
+_Uncanny Valley_
+molto realitico, ma non abbastanza. Creiamo delle aspettative che sono disattese.
+
+

@@ -53,7 +53,7 @@ or production rules
 - <http://www.kevs3d.co.uk/dev/lsystems/#>
 - <http://www.malsys.cz/Process>
 - <https://onlinemathtools.com/l-system-generator>
-vedi [laboratorio L-Systems](lab/32_LSystems.md)
+vedi [laboratorio L-Systems](lab/lab_L-Systems.md)
 
 #### Cellular automata
 - <https://bitstorm.org/gameoflife/>

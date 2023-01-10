@@ -2,8 +2,6 @@
 title: Unity ml-agents
 date: 2021-02-25
 updated: 2023-01-10
-type: book
-weight: 40
 ---
 # Unity ml-agents
 
@@ -32,8 +30,7 @@ The future of ml-agents
 <https://github.com/simoninithomas/the_mayan_adventure>
 
 ## Esercizio
-creare agente e train
-<https://github.com/StefanoCecere/GameLab_AI_Unity/>
-e poi 
-<https://github.com/Unity-Technologies/ml-agents/blob/release_17_branch/docs/Learning-Environment-Create-New.md>
 
+Progetto  https://github.com/StefanoCecere/GameLab_AI_Unity/
+e verificare di aver installato il pacchetto Python + ml-agents
+<https://github.com/Unity-Technologies/ml-agents/blob/release_17_branch/docs/Learning-Environment-Create-New.md>
