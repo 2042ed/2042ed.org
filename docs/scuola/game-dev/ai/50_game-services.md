@@ -1,9 +1,11 @@
 ---
-title: Services
-parent: GameAI
+title: Game AI services
+date: 2021-03-04
+updated: 2023-01-10
 has_children: false
 nav_order: 50
 ---
+# Game AI services
 
 ## Google Cloud
 <https://cloud.google.com/solutions/gaming>

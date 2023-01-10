@@ -1,11 +1,12 @@
 ---
-title: "Introduzione e Metodi"
-date: 2017-09-09T00:00:00
+title: Introduzione e metodi
+date: 2017-09-09
+updated: 2023-01-10
 type: book
 weight: 10
-toc: true
-draft: false
 ---
+
+# Introduzione e metodi
 
 [video The Mind Game](https://www.youtube.com/watch?v=QQRqTuvBL3E)
 

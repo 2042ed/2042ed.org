@@ -1,10 +1,9 @@
 ---
-title: "Generate Content"
-date: 2017-09-09T00:00:00
+title: Generate Content
+date: 2017-09-09
+updated: 2023-01-10
 type: book
 weight: 30
-toc: true
-draft: false
 ---
 # Generate Content
 

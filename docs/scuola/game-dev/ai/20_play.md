@@ -1,11 +1,11 @@
 ---
-title: "Play"
-date: 2017-09-09T00:00:00
+title: Play
+date: 2017-09-09
+updated: 2023-01-10
 type: book
 weight: 20
-toc: true
-draft: false
 ---
+# Play
 
 ![](img/ai.playfor.webp)
 

@@ -1,7 +1,7 @@
 ---
-title: GameAI
-has_children: true
-nav_order: 30
+title: Game A.I.
+date: 2017-09-09
+updated: 2023-01-10
 ---
 
 # Game A.I.

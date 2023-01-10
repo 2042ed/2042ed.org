@@ -1,10 +1,9 @@
 ---
-title: "Unity ml-agents"
-date: 2017-09-09T00:00:00
+title: Unity ml-agents
+date: 2021-02-25
+updated: 2023-01-10
 type: book
 weight: 40
-toc: true
-draft: false
 ---
 # Unity ml-agents
 

@@ -8,6 +8,12 @@ draft: false
 ---
 # Appendici e Risorse
 
+## FAQ
+- Come si diventa uno sviluppatore / contributor open-source?
+  https://julia.hashnode.dev/how-can-i-become-an-open-source-contributor-the-ultimate-guide
+
+
+
 ## progetti OpenSource
 - OpenSource projects finder: <https://www.findbestopensource.com>
 - OpenSource games: <https://en.wikipedia.org/wiki/List_of_open-source_video_games>
