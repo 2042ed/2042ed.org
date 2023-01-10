@@ -2,20 +2,28 @@
 title: Introduzione
 date: 2023-01-10
 updated: 2023-01-10
-sources:
-  - https://www.engati.com/blog/ai-in-gaming
 ---
 # Introduzione
 
+![](../../talk/img/comic-ml.webp)
+
 L'Intelligenza Artificiale (Artificial Intelligence, A.I.) tenta di replicare e simulare l'intelligenza e il comportamento umano imitando come il cervello umano elabora le informazioni (*reverse engineering*). Ad esempio, le **reti neurali artificiali** sono modellate sul modo in cui funziona il cervello umano.
 
-Gli esseri umani hanno **cinque sensi** di base: visivo, uditivo, cinestetico (movimento), olfattivo e gustativo. E le aree principali di azione sono:
+![](../../talk/img/ai-brain.webp)
+
+Gli esseri umani hanno un apparato sensitivo composto da **cinque sensi** di base: visivo, uditivo, cinestetico (movimento), olfattivo e gustativo, un apparato di elaborazione dei segnali, e un apparato per esprimere le azioni nel mondo:
+
+- Sentire
+- Pensare
+- Agire
+
+sono le principali funzioni di un eventuale "Agente Intelligente"
 
 - Ascoltare e parlare
 - Comprensione del linguaggio (Natural Language Processing (NLP)
+- Vedere (Computer vision)
 - Ricordare le cose
 - Pensare ( Common sense reasoning and Decision Making)
-- Vedere (Computer vision)
 - Muoversi
 
 ## Introduzione alla AI
@@ -30,16 +38,27 @@ Gli esseri umani hanno **cinque sensi** di base: visivo, uditivo, cinestetico (m
 
 L'intelligenza artificiale nei giochi riguarda la creazione di giochi più reattivi, adattivi e stimolanti. E anche se gli accademici sostengono che l'intelligenza artificiale dei giochi non è vera intelligenza artificiale, l'entusiasmo intorno alla tecnologia è in continua crescita ed è diventato un concetto importante in molti giochi. 
 
-
-## Perché l'AI è importante nei giochi?
+## Cosa può fare?
 
 Con l'intelligenza artificiale i giochi sono in grado di fornire un'esperienza migliore ai loro giocatori. La creazione di situazioni realistiche per progredire nei giochi aggiunge entusiasmo al gameplay. La crescente complessità nei giochi con l'intelligenza artificiale migliora il coinvolgimento dei giocatori. 
+
+![](img/ai_content_intro.webp)
+
+A grandi linee le tree aree di utilizzo della AI nei giochi sono:
+
+- giocare (NPG e player)
+- creazione di contenuti
+- analizzare il gameplay e modellare il giocatore
 
 ### 1. NPCs (non-player characters)
 
 <https://youtu.be/u3j59Z3iXdM>
 
 Qui è dove l'AI viene utilizzata di più nei giochi. Questi sono personaggi del gioco che agiscono in modo intelligente come se fossero controllati da giocatori umani. Il comportamento di questi personaggi è determinato da algoritmi e motori di intelligenza artificiale. Molto spesso vengono usati "alberi decisionali" per guidare il comportamento di questi NPC.
+Questi comportamenti possono anche essere ricreati "imitando" giocatori umani.
+
+![](../../talk/img/ml-imitation.webp)
+
 
 ### 2. Pathfinding
 
@@ -50,57 +69,56 @@ L'intero panorama del gioco è la parte più importante del pathfinding.
 
 L'AI consentirà alle decisioni che prendi di avere un impatto maggiore sul gameplay. Ad esempio, in Red Dead Redemption 2, il comportamento degli NPC e la loro interazione con te dipendono da variabili come le macchie di sangue sui tuoi vestiti o il tipo di cappello che indossi. Poiché esiste un'enorme matrice di possibilità, l'intero mondo di gioco potrebbe essere manipolato dalle tue decisioni. Potrebbero esserci relazioni causa-effetto estremamente complicate.
 
-NPCs can even learn from player behavior and adapt according to their tactics  
-
-### 4. Data mining
+### 4. Game Analytics e Data mining
 
 L'intelligenza artificiale consente ai game designer di eseguire **data mining sul comportamento dei giocatori** per aiutarli a capire come le persone finiscono per giocare, le parti che le persone giocano di più e cosa fa sì che gli utenti smettano di giocare . Ciò consente agli sviluppatori di giochi di migliorare il gioco o identificare opportunità di monetizzazione.
 
-### 5 Procedural content generation
+Le AI possono giocare lo stesso gioco su diverse piattaforme per identificare eventuali specifici bug
+
+### 5. Procedural content generation
 
 L'intelligenza artificiale nei giochi può creare automaticamente nuovi contenuti, storie interattive, condizioni ambientali, livelli e persino musica.
 
-### 6 Player experience modeling
+### 6. Player experience modeling
 
 L'intelligenza artificiale del gioco può capire l'abilità e lo stato emotivo del giocatore, quindi adattare il gioco in base a quello. Ciò potrebbe anche comportare un bilanciamento dinamico della difficoltà del gioco in cui la difficoltà del gioco viene regolata in tempo reale, a seconda dell'abilità del giocatore. L'intelligenza artificiale nei giochi potrebbe persino aiutare a capire l'intenzione del giocatore.
 
-## What are the kinds of AI in games?
+## Che tipi di AI ci sono nei giochi?
 
 I tipi più comuni di AI nei videogiochi sono:
 
 ### Tecniche Deterministiche
 
-Deterministic AI techniques are the most widely used AI in gaming techniques. Deterministic behaviour or performance is specified and is very predictable. There isn’t any element of uncertainty involved in these techniques. They are rather quick and easy to implement, understand, test, and debug. The issue is that deterministic methods force developers to anticipate all the possible scenarios and code all the behaviour themselves. These methods don’t even allow for learning or evolving, which makes the game’s behaviours predictable after a little gameplay and even has a limiting effect on the game’s play-life.
+Le tecniche deterministiche sono le più utilizzate. Il comportamento deterministico  è molto prevedibile. Non c'è alcun elemento di incertezza. Sono tecniche piuttosto veloci e facili da implementare, comprendere, testare e debuggare. Il problema è che i metodi deterministici costringono gli sviluppatori ad anticipare tutti i possibili scenari e pre-codificare tutto il comportamento. Questi metodi non consentono l'apprendimento o l'evoluzione, il che rende i comportamenti del gioco prevedibili e potenzialmente limitanti la durata del gioco stesso.
 
 ### Tecniche Non Deterministiche
 
-This is basically the opposite of deterministic behaviour. Nondeterministic behaviour has some level of uncertainty (which depends on the AI method that is used and how well that AI method is understood). If you want to get a better idea of what this is all about, just look at an NPC that learns the moves and tactics of a player and adapts to counter them. For such learning, a neural network, Bayesian technique, or genetic algorithm could be used.  
+Opposto al comportamento deterministico, il comportamento non deterministico ha un certo livello di incertezza (che dipende dal metodo di AI utilizzato). Se vuoi avere un'idea migliore di cosa si tratta, basta guardare un NPC che apprende le mosse e le tattiche di un giocatore e si adatta per contrastarle.
+Gli sviluppatori non avranno nemmeno bisogno di anticipare tutti i possibili scenari o comportamenti. Questi metodi possono persino apprendere ed estrapolare da soli e agevolare un comportamento che emerge senza che ci siano istruzioni esplicite.
 
-The game developers won’t even need to anticipate all the possible scenarios and code behaviours according to them. These methods can even learn and extrapolate on their own and promote emergent behaviour - behaviour that emerges without there being explicit instructions.
+## I vantaggi dell'AI nei giochi
 
-## The benefits of AI in games
+Alcuni benefici sono
 
-AI brings an enormous amount of benefits to the gaming industry. Some of these are:
+### 1. I giochi diventano più intelligenti e realistici
 
-### 1 The games become smarter and more realistic
+Usando tecniche come l'apprendimento dei pattern e il **reinforcement learning**, gli NPC nei giochi si evolvono grazie all'autoapprendimento dalle loro azioni. I giochi diventano anche piuttosto realistici perché interpretano e rispondono anche alle azioni del giocatore. Ci sono anche molti programmi che non necessitano di interfacce umane e sono in grado di creare automaticamente mondi virtuali.
 
-Using techniques like pattern learning and [reinforcement learning](https://www.engati.com/glossary/reinforcement-learning), the NPCs in the games evolve by self-learning from their actions. The games also become rather realistic because they interpret and respond to the player’s actions as well. There also are a lot of programs that do not need human interfaces and are able to create virtual worlds automatically.
+### 2. Risparmio di tempo e costi
 
-### 2 Saves on costs and time
+Normalmente, lo sviluppo di un gioco richiede molto tempo e denaro da investire in esso. E non sei nemmeno sicuro di quanto bene il mercato accetterà il gioco. L'intelligenza artificiale può aiutare a ridurre drasticamente il tempo necessario per creare un gioco e risparmiare molte risorse che verrebbero spese per lo sviluppo del gioco.
 
-Normally, developing a game requires a lot of time and money to be invested into it. And you aren’t even sure how well the market will accept the game. AI can help dramatically reduce the time taken to build a game and save a lot of resources that would be spent on developing the game.
+### 3. Rendere i giochi più intuitivi
 
-### 3 Makes it easier for the user to play
+L'uso dell'intelligenza artificiale nei giochi aiuta a rendere i giochi più intuitivi. Inoltre, il gioco può capire l'abilità e l'esperienza del giocatore e regolare il livello di difficoltà del gioco in tempo reale.
 
-Using AI in games helps make the games more intuitive. In addition to this, the game can use AI to figure out the user’s ability and expertise with the game, and adjust the difficulty level of the game in real-time to match that.
+### 4. Eliminare la prevedibilità
 
-### 4 Eliminates the predictability of the game
+Il gioco diventa imprevedibile quando viene utilizzato un comportamento non deterministico. Ciò che accade nel gioco non può nemmeno essere previsto dallo sviluppatore del gioco. Questo crea un'esperienza sempre nuova e aumenta la durata del gioco poiché il gioco non diventa prevedibile e noioso dopo averlo giocato alcune volte.
 
-The game becomes unpredictable when nondeterministic behaviour is used. This means that what happens in the game can’t even be predicted by the developer of the game. This creates a novel, refreshing experience and increases the game’s play-life since the game does not become predictable and boring after playing it a few times.
+## Vincoli e limitazioni
 
-## Sintesi
-
-![](img/ai_content_intro.webp)
-- giocare (NPG e player)
-- creare contenuti
-- analizzare gameplay e modellare il giocatore
+- Di solito si suppone che il gioco fornisca intrattenimento e sfida piuttosto che sia "ottimale", quindi anche se una AI avesse l'approccio migliore contro gli umani, questo spesso non è ciò che si desidera.
+- Spesso è necessario che gli agenti appaiano "realistici", in modo che i giocatori possano sentire che stanno gareggiando contro avversari quasi umani. Il programma AlphaGo è stato in grado di diventare molto migliore degli umani, ma le mosse scelte erano così lontane dalla comprensione tradizionale del gioco che avversari esperti direbbero che "mi sembrava quasi di giocare contro un alieno". Se un gioco sta simulando un avversario umano, questo è in genere indesiderabile, quindi l'algoritmo dovrebbe essere ottimizzato **per prendere decisioni credibili piuttosto che ideali.**
+- Deve essere eseguito in "tempo reale", l'algoritmo non può monopolizzare l'utilizzo della CPU per lungo tempo per prendere una decisione. Anche impiegare solo 10 millisecondi per prendere una decisione è troppo perché la maggior parte dei giochi ha solo tra 16 e 33 millisecondi per eseguire tutta l'elaborazione per il fotogramma successivo della grafica.
+- È ideale se almeno una parte del sistema sia `data-driven` anziché codificata, in modo che i *non* programmatori possano apportare modifiche e che possano essere apportate più rapidamente.

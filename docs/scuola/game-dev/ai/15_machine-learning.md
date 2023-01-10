@@ -23,6 +23,9 @@ iniziamo con una semplice ma completa introduzione alle NN, ML, GAN. sono concet
 - [ML parte 8](https://medium.com/@giovannitoschi/il-machine-learning-%C3%A8-divertente-parte-8-come-imbrogliare-una-rete-neurale-9116075d5df0)
 
 ## Supervised Learning
+
+![](../../talk/img/ml-supervised.webp)
+
 ### Reti Neurali
 ![](img/ai.neuron.webp)
 
@@ -52,6 +55,9 @@ Number recognizion
 
 
 ## Reinforcement Learning (RL)
+
+![](../../talk/img/ml-reinforced.webp)
+
 si ispira a come imparano gli esseri viventi
 
 ![](img/ai.reinforcedlearning.webp)
@@ -59,6 +65,9 @@ si ispira a come imparano gli esseri viventi
 A central question in RL problems is the right balance between the exploitation of current learned knowledge versus the exploration of new unseen territories in the search space
 
 ## Unsupervised Learning
+
+![](../../talk/img/ml-unsupervised.webp)
+
 ### Clustering
 Good clusters are characterized by two core properties: 
 1) high intra-cluster similarity, or else, high compactness
