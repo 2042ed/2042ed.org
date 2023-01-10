@@ -6,12 +6,7 @@ type: book
 weight: 12
 ---
 # GOAP
-
-## Goal-Oriented Action Planner
-
-[Unity Learn](https://learn.unity.com/project/goal-driven-behaviour?)
-[Udemy course](https://www.udemy.com/course/ai_with_goap/)
-[Unity Labs Behavioral AI Research](https://www.youtube.com/watch?v=78nhJNPS0vA)
+**Goal-Oriented Action Planner**
 
 ![](img/goap/goap_01.webp)
 ![](img/goap/goap_02.webp)
@@ -46,7 +41,13 @@ weight: 12
 ![](img/goap/goap_31.webp)
 ![](img/goap/goap_32.webp)
 
-### UNITY AI PLanner
+> **Resources**
+> [Unity Learn](https://learn.unity.com/project/goal-driven-behaviour)
+> [Udemy course](https://www.udemy.com/course/ai_with_goap/)
+> [Unity Labs Behavioral AI Research (2017)](https://www.youtube.com/watch?v=78nhJNPS0vA)
+
+ **UNITY AI PLanner** (obsolete)
+
 - [ai.planner docs](https://docs.unity3d.com/Packages/com.unity.ai.planner@0.3/manual/index.html)  
 - [ai.planner samples](https://github.com/Unity-Technologies/ai-planner-samples)  
 - [ai.planner video](https://www.youtube.com/watch?v=ZdN8dDa0ff4)  

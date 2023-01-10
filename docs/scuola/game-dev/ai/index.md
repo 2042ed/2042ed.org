@@ -1,10 +1,10 @@
 ---
-title: Game A.I.
+title: Game AI
 date: 2017-09-09
 updated: 2023-01-10
 ---
 
-# Game A.I.
+# Game AI
 *Intelligenza Artificiale nei videogiochi*  
 di [Stefano Cecere](https://github.com/StefanoCecere)
 

@@ -26,7 +26,7 @@ MarI/O – Machine Learning in Video Games
 
 - https://blogs.unity3d.com/2020/12/11/automate-your-playtesting-create-virtual-players-for-game-simulation/
 
-# ML Agents
+## ML Agents
 <https://github.com/Unity-Technologies/ml-agents>
 
 varie aggiornamenti:

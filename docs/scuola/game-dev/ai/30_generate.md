@@ -10,15 +10,16 @@ weight: 30
 ## Procedural Content Generation (PCG)
 
 cosa si può generare?
-– NPC behavior
-– Quest / story / narrativa
-– Audiovisual settings
-– Livelli / Mappe / Percorsi
-– Items / Weapons
-– Game mechanics / Rules
-– Reward schedules
 
-## vantaggi
+- NPC behavior
+- Quest / story / narrativa
+- Audiovisual settings
+- Livelli / Mappe / Percorsi
+- Items / Weapons
+- Game mechanics / Rules
+- Reward schedules
+
+## Vantaggi
 - ridurre costi di sviluppo creando automaticamente contenuti sulle regole dei designers?
 - possiamo costruire mondi che si adattano ai gusti del giocatore?
 - possiamo creare giochi infiniti?
@@ -37,32 +38,32 @@ Content looks like variations on a theme
 Content looks "computer-generated
 
 ## Metodi di generazione
-## Search-Based
+### Search-Based
 - A search algorithm
 - A content representation
 - evaluation functions
 
-## Solver-based
+### Solver-based
 Ropossum https://www.youtube.com/watch?v=FM3v0tbdKrs
 
-## Grammar-based
+### Grammar-based
 or production rules
 
-### L-System
+#### L-System
 - <http://www.kevs3d.co.uk/dev/lsystems/#>
 - <http://www.malsys.cz/Process>
 - <https://onlinemathtools.com/l-system-generator>
-vedi [L-Systems](32_LSystems.md)
+vedi [laboratorio L-Systems](lab/32_LSystems.md)
 
-## Cellular automata
+#### Cellular automata
 - <https://bitstorm.org/gameoflife/>
 - <https://gamedevelopment.tutsplus.com/tutorials/generate-random-cave-levels-using-cellular-automata--gamedev-9664>
 
-## Noise and fractals
+### Noise and fractals
 <http://www.mazegenerator.net/>
 
 ## Machine learning
-### GAN
+### GAN (Generative Adversial Networks)
 Semantic Image Synthesis with Spatially-Adaptive Normalization
 <https://nvlabs.github.io/SPADE/>
 video <https://www.youtube.com/watch?v=p5U4NgVGAwg>
@@ -85,19 +86,12 @@ https://thenextweb.com/neural/2021/01/13/googles-new-trillion-parameter-ai-langu
 
 video: https://www.youtube.com/watch?v=C7D5EzkhT6A
 
+---
+## More Resources
+**Videos**
+- Invisible cities <https://www.youtube.com/watch?v=c3ewUbFqIuo>
+- Electric Sheep <https://www.youtube.com/watch?v=Va1KBtI81TY>
 
-
-
-### videos
-Invisible cities
-https://www.youtube.com/watch?v=c3ewUbFqIuo
-
-Electric Sheep
-https://www.youtube.com/watch?v=Va1KBtI81TY
-
-### course
-Procedural Content Generation
-https://canvas.ucsc.edu/courses/7638
-
-Unity Art Engine
-https://unity.com/products/unity-artengine
+**Course**
+- Procedural Content Generation <https://canvas.ucsc.edu/courses/7638>
+- Unity Art Engine <https://unity.com/products/unity-artengine>

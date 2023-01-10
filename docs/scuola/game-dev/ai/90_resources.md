@@ -6,27 +6,13 @@ type: book
 weight: 90
 ---
 # Resources
-
+Per la elaborazione di questo materiale ho studiato e giocato per molti anni con diverse risorse che qui elenco, anche per dare spunti di approfondimento
 
 ## Per i Designers
-- **machinelearning.design**: A collection of resources for intersection of design, user experience, machine learning and artificial intelligence <https://machinelearning.design/>
+- [machinelearning.design](https://machinelearning.design/): A collection of resources for intersection of design, user experience, machine learning and artificial intelligence.
 
-## Unity Courses
-- Artificial Intelligence for Beginners (15 hours)
-<https://learn.unity.com/course/artificial-intelligence-for-beginners>
-- The Beginner's Guide to Artificial Intelligence in Unity. 
-  https://www.udemy.com/course/artificial-intelligence-in-unity/
-
-### Generic AI Courses
-- AI for everyone <https://www.coursera.org/learn/ai-for-everyone>
-- PyTorch <https://www.devry.edu/online-programs/courses/machine-learning-with-pytorch.html>
-- ML <https://madewithml.com/>
-
-PyTorch
-<https://www.devry.edu/online-programs/courses/machine-learning-with-pytorch.html>
-
-ML
-<https://madewithml.com/>
+## Articles
+- [The Total Beginner's Guide to Game AI](https://www.gamedev.net/articles/programming/artificial-intelligence/the-total-beginners-guide-to-game-ai-r4942/)
 
 ## Books
 - 👉🏼 Artificial Intelligence and Games <http://gameaibook.org/>
@@ -43,28 +29,29 @@ ML
 - Cos'è il Machine Learning (Reti Neurali e A.I.) <https://www.youtube.com/watch?v=X_ZUyvAA9Qw>
 
 ## YouTubers
-- Two Minute Papers <https://www.youtube.com/user/keeroyz>
-- Siraj Raval <https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A>
-- Jabrils <https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg>
+- [Two Minute Papers](https://www.youtube.com/user/keeroyz)
+- [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+- [Jabrils](https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg)
 
 ## Sites
 - Google AI <https://ai.google>
 - Experiment ML <https://teachablemachine.withgoogle.com>
 
-# Appendici
-## AI
-Let’s democratize NLP
-https://twitter.com/huggingface/status/1260942644286537728
+## Courses
 
-Creating Game AI Using Mostly English
-https://stadia.dev/intl/en/blog/creating-game-ai-using-mostly-english/
-Semantic Reactor: A tool for experimenting with NLU models
-https://github.com/google/mysteryofthreebots
+### Unity and AI
+- Artificial Intelligence for Beginners (15 hours)
+<https://learn.unity.com/course/artificial-intelligence-for-beginners>
+- The Beginner's Guide to Artificial Intelligence in Unity. 
+  https://www.udemy.com/course/artificial-intelligence-in-unity/
 
+### Generic AI Courses
+- AI for everyone <https://www.coursera.org/learn/ai-for-everyone>
+- PyTorch <https://www.devry.edu/online-programs/courses/machine-learning-with-pytorch.html>
+- ML <https://madewithml.com/>
 
-# ML free courses
-So you are looking for FREE Machine Learning courses on Youtube? Sure, here you go! You are welcome!  
-  
+### ML free courses
+
 - Andrew Ng CS229 ML [youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)  
 - MIT: Deep Learning for Art, Aesthetics, and Creativity [youtube](https://www.youtube.com/playlist?list=PLCpMvp7ftsnIbNwRnQJbDNRqO6qiN3EyH)  
 - Stanford CS230: Deep Learning [youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)  
@@ -89,3 +76,15 @@ So you are looking for FREE Machine Learning courses on Youtube? Sure, here you 
 - UC Berkeley CS 285 Deep Reinforcement Learning: [youtube](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc)  
 - Intro to Deep Learning and Generative Models: [youtube](https://www.youtube.com/playlist?list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51)  
 - Stanford CS330: Deep Multi-Task and Meta Learning [youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)
+
+---
+*to be organized:*
+
+Let’s democratize NLP  
+https://twitter.com/huggingface/status/1260942644286537728
+
+Creating Game AI Using Mostly English  
+https://stadia.dev/intl/en/blog/creating-game-ai-using-mostly-english/
+
+Semantic Reactor: A tool for experimenting with NLU models  
+https://github.com/google/mysteryofthreebots

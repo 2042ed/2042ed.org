@@ -7,6 +7,14 @@ nav_order: 50
 ---
 # Game AI services
 
+- Notifications (local e le push)
+- Multiplayer
+- Analytics
+- ML - <https://firebase.google.com/products/ml-kit>
+- Text to Speech / Speech to Text - <https://cloud.google.com/speech-to-text/>
+- Image Analytsis
+- Cheat Checkers
+
 ## Google Cloud
 <https://cloud.google.com/solutions/gaming>
 
@@ -17,19 +25,15 @@ nav_order: 50
 - Text To Speech API
 - Video Intelligence API
 
-<https://assetstore.unity.com/packages/add-ons/machinelearning/machine-learning-kit-using-google-cloud-pro-109501>
+Plugin per Unity: <https://assetstore.unity.com/packages/add-ons/machinelearning/machine-learning-kit-using-google-cloud-pro-109501>
 
-- Amazon GameTech <https://aws.amazon.com/gametech/>
-- Microsoft AI <https://azure.microsoft.com/en-us/services/cognitive-services/>
-- Unity Services - <https://unity.com/solutions/gaming-services>
+## Amazon GameTech
+<https://aws.amazon.com/gametech/>
 
-## services
-- Notifications (local e le push)
-- Multiplayer
-- analytics
-- ML - <https://firebase.google.com/products/ml-kit>
-- Text to Speech / Speech to Text - <https://cloud.google.com/speech-to-text/>
-- Image Analytsis
-- cheat checkers
+## Microsoft AI
+ <https://azure.microsoft.com/en-us/services/cognitive-services/>
+
+## Unity Services
+<https://unity.com/solutions/gaming-services>
 
 

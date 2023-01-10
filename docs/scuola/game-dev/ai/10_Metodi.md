@@ -20,23 +20,13 @@ AI può giocare con due obiettivi:
 	a) debug e simulazione
 	b) credibilità e umanizzazione
 
-
 ## AI Model
 ![](img/AI-model.webp)
 
-
-
-### Utility
-E' la funziona che misura la razionalità di una scelta.
-Usata per valutare la bontà di un percorso di scelte, "campionando" lo rappresentazione dello spazio.
-Ci possono essere poi funzioni euristiche per approssimare e velocizzare il calcolo, loss, cost, or error per minimizzare.
-
-*Learning = Maximize Utility (Representation)*
-
-### Ad-Hoc Behavior Authoring
+## Ad-Hoc Behavior Authoring
 Il metodo *classico*, e tutt'ora più usato per controllare gli NPC dei videogiochi: Finite state machines, behavior trees and utility-based AI.
 
-#### FSM
+### FSM
 
 ![](img/fsm_scheme.webp)
 ![](img/ai.fsm.pacman.webp)
@@ -50,7 +40,7 @@ Pro: semplici da progettare, implementare, visualizzare e debuggare.
 Cons: complessi da progettare su larga scala. Non facili da estendere, non sono flessibili nè dinamici, impossibile "evolverli" una volta consolidati.
 Risultati un po' troppo prevedibili (salvo iniettare fuzzy e probabilità nelle transizioni)
 
-#### Behavior Trees
+### Behavior Trees
 
 ![](img/ai.bt.webp)
 ![](img/ai.bt.2.webp)
@@ -80,7 +70,13 @@ arricchisce il nodo fliglio: ad esempio ne nega il risultato, oppure lo fa andar
 [📽 Intro to BT](https://www.youtube.com/watch?v=uq8hnnkAxsw)
 [📽 Behavior Designer](https://www.youtube.com/watch?v=T_of4_jRoJA)
 
-#### Utility-based AI
+### Utility-based AI
+
+Utility è la funzione che misura la razionalità di una scelta.
+Usata per valutare la bontà di un percorso di scelte, "campionando" lo rappresentazione dello spazio.
+Ci possono essere poi funzioni euristiche per approssimare e velocizzare il calcolo, loss, cost, or error per minimizzare.
+
+*Learning = Maximize Utility (Representation)*
 
 Serve per creare sistemi di Decision-making
 Ogni istanza nel gioco viene dotata di una funziona Utility che ne restituisce l'importanza.
@@ -103,24 +99,24 @@ Esempio **scelta arma di un agente NPC**, si misurano:
 
 L'agente controlla e chiama regolarmente la Utility di tutte le armi disponibili e seleziona la migliore
 
-#### Random / Fuzzy / Noise
+### Random / Fuzzy / Noise
 queste sono versioni base. per renderle meno deterministiche si usano tecniche di random e fuzzy.
 
-#### Hybrid / Composition
+### Hybrid / Composition
 questi metodi possono essere composti.
 
-### Tree Search 
+## Tree Search 
 *Tutta la AI è fondamentalmente una ricerca* di una pianificazione, di un path, di un modello, di una funzione, etc. e gli algoritmi di ricerca sono il cuore.
 
-#### Uninformed Search
+### Uninformed Search
 cercano tutto lo spazio senza un goal preciso
 1. Depth-first search
 2. Breadth-first search
 
-#### Best-First Search
+### Best-First Search
 si ha un'idea del goal finale e una funzione che ne misura la distanza
 
-#### Pathfinding: **A* star**
+### Pathfinding: **A* star**
 esplora i nodi adiacenti, misurandone il costo e la distanza dal goal finale.
 Funzioane bene sia in 2D che in 3D.
 [intro to A*](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
@@ -128,17 +124,17 @@ Funzioane bene sia in 2D che in 3D.
 A* può essere usato anche per navigare negli spazi degli stti di gioco, non solo navigazione fisica. utile per il PLANNING. (vedi Mario A*)
 
 
-#### Decision Tree Learning
+### Decision Tree Learning
 ![](img/ai.decision_tree.webp)
 ![](img/ai.decision_tree_2.webp)
 
-#### Mini Max
+### Mini Max
 
 ![](img/ai.minmax.webp)
 
 [📽 Algorithms Explained – minimax and alpha-beta pruning](https://www.youtube.com/watch?v=l-hh51ncgDI)
 
-#### Monte Carlo Tree Search
+### Monte Carlo Tree Search
 se l'albero ha troppi rami e troppo profondo, mini max non funziona bene.
 
 Giochi deterministici come Go, Scacchi e Dama, a informazione imperfetta come Battaglia Navale, Poker, Bridge o giochi non deterministici quali il backgammon e il Monopoly necessitano di un altro algoritmo: MCTS che si avvicina al Minimax.
@@ -157,15 +153,15 @@ gli steps sono:
 
 ![](img/ai_treesearch_montecarlo.webp)
 
-### GOAP
+## GOAP
 vedere [GOAP](12_GOAP.md)
 
-### Navigation Flocking
+## Navigation Flocking
 - **Separation**: Each boid needs to maintain a minimum distance with neighboring boids to avoid hitting them (short-range repulsion) 
 - **Alignment**: Each boid needs to align itself with the average direction of its neighbors, and then move in the same velocity with them as a flock 
 - **Cohesion**: Each boid is attracted to the group's center of mass (long-range attraction) 
 
-### Locomotion
+## Locomotion
 
 ![](img/locomotion_1.jpg)
 ![](img/locomotion_2.jpg)
@@ -173,17 +169,16 @@ vedere [GOAP](12_GOAP.md)
 <https://youtu.be/fQlQQSsC47g?t=279>
 
 
-### Sensori
+## Sensori
 
+## Evolutionary Computation / Genetic
 
-### Evolutionary Computation / Genetic
-
-#### Ottimizzazione
+### Ottimizzazione
 è necessaria una utility function, evaluation function o fitness function che restituisca la un valore numerico con la bontà (fitness) della soluzione, da massimizzare o minimizzare.
 L'ottimizzazione è il procedimento di cercare nello *spazio di ricerca* una soluzione che abbia il massimo o minimo valure di fitness.
 Si cerca di rappresentare una soluzione come un array di valori (es. le azioni per uscire da un labirinto) da modificare con tecniche prese dalla genetic evolutiva: si cambia un gene o una seguenza, casualmente
 
-#### Local Search
+### Local Search
 **deterministic** hill climber: si cercano tutti gli adiacenti (solo per piccole variazioni)
 
 1. Init: Se crea una soluzione *s* casuale nello spazio.
@@ -203,7 +198,7 @@ Si cerca di rappresentare una soluzione come un array di valori (es. le azioni p
 
 ![](img/ai.local_search.webp)
 
-#### Evolutionary Algorithms
+### Evolutionary Algorithms
 cercano nello spazio _globale_, non soltanto nella adiacenze della attuale soluzione.
 
 SI generano molte soluzione, si buttano via quelle minori e si tengono le migliori. come nella selezione naturale o evoluzioen Darwiniana.

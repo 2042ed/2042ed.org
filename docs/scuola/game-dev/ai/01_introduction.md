@@ -7,81 +7,72 @@ sources:
 ---
 # Introduzione
 
-## Introduzione alla A.I.
+L'Intelligenza Artificiale (Artificial Intelligence, A.I.) tenta di replicare e simulare l'intelligenza e il comportamento umano imitando come il cervello umano elabora le informazioni (*reverse engineering*). Ad esempio, le **reti neurali artificiali** sono modellate sul modo in cui funziona il cervello umano.
+
+Gli esseri umani hanno **cinque sensi** di base: visivo, uditivo, cinestetico (movimento), olfattivo e gustativo. E le aree principali di azione sono:
+
+- Ascoltare e parlare
+- Comprensione del linguaggio (Natural Language Processing (NLP)
+- Ricordare le cose
+- Pensare ( Common sense reasoning and Decision Making)
+- Vedere (Computer vision)
+- Muoversi
+
+## Introduzione alla AI
   - storia: inizio anni 50, Turing per giocare a scacchi senza computer
   - modellare l'intelligenza
   - deterministici
   - Deep Blu fine anni '90
   - Narrow/Weak AI & Strong (true) AI / AGI
-  - AI e Videogiochi
-	  - giocare (NPG e player)
-	  - creare contenuti
-	  - analizzare gameplay e modellare il giocatore
   - big data & GPU power -> ML
-
-- Computer vision
-- Natural Language Processing (NLP)
-- Common sense reasoning
 
 ## AI & Videogames
 
-![](img/ai_content_intro.webp)
-
-## What is AI in gaming?
-
-AI in gaming is about creating more responsive, adaptive & challenging games through the use of artificial intelligence. And even though academics argue that game AI is not true AI, the hype around the technology has been continuously growing for quite a while. It has become a major concept in a lot of games. 
+L'intelligenza artificiale nei giochi riguarda la creazione di giochi più reattivi, adattivi e stimolanti. E anche se gli accademici sostengono che l'intelligenza artificiale dei giochi non è vera intelligenza artificiale, l'entusiasmo intorno alla tecnologia è in continua crescita ed è diventato un concetto importante in molti giochi. 
 
 
-## Why does AI matter in gaming?
+## Perché l'AI è importante nei giochi?
 
-With AI, games are able to provide a better experience to their gamers. Creating life-like situational developments to progress in the games adds excitement to the gameplay. Increasing complexity in games with AI ensures gamers are hooked to the game. With the rise of different gaming devices gamers expect to have an immersive experience across various devices. Developers can provide a console-like experience across all platforms with AI.
+Con l'intelligenza artificiale i giochi sono in grado di fornire un'esperienza migliore ai loro giocatori. La creazione di situazioni realistiche per progredire nei giochi aggiunge entusiasmo al gameplay. La crescente complessità nei giochi con l'intelligenza artificiale migliora il coinvolgimento dei giocatori. 
 
 ### 1. NPCs (non-player characters)
 
 <https://youtu.be/u3j59Z3iXdM>
 
-NPCs or non-player characters are where Game AI is used the most. These are characters in the game who act intelligently as if they were controlled by human players. These characters’ behavior is determined by artificial intelligence algorithms and engines. Quite often, decision trees are used to guide the behavior of these NPCs.   
+Qui è dove l'AI viene utilizzata di più nei giochi. Questi sono personaggi del gioco che agiscono in modo intelligente come se fossero controllati da giocatori umani. Il comportamento di questi personaggi è determinato da algoritmi e motori di intelligenza artificiale. Molto spesso vengono usati "alberi decisionali" per guidare il comportamento di questi NPC.
 
 ### 2. Pathfinding
 
-Pathfinding involves getting from one point to another. The whole gaming landscape is the most important part of pathfinding. The game AI can generate the game landscape or the game world as you go through the game world. The AI can get feedback from your moves, your playing style, in-game decisions, appearance, and techniques, and create the landscape according to that.
+Il pathfinding implica spostarsi da un punto all'altro.
+L'intero panorama del gioco è la parte più importante del pathfinding. 
 
 ### 3. Decision-making
 
-AI will let the decisions that you make have a bigger impact on the gameplay. For example, in Red Dead Redemption 2, the behavior of NPCs and their interaction with you depend on variables like blood stains on your clothes or the type of hat that you are wearing. Since there is an enormous matrix of possibilities, the whole game world could be manipulated by your decisions. There could be extremely complicated cause-and-effect relationships.
+L'AI consentirà alle decisioni che prendi di avere un impatto maggiore sul gameplay. Ad esempio, in Red Dead Redemption 2, il comportamento degli NPC e la loro interazione con te dipendono da variabili come le macchie di sangue sui tuoi vestiti o il tipo di cappello che indossi. Poiché esiste un'enorme matrice di possibilità, l'intero mondo di gioco potrebbe essere manipolato dalle tue decisioni. Potrebbero esserci relazioni causa-effetto estremamente complicate.
 
 NPCs can even learn from player behavior and adapt according to their tactics  
 
 ### 4. Data mining
 
-Artificial intelligence allows game designers and studios to perform **data mining on player behavior** to help them get an understanding of how people end up playing the game, the parts that people play the most, and what causes users to stop playing the game. This allows game developers to improve game play or identify monetization opportunities.
-
-Data is mined from player behavior
+L'intelligenza artificiale consente ai game designer di eseguire **data mining sul comportamento dei giocatori** per aiutarli a capire come le persone finiscono per giocare, le parti che le persone giocano di più e cosa fa sì che gli utenti smettano di giocare . Ciò consente agli sviluppatori di giochi di migliorare il gioco o identificare opportunità di monetizzazione.
 
 ### 5 Procedural content generation
 
-Artificial intelligence in gaming can create new content, interactive stories, environmental conditions, levels, and even music automatically. 
+L'intelligenza artificiale nei giochi può creare automaticamente nuovi contenuti, storie interattive, condizioni ambientali, livelli e persino musica.
 
 ### 6 Player experience modeling
 
-Game AI can figure out the ability and emotional state of the player, and then tailor the game according to that. This could even involve dynamic game difficulty balancing in which the difficulty of the game is adjusted in real-time, depending on the player's ability. AI in gaming could even aid in figuring out the player’s intent.
-
-### 7 Cheating
-
-The most common type of cheating used by NPCs is when the NPCs make use of information that is not available to the players in that situation. As an example, in a combat game, an NPC might be given human-like senses like seeing and hearing, but they might just cheat by checking the player’s position on the game engine. Other types of cheating include the [AI system](https://www.engati.com/) granting NPCs greater speeds to catch up with players in racing games or allowing them to re-spawn in beneficial positions (eg. giving them the higher ground) in first-person games.   
-
-Cheating is useful in certain games because without cheating, it would be much easier for the human player to beat the system after a few attempts.
-  
+L'intelligenza artificiale del gioco può capire l'abilità e lo stato emotivo del giocatore, quindi adattare il gioco in base a quello. Ciò potrebbe anche comportare un bilanciamento dinamico della difficoltà del gioco in cui la difficoltà del gioco viene regolata in tempo reale, a seconda dell'abilità del giocatore. L'intelligenza artificiale nei giochi potrebbe persino aiutare a capire l'intenzione del giocatore.
 
 ## What are the kinds of AI in games?
 
-The most common types of AI in gaming techniques are:
+I tipi più comuni di AI nei videogiochi sono:
 
-### 1 Deterministic AI techniques
+### Tecniche Deterministiche
 
 Deterministic AI techniques are the most widely used AI in gaming techniques. Deterministic behaviour or performance is specified and is very predictable. There isn’t any element of uncertainty involved in these techniques. They are rather quick and easy to implement, understand, test, and debug. The issue is that deterministic methods force developers to anticipate all the possible scenarios and code all the behaviour themselves. These methods don’t even allow for learning or evolving, which makes the game’s behaviours predictable after a little gameplay and even has a limiting effect on the game’s play-life.
 
-### 2 Nondeterministic AI techniques
+### Tecniche Non Deterministiche
 
 This is basically the opposite of deterministic behaviour. Nondeterministic behaviour has some level of uncertainty (which depends on the AI method that is used and how well that AI method is understood). If you want to get a better idea of what this is all about, just look at an NPC that learns the moves and tactics of a player and adapts to counter them. For such learning, a neural network, Bayesian technique, or genetic algorithm could be used.  
 
@@ -107,3 +98,9 @@ Using AI in games helps make the games more intuitive. In addition to this, the 
 
 The game becomes unpredictable when nondeterministic behaviour is used. This means that what happens in the game can’t even be predicted by the developer of the game. This creates a novel, refreshing experience and increases the game’s play-life since the game does not become predictable and boring after playing it a few times.
 
+## Sintesi
+
+![](img/ai_content_intro.webp)
+- giocare (NPG e player)
+- creare contenuti
+- analizzare gameplay e modellare il giocatore

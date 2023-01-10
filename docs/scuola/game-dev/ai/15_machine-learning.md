@@ -5,9 +5,12 @@ updated: 2023-01-10
 ---
 # Machine Learning
 
+> **Resources**
+> read `Machine Learning for Designers.pdf`
+
 Tom Mitchell proposed a simple definition of it: "The field of machine learning is concerned with the question of how to construct computer programs that automatically improve with experience."
 
-### i fondamentali
+## Fondamentali
 iniziamo con una semplice ma completa introduzione alle NN, ML, GAN. sono concetti che ci porteremo avanti per anni ed è bene conoscere l'ABC, questi 8 post di "Machine Learning è divertente" sono un ottimo inizio.
 
 - [ML parte 1](https://medium.com/botsupply/il-machine-learning-%C3%A8-divertente-parte-1-97d4bce99a06)
@@ -19,8 +22,8 @@ iniziamo con una semplice ma completa introduzione alle NN, ML, GAN. sono concet
 - [ML parte 7](https://medium.com/botsupply/il-machine-learning-%C3%A8-divertente-parte-7-bbd34f905ab8)
 - [ML parte 8](https://medium.com/@giovannitoschi/il-machine-learning-%C3%A8-divertente-parte-8-come-imbrogliare-una-rete-neurale-9116075d5df0)
 
-### Supervised Learning
-#### Reti Neurali
+## Supervised Learning
+### Reti Neurali
 ![](img/ai.neuron.webp)
 
 Explained In A Minute: Neural Networks
@@ -41,27 +44,27 @@ Snake
 Number recognizion  
 <https://www.youtube.com/watch?v=aircAruvnKk>
 
-#### backpropagation
+### backpropagation
 
-#### Decision Tree Learning
+### Decision Tree Learning
 ![](img/ai.decision_tree.webp)
 ![](img/ai.decision_tree_2.webp)
 
 
-### Reinforcement Learning (RL)
+## Reinforcement Learning (RL)
 si ispira a come imparano gli esseri viventi
 
 ![](img/ai.reinforcedlearning.webp)
 
 A central question in RL problems is the right balance between the exploitation of current learned knowledge versus the exploration of new unseen territories in the search space
 
-### Unsupervised Learning
-#### Clustering
+## Unsupervised Learning
+### Clustering
 Good clusters are characterized by two core properties: 
 1) high intra-cluster similarity, or else, high compactness
 2) low inter-cluster similarity, or else, good separation.
 
-#### Frequent Pattern Mining
+### Frequent Pattern Mining
 
 due tipi sono interessanti
 1) frequent itemset mining
