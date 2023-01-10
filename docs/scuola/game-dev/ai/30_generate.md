@@ -47,13 +47,12 @@ Ropossum https://www.youtube.com/watch?v=FM3v0tbdKrs
 
 ## Grammar-based
 or production rules
- ![](game.refraction.jpg)
 
 ### L-System
 - <http://www.kevs3d.co.uk/dev/lsystems/#>
 - <http://www.malsys.cz/Process>
 - <https://onlinemathtools.com/l-system-generator>
-vedi [[32_LSystems]]
+vedi [L-Systems](32_LSystems.md)
 
 ## Cellular automata
 - <https://bitstorm.org/gameoflife/>

@@ -7,6 +7,10 @@ weight: 90
 ---
 # Resources
 
+
+## Per i Designers
+- **machinelearning.design**: A collection of resources for intersection of design, user experience, machine learning and artificial intelligence <https://machinelearning.design/>
+
 ## Unity Courses
 - Artificial Intelligence for Beginners (15 hours)
 <https://learn.unity.com/course/artificial-intelligence-for-beginners>

@@ -16,7 +16,7 @@
 9) sciami avversari in spara tutto 2D
 
 ### star craft
-![](img/strategy-starcraft.jpg)
+![](../img/strategy-starcraft.jpg)
 
 ## generare contenuti
 vedi Lsystems e maze
