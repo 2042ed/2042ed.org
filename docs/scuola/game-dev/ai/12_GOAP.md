@@ -8,6 +8,8 @@ weight: 12
 # GOAP
 **Goal-Oriented Action Planner**
 
+> Play it in [GameLab_AI_Unity Project](https://github.com/StefanoCecere/GameLab_AI_Unity) `/GOAP` sub-project
+
 ![](img/goap/goap_01.webp)
 ![](img/goap/goap_02.webp)
 ![](img/goap/goap_03.webp)
