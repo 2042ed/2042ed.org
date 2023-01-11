@@ -88,3 +88,65 @@ https://stadia.dev/intl/en/blog/creating-game-ai-using-mostly-english/
 
 Semantic Reactor: A tool for experimenting with NLU models  
 https://github.com/google/mysteryofthreebots
+
+### Behaviour Trees
+- [Holistic Games - Introduction to Behaviour Trees](https://www.youtube.com/watch?v=uq8hnnkAxsw)
+- [Behaviour Trees: The Cornerstone of Modern Game AI](https://www.youtube.com/watch?v=6VBCXvfNlCM)
+- [Behavior trees for AI: How they work](https://www.gamasutra.com/blogs/ChrisSimpson/20140717/221339/Behavior_trees_for_AI_How_they_work.php)
+- [07B Behavior Trees](https://www.youtube.com/watch?v=YCMvUCxzWz8)
+
+### ML games
+tutorials:
+WRITING MY FIRST MACHINE LEARNING GAME! (4 videos by Jebril)
+https://www.youtube.com/watch?v=ZX2Hyu5WoFg
+https://github.com/Jabrils/Run-Forrest-FULL
+
+### Neural Networks
+https://natureofcode.com/book/chapter-10-neural-networks/
+
+- Car training
+https://www.youtube.com/watch?v=Aut32pR5PQA
+https://www.youtube.com/watch?v=5lJuEW-5vr8
+
+- Mario plays
+https://www.youtube.com/watch?v=qv6UVOQ0F44
+
+- Snake
+https://www.youtube.com/watch?v=3bhP7zulFfY
+
+- Number recognizion
+https://www.youtube.com/watch?v=aircAruvnKk
+
+## articoli
+- Recreating a Classic DOS Adventure Game https://www.youtube.com/watch?v=2rPyX8NZ5PI
+- Multi Agents tutorial https://www.youtube.com/watch?v=l4Ye70M3rZU
+
+- Una introduzione visuale al machine learning
+<http://www.r2d3.us/una-introduzione-visuale-al-machine-learning-1/>
+
+- Cos'è il Machine Learning (Reti Neurali e A.I.)  
+<https://www.youtube.com/watch?v=X_ZUyvAA9Qw>
+
+- Better killer robots with behavior trees (Playmaker and advanced BT integration)
+<https://www.youtube.com/watch?v=zC63mj7g820>
+
+- Some Thoughts About Utility Theory in Artificial Intelligence Part I
+<https://medium.com/@jrodthoughts/some-thoughts-about-utility-theory-in-artificial-intelligence-part-i-9c536dd1d40d>
+
+- Let’s democratize NLP
+https://twitter.com/huggingface/status/1260942644286537728
+
+- Creating Game AI Using Mostly English
+https://stadia.dev/intl/en/blog/creating-game-ai-using-mostly-english/
+
+- Semantic Reactor: A tool for experimenting with NLU models
+https://github.com/google/mysteryofthreebots
+
+- Level Design book
+https://docs.google.com/document/d/1fAlf2MwEFTwePwzbP3try1H0aYa9kpVBHPBkyIq-caY/
+
+- Ropossum
+https://mohammadshaker.com/2014/01/18/ropossum-v1-0/
+
+- Game Description Language (GDL)
+https://medium.com/@ryanrothweiler/improving-game-design-process-9e392ebf73af

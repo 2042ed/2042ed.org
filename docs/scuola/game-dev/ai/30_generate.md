@@ -12,8 +12,9 @@ weight: 30
 cosa si può generare?
 
 - NPC behavior
-- Quest / story / narrativa
-- Audiovisual settings
+- Quest / Narrativa
+- Audio
+- Visual
 - Livelli / Mappe / Percorsi
 - Items / Weapons
 - Game mechanics / Rules
@@ -55,7 +56,7 @@ or production rules
 - <https://onlinemathtools.com/l-system-generator>
 vedi [laboratorio L-Systems](lab/lab_L-Systems.md)
 
-#### Cellular automata
+### Cellular automata
 - <https://bitstorm.org/gameoflife/>
 - <https://gamedevelopment.tutsplus.com/tutorials/generate-random-cave-levels-using-cellular-automata--gamedev-9664>
 
