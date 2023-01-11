@@ -30,31 +30,48 @@ Pro: semplici da progettare, implementare, visualizzare e debuggare.
 Cons: complessi da progettare su larga scala. Non facili da estendere, non sono flessibili nè dinamici, impossibile "evolverli" una volta consolidati.
 Risultati un po' troppo prevedibili (salvo iniettare fuzzy e probabilità nelle transizioni)
 
+#### H-FSM: un po più complessa
+
+![](https://uploads.gamedev.net/monthly_2018_08/StateMachine1v2.png.4fa22e18258534bd2159807e82eb197c.png)
+
+![](https://uploads.gamedev.net/monthly_2018_08/HierarchicalStateMachine1.png.c452253962c401ddc30e354c435ab53e.png)
+
+SI possono costruire sistemi di decisione abbastanza complessi, però le transizioni sono collegate allo stato attuale (che è quello che vogliamo, di solito).
+
+
 ### Behavior Trees
 
 ![](img/ai.bt.webp)
 ![](img/ai.bt.2.webp)
 
-Un Behavior Tree (BT) è un sistema simile al FSM, che modella la transizione tra un numero finito di insiemi di azioni (tasks, o behaviour).
+Un Behavior Tree (BT) è un sistema simile al FSM ma le cui transizioni non solo collegate allo stato attuale, ma sono più generali.
 
-Pros: rispetto agli FSM: modularità. si possono comporre comportamenti molto complessi partendo da semplici tasks.
+
+Ad esempio, se la salute di un agente è scesa al 25%, potresti desiderare che fugga indipendentemente dal fatto che sia attualmente in combattimento, indle, in conversazione o in qualsiasi altro stato, e non vuoi dover ricordare per aggiungere quella condizione a ogni stato che potresti mai aggiungere a un personaggio in futuro. E se il game designer in seguito afferma di voler modificare la soglia dal 25% al 10%, dovresti quindi passare attraverso la transizione pertinente di ogni singolo stato e modificarla.
 
 Sono composti da Behaviour anzichè Stati in una stuttura ad albero con un nodo iniziale e n childs.
-L'albero viene attraversato da sinistra a destra con una frequenza (ticks) e ogni nodo può ritornare questi valori:
-1. **run** se attivo
+L'albero viene attraversato da sinistra a destra con una frequenza (ticks) e ogni **nodo** può ritornare questi valori:
+1. **running** se attivo
 2. **success** se completato
 3. **failure** se fallisce
 
-I Nodi sono di tre tipi
-**sequence**
-se figlio *succeds*, continua al seguente. *Succeds* quando finiscono tutti i figli, altrimenti *failure*
+I Nodi tipo sono:
 
+**Composite:**
 **selector**: probability o priority
 si seleziona un nodo figlio. se succeds, esso stesso succeds.
 se figlio failure, se ne seleziona un altro (by priority) oppure failure (probability).
 
+**sequence**
+se figlio *succeds*, continua al seguente. *Succeds* quando finiscono tutti i figli, altrimenti *failure*
+
 **decorator**
-arricchisce il nodo figlio: ad esempio ne nega il risultato, oppure lo fa andare n volte (repeater)
+arricchisce il nodo figlio: una condizione, oppure lo fa andare n volte (repeater) o lo elabora
+
+![](https://uploads.gamedev.net/monthly_2018_08/BehaviorTree2.png.f7c78c453335685b79cdf65ae03fb24e.png)
+
+**Pros**: rispetto agli FSM: modularità. si possono comporre comportamenti molto complessi partendo da semplici tasks.
+
 
 > [📖 Intro to BT](https://www.gamasutra.com/blogs/ChrisSimpson/20140717/221339/Behavior_trees_for_AI_How_they_work.php)  
 > [📽 Intro to BT](https://www.youtube.com/watch?v=uq8hnnkAxsw)  
@@ -67,6 +84,25 @@ Usata per valutare la bontà di un percorso di scelte, "campionando" lo rapprese
 Ci possono essere poi funzioni euristiche per approssimare e velocizzare il calcolo, loss, cost, or error per minimizzare.
 
 *Learning = Maximize Utility (Representation)*
+
+```
+Utility Calculation
+
+FindingHelp:
+If enemy visible and enemy is strong and health low return 100 else return 0
+
+Fleeing:
+If enemy visible and health low return 90 else return 0
+
+Attacking:
+If enemy visible return 80
+
+Idling:
+If currently idling and have done it for 10 seconds already, return 0, else return 50
+
+Patrolling:
+If at end of patrol route, return 0, else return 50
+```
 
 Serve per creare sistemi di Decision-making
 Ogni istanza nel gioco viene dotata di una funziona Utility che ne restituisce l'importanza.
@@ -92,8 +128,47 @@ L'agente controlla e chiama regolarmente la Utility di tutte le armi disponibili
 ### Random / Fuzzy / Noise
 queste sono versioni base. per renderle meno deterministiche si usano tecniche di random e fuzzy.
 
-### Hybrid / Composition
-questi metodi possono essere composti.
+#### Markov Models
+![](https://uploads.gamedev.net/monthly_2018_08/MarkovChain1.png.c6fd43ff83f4d1ad81bbd1ee015d9b4d.png)
+
+## N-Grams
+Valutiamo l'individuazione di combinazioni di giochi di combattimento? Questa è una situazione simile, in cui vogliamo prevedere uno stato futuro basato sullo stato passato (per decidere come bloccare o eludere un attacco), ma piuttosto che guardare un singolo stato o evento, vogliamo cercare sequenze di eventi che compongono una mossa combinata.
+
+Sequenza di mosse del giocatore:
+
+Kick  
+Kick  
+_none_  
+Punch  
+Kick, Punch  
+_none_  
+Kick  
+Kick, Punch, Kick  
+Kick, Punch, Kick  
+Kick  
+Kick, Punch, Kick, Kick  
+Punch, Kick, Kick  
+**Punch**  
+**Kick, Punch, Kick, Kick, Punch**  
+**Kick, Kick, Punch**  
+Block  
+Kick, Punch, Kick, Kick, Punch, Block  
+Kick, Punch, Block  
+Kick  
+Kick, Punch, Kick, Kick, Punch, Block, Kick  
+Punch, Block, Kick  
+Kick  
+Kick, Punch, Kick, Kick, Punch, Block, Kick, Kick  
+Block, Kick, Kick  
+**Punch**  
+**Kick, Punch, Kick, Kick, Punch, Block, Kick, Kick, Punch**  
+**Kick, Kick, Punch**  
+
+l'AI può vedere che il giocatore dopo kick + kick fa Punch. (attivando la combo) e quindi poter prendere contromisure.
+
+Queste sequenze di eventi si chiamano: N-Grams
+https://en.wikipedia.org/wiki/N-gram
+
 
 ## Tree Search 
 *Tutta la AI è fondamentalmente una ricerca* di una pianificazione, di un path, di un modello, di una funzione, etc. e gli algoritmi di ricerca sono il cuore.
