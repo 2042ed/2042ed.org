@@ -43,7 +43,7 @@ Come Decision Tree
 [Gioca online](https://freepacman.org)
 
 Introduzione alle AI dei fantasmini di PacMac
-https://www.youtube.com/watch?v=qwhXIzNrb9w
+<https://www.youtube.com/watch?v=qwhXIzNrb9w>
 <iframe loading="lazy" title="# AI learns to play PACMAN" src="https://www.youtube.com/embed/qwhXIzNrb9w?feature=oembed" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="500" height="281" frameborder="0"></iframe>
 
 ### The Sims

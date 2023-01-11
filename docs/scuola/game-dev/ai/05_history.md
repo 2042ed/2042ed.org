@@ -5,6 +5,13 @@ updated: 2023-01-10
 ---
 # La storia della AI
 
+  - storia: inizio anni 50, Turing per giocare a scacchi senza computer
+  - modellare l'intelligenza
+  - deterministici
+  - Deep Blu fine anni '90
+  - Narrow/Weak AI & Strong (true) AI / AGI
+  - big data & GPU power -> ML
+
 ## La storia dell'apprendimento automatico
 
 Intraprendiamo un viaggio nella storia dell'apprendimento automatico per scoprire come tutto è iniziato, come si è evoluto in quello che è oggi e cosa potrebbe riservare il futuro.
