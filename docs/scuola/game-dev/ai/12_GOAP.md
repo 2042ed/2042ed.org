@@ -43,7 +43,10 @@ weight: 12
 ![](img/goap/goap_31.webp)
 ![](img/goap/goap_32.webp)
 
-> **Resources**
+## **Resources**
+[Unity asset SGOAP](https://assetstore.unity.com/packages/tools/ai/s-goap-ai-solution-167167)
+
+
 > [Unity Learn](https://learn.unity.com/project/goal-driven-behaviour)
 > [Udemy course](https://www.udemy.com/course/ai_with_goap/)
 > [Unity Labs Behavioral AI Research (2017)](https://www.youtube.com/watch?v=78nhJNPS0vA)
