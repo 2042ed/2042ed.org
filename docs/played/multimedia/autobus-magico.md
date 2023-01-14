@@ -1,6 +1,6 @@
 ---
 title: Autobus Magico
-slug: auot
+slug: autobus-magico
 description: fantastico
 type: PlayED
 categories:
