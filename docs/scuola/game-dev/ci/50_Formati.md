@@ -38,6 +38,6 @@ GitHub ha determinato massicciamente l'adozione dello standard MarkDown per la d
 ---
 
 **links**  
-- dal creatore di Markdown: https://daringfireball.net/projects/markdown/syntax
-- Jekyll è il rendering engine delle GitHub pages: https://jekyllrb.com
-- corso markdown: https://lab.github.com/githubtraining/communicating-using-markdown
+- dal creatore di Markdown: <https://daringfireball.net/projects/markdown/syntax>
+- Jekyll è il rendering engine delle GitHub pages: <https://jekyllrb.com>
+- corso markdown: <https://lab.github.com/githubtraining/communicating-using-markdown>

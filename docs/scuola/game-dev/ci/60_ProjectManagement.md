@@ -13,7 +13,7 @@ draft: false
 regole di partecipazione e comunicazione
 
 ## Commit syntax
-https://www.conventionalcommits.org
+<https://www.conventionalcommits.org>
 
 ## Come posso fare un buon changelog?
 <https://keepachangelog.com>

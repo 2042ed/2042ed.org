@@ -10,9 +10,7 @@ draft: false
 
 ## FAQ
 - Come si diventa uno sviluppatore / contributor open-source?
-  https://julia.hashnode.dev/how-can-i-become-an-open-source-contributor-the-ultimate-guide
-
-
+  <https://julia.hashnode.dev/how-can-i-become-an-open-source-contributor-the-ultimate-guide>
 
 ## progetti OpenSource
 - OpenSource projects finder: <https://www.findbestopensource.com>
@@ -23,29 +21,29 @@ draft: false
 
 ## tools per GameDev
 - <https://github.com/StefanoCecere/awesome-opensource-unity>
-- Godot game engine https://godotengine.org
-- Phaser JS game engine https://phaser.io
-- Blender 3D engine (con la nuova 2.8 UI) sempre più usato anche dai big studios https://www.blender.org
-- Audacity audio editor http://www.audacityteam.org/download/linux/
+- Godot game engine <https://godotengine.org>
+- Phaser JS game engine <https://phaser.io>
+- Blender 3D engine (con la nuova 2.8 UI) sempre più usato anche dai big studios <https://www.blender.org>
+- Audacity audio editor <http://www.audacityteam.org/download/linux/>
  
 ## Esempi
 - progetti complessi:
-  - https://github.com/microsoft/vscode
+  - <https://github.com/microsoft/vscode>
 
 - Unity projects
-  - https://unitylist.com
-  - https://github.com/vgwb/Antura
-  - https://github.com/QianMo/Unity-Design-Pattern
-  - https://github.com/mob-sakai/UIEffect
-  - https://bitbucket.org/Unity-Technologies/
+  - <https://unitylist.com>
+  - <https://github.com/vgwb/Antura>
+  - <https://github.com/QianMo/Unity-Design-Pattern>
+  - <https://github.com/mob-sakai/UIEffect>
+  - <https://bitbucket.org/Unity-Technologies/>
 
 - frameworks per giochi narrativi
-  - https://github.com/snozbot/fungus
-  - https://github.com/Siccity/xNode
-  - https://github.com/inkle
-  - https://github.com/e-ucm/uAdventure
+  - <https://github.com/snozbot/fungus>
+  - <https://github.com/Siccity/xNode>
+  - <https://github.com/inkle>
+  - <https://github.com/e-ucm/uAdventure>
 
 - developers
-  - https://github.com/keijiro/
-  - https://github.com/ncase
+  - <https://github.com/keijiro/>
+  - <https://github.com/ncase>
 

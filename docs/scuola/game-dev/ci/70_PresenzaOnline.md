@@ -28,7 +28,7 @@ ok italiano come lingua principale SE si aggiunge una buona traduzione in ingles
   - Twitter
   - GitHub
 
-- se non sulle proprie pagine, i propri progetti possono/devono essere pubblicati su https://itch.io
+- se non sulle proprie pagine, i propri progetti possono/devono essere pubblicati su <https://itch.io>
 
 ### a cosa serve un profilo web?
 che è diverso dal CV (mero elenco di cosa uno ha fatto e sa fare)
