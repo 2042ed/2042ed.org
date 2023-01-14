@@ -64,7 +64,7 @@ plugins:
         text: "#FFFFFF"
   - table-reader
   - minify:
-      minify_html: true
+      minify_html: false
   - awesome-pages
   - tags:
       tags_file: played/tags.md
