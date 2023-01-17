@@ -47,6 +47,10 @@ Introduzione alle AI dei fantasmini di PacMac
 <https://www.youtube.com/watch?v=qwhXIzNrb9w>
 <iframe loading="lazy" title="# AI learns to play PACMAN" src="https://www.youtube.com/embed/qwhXIzNrb9w?feature=oembed" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="500" height="281" frameborder="0"></iframe>
 
+### Elite (1984)
+Contenuti procedurali.   
+Elite aveva centinaia di sistemi planetari in soli pochi KB di memoria.
+
 ### The Sims
 ![](https://image.api.playstation.com/vulcan/img/rnd/202111/3019/Btg9YJMDRcWgsbD5E6rOcdT5.jpg)
 
@@ -54,8 +58,6 @@ topic: storie interattive
 
 Ogni interazione apre una serie di possibili evoluzioni.
 Tutte le azioni sono progettate per essere in qualche modo casuali, quindi l'AI non inizia mai in modo prevedibile.
-
-
 
 ## AAA
 ### Star Craft
@@ -67,7 +69,8 @@ L'AI di Starcraft è in grado di imbrogliare per sconfiggere i giocatori umani e
 
 ![](img/strategy-starcraft.jpg)
 
-[sito gioco](https://starcraft2.com/)
+- [sito gioco](https://starcraft2.com/)
+- [studio di come DeepMind gioca a StarCraft](https://www.saagie.com/en/blog/artificial-intelligence-in-video-games/#elementor-toc__heading-anchor-72)
 
 ### No man's sky
 Open world? Try open universe

@@ -5,10 +5,15 @@ updated: 2023-01-10
 ---
 # Machine Learning
 
+![](../../../assets/img/gamedev/ai-symbolism-vs-connectivism.webp)
+
+
 > **Resources**
 > read `Machine Learning for Designers.pdf`
 
-Tom Mitchell proposed a simple definition of it: "The field of machine learning is concerned with the question of how to construct computer programs that automatically improve with experience."
+> The field of Machine Learning is concerned with the question of how to construct computer programs that automatically improve with experience. (Tom Mitchell)
+
+> Machine Learning: training machines to receive input data and predict an output value
 
 ## Fondamentali
 iniziamo con una semplice ma completa introduzione alle NN, ML, GAN. sono concetti che ci porteremo avanti per anni ed è bene conoscere l'ABC, questi 8 post di "Machine Learning è divertente" sono un ottimo inizio.
