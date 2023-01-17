@@ -1,6 +1,7 @@
 ---
-title: "I.C. nei progetti digitali"
-date: 2017-09-09T00:00:00
+title: I.C. nei progetti digitali
+date: 2022-12-23
+updated: 2023-01-16
 type: book
 weight: 25
 toc: true

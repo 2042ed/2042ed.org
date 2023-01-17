@@ -1,10 +1,10 @@
 ---
-title: "Appendici e Risorse"
-date: 2017-09-09T00:00:00
+title: Appendici e Risorse
+date: 2022-12-23
+updated: 2023-01-16
 type: book
 weight: 95
 toc: true
-draft: false
 ---
 # Appendici e Risorse
 

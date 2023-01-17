@@ -1,10 +1,10 @@
 ---
 title: Intelligenza Collettiva
+date: 2022-03-22
 parent: CI
 has_children: false
 nav_order: 20
-date: 2022-03-22
-updated: 2022-03-22
+updated: 2023-01-16
 ---
 # Intelligenza Collettiva
 

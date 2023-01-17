@@ -1,6 +1,7 @@
 ---
-title: "Introduzione"
-date: 2017-09-09T00:00:00
+title: Introduzione
+date: 2019-12-23
+updated: 2023-01-16
 type: book
 weight: 1
 toc: true
@@ -43,4 +44,4 @@ Conveniamo che oggi i "dietro le quinte" sono degli ottimi momenti per imparare,
 ma se nessuno condividesse nulla, o fosse accessibile solo pagando salato, la conoscenza rimarrebbe in mano di pochi e i progressi relegati a pochi.
 
 per fortuna non è più così.  
-benvenuti nel 2019 e prepariamoci al 2042.  
+benvenuti nel presente e prepariamoci al 2042.  

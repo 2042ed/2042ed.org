@@ -1,6 +1,7 @@
 ---
-title: "Presenza Online"
-date: 2017-09-09T00:00:00
+title: Essere Presenti e Accessibili
+date: 2020-12-10
+updated: 2023-01-16
 type: book
 weight: 70
 toc: true

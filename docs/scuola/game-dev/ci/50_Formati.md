@@ -1,6 +1,7 @@
 ---
-title: "Formati e Interscambio"
-date: 2017-09-09T00:00:00
+title: Formati e Interscambio
+date: 2022-12-23
+updated: 2023-01-16
 type: book
 weight: 50
 toc: true
@@ -15,7 +16,9 @@ draft: false
 - formati vincolanti (vedi scrivere in word)
 
 ## Licenze
-fondamentalmente 3 categorie:
+Il sito <https://choosealicense.com/> spiega bene le differenti licenze.  
+
+Fondamentalmente ci sono tre categorie:
 
 ### 1. closed - all rights reserved
 - copyright / closed source

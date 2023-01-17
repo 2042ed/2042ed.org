@@ -1,5 +1,7 @@
 ---
-title: CI
+title: Intelligenza Collettiva e Sviluppo Distribuito
+date: 2019-12-12
+updated: 2023-01-16
 has_children: true
 nav_order: 10
 ---
