@@ -9,12 +9,6 @@ updated: 2023-01-17
 Sito in continuo aggiornamento di servizi che usano le A.I.
 <https://theresanaiforthat.com/>
 
-## Generare Livelli di gioco
-- creazione procedurale di contenuti
-- generare nuovi ambienti / environment
-- creare nuovi assets
-- valutare la difficoltà
-
 ## Generare Immagini
 
 **DALL·E**  

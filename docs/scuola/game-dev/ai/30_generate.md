@@ -14,6 +14,7 @@ Questo ha permesso di creare giochi che andassero oltre i limiti fisici imposti 
 
 NB: non tutti i metodi di generazione si basano sull'Intelligenza Artificiale
 
+In questo sito c'è un elenco dei videogiochi e dei metodi di Generazione che usano: <http://pcg.wikidot.com/>
 
 ## Procedural Content Generation (PCG)
 
@@ -37,13 +38,14 @@ Vedi [The Sims](60_case-studies.md#The%20Sims)
 vedi No Man's Sky [No man's sky](60_case-studies.md#No%20man's%20sky)
 
 ### Livelli / Mappe / Percorsi
+- creazione procedurale di contenuti
+- generare nuovi ambienti / environment
+- creare nuovi assets
+- valutare la difficoltà
 
-Based on Generate New Infinite Dungeons & Dragons Adventure Possibilities
-
-vedi **AI Dungeon**  
-- basato su D&D
-- genera infiniti livelli
-- <https://play.aidungeon.io>
+Esempi:
+- Civilization
+- **AI Dungeon** <https://play.aidungeon.io>
 
 ### Items / Weapons
 
@@ -135,14 +137,15 @@ Ci si potrebbe chiedere dove sia il collegamento tra queste sequenze di caratter
 Ad esempio consideriamo queste istruzioni:
 
 ```
-F disegna una line di una certa lunghezza (ad esempio 10 pixels)
-+ ruota 30° a sinistra
-– ruota 30 a destra
-: tieni traccia della posizione e rotazione corrente
-[ ] ripristano la posizione e rotazione memorizzata
+F avanza di tot disegnando una linea
+f avanza di tot senza disegnare
++ ruota n° a sinistra
+– ruota n° a destra
+[ tieni traccia della posizione e rotazione corrente
+] ripristano la posizione e rotazione memorizzata
 
-Regola grammaticale:
-F=F[-F]F[+F][F]
+Regola grammaticale: F = F[-F]F[+F][F]
+Assioma: F
 ```
 otteniamo questi risultati:
 ![](../../../assets/img/gamedev/ai-l-system-example.webp)
@@ -155,12 +158,31 @@ che poi possono diventare
 
 ![](https://www.saagie.com/wp-content/uploads/2018/10/14.png)
 
+Altro esempio:
+```
+F disegna una line di una certa lunghezza (ad esempio 10 pixels)
++ ruota 90° a sinistra
+– ruota 90 a destra
+: tieni traccia della posizione e rotazione corrente
+[ ] ripristano la posizione e rotazione memorizzata
+
+Regola grammaticale: F = F+F-F-FF+F+F-F
+Assioma: F+F+F+F
+```
+
+![](../../../assets/img/gamedev/ai-l-system-example-result2.webp)
+
+Ci sono poi molte elaborazioni e utilizzi di questi sistemi per generare labirinti, stanze, rocce, etc...
+
 Provate a giocare un po con questi Sistemi-L online:
 - <http://www.kevs3d.co.uk/dev/lsystems/>
 - <http://www.malsys.cz/Process>
 - <https://onlinemathtools.com/l-system-generator>
 - L-SYSTEMS GENERATOR** is a 2D/3D modeling tool <http://www.digitalpoiesis.org>
 vedi [laboratorio L-Systems](lab/lab_L-Systems.md)
+
+Esempi:
+- [generazione di un dungeon](https://www.gamedeveloper.com/design/kastle-dungeon-generation-using-l-systems)
 
 ### Noize Based
 Proviamo a disegnare un territorio realistico basandosi su una sequenza di numeri casuali.
@@ -188,8 +210,40 @@ La Perlin è usata molto in Minecraft ad esempio. No man’s sky usa una variazi
 ![](https://www.saagie.com/wp-content/uploads/2018/10/11-1024x530-1.png)
 
 ### Cellular automata
-- <https://bitstorm.org/gameoflife/>
-- <https://gamedevelopment.tutsplus.com/tutorials/generate-random-cave-levels-using-cellular-automata--gamedev-9664>
+Le cellular automata (CA) sono una classe di modelli matematici utilizzati per studiare il comportamento di sistemi complessi. Esse sono costituite da una griglia di celle, ognuna delle quali può assumere uno stato discreto (ad esempio "0" o "1"). Ogni cella si evolve nel tempo in base a regole predefinite, che dipendono dallo stato attuale della cella e dallo stato delle celle adiacenti.
+
+Le CA possono essere utilizzate per simulare una vasta gamma di fenomeni naturali, come la diffusione del calore o la crescita di una colonia di batteri. Un esempio di CA famoso è la "Conway's Game of Life", un gioco creato da John Horton Conway nel 1970. In questo gioco, le celle assumono uno stato "vivo" o "morto" in base alle regole del gioco, che stabiliscono se una cella "viva" deve continuare a vivere o morire, e se una cella "morta" deve nascere o rimanere morta, in base al numero di celle adiacenti "vive" o "morte".
+
+Esempio:
+
+![](../../../assets/img/gamedev/ai-game-of-life-rules.webp)
+
+1. cella viva con meno di due celle vive adiacenti muore (solitudine)
+2. cella viva con due o tre celle vive adiacenti sopravvive
+3. cella viva con più di tre celle vive adiacenti muore (sovrappopolazione)
+4. cella morta con esattamente tre celle vive adiacenti diventa una cella viva (riproduzione)
+
+Gli effetti possono essere anche belle animazioni:
+![](https://upload.wikimedia.org/wikipedia/commons/e/e5/Gospers_glider_gun.gif)
+
+
+Gli oggetti nel gioco della vita mostrano generalmente comportamenti che assomigliano a quelli che si trovano in natura poiché la loro evoluzione si basa su regole semplici. I Cellular Automata sono stati quindi ampiamente utilizzati per modellare ambienti e nei videogiochi per modellare pioggia, fuoco, flussi di fluidi o esplosioni. Sono stati utilizzati anche per la generazione di **mappe** o **terreni**.
+
+Ad esempio, in un giovo dove il territorio è costituito da celle che posono essere o vuote o roccia.
+
+L'automa cellulare è definito da un'unica regola di evoluzione:
+
+```
+Una cella diventa o rimane di tipo roccia se almeno 5 delle sue vicine sono di tipo roccia, altrimenti diventa o rimane vuota.
+```
+
+Lo stato iniziale viene creato in modo casuale, ogni cella ha una probabilità del 50% di trovarsi in uno dei due stati.
+
+![](https://www.saagie.com/wp-content/uploads/2018/10/23.png)
+
+**PLAY**
+- [Conway's Game of Life - PLAY ONLINE](https://bitstorm.org/gameoflife/)
+- [Generate Random Cave Levels Using Cellular Automata](https://gamedevelopment.tutsplus.com/tutorials/generate-random-cave-levels-using-cellular-automata--gamedev-9664)
 
 
 ## Machine learning

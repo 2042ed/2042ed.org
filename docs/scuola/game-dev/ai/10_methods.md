@@ -226,18 +226,23 @@ gli steps sono:
 ![](img/ai_treesearch_montecarlo.webp)
 
 ## GOAP
+![](https://data-science-blog.com/wp-content/uploads/2023/07/GOAP-2048x828.png)
+
 vedere [GOAP](12_GOAP.md)
 
-## Navigation Flocking
-- **Separation**: Each boid needs to maintain a minimum distance with neighboring boids to avoid hitting them (short-range repulsion) 
-- **Alignment**: Each boid needs to align itself with the average direction of its neighbors, and then move in the same velocity with them as a flock 
-- **Cohesion**: Each boid is attracted to the group's center of mass (long-range attraction) 
+## Navigation Flocking / BOIDS
+Gestisce l'interzione tra forme di vita artificiale (boid), che si muovono in uno spazio tridimensionale.
+
+Video: <https://www.youtube.com/watch?v=QbUPfMXXQIY>
+
+- **Alignment**: ogni boid deve allinearsi con la direzione media dei suoi vicini, quindi muoversi con loro alla stessa velocità, come in uno stormo 
+- **Separation**: ogni boid deve mantenere una distanza minima con i boidi vicini per evitare di colpirli (short-range repulsion) 
+- **Cohesion**: ogni boid è attratto dal centro di massa del gruppo (long-range attraction) 
 
 ## Movimento e Locomotion
 Oltre al movimento in se (animazione) sono importanti due funzioni:
 
-- SEEK (per trovare qualocsa o qualcuno
-- 
+- SEEK (per trovare qualcosa o qualcuno)
 - PATH FOLLOW (per seguire un percorso)
 si modifica costantemente la propria direzione per seguire dei punti di percorso
 

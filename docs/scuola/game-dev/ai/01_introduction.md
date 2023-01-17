@@ -141,3 +141,17 @@ Il comportamento non deterministico ha un certo livello di incertezza. Ad esempi
 
 > **Il nostro lavoro (di game developers): creare una bella esperienza.**  
 > tutto deve supportare questo lavoro. anche le AI.
+
+## Come si fa a implementare una AI in un videogioco?
+E' fondamentale conoscere:
+
+1. le caratteristiche del gioco
+  - numero di giocatori? (competitivo? collaborativo? entrambi?)
+  - spazio di azione e livelli di ramificazione
+  - casualità
+  - osservabilità
+  - granularità del tempo
+
+2. le caratteristiche degli algoritmi utilizzabili
+
+Da queste due considerazioni si può decidere quale metodo usare e per cosa.
