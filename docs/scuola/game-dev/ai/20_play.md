@@ -7,8 +7,7 @@ weight: 20
 ---
 # Play
 
-AI Plays and Improves Your Game.
-enhances the experience of the player.
+La AI gioca e aiuta a migliorare i giochi e arricchire l'esperienza del giocatore.
 
 AI può giocare con due obiettivi:
 1. play **well** 
@@ -23,20 +22,62 @@ AI può giocare con due obiettivi:
 
 ![](img/ai.game_characteristics.webp)
 
-## Un buon Player AI
-- let the player cheat
+##  1. NPCs (non-player characters)
+
+### AI Nemico
+Una IA nemica ben implementata è caratterizzata dalla credibilità del movimento degli NPC avversari, dal modo in cui conversano, si comportano e reagiscono a qualsiasi situazione creata dal giocatore.
+
+### AI amica / compagna
+I compagni AI forniscono volti amichevoli in un ambiente ostile. Aiutano nella navigazione, nella risoluzione di enigmi e nel combattimento. Alleviano la solitudine.
+
+
+
+Vantaggi:
+- Non pre-programmati
+- Meno prevedibili
+- Più furbi
+- Possono imitare i migliori giocatori (umani)
+
+![](../../talk/img/ml-imitation.webp)
+
+Un buon giocatore AI:
+
+- deve permettere al giocatore di barare
 - non deve essere troppo prevedibile
 - ma neanche deve essere perfetta
 - lascia il giocatore "vincere"
 
+Case Studies: Halo
+
 ## Board Games
+- GAME TREE CALCULATION
+	- MINIMAX
+	- MONTE-CARLO TREE SEARCH
+
+- BOARD EVALUATION
+Con una funzione di valutazione:
+Stimare il valore o la bontà di una posizione in un albero di gioco.
+
+Con un approccio genetico:
+si modifica la funzione di valutazione mutando alcuni parametri.
+
 ## Card Games
+
 ## Classic Arcade Games
+
 ## Strategy Games
+
 ## Racing Games
+- PATH FINDING
+- STEERING BEHAVIORS
+
+
 ## Shooters and Other First Person Games
+
 ## Serious Games
+
 ## Interactive Fiction
+
 ## Other Games
 
 ---

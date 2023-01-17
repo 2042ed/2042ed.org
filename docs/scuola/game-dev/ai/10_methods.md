@@ -197,6 +197,9 @@ A* può essere usato anche per navigare negli spazi degli stti di gioco, non sol
 
 ![](img/ai.minmax.webp)
 
+L'algoritmo minimax è un algoritmo per la ricerca della mossa migliore in un gioco a somma zero che si svolge tra due giocatori. L'algoritmo minimax è utilizzato nella teoria delle decisioni quando i giocatori si trovano in interazione strategica
+È finalizzato a minimizzare la massima perdita possibile di ciascun giocatore. L'algoritmo minimax consente di individuare le scelte migliori dei due giocatori nel corso del gioco, analizzando a ritroso l'albero di gioco a partire dai nodi terminali, ossia dalle possibili situazioni in cui può terminare il gioco ( fine gioco ), e risalendo progressivamente fino alla posizione corrente dei giocatori.
+
 **AI in boardgames**
 [📽 How does a Board Game AI Work? (Connect 4, Othello, Chess, Checkers) - Minimax Algorithm Explained](https://www.youtube.com/watch?v=y7AKtWGOPAE)
 
@@ -230,7 +233,15 @@ vedere [GOAP](12_GOAP.md)
 - **Alignment**: Each boid needs to align itself with the average direction of its neighbors, and then move in the same velocity with them as a flock 
 - **Cohesion**: Each boid is attracted to the group's center of mass (long-range attraction) 
 
-## Locomotion
+## Movimento e Locomotion
+Oltre al movimento in se (animazione) sono importanti due funzioni:
+
+- SEEK (per trovare qualocsa o qualcuno
+- 
+- PATH FOLLOW (per seguire un percorso)
+si modifica costantemente la propria direzione per seguire dei punti di percorso
+
+![](../../../assets/img/gamedev/ai-follow-graph.webp)
 
 ![](img/locomotion_1.jpg)
 ![](img/locomotion_2.jpg)

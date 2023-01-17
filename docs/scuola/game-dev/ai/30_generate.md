@@ -1,7 +1,7 @@
 ---
 title: Generate Content
 date: 2017-09-09
-updated: 2023-01-10
+updated: 2023-01-17
 type: book
 weight: 30
 ---
@@ -11,14 +11,37 @@ weight: 30
 
 cosa si può generare?
 
-- NPC behavior
-- Quest / Narrativa
-- Audio
-- Visual
-- Livelli / Mappe / Percorsi
-- Items / Weapons
-- Game mechanics / Rules
-- Reward schedules
+### NPC behavior
+
+### Quest / Narrativa
+
+Vedi [The Sims](60_case-studies.md#The%20Sims)
+
+### Audio
+
+### Visual
+- ottimizzazione textures
+- rimozione dei rumori
+- miglioramento qualità video
+- hyper-motion
+
+### Modelli
+vedi No Man's Sky [No man's sky](60_case-studies.md#No%20man's%20sky)
+
+### Livelli / Mappe / Percorsi
+
+Based on Generate New Infinite Dungeons & Dragons Adventure Possibilities
+
+vedi **AI Dungeon**  
+- basato su D&D
+- genera infiniti livelli
+- <https://play.aidungeon.io>
+
+### Items / Weapons
+
+### Game mechanics / Rules
+
+### Reward schedules
 
 ## Vantaggi
 - ridurre costi di sviluppo creando automaticamente contenuti sulle regole dei designers?
@@ -54,6 +77,7 @@ or production rules
 - <http://www.kevs3d.co.uk/dev/lsystems/#>
 - <http://www.malsys.cz/Process>
 - <https://onlinemathtools.com/l-system-generator>
+- L-SYSTEMS GENERATOR** is a 2D/3D modeling tool <http://www.digitalpoiesis.org>
 vedi [laboratorio L-Systems](lab/lab_L-Systems.md)
 
 ### Cellular automata
@@ -71,23 +95,8 @@ video <https://www.youtube.com/watch?v=p5U4NgVGAwg>
 
 <https://www.theverge.com/2019/3/6/18222203/video-game-ai-future-procedural-generation-deep-learning>
 
-### AI Dungeon
-<https://play.aidungeon.io>
-
-### GPT3
-OpenAI’s new GPT-3 language explained in under 3 minutes
-<https://thenextweb.com/neural/2020/07/23/openais-new-gpt-3-language-explained-in-under-3-minutes-syndication/>
-
-<https://gpt3examples.com>
-
-### DALL·E: Creating Images from Text
-https://openai.com/blog/dall-e/
-
-https://thenextweb.com/neural/2021/01/13/googles-new-trillion-parameter-ai-language-model-is-almost-6-times-bigger-than-gpt-3/
-
-video: https://www.youtube.com/watch?v=C7D5EzkhT6A
-
 ---
+
 ## More Resources
 **Videos**
 - Invisible cities <https://www.youtube.com/watch?v=c3ewUbFqIuo>

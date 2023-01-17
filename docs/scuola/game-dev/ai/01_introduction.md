@@ -43,6 +43,11 @@ Viviamo delle narrazioni, ma non abbiamo memoria precisa come un computer, creia
 
 Il Videogioco, un quanto medium multimediale e interattivo che necessità di coinvolgere il giocatore in modi realistici, adattativi, reattivi, spesso in conflitto con altri giocatori "intelligenti", è il destinatario ideale ma anche il*playground* ideale per lo sviluppo, l'implementazione e il test delle AI.
 
+Il connubio game-developer <> AI researcher è sempre più stretto..
+
+
+
+
 ## Cosa può fare?
 
 ![](img/ai_content_intro.webp)
@@ -58,9 +63,6 @@ A grandi linee le tree aree di utilizzo della AI nei giochi sono:
 <https://youtu.be/u3j59Z3iXdM>
 
 Qui è dove l'AI viene utilizzata di più nei giochi. Questi sono personaggi del gioco che agiscono in modo intelligente come se fossero controllati da giocatori umani. Molto spesso vengono usati "alberi decisionali" per guidare il comportamento di questi NPC. Questi comportamenti possono anche essere ricreati "imitando" giocatori umani.
-
-![](../../talk/img/ml-imitation.webp)
-
 
 ### 2. Pathfinding
 
@@ -90,17 +92,17 @@ L'intelligenza artificiale del gioco può capire l'abilità e lo stato emotivo d
 
 Usando tecniche come l'apprendimento dei pattern e il **reinforcement learning**, gli NPC nei giochi si evolvono grazie all'autoapprendimento dalle loro azioni. I giochi diventano anche piuttosto realistici perché interpretano e rispondono anche alle azioni del giocatore. Ci sono anche molti programmi che non necessitano di interfacce umane e sono in grado di creare automaticamente mondi virtuali.
 
-### 2. Risparmio di tempo e costi
-
-Normalmente, lo sviluppo di un gioco richiede molto tempo e denaro da investire in esso. E non sei nemmeno sicuro di quanto bene il mercato accetterà il gioco. L'intelligenza artificiale può aiutare a ridurre drasticamente il tempo necessario per creare un gioco e risparmiare molte risorse che verrebbero spese per lo sviluppo del gioco.
-
-### 3. Rendere i giochi più intuitivi
+### 3. Adaptive: rendere i giochi più intuitivi
 
 L'uso dell'intelligenza artificiale nei giochi aiuta a rendere i giochi più intuitivi. Inoltre, il gioco può capire l'abilità e l'esperienza del giocatore e regolare il livello di difficoltà del gioco in tempo reale.
 
-### 4. Eliminare la prevedibilità
+### 4. Challenging: eliminare la prevedibilità
 
 Il gioco diventa imprevedibile quando viene utilizzato un comportamento non deterministico. Ciò che accade nel gioco non può nemmeno essere previsto dallo sviluppatore del gioco. Questo crea un'esperienza sempre nuova e aumenta la durata del gioco poiché il gioco non diventa prevedibile e noioso dopo averlo giocato alcune volte.
+
+### 2. Risparmio di tempo e costi
+
+Normalmente, lo sviluppo di un gioco richiede molto tempo e denaro da investire in esso. E non sei nemmeno sicuro di quanto bene il mercato accetterà il gioco. L'intelligenza artificiale può aiutare a ridurre drasticamente il tempo necessario per creare un gioco e risparmiare molte risorse che verrebbero spese per lo sviluppo del gioco.
 
 
 ## Che tipi di AI ci sono nei giochi?

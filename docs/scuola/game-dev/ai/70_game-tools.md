@@ -1,10 +1,17 @@
 ---
-title: Game AI services
+title: Game AI Tools
 date: 2021-03-04
-updated: 2023-01-10
+updated: 2023-01-17
 nav_order: 50
 ---
-# Game AI services
+# Game AI Tools
+
+## Developer tools
+Strumenti per il test, il play e la creazione.
+<https://modl.ai/>
+
+[articolo](https://www.gamedeveloper.com/programming/using-ai-bots-as-game-development-tools-not-replacements-with-modl-ai)
+
 
 - Notifications (local e le push)
 - Multiplayer

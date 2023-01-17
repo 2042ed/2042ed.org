@@ -28,6 +28,9 @@ Per la elaborazione di questo materiale ho studiato e giocato per molti anni con
 <https://www.youtube.com/watch?v=Sr2ga3BBMTc>
 - Cos'è il Machine Learning (Reti Neurali e A.I.) <https://www.youtube.com/watch?v=X_ZUyvAA9Qw>
 
+## People
+- Lilian Weng <https://lilianweng.github.io>
+
 ## YouTubers
 - [Two Minute Papers](https://www.youtube.com/user/keeroyz)
 - [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)

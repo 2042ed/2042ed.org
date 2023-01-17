@@ -145,11 +145,16 @@ La prima volta che un computer ha gareggiato contro un campione del mondo è sta
 
 ### 1996 - Scacchi: Deep Blue di IBM contro Garry Kasparov
 
+![](https://images.theconversation.com/files/168904/original/file-20170511-32620-1a7jlp8.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip)
+
 Nel 1996, quando Garry Kasparov affrontò [Deep Blue](https://en.wikipedia.org/wiki/Deep_Blue_(chess_computer)) dell'IBM in una serie di partite per il titolo di campione del mondo di scacchi, era ampiamente considerato come il più grande giocatore di scacchi di sempre. Anche se Kasparov ha vinto la serie con un punteggio di 4-2; ciò che è straordinario è che **il computer lo ha sconfitto due volte**. Kasparov osservava: "Potevo percepire un nuovo tipo di intelletto dall'altra parte del tavolo". Una versione modificata dell'AI chiamata "Deeper Blue" ha battuto Kasparov l'anno successivo.
 
 ### 2016 - Go: AlphaGO di DeepMind contro i primi cinque giocatori del mondo
 
-Go è un gioco inventato migliaia di anni fa in Cina e si è evoluto in uno dei giochi più complessi e sofisticati al mondo. La comunità di Go è stata devastata quando l'AlphaGo di DeepMind ha sconfitto Lee Sedol in quattro partite su cinque. Sconfiggendo i prossimi quattro migliori giocatori sulla Terra, AlphaGo ha dimostrato a tutti che l'AI è superiore agli umani nel gioco.
+Go è un gioco inventato migliaia di anni fa in Cina e si è evoluto in uno dei giochi più complessi e sofisticati al mondo. La comunità di Go è stata devastata quando l'AlphaGo di DeepMind ha sconfitto **Lee Sedol** in quattro partite su cinque. Sconfiggendo i prossimi quattro migliori giocatori sulla Terra, AlphaGo ha dimostrato a tutti che l'AI è superiore agli umani nel gioco.
+
+Tecnologia: Neural Networks al posto di algoritmi probabilistici.
+
 
 [approfondimenti](https://www.deepmind.com/research/highlighted-research/alphago/the-challenge-match)
 [documentario AlphaGO](https://www.youtube.com/watch?v=WXuK6gekU1Y)
