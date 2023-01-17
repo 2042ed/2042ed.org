@@ -1,10 +1,10 @@
 ---
 title: HackerKid
+date: 2020-05-01
 summary: "il percorso formativo tecnico informatico sociale integrale"
 categories: course
 tags: [Workshop, Robot]
-date: 2020-05-01
-updated: 2022-03-22
+updated: 2023-01-15
 ---
 # HackerKid
 
@@ -39,3 +39,11 @@ Si può chiedere aiuto a chiunque.
 ## Collaborare
 Nonostante abbiamo diversi idee a futuro su questi temi, abbiamo deciso di rendere questo un progetto aperto, opensource e accessibile a tutti.
 Se quindi vuoi partecipare e contribuire con idee di nuove missioni o correggere o integrare le attuali, benvenuti!
+
+
+
+---
+
+## Risorse
+
+<https://www.edutecnica.it/>
