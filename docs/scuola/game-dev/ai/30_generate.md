@@ -175,11 +175,13 @@ Assioma: F+F+F+F
 Ci sono poi molte elaborazioni e utilizzi di questi sistemi per generare labirinti, stanze, rocce, etc...
 
 Provate a giocare un po con questi Sistemi-L online:
-- <http://www.kevs3d.co.uk/dev/lsystems/>
-- <http://www.malsys.cz/Process>
+- vedere molti esempi animati: <https://elc.github.io/posts/plotting-fractals-step-by-step-with-python/>
+- creare online <http://www.kevs3d.co.uk/dev/lsystems/>
 - <https://onlinemathtools.com/l-system-generator>
 - L-SYSTEMS GENERATOR** is a 2D/3D modeling tool <http://www.digitalpoiesis.org>
+
 vedi [laboratorio L-Systems](lab/lab_L-Systems.md)
+- <http://www.malsys.cz/Process>
 
 Esempi:
 - [generazione di un dungeon](https://www.gamedeveloper.com/design/kastle-dungeon-generation-using-l-systems)
@@ -256,14 +258,50 @@ video <https://www.youtube.com/watch?v=p5U4NgVGAwg>
 
 ---
 
-## More Resources
+## Utilizzo delle AI
+
+**There's an AI for That**  
+Sito in continuo aggiornamento di servizi che usano le A.I.
+<https://theresanaiforthat.com/>
+
+### Generare Immagini
+
+**DALL·E**  
+Creating Images from Text
+<https://openai.com/blog/dall-e/>
+
+<https://thenextweb.com/neural/2021/01/13/googles-new-trillion-parameter-ai-language-model-is-almost-6-times-bigger-than-gpt-3/>
+
+video: <https://www.youtube.com/watch?v=C7D5EzkhT6A>
+
+**Midjourney**  
+<https://www.midjourney.com>
+
+**Stable Diffusion**
+<https://stability.ai>
+
+e il suo DreamStudio
+<https://beta.dreamstudio.ai/>
+
+**Muse**  
+Gen 2023
+<https://muse-model.github.io/>
+
+### Generare Testo
+GPT3  
+OpenAI’s new GPT-3 language explained in under 3 minutes
+<https://thenextweb.com/neural/2020/07/23/openais-new-gpt-3-language-explained-in-under-3-minutes-syndication/>
+
+### Generare Labirinti
+- <http://www.mazegenerator.net/>
+
+---
+
+## Approfondimenti
 **Videos:**
 - Invisible cities <https://www.youtube.com/watch?v=c3ewUbFqIuo>
 - Electric Sheep <https://www.youtube.com/watch?v=Va1KBtI81TY>
-
-**Course:**
-- Procedural Content Generation <https://canvas.ucsc.edu/courses/7638>
 - Unity Art Engine <https://unity.com/products/unity-artengine>
 
-**Esempi:**
-- <http://www.mazegenerator.net/>
+**Corsi:**
+- Procedural Content Generation <https://canvas.ucsc.edu/courses/7638>

@@ -6,7 +6,6 @@ updated: 2023-01-10
 
 # Case Studies
 
-
 ## Classics
 
 ### Pong
@@ -77,9 +76,11 @@ Open world? Try open universe
 
 ![](https://505games.com/wp-content/uploads/2021/02/NMS_752x430.jpg)
 
-Uno degli obiettivi primari del gioco, oltre a rimanere in vita, costruire oggetti e acquisire beni, è esplorare tutti gli oltre 18 quintilioni di pianeti generati casualmente che desideri.
+Uno degli obiettivi di No Man's Sky, oltre a rimanere in vita, costruire oggetti e acquisire beni, è esplorare gli oltre 18 quintilioni di pianeti generati proceduralmente.
 
-Quasi tutti i contenuti nell'universo di No Man's Sky sono generati proceduralmente. Le uniche cose che non sono generate sono i nomi delle prime cinque galassie. Questi sono alcuni, ma non tutti, degli oggetti generati proceduralmente nel gioco:
+Le uniche cose che non sono generate sono i nomi delle prime cinque galassie!
+
+Questi sono alcuni, ma non tutti, degli oggetti generati proceduralmente nel gioco:
 
 - Tutte le galassie
 - Nomi di galassie 6+
@@ -92,18 +93,11 @@ Quasi tutti i contenuti nell'universo di No Man's Sky sono generati proceduralme
 - Commerci ai terminali commerciali
 - Strutture e luoghi di missione
 
-L'astronave iniziale del giocatore in Beyond, Radiant Pillar BC1, è in realtà generata proceduralmente. È sempre lo stesso perché viene generato immediatamente all'inizio di un mondo e l'IGS (In-Game Seed) è sempre lo stesso.
+Anche l'astronave iniziale del giocatore, la Radiant Pillar BC1, è in realtà generata proceduralmente usando sempre con lo stesso IGS (In-Game Seed).
 
 - [sito](https://www.nomanssky.com)
 - <https://www.youtube.com/watch?v=AFISmcAigfY>
 - <https://nomanssky.fandom.com/wiki/Procedural_generation>
-
-Nvidia video generate street
-
-<https://www.gamedeveloper.com/design/7-examples-of-game-ai-that-every-developer-should-study>  
-
-
-<https://www.gameskinny.com/8zkeq/9-games-with-the-best-artificial-intelligence>
 
 ### F.E.A.R.
 
@@ -263,3 +257,8 @@ Le tecniche di base di Go lo rendono un campo di gioco alla pari sia per l'AI ch
 AlphaGo Zero utilizza algoritmi avanzati dell'albero di ricerca per prevedere le azioni. In particolare, utilizza approcci di "albero di ricerca avanzato". Detto semplicemente, utilizza una rete per scegliere le mosse successive e un'altra per prevedere il vincitore del gioco. Dopo ogni partita, i tuoi avversari AI miglioreranno grazie all'auto apprendimento. Inoltre, non si stanca di giocare, che è il suo vantaggio rispetto agli umani. L'intelligenza artificiale di AlphaGo ha già battuto i maestri di Go del mondo. 
 
 <iframe loading="lazy" title="AlphaGo Zero: Starting from scratch" src="https://www.youtube.com/embed/tXlM99xPQC8?feature=oembed" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="500" height="281" frameborder="0"></iframe>
+
+## Approfondimenti
+- [7 examples of game AI that every developer should study](https://www.gamedeveloper.com/design/7-examples-of-game-ai-that-every-developer-should-study)
+- [9 Games with the Best Artificial Intelligence](https://www.gameskinny.com/8zkeq/9-games-with-the-best-artificial-intelligence)
+

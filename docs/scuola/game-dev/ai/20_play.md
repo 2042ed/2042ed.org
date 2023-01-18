@@ -30,8 +30,6 @@ Una IA nemica ben implementata è caratterizzata dalla credibilità del moviment
 ### AI amica / compagna
 I compagni AI forniscono volti amichevoli in un ambiente ostile. Aiutano nella navigazione, nella risoluzione di enigmi e nel combattimento. Alleviano la solitudine.
 
-
-
 Vantaggi:
 - Non pre-programmati
 - Meno prevedibili
