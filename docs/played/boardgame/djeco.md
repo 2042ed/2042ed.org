@@ -35,7 +35,7 @@ played_url_details:
 played_url_play: 
 ---
 
-![](img/djeco.webp){width=49%}
+![](img/djeco.webp){: style="height:300px"}
 
 Sono tantissimi i giochi della Djeco. Noi ne abbiamo un po': scatole piccole e semplici con regole perfette per bambini dai 4 anni. Qualunque prendiate è un diertimento valido.
 
