@@ -5,14 +5,19 @@ updated: 2023-01-10
 ---
 # Machine Learning
 
-![](../../../assets/img/gamedev/ai-symbolism-vs-connectivism.webp)
+> How to construct computer programs that automatically improve with experience. (Tom Mitchell)
 
-> The field of Machine Learning is concerned with the question of how to construct computer programs that automatically improve with experience. (Tom Mitchell)
+> Addestrare le macchine a trovare la soluzione migliore ad un problema imparando dai dati e dai propri errori.
 
-> Machine Learning: training machines to receive input data and predict an output value
+**Come si insegna ad una macchina a riconoscere un gatto?**  
+<https://www.youtube.com/watch?v=LrGdHmHkfUk>  
+<iframe loading="lazy" title="Come si insegna ad una macchina a riconoscere un gatto?" src="https://www.youtube.com/embed/LrGdHmHkfUk?feature=oembed" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="500" height="281" frameborder="0"></iframe>
+
+---
 
 ## Introduzione
 Iniziamo con una semplice ma completa introduzione al 
+
 - Machine Learning (ML)
 - apprendimento supervisionato (Supervised Learning)
 - apprendimento non supervisionato (Unsupervised Learning)
@@ -21,44 +26,25 @@ Iniziamo con una semplice ma completa introduzione al
 
 Sono concetti che ci porteremo avanti per anni ed è bene conoscerne l'ABC.  
 
+![](../../../assets/img/gamedev/ai-symbolism-vs-connectivism.webp)
+
 ### Slides
 
-![Dati di una banana matura, con il suo grado di giallo e la sua morbidezza](https://www.alessiopomaro.it/content/images/2022/12/addestramento-modello-machine-learning-fase-1-2.webp)
+![Dati di una banana matura, con il suo grado di giallo e la sua morbidezza](https://www.alessiopomaro.it/content/images/2022/12/addestramento-modello-machine-learning-fase-1-2.webp){: style="height:200px"}
+![Dati della seconda banana matura, con il suo grado di giallo e la sua morbidezza](https://www.alessiopomaro.it/content/images/2022/12/addestramento-modello-machine-learning-fase-2.webp){: style="height:200px"}
+![Dati delle prime tre banane mature per la fase di training del modello di Machine Learning](https://www.alessiopomaro.it/content/images/2022/12/addestramento-modello-machine-learning-fase-3.webp){: style="height:200px"}
+![Nel diagramma delle misurazioni indichiamo la prima banana acerba (pallino verde)](https://www.alessiopomaro.it/content/images/2022/12/addestramento-modello-machine-learning-fase-4.webp){: style="height:200px"}
+![Il diagramma delle misurazioni con valori di banane mature e acerbe](https://www.alessiopomaro.it/content/images/2022/12/addestramento-modello-machine-learning-fase-5.webp){: style="height:200px"}
+![Il diagramma completo delle misurazioni di addestramento del modello di Machine Learning](https://www.alessiopomaro.it/content/images/2022/12/addestramento-modello-machine-learning-fase-6.webp){: style="height:200px"}
+![Il confine decisionale derivante dai dati di addestramento del modello di Machine Learning](https://www.alessiopomaro.it/content/images/2022/12/addestramento-modello-machine-learning-fase-linea-decisionale.webp){: style="height:200px"}
+![Le previsioni del modello di Machine Learning addestrato](https://www.alessiopomaro.it/content/images/2022/12/previsioni-modello-machine-learning-addestrato.webp){: style="height:200px"}
+![Un diagramma delle misurazioni con dei dati più verosimili](https://www.alessiopomaro.it/content/images/2022/12/diagramma-misurazioni-dati-reali.webp){: style="height:200px"}
+![Un modello di Machine Learning più verosimile: il confine decisionale non è più una retta](https://www.alessiopomaro.it/content/images/2022/12/modello-di-machine-learning.webp){: style="height:200px"}
+![Machine Learning: il fenomeno dell'overfitting](https://www.alessiopomaro.it/content/images/2022/12/machine-learning-overfitting.webp){: style="height:200px"}
+![I dati di training per il modello che dovrà stimare il prezzo delle case](https://www.alessiopomaro.it/content/images/2022/12/machine-learning-dati-training-prezzo-immobile-1.webp){: style="height:200px"}
+![Due modelli di Machine Learning che prendono vita dai dati di addestramento](https://www.alessiopomaro.it/content/images/2022/12/machine-learning-dati-training-prezzo-immobile-modello.webp){: style="height:200px"}
 
-![Dati della seconda banana matura, con il suo grado di giallo e la sua morbidezza](https://www.alessiopomaro.it/content/images/2022/12/addestramento-modello-machine-learning-fase-2.webp)
-
-![Dati delle prime tre banane mature per la fase di training del modello di Machine Learning](https://www.alessiopomaro.it/content/images/2022/12/addestramento-modello-machine-learning-fase-3.webp)
-
-
-![Nel diagramma delle misurazioni indichiamo la prima banana acerba (pallino verde)](https://www.alessiopomaro.it/content/images/2022/12/addestramento-modello-machine-learning-fase-4.webp)
-
-
-![Il diagramma delle misurazioni con valori di banane mature e acerbe](https://www.alessiopomaro.it/content/images/2022/12/addestramento-modello-machine-learning-fase-5.webp)
-
-
-![Il diagramma completo delle misurazioni di addestramento del modello di Machine Learning](https://www.alessiopomaro.it/content/images/2022/12/addestramento-modello-machine-learning-fase-6.webp)
-
-
-![Il confine decisionale derivante dai dati di addestramento del modello di Machine Learning](https://www.alessiopomaro.it/content/images/2022/12/addestramento-modello-machine-learning-fase-linea-decisionale.webp)
-
-
-![Le previsioni del modello di Machine Learning addestrato](https://www.alessiopomaro.it/content/images/2022/12/previsioni-modello-machine-learning-addestrato.webp)
-
-![Un diagramma delle misurazioni con dei dati più verosimili](https://www.alessiopomaro.it/content/images/2022/12/diagramma-misurazioni-dati-reali.webp)
-
-
-![Un modello di Machine Learning più verosimile: il confine decisionale non è più una retta](https://www.alessiopomaro.it/content/images/2022/12/modello-di-machine-learning.webp)
-
-
-![Machine Learning: il fenomeno dell'overfitting](https://www.alessiopomaro.it/content/images/2022/12/machine-learning-overfitting.webp)
-
-
-![I dati di training per il modello che dovrà stimare il prezzo delle case](https://www.alessiopomaro.it/content/images/2022/12/machine-learning-dati-training-prezzo-immobile-1.webp)
-
-
-![Due modelli di Machine Learning che prendono vita dai dati di addestramento](https://www.alessiopomaro.it/content/images/2022/12/machine-learning-dati-training-prezzo-immobile-modello.webp)
-
-![Le fasi di apprendimento del modello di Machine Learning](https://www.alessiopomaro.it/content/images/2022/12/machine-learning-come-viene-creato-il-modello.webp)
+![Le fasi di apprendimento del modello di Machine Learning](https://www.alessiopomaro.it/content/images/2022/12/machine-learning-come-viene-creato-il-modello.webp){: style="height:200px"}
 
 ### Machine Learning è divertente
 Questi 8 post di "Machine Learning è divertente" sono un ottimo inizio:
@@ -135,6 +121,3 @@ Snake
 
 Number recognizion  
 <https://www.youtube.com/watch?v=aircAruvnKk>
-
-
-

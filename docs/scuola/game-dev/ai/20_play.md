@@ -82,21 +82,25 @@ si modifica la funzione di valutazione mutando alcuni parametri.
 
 ## Approfondimenti pratici
 
+[DeepMind Made A Superhuman AI For 57 Atari Games!](https://www.youtube.com/watch?v=dJ4rWhpAGFI)
+
 MarI/O – Machine Learning in Video Games  
-<https://youtu.be/qv6UVOQ0F44>
+- <https://youtu.be/qv6UVOQ0F44>
 
 Designing safer cities through simulations  
-<https://blogs.unity3d.com/2018/01/23/designing-safer-cities-thr>
 
-<https://blogs.unity3d.com/2020/12/11/automate-your-playtesting-create-virtual-players-for-game-simulation/>
+- <https://blogs.unity3d.com/2018/01/23/designing-safer-cities-thr>
+- <https://blogs.unity3d.com/2020/12/11/automate-your-playtesting-create-virtual-players-for-game-simulation/>
 
 Unity Machine Learning - Reinforcement Learning Demo  
-<https://www.youtube.com/watch?v=fiQsmdwEGT8>
+- <https://www.youtube.com/watch?v=fiQsmdwEGT8>
 
-Multi-Agent Hide and Seek  
-<https://youtu.be/kopoLzvh5jY>
-<https://www.youtube.com/watch?v=Lu56xVlZ40M>
+Multi-Agent Hide and Seek
+- [OpenAI Multi-Agent Hide and Seek](https://youtu.be/kopoLzvh5jY)
+- [OpenAI Plays Hide and Seek…and Breaks The Game! 🤖](https://www.youtube.com/watch?v=Lu56xVlZ40M>)
+- [DeepMind’s AI Plays Catch…And So Much More! 🤖](https://www.youtube.com/watch?v=uuzow7TEQ1s)
+
 
 AI Learns to Park - Deep Reinforcement Learning  
-<https://www.youtube.com/watch?v=VMp6pq6_QjI>
+- <https://www.youtube.com/watch?v=VMp6pq6_QjI>
 

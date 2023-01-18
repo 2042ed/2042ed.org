@@ -14,10 +14,18 @@ Pagina Progetto ML-Agents
 Ml-Agents examples scenes  
 <https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md>
 
+## Esercizio
+
+Progetto: <https://github.com/StefanoCecere/GameLab_AI_Unity/>
+
+e verificare di aver installato il pacchetto Python + ml-agents
+
+<https://github.com/Unity-Technologies/ml-agents/blob/release_17_branch/docs/Learning-Environment-Create-New.md>
+
 ## Approfondimenti
 
 varie aggiornamenti:
-https://blogs.unity3d.com/2020/12/28/happy-holidays-from-the-unity-ml-agents-team/
+<https://blogs.unity3d.com/2020/12/28/happy-holidays-from-the-unity-ml-agents-team/>
 
 winners of ML-challenge:
 <https://blogs.unity3d.com/2018/02/28/introducing-the-winners-of-the-first-ml-agents-challenge/>
@@ -32,13 +40,6 @@ The future of ml-agents
 
 - Designing safer cities through simulations: <https://blogs.unity3d.com/2018/01/23/designing-safer-cities-thr>
 
-## Progetti vari
-<https://learn.unity.com/course/ml-agents-hummingbirds>
-<https://github.com/Unity-Technologies/obstacle-tower-env>
-<https://github.com/simoninithomas/the_mayan_adventure>
-
-## Esercizio
-
-Progetto  https://github.com/StefanoCecere/GameLab_AI_Unity/
-e verificare di aver installato il pacchetto Python + ml-agents
-<https://github.com/Unity-Technologies/ml-agents/blob/release_17_branch/docs/Learning-Environment-Create-New.md>
+- <https://learn.unity.com/course/ml-agents-hummingbirds>
+- <https://github.com/Unity-Technologies/obstacle-tower-env>
+- <https://github.com/simoninithomas/the_mayan_adventure>
