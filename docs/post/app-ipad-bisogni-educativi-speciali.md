@@ -7,7 +7,7 @@ title: Ruota delle App iPad per bisogni educativi speciali
 
 In questa "ruota" sono raggruppate una selezione di app particolarmente adatte a gestire bisogni educativi speciali.
 
-[Scarica il poster in formato PDF](https://www.callscotland.org.uk/downloads/posters-and-leaflets/ipad-apps-for-learners-with-complex-additional-support-needs/)
+[Scarica il poster in formato PDF](https://www.callscotland.org.uk/downloads/posters-and-leaflets/ipad-apps-for-learners-with-complex-additional-support-needs/?CXsFTO0qvBHlyD3kVmSc)
 
 ## Cognition
 
