@@ -34,14 +34,14 @@ Senza il controllo della versione, i membri del team sono soggetti a attività r
 ## Git
 
 *Perché Git?*
-Secondo l'ultimo sondaggio tra gli sviluppatori di [Stack Overflow](https://insights.stackoverflow.com/survey/2017#technology), oltre il 70% degli sviluppatori utilizza Git, rendendolo il VCS più utilizzato al mondo. Git è comunemente utilizzato sia per lo sviluppo di software open source che commerciale, con **vantaggi significativi **per individui, team e aziende.
+Secondo l'ultimo sondaggio tra gli sviluppatori di [Stack Overflow](https://insights.stackoverflow.com/survey/2017#technology), oltre il 70% degli sviluppatori utilizza Git, rendendolo il VCS più utilizzato al mondo. Git è comunemente utilizzato sia per lo sviluppo di software open source che commerciale, con **vantaggi significativi** per individui, team e aziende.
 
 - Git consente agli sviluppatori di vedere l'intera sequenza temporale delle modifiche, delle decisioni e dei progressi di qualsiasi progetto in un unico posto. Dal momento in cui accede alla cronologia di un progetto, lo sviluppatore ha tutto il contesto di cui ha bisogno per comprenderlo e iniziare a contribuire.
 
 - Gli sviluppatori lavorano in ogni fuso orario. Con un DVCS come Git, la collaborazione può avvenire in qualsiasi momento mantenendo l'integrità del codice sorgente. Utilizzando branch, gli sviluppatori possono proporre in sicurezza modifiche al codice di produzione.
 
 - Le aziende che utilizzano Git possono abbattere le barriere di comunicazione tra i team e mantenerli concentrati sul lavoro migliore. Inoltre, Git consente di allineare esperti in un'azienda per collaborare a progetti importanti.
-    
+
 ## Cos'è un repository?
 
 Un *repository* , o progetto Git , comprende l'intera raccolta di file e cartelle associati a un progetto, insieme alla cronologia delle revisioni di ogni file. La cronologia dei file appare come istantanee nel tempo chiamate commit e le commit esistono come una relazione di elenco collegato e possono essere organizzate in più linee di sviluppo chiamate branch . Poiché Git è un DVCS, i repository sono unità autonome e chiunque possieda una copia del repository può accedere all'intero codebase e alla sua cronologia. Utilizzando la riga di comando o altre interfacce di facile utilizzo, un repository git consente anche:
@@ -89,16 +89,18 @@ Per utilizzare Git, gli sviluppatori utilizzano comandi specifici per copiare, c
 Hg, Perforce, SVN sono solo alcuni, ma Git sta diventando lo standard
 
 ## Git Clients
-- **Fork** <https://fork.dev>
-  win/mac, gratuito con licenza opzionale, veloce, completo, bello
+
 - **GitHub Desktop** <https://desktop.github.com>
   prodotto da GitHub, molto semplice con funzioni base. win/mac, gratuito. la prima scelta per i i principianti o per chi usa pochissimo Git
+- **Fork** <https://fork.dev>
+  win/mac, gratuito con licenza opzionale, veloce, completo, bello
 - **Source Tree** <https://www.sourcetreeapp.com>
   win/mac, gratuito (necessita solo di account Atlassian), molto completo, un po' lento per progetti grossi e UI non perfetta
 - **GitKraken** <https://www.gitkraken.com/>
   non gratuito per i repo privati, win/mac, completo, si integra con altri prodotti della Axosoft  
 
 ## Temi
+
 - .gitignore
 - files binari e LFS
 - stash
@@ -107,8 +109,9 @@ Hg, Perforce, SVN sono solo alcuni, ma Git sta diventando lo standard
 - filenames: line feed -> .editorconfig
 - dati sensibili
 
-
 ## Per approfondire
+
 - Git Pro book: <https://git-scm.com/book/en/v2>
 - Laboratori: <https://lab.github.com/courses>
 - <https://www.git-tower.com/learn/git/ebook/en/desktop-gui/introduction>
+- Gioco Online su Git: <https://learngitbranching.js.org/?locale=it_IT>

@@ -12,16 +12,7 @@ shuffleQuestions: false
 shuffleAnswers: true
 ---
 
-## Chi ha creato Git!
-Se ci fossero altre cose tipo un **bold**
-
-![](/assets/img/labs/giocare-in-biblioteca-libri-giochi.webp)
-
-1. [ ] Hi
-2. [ ] Ok
-3. [x] Linus Tor
-
-## What is Git?
+## Cosa è Git?
 
 1. [ ] A nickname for GitHub.
 1. [ ] A remote repository platform.

@@ -22,6 +22,7 @@ anche la propria **foto**/icona/avatar sarebbe meglio fosse unica.
 ok italiano come lingua principale SE si aggiunge una buona traduzione in inglese di tutto. eventualmente solo in inglese.
 
 ## CV e Portfolio
+
 - è importante che ognuno abbia una minima presenza sul web con pubblicato quello che fa, sa fare, cosa gli interessa.
 - almeno una **url statica** di accesso
 - GitHub offre la possibilità di avere un proprio sito pubblico e gratuito all'indirizzo username.github.io (eventualmente con un proprio dominio comprato a parte), e ciò sarebbe la prima cosa che oggi i vari recruiters vanno a vedere, più delle pagine LinkedIn o altro, perché i progetti/prototipi/studi pubblicati, e COME sono stati realizzati, fanno capire le reali potenzialità e peculiarità di ognuno.
@@ -37,4 +38,5 @@ per creare il proprio profilo serve una buona autoanalisi psicologica, per sinte
 esse sono importanti nel momento in cui si deve lavorare in gruppo: meglio ci si conosce e si conoscono gli altri, meglio è.
 
 ## Resources
+
 - corso GitHub pages: <https://lab.github.com/githubtraining/github-pages>

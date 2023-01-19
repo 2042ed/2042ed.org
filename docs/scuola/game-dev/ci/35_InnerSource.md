@@ -17,6 +17,7 @@ l'InnerSource usa le skills degli sviluppatori abituati all'OpenSource e le port
 - Inner-sourcing è un mind-shift mentale
 
 ## Perché InnerSource
+
 - la tecnologia rimane proprietaria
 - sviluppo più efficiente
   - riuso del codice: comprensione del codice e dell'architettura dei moduli sviluppati da altri
@@ -27,11 +28,12 @@ l'InnerSource usa le skills degli sviluppatori abituati all'OpenSource e le port
   - migliora i contributi dei talenti
   - Colalborazione cross-teams
   - tiduce la concentrazione della Conoscenza
- - sviluppo più veloce, con Unit Tests e Continuous Integration
+  - sviluppo più veloce, con Unit Tests e Continuous Integration
 - mix tra repo privati e pubblici
 
 ---
 ## Resources
+
 - <https://innersourcecommons.org>
 - <https://github.com/InnerSourceCommons>
 - [How to create an internal InnerSource community](https://opensource.com/life/16/11/create-internal-innersource-community)

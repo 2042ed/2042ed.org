@@ -14,7 +14,7 @@ draft: false
 - Progetti Self Contained: dal repo Git vorrei avere tutto il minimo per riprodurlo, modificarlo, comunicarlo
 - Ultima versione di _ogni_ risorsa da preservare.
 - Archiviazione (anche 1000 anni) leggibile.
- 
+
 The GitHub Archive Program:
 <https://archiveprogram.github.com/>
 
@@ -23,7 +23,7 @@ il primo grande progetto di registrazione della memoria collettiva
 
 ## Second Brains software e metolodogie
 vedi <https://obsidian.md>
-atomi di markdown, 
+atomi di markdown
 
 ## Strategie di preservazione
 se non è possibile usare un formato open, in aggiunta ad uno proprietario, effettuare degli screenshot completo per eventualmente valutare la bontà di conversioni o versioni future.

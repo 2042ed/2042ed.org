@@ -9,11 +9,13 @@ toc: true
 ![logo_opensource](img/logo_opensource.webp)
 
 ## Si può forse brevettare il sole?
--  "A chi appartiene il brevetto?"
+
+- "A chi appartiene il brevetto?"
 - "Direi alla gente. Non esiste un brevetto. Si può forse brevettare il sole?"
 *risposta di Salk al brevetto sul vaccino antipolio, 1952*
 
 e così tutt'ora molto del nostro mondo è costruito su tecnologie e convenzioni aperte patrimonio dell'umanità:
+
 - Internet (TCP/IP e protocolli) + Apache
 - Firefox -> Chromium
 - LibreOffice / OpenOffice
@@ -30,6 +32,7 @@ Il termine "Open Source" si riferisce a prodotti progettati per essere pubblici 
 I progetti OpenSource richiedono una collaborazione aperta, una buona comunicazione pubblica e un'adeguata qualità generale.
 
 Collaborare pubblicamente su un progetto implica:
+
 - più occhi e più mani
 - accessibilità
 - diffusione
@@ -41,6 +44,7 @@ Inoltre si possono usare progetti preesistenti per non dover reinventare tutto, 
 in un progetto Open si dà molto, è forse un po' più faticoso, ma si riceve ancora di più
 
 ## Pros
+
 - gratuito. raramente ci sono licenze
 - facile da installare e maneggiare
 - sviluppo in tempo reale
@@ -53,6 +57,7 @@ in un progetto Open si dà molto, è forse un po' più faticoso, ma si riceve an
 - grande scelta
 
 ## Cons
+
 - non sempre user-friendly
 - mancanza di supporto garantito
 - necessita studio
@@ -63,6 +68,7 @@ in un progetto Open si dà molto, è forse un po' più faticoso, ma si riceve an
 - segmentazioni delle comunità
 
 ## Considerazioni sull'Open Source
+
 - una filosofia, più che una pratica
 - storia: anni 90, Linux il primo grandissimo progetto OpenSource (il cui creatore inventò Git per migliorare lo sviluppo collaborativo), big companies oggi lo adottano (Facebook, Google, Microsoft, Oracle), ROI (Return Of Investment)
 - intelligenza collettiva: in tanti possono partecipare e mettere il meglio di se in modalità open e meritocratica
@@ -73,6 +79,7 @@ in un progetto Open si dà molto, è forse un po' più faticoso, ma si riceve an
 - Game Jams sono i migliori eventi dove il prodotto deve essere rilasciato OpenSource. più del prodotto in sé è interessante il come è stato fatto, con chi e le referenze a futuro (portfolio)
 
 ## Resources
+
 - <https://opensource.org/osd>
 - Contributing to Open Source for the first time
 <https://www.youtube.com/watch?v=c6b6B9oN4Vg>

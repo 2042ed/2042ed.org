@@ -20,6 +20,7 @@ regole di partecipazione e comunicazione
 <https://keepachangelog.com>
 
 ### Linee guida
+
 - I changelog sono _per le persone_, non per le macchine.
 - Dovrebbe esserci una voce per ogni singola versione.
 - Le modifiche dello stesso tipo dovrebbero essere raggruppate.

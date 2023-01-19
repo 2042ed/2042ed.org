@@ -10,6 +10,7 @@ draft: false
 # Formati e Interscambio
 
 ## Interoperability e Future Proof
+
 - formati aperti e formati chiusi
 - chi può aprire quel file? potai farlo a futuro?
 - salvataggi su cloud proprietari
@@ -21,12 +22,15 @@ Il sito <https://choosealicense.com/> spiega bene le differenti licenze.
 Fondamentalmente ci sono tre categorie:
 
 ### 1. closed - all rights reserved
+
 - copyright / closed source
 
 ### 2. share-alike - condivido ma non specularci
+
 - Creative Commons 
 
 ### 3. open - do whatever u want
+
 - GPL/MIT per codice
 - unlicensed
 
@@ -41,6 +45,7 @@ GitHub ha determinato massicciamente l'adozione dello standard MarkDown per la d
 ---
 
 **links**  
+
 - dal creatore di Markdown: <https://daringfireball.net/projects/markdown/syntax>
 - Jekyll è il rendering engine delle GitHub pages: <https://jekyllrb.com>
 - corso markdown: <https://lab.github.com/githubtraining/communicating-using-markdown>

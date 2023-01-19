@@ -60,9 +60,6 @@ This links to the [Introduction](10_Introduzione.md)
 
 We can highlight a `single keyword` or code blocks:
 
-
-
-
 ```
 10 PRINT "generic code block"
 20 GOTO 10
@@ -87,14 +84,7 @@ Parola da definire
 Una seconda parola
 :  qui definiamo un'altro termine
 
-## Lists
-1. elenco 1
-2. elenco 2
-
-
-
-
-
+## List
 
 1. First ordered list item
 2. Another item
@@ -103,21 +93,16 @@ Una seconda parola
    - Unordered sub-list.
    - Unordered sub-list.
    - Unordered sub-list.
-1. Actual numbers don't matter, just that it's a number
-   1. Ordered sub-list
-   1. Ordered sub-list
-   1. Ordered sub-list
-4. the last item.
-
-   You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
+5. Actual numbers don't matter, just that it's a number
+     1. Ordered sub-list
+     2. Ordered sub-list
+     3. Ordered sub-list
+6. the last item.
+  You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
 
 To have a line break without a paragraph, you will need to use two trailing spaces.  
 Note that this line is separate, but within the same paragraph.  
 (This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
-
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses
 
 ## Images
 
@@ -188,7 +173,6 @@ Footnotes are best placed right after the paragraph first used.[^footnote]
 [^footnote]: But you can also put them at the end of the document.
 
 If you want to use endnotes instead turn them on in document options.
-
 
 ## Comments
 

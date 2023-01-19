@@ -9,6 +9,7 @@ toc: true
 # I.C. nei progetti digitali
 
 ## Teamwork
+
 - l'arte e la cultura della collaborazione va studiata e messa in pratica. non nasciamo guru
 - il progetto riesce bene se lavorano _tutti_ bene, senza Divinità o disoccupati.
 - accogliere nuovi arrivati nel progetto
@@ -19,10 +20,12 @@ toc: true
 - C.I.: Continuous Integration: che il repository, la documentazione, le issues/milestones, le build, le notifiche e il tool di comunicazione siano integrate al massimo e accessibili a tutti i partecipanti al progetto
 
 ## riusabilità
+
 - DO NOT REINVENT THE WHEEL: imparare le best practices ottenute da milioni di sviluppatori precedenti
 - non si butta via niente, il concetto di reusabilità di moduli e librerie
 
 ## personal knowledge
+
 - iniziare a creare il proprio curriculum
   - get a job
   - serve una presenza digitale di quello che si fa, non di quello che si dice di fare
@@ -32,6 +35,7 @@ toc: true
   - opportunità di trovare le proprie passioni e i propri spazi
 
 ## preservazione
+
 - Future Proof
 - i progetti o gli assets deperiscono in fretta
 - essere pronti e resistere al cambiamento
@@ -42,6 +46,7 @@ toc: true
 - come funziona... documentazione completa, aggiornata, concisa e interna al progetto stesso - chi ha fatto cosa e perché? changelog efficace
 
 ## Game designers
+
 - necessitano di condividere al meglio gli aggiornamenti della documentazione
 - testare sul progetto live nuove configurazioni o prototipi
 - dare feedbacks veloci ai dev
@@ -51,12 +56,14 @@ oltre a occuparsi del gioco in sé e del giocatore,
 potrebbero rendere l'esperienza stessa dello sviluppare divertente e coinvolgente: developer experience, communication, flow
 
 ## Game developers
+
 - il commit di codice è solo il 20% del lavoro
 - studio, architettura, interoperabilità, integrazione di librerie, test, debug, CI, feedback, comunicazione sono l'80%
 - spesso i programmatori hanno codici di comunicazioni ultra nerd, quindi serve migliorare comunicazione diretta e team work è indispensabile
 - accesso a KnowledgeBase
 
 ## Artists e Content Producers
+
 - formati accessibili
 - storico e nomenclatura
 - pre-test in scena

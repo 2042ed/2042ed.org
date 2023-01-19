@@ -65,14 +65,17 @@ una storia condivisa che dia l'energia per preoccuparsi del progetto comune, pri
 il rischio è che tutti facciano il meglio per sè, e il minimo per il progetto.
 
 ![](img/caos-media.webp)
+
 # diagramma stupidità
 
 ![](img/diagramma-di-cipolla-stupidita_featured.webp)
+
 # comportamento emergente
 
 si mettono regole e procedure  
 
 ![](img/radici.webp)
+
 # reti organizzate +  tecnologie sociali 
 
 ![](img/intelligenza_collettiva_3.webp)
@@ -80,6 +83,7 @@ si mettono regole e procedure
 # human centric
 
 ![](img/humanistic-player.webp)
+
 # formiche
 
 ![](img/ant_1.webp)
