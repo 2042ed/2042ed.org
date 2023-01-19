@@ -9,20 +9,22 @@ updated: 2023-01-10
 ## Classics
 
 ### Pong
+
 ![](../../../assets/img/played/videogame/pong-1972.jpg)
 
 1972
 [Gioca online](https://www.ponggame.org)
 
 AI:
-```
+
+```basic
 every frame/update while the game is running:
 
 if the ball is to the left of the paddle:
-	move the paddle left
+  move the paddle left
 
 else if the ball is to the right of the paddle:
-	move the paddle right
+  move the paddle right
 ```
 
 Come Decision Tree
@@ -259,6 +261,7 @@ AlphaGo Zero utilizza algoritmi avanzati dell'albero di ricerca per prevedere le
 <iframe loading="lazy" title="AlphaGo Zero: Starting from scratch" src="https://www.youtube.com/embed/tXlM99xPQC8?feature=oembed" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="500" height="281" frameborder="0"></iframe>
 
 ## Approfondimenti
+
 - [7 examples of game AI that every developer should study](https://www.gamedeveloper.com/design/7-examples-of-game-ai-that-every-developer-should-study)
 - [9 Games with the Best Artificial Intelligence](https://www.gameskinny.com/8zkeq/9-games-with-the-best-artificial-intelligence)
 

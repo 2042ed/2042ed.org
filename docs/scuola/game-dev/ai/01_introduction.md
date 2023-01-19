@@ -13,7 +13,8 @@ L'Intelligenza Artificiale (Artificial Intelligence, A.I.) tenta di replicare e 
 
 ![](../../talk/img/ai-brain.webp)
 
-Gli esseri umani hanno  
+Gli esseri umani hanno
+  
 - un apparato sensitivo composto da **cinque sensi** di base: visivo, uditivo, cinestetico (movimento), olfattivo e gustativo
 - un apparato di elaborazione dei segnali
 - un apparato per esprimere le azioni nel mondo
@@ -32,7 +33,7 @@ Nel voler ricreare un "Agente Intelligente" abbiamo dato vita a diverse aree di 
 - Ricordare le cose (Long, Short, Working Memory)
 - Pensare (Common sense reasoning and Decision Making)
 - Muoversi
-- 
+
 ### Come lavora il cervello?
 I nostri cervelli cercano patterns. sempre.  
 Siamo bravissimi a identificare i più piccoli indizi di ripetizione.  
@@ -104,7 +105,6 @@ Il gioco diventa imprevedibile quando viene utilizzato un comportamento non dete
 
 Normalmente, lo sviluppo di un gioco richiede molto tempo e denaro da investire in esso. E non sei nemmeno sicuro di quanto bene il mercato accetterà il gioco. L'intelligenza artificiale può aiutare a ridurre drasticamente il tempo necessario per creare un gioco e risparmiare molte risorse che verrebbero spese per lo sviluppo del gioco.
 
-
 ## Che tipi di AI ci sono nei giochi?
 
 > "Se sembra un pesce e nuota come un pesce, probabilmente è un pesce"
@@ -146,12 +146,12 @@ Il comportamento non deterministico ha un certo livello di incertezza. Ad esempi
 E' fondamentale conoscere:
 
 1. le caratteristiche del gioco
-  - numero di giocatori? (competitivo? collaborativo? entrambi?)
-  - spazio di azione e livelli di ramificazione
-  - casualità
-  - osservabilità
-  - granularità del tempo
+- numero di giocatori? (competitivo? collaborativo? entrambi?)
+- spazio di azione e livelli di ramificazione
+- casualità
+- osservabilità
+- granularità del tempo
 
-2. le caratteristiche degli algoritmi utilizzabili
+1. le caratteristiche degli algoritmi utilizzabili
 
 Da queste due considerazioni si può decidere quale metodo usare e per cosa.

@@ -6,7 +6,6 @@ updated: 2023-01-10
 # Machine Learning
 
 > How to construct computer programs that automatically improve with experience. (Tom Mitchell)
-
 > Addestrare le macchine a trovare la soluzione migliore ad un problema imparando dai dati e dai propri errori.
 
 **Come si insegna ad una macchina a riconoscere un gatto?**  
@@ -16,7 +15,7 @@ updated: 2023-01-10
 ---
 
 ## Introduzione
-Iniziamo con una semplice ma completa introduzione al 
+Iniziamo con una semplice ma completa introduzione al
 
 - Machine Learning (ML)
 - apprendimento supervisionato (Supervised Learning)
@@ -85,7 +84,7 @@ E il bello è che impara, e anche in modo sorprendente!
 
 ![](img/ai.reinforcedlearning.webp)
 
-#### Imitation Learning
+### Imitation Learning
 
 ![](../../talk/img/ml-imitation.webp)
 
@@ -99,16 +98,16 @@ Funziona. E molto bene. Osservandoci e imitandoci.
 
 ![](img/ai.neuralnetwork.webp)
 
-## Sintesi
+## Sintesi
 
 ![Machine Learning: le diverse tipologie di apprendimento](https://www.alessiopomaro.it/content/images/2023/01/machine-learning-tipologie-apprendimento.webp)
 
-
 ![](https://www.alessiopomaro.it/content/images/2023/01/AI-ML-DL-cosa-sono.webp)
 
-
 ## Approfondimenti
-### Video
+
+### Video
+
 Car training  
 <https://www.youtube.com/watch?v=Aut32pR5PQA>
 <https://www.youtube.com/watch?v=5lJuEW-5vr8>
