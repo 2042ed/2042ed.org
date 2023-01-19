@@ -52,6 +52,8 @@ Poiché Git è un DVCS, i repository sono unità autonome e chiunque possieda un
 
 Si _inizializza_ un repository con il comando `git init` o via Git Client "Crea Nuovo Repository" o clonando una repository esistente.
 
+![](../../../assets/img/gamedev/git-local-remote.webp)
+
 ### Remote / Origin
 Un repository può esistere solo in locale, oppure esistere online, in questo caso di chiama **_remote_** repository e il suo indirizzo principale è **_origin_**.
 
@@ -66,6 +68,8 @@ Oppure si può farne un `fork`, ovvero una "variante personale", che sarà sì i
 
 ### Commit
 E' la registrazione nello storico dello stage, ovvero delle modifiche ad uno o più file. Un commit registra anche codice univoco che lo identifica, la data, l'autore e una descrizione testuale della modifica.
+
+![](../../../assets/img/gamedev/git-flow.webp)
 
 ### Revert Commit
 Una modifica registrata può essere facilmente annullata facendone _revert_: in pratica inverte tutte le modifiche di un commit e ne crea uno nuovo.
@@ -134,6 +138,33 @@ Ricordate che una volta che un commit è pushato nel remote, andrà poi distribu
 
 ## Alternative a Git
 Hg, Perforce, SVN sono solo alcuni, ma Git sta diventando lo standard
+
+## Best Practices
+
+### Commit little, commit often
+
+### Keep commit messages clean
+
+### Avoid indiscriminate commits
+
+### Get the latest
+
+### Procedura
+
+```
+git pull
+
+Ripetere quanto volte si vuole:
+  - Modificare files
+  - commit in locale
+  - Pull ultime modifiche online
+
+Quando si è soddisfatti:
+git pull ancora una volta
+git push
+```
+
+--- 
 
 ## Per approfondire
 

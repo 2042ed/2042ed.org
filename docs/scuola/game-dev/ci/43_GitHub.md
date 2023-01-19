@@ -92,7 +92,7 @@ Possibilità di configurare una directory (di solito `\docs`) o un brach (`gh-pa
 ### Preservation
 [GitHub Archive Program](https://archiveprogram.github.com/faq/)
 
-## Alternative
+## Alternative a GitHub
 
 - GitLab
 - Bitbucket

@@ -15,6 +15,8 @@ caricare immagine
 
 ## albo classe
 
+Creiamo un albo tipo <https://github.com/TheSignAcademy/Albo_2124/>
+
 creare direcotory `NomeCognome`, caricarci una propria immagine 512*512 jpg e un file di testo.md con 
 
 ```markdown

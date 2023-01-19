@@ -1,18 +1,19 @@
-
-
-## Unity Game Project Template
+---
+title: Unity Game Project Template
+date: 2023-01-14
+updated: 2023-01-16
+---
+# Unity Game Project Template
 
 Repository ad hoc:
-<https://github.com/StefanoCecere/UnityProject_Template>
-
+<https://github.com/TheSignAcademy/UnityProject_Template_Unity>
 
 Integrazione progetto Unity -> GitHub -> Unity Cloud Build -> Discord -> Issues -> Documentazione  
 
 - organizzare un progetto con metodologia InnerSource: strumenti, comunicazione e best practices
 - progetti delle cumulative, polishing, docs, interscambi, cross issues, moduli, custom web site, changelog, Cloud Build e CI
-- se si pensa subito al dopo e si lavora con lo sguardo a dopodomani, ci si guadagna tutti
 
-### temi
+## temi
 
 - nomenclatura (codici, files)
 - organizzazione degli strumenti (scegliere bene)
@@ -28,9 +29,8 @@ Integrazione progetto Unity -> GitHub -> Unity Cloud Build -> Discord -> Issues 
 - filenames: line feed -> .editorconfig
 - dati sensibili
 - conoscere i propri strumenti
-- usiamo Discord: etiquette
 - documentazione (artistica, design, tecnica)
 - spiegare PERCHE' si sono fatte determinate scelte
 - devlog (sito di progetto / twitter / FB)
 - changelog
-- backup / ridondanza / archivio
+- backup / archivio
