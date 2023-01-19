@@ -18,7 +18,7 @@ draft: false
 The GitHub Archive Program:
 <https://archiveprogram.github.com/>
 
-## Wiki
+## WikiPedia
 il primo grande progetto di registrazione della memoria collettiva
 
 ## Second Brains software e metolodogie

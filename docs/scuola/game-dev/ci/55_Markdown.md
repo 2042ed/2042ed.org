@@ -1,5 +1,5 @@
 ---
-title: Markdown playground
+title: Markdown
 date: 2022-12-23
 updated: 2023-01-16
 type: book
@@ -7,10 +7,9 @@ weight: 55
 toc: true
 draft: false
 ---
+# Markdown
 
-# Markdown playground
-
-note: GitHub ha una sua versioen di MarkDown: <https://github.github.com/gfm/>
+note: GitHub ha una sua versione di MarkDown: <https://github.github.com/gfm/>
 
 ## Headings 2
 

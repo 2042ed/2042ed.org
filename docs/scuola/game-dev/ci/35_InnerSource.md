@@ -24,15 +24,14 @@ l'InnerSource usa le skills degli sviluppatori abituati all'OpenSource e le port
   - codice più pulito
   - Documentazione Completa: il codice è documentato meglio
   - riduzione dei **colli di bottiglia**
-- ottimizza la  collaborazione
+- ottimizza la collaborazione
   - migliora i contributi dei talenti
-  - Colalborazione cross-teams
+  - Collaborazione cross-teams
   - tiduce la concentrazione della Conoscenza
   - sviluppo più veloce, con Unit Tests e Continuous Integration
 - mix tra repo privati e pubblici
 
----
-## Resources
+## Approfondimenti
 
 - <https://innersourcecommons.org>
 - <https://github.com/InnerSourceCommons>

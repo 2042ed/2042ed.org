@@ -9,6 +9,25 @@ draft: false
 ---
 # Marketing ed Economia
 
+## Licenze
+Il sito <https://choosealicense.com/> spiega bene le differenti licenze.  
+
+Fondamentalmente ci sono tre categorie:
+
+### 1. closed - all rights reserved
+
+- copyright / closed source
+
+### 2. share-alike - condivido ma non specularci
+
+- Creative Commons 
+
+### 3. open - do whatever u want
+
+- GPL/MIT per codice
+- unlicensed
+
+## varie
 - conoscersi per valorizzarsi
 - farsi conoscere per farsi valorizzare
 - mettersi alla prova (deadlines) e fare esperienza (jams e scuola palestre ideali)

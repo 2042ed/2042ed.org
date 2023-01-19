@@ -1,24 +1,4 @@
----
-title: "Progetti"
-date: 2017-09-09T00:00:00
-type: book
-weight: 99
-toc: true
-draft: true
----
 
-# Progetti
-
-## Home-Works per settimana prossima
-1. completare il progetto TeamAlbo, con propria foto, nome cognome, corso e progetto, link a propria pagina GitHub
-
-2. ognuno finisca la propria pagina personale username.github.io
-(non badare al tema e stile) 
-scrivere una sintesi dei propri interessi in ambito di game dev/design
-
-3. trovare un progetto OpenSource di proprio interesse e forkarlo sul proprio account
-
----
 
 ## Unity Game Project Template
 
@@ -33,6 +13,7 @@ Integrazione progetto Unity -> GitHub -> Unity Cloud Build -> Discord -> Issues 
 - se si pensa subito al dopo e si lavora con lo sguardo a dopodomani, ci si guadagna tutti
 
 ### temi
+
 - nomenclatura (codici, files)
 - organizzazione degli strumenti (scegliere bene)
 - CGL
@@ -40,6 +21,11 @@ Integrazione progetto Unity -> GitHub -> Unity Cloud Build -> Discord -> Issues 
 - organizzare progetto Unity
 - sorgenti dei files -> deployed
 - formati files (formati multipiattaforma e opensource the best)
+- files binari e LFS
+- stash
+- conflitti
+- filenames: maiuscole e minuscole
+- filenames: line feed -> .editorconfig
 - dati sensibili
 - conoscere i propri strumenti
 - usiamo Discord: etiquette

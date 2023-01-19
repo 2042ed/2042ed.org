@@ -1,11 +1,12 @@
 ---
-title: 30_OpenSource
+title: Open Source
 date: 2020-12-10
 updated: 2023-01-16
 type: book
 weight: 30
 toc: true
 ---
+# Open Source
 ![logo_opensource](img/logo_opensource.webp)
 
 ## Si può forse brevettare il sole?
@@ -16,18 +17,17 @@ toc: true
 
 e così tutt'ora molto del nostro mondo è costruito su tecnologie e convenzioni aperte patrimonio dell'umanità:
 
-- Internet (TCP/IP e protocolli) + Apache
-- Firefox -> Chromium
+- Internet (TCP/IP e protocolli) / Apache
+- Firefox / Chromium
 - LibreOffice / OpenOffice
-- le batterie della Tesla
-- il PDF
+- il formato PDF
 - Blender
 - Midi
 - ISO e tutti gli standard industriali
 
 ## Open Source
 
-Il termine "Open Source" si riferisce a prodotti progettati per essere pubblici e accessibili affinché tutti possano usarli, modificarli e condividerli liberamente.
+Il termine "Open Source" si riferisce a prodotti il cui codice sorgente è aperto, pubblico, condiviso con il mondo.
 
 I progetti OpenSource richiedono una collaborazione aperta, una buona comunicazione pubblica e un'adeguata qualità generale.
 
@@ -45,16 +45,12 @@ in un progetto Open si dà molto, è forse un po' più faticoso, ma si riceve an
 
 ## Pros
 
-- gratuito. raramente ci sono licenze
-- facile da installare e maneggiare
-- sviluppo in tempo reale
-- indipendenza
+- gratuito
+- community
 - si modifica il necessario
-- competitività
-- è divertente
 - crea Open Standards
-- le università, i centri di ricerca e gli indie lavorano qui
-- grande scelta
+- le università, i centri di ricerca e le Istituzioni
+- è divertente
 
 ## Cons
 
@@ -81,5 +77,4 @@ in un progetto Open si dà molto, è forse un po' più faticoso, ma si riceve an
 ## Resources
 
 - <https://opensource.org/osd>
-- Contributing to Open Source for the first time
-<https://www.youtube.com/watch?v=c6b6B9oN4Vg>
+- Contributing to Open Source for the first time <https://www.youtube.com/watch?v=c6b6B9oN4Vg>

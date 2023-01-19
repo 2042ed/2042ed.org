@@ -16,24 +16,6 @@ draft: false
 - salvataggi su cloud proprietari
 - formati vincolanti (vedi scrivere in word)
 
-## Licenze
-Il sito <https://choosealicense.com/> spiega bene le differenti licenze.  
-
-Fondamentalmente ci sono tre categorie:
-
-### 1. closed - all rights reserved
-
-- copyright / closed source
-
-### 2. share-alike - condivido ma non specularci
-
-- Creative Commons 
-
-### 3. open - do whatever u want
-
-- GPL/MIT per codice
-- unlicensed
-
 ## Markdown
 
 ![](img/markdown_logo.webp)
@@ -42,9 +24,7 @@ in contrapposizione al markup dell'html, è stato creato il markdown dove la bas
 
 GitHub ha determinato massicciamente l'adozione dello standard MarkDown per la documentazione e la scrittura in generale e ormai moltissimi siti vengono generati con Static Site Generators (vedi Jekyll o Hugo) a partire da contenuti (pagine e posts) scritti in Markdown, e la maggior parte degli editor di testo lo supportano nativamente.
 
----
-
-**links**  
+## Approfondimenti
 
 - dal creatore di Markdown: <https://daringfireball.net/projects/markdown/syntax>
 - Jekyll è il rendering engine delle GitHub pages: <https://jekyllrb.com>

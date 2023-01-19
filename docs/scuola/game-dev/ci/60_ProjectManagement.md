@@ -8,7 +8,7 @@ toc: true
 draft: false
 ---
 # Project Management
-*Cosa c'è da fare?*
+_Cosa c'è da fare?_
 
 ## Code of Conduct
 regole di partecipazione e comunicazione

@@ -1,117 +1,139 @@
 ---
-title: Piattaforme di sviluppo collaborativo
+title: Git
 date: 2022-12-23
 updated: 2023-01-16
 slug: git
 type: book
 weight: 42
-toc: true
-draft: false
 ---
-# Piattaforme di sviluppo collaborativo
+# Git
 
-## Video
-*What is GitHub?*
-<https://www.youtube.com/watch?v=w3jLJU7DT5E>
+Git è stato creato da Linus Torvalds (Linux) nel 2005 come strumento per gestire lo sviluppo di Linux.
+E' un programma molto piccolo, funziona su ogni tipo di compiter, è estremamente solido e velocissimo, gratuito e open-source, e oggi testato su milioni di progetti da quelli piccolissimi a quelli enormi.
 
-## Cos'è un version control system?
+Secondo un sondaggio di [Stack Overflow](https://insights.stackoverflow.com/survey/2021#other-tools), oltre il 93% degli sviluppatori utilizza Git, rendendolo il VCS più utilizzato al mondo.
 
-Un sistema di version control system, o VCS, tiene traccia della cronologia delle modifiche mentre gli sviluppatori  e i team collaborano ai progetti insieme. Man mano che il progetto si evolve, i team possono eseguire test, correggere bug e fornire nuovo codice con la certezza che qualsiasi versione può essere ripristinata in qualsiasi momento. Gli sviluppatori possono esaminare la cronologia del progetto per scoprire:
+Git è usato lo sviluppo di **ogni tipo di progetto digitale**, non solo software, sia open source che commerciale.
 
-- Quali modifiche sono state apportate?
-- Chi ha apportato le modifiche?
-- Quando sono state apportate le modifiche?
-- Perché sono stati necessari cambiamenti?
-	
-## Cos'è un *distributed* version control system?
+Git consente agli sviluppatori di vedere l'intera sequenza temporale delle modifiche, delle decisioni e dei progressi di qualsiasi progetto.
 
-**Git** è un esempio di un **distributed** version control system (DVCS) comunemente utilizzato per lo sviluppo di software commerciale e open source. I DVCS consentono l'accesso completo a ogni file, *branch* e iterazione di un progetto e consentono a ogni utente l'accesso a una cronologia completa e autonoma di tutte le modifiche. A differenza dei sistemi di controllo delle versioni centralizzati un tempo popolari, i DVCS come Git non necessitano di una connessione costante a un repository centrale. Gli sviluppatori possono lavorare ovunque e collaborare in modo asincrono da qualsiasi fuso orario.
+La collaborazione può avvenire in qualsiasi momento mantenendo l'integrità del codice sorgente. Utilizzando branch, gli sviluppatori possono proporre in sicurezza modifiche al codice di produzione.
 
-Senza il controllo della versione, i membri del team sono soggetti a attività ridondanti, tempistiche più lente e più copie di un singolo progetto. Per eliminare il lavoro non necessario, Git e altri VCS offrono a ciascun collaboratore una visione unificata e coerente di un progetto, facendo emergere il lavoro già in corso. Vedere una cronologia trasparente dei cambiamenti, chi li ha apportati e come contribuiscono allo sviluppo di un progetto aiuta i membri del team a rimanere allineati mentre lavorano in modo indipendente.
+## Concetti chiave
 
-![](img/DVCS.webp)
+### Client Git
+Per interagire con un repository o si usa il programma Git direttamente dalla riga di comando (opzione solo per i più esperti) oppure un programma grafico che fa da interfaccia con Git stesso. Si può cambiare client quando si vuole.
+I più usati sono:
 
-## Git
+- **GitHub Desktop** <https://desktop.github.com>  
+  prodotto da GitHub, molto semplice con funzioni base. win/mac, gratuito. la prima scelta per i principianti o per chi usa Git saltuarialemente
+- **Fork** <https://fork.dev>  
+  win/mac, gratuito con licenza opzionale, veloce, completo, bello
+- **Source Tree** <https://www.sourcetreeapp.com>  
+  win/mac, gratuito (necessita solo di account Atlassian), molto completo, un po' lento per progetti grossi e UI non perfetta
+- **VS Code** il popolare (e ormai universale) editor integra un completo sistema Git e tutte le operazioni più importanti.
+- **GitKraken** <https://www.gitkraken.com/>  
+  non gratuito per i repo privati, win/mac, completo, si integra con altri prodotti della Axosoft  
 
-*Perché Git?*
-Secondo l'ultimo sondaggio tra gli sviluppatori di [Stack Overflow](https://insights.stackoverflow.com/survey/2017#technology), oltre il 70% degli sviluppatori utilizza Git, rendendolo il VCS più utilizzato al mondo. Git è comunemente utilizzato sia per lo sviluppo di software open source che commerciale, con **vantaggi significativi** per individui, team e aziende.
+Alcuni di questi clients integrano il programma Git stesso, altri no e deve essere installato nel proprio computer
 
-- Git consente agli sviluppatori di vedere l'intera sequenza temporale delle modifiche, delle decisioni e dei progressi di qualsiasi progetto in un unico posto. Dal momento in cui accede alla cronologia di un progetto, lo sviluppatore ha tutto il contesto di cui ha bisogno per comprenderlo e iniziare a contribuire.
+### Installazione Git
+Per sapere se si ha Git installato nel proprio computer, basta a aprire una Prompt di comando / Terminale e digitare `git version`. Se restituisce una versione, allora si può iniziare. Altrimenti va [installato](https://git-scm.com/).
 
-- Gli sviluppatori lavorano in ogni fuso orario. Con un DVCS come Git, la collaborazione può avvenire in qualsiasi momento mantenendo l'integrità del codice sorgente. Utilizzando branch, gli sviluppatori possono proporre in sicurezza modifiche al codice di produzione.
+### Working Directory
+E' la directory / cartella che contiene tutto il progetto a cui stiamo lavorando.
 
-- Le aziende che utilizzano Git possono abbattere le barriere di comunicazione tra i team e mantenerli concentrati sul lavoro migliore. Inoltre, Git consente di allineare esperti in un'azienda per collaborare a progetti importanti.
+### Repository
+Un **repository** Git viene creato dentro una Working Directory, tecnicamente sotto forma di una directory invisibile `.git`.
+Conterrà tutta la cronologia delle revisioni di ogni file e ogni tipo di configurazione possibile.
+Poiché Git è un DVCS, i repository sono unità autonome e chiunque possieda una copia del repository può accedere all'intero progetto e alla sua cronologia.
 
-## Cos'è un repository?
+Si _inizializza_ un repository con il comando `git init` o via Git Client "Crea Nuovo Repository" o clonando una repository esistente.
 
-Un *repository* , o progetto Git , comprende l'intera raccolta di file e cartelle associati a un progetto, insieme alla cronologia delle revisioni di ogni file. La cronologia dei file appare come istantanee nel tempo chiamate commit e le commit esistono come una relazione di elenco collegato e possono essere organizzate in più linee di sviluppo chiamate branch . Poiché Git è un DVCS, i repository sono unità autonome e chiunque possieda una copia del repository può accedere all'intero codebase e alla sua cronologia. Utilizzando la riga di comando o altre interfacce di facile utilizzo, un repository git consente anche:
+### Remote / Origin
+Un repository può esistere solo in locale, oppure esistere online, in questo caso di chiama **_remote_** repository e il suo indirizzo principale è **_origin_**.
 
-- l'interazione con la cronologia (Checkout)
-- la clonazione (Clone) e il Fork
-- la creazione di Branch (main, dev, feature, bugfix)
-- il Commit e Push
-- il Fetch, Pull e Merge
-- il confronto delle modifiche tra le versioni del codice e altro ancora.
-- area di Stage
-- Tag / Release
+### Clonazione / Fork
+`git clone` effettua una copia locale di un progetto che esiste in remoto.
+Questo clone sarà un repo completo e indipendente.
 
-Lavorare nei repository mantiene i progetti di sviluppo organizzati e protetti. Gli sviluppatori sono incoraggiati a correggere bug o creare nuove funzionalità, senza timore di far deragliare gli sforzi di sviluppo principali. Git lo facilita attraverso l'uso di *branches*: puntatori ai commit nella cronologia che possono essere facilmente creati e deprecati quando non sono più necessari.
+Oppure si può farne un `fork`, ovvero una "variante personale", che sarà sì indipendente, ma tenendo un filo di collegamento con il repository originale (per eventualmente sincronizzare le modifiche effettuate da una o dall'altra parte).
 
-Attraverso piattaforme come GitHub, Git offre anche maggiori opportunità per la trasparenza e la collaborazione del progetto. I repository pubblici aiutano i team a lavorare insieme per creare il miglior prodotto finale possibile.
+### Stage
+`git add` mette in **stage** un cambiamento, ovvero indica quali files andranno ad essere registrati nella prossima modifica ed entrare a far parte dello storico del progetto. Un file può essere messo e tolto dallo stage, vedendone le differenze.
 
-![](img/git_flow.webp)
+### Commit
+E' la registrazione nello storico dello stage, ovvero delle modifiche ad uno o più file. Un commit registra anche codice univoco che lo identifica, la data, l'autore e una descrizione testuale della modifica.
 
-## Comandi Git di base
+### Revert Commit
+Una modifica registrata può essere facilmente annullata facendone _revert_: in pratica inverte tutte le modifiche di un commit e ne crea uno nuovo.
 
-Per utilizzare Git, gli sviluppatori utilizzano comandi specifici per copiare, creare, modificare e combinare il codice. Questi comandi possono essere eseguiti direttamente dalla riga di comando o utilizzando un'applicazione come GitHub Desktop o Fork (vedi dopo i tools). Ecco alcuni comandi comuni per l'utilizzo di Git:
+### Diff
+Visualizzazione delle modifiche di un commit.
+Per i files testuali vengono mostrati tutti i cambiamenti.
+Per le immagini di solito si mostrano le due versioni.
+Funziona bene con i files testuali, non con i files binari.
 
-- `git init` inizializza un repository Git nuovo di zecca e inizia a monitorare una directory esistente. Aggiunge una sottocartella nascosta all'interno della directory esistente che ospita la struttura dati interna richiesta per il controllo della versione.
+### Discard
+Un file modificato che non è ancora stato messo in stage / committato, può essere ripristinato al suo stato originario, tecnicamente si "eliminano le modifiche" (Discard Changes)
 
-- `git clone` crea una copia locale di un progetto che esiste già in remoto. Il clone include tutti i file, la cronologia e i *branches* del progetto.
+### Branch
+Sono i rami di sviluppo, ognuno è autonomo dagli altri e possono essere riuniti in qualsiasi momento.
+Un nuovo progetto inizia con un solo branch: il main (prima era chiamato _master_).
+Poi di solito si aggiungono dei branch di sviluppo tipo `dev` o di `release`, o branch specifici per sviluppare o testare nuove `features`.
 
-- `git add` mette in *stage* un cambiamento. Git tiene traccia delle modifiche alla base di codice di uno sviluppatore, ma è necessario mettere in *stage* e scattare un'istantanea delle modifiche per includerle nella cronologia del progetto. Questo comando esegue la gestione temporanea, la prima parte di quel processo in due fasi. Qualsiasi modifica messa in *stage* diventerà una parte della prossima istantanea e una parte della storia del progetto. Lo staging e il commit separatamente offrono agli sviluppatori il controllo completo sulla cronologia del loro progetto senza modificare il modo in cui codificano e lavorano.
+### Checkout
+Selezionare / Cambiare un branch e aggiornare il progetto allo stato di un determinato _commit_.
 
-- `git commit` salva l'istantanea nella cronologia del progetto e completa il processo di rilevamento delle modifiche. In breve, un commit funziona come scattare una foto. Tutto ciò che è stato messo in stage `git add` diventerà parte dell'istantanea con `git commit`.
+### Fetch, Pull e Push
+Sono operazioni che sincronizzano un repository locale con uno remoto:
 
-- `git status` mostra lo stato delle modifiche come non tracciate, modificate o organizzate.
+- Pull aggiorna il locale applicando tutte le nuove modifiche che si sono accumulate nel remoto
+- Push invia tutti i commi locali verso il repository remoto.
+- Fetch è una versione ridotta del pull: scarica tutte le modifiche di un remoto, ma non le applica ancora al progetto reale. Serve per vederle in locale, e poi decidere se applicarle.
 
-- `git branch` mostra i *branches* su cui si lavora a livello locale.
+### Merge
+`git merge` serve per unire un branch ad un altro.  
+Solitamente si fa da un branch di `dev/feature/bugfix` verso il `main`
 
-- `git merge` unisce le linee di sviluppo insieme. Questo comando viene in genere utilizzato per combinare le modifiche apportate su due *branches* distinti. Ad esempio, uno sviluppatore si fonde quando desidera combinare le modifiche da un *branch* di funzionalità al *branch* principale per la distribuzione.
+### Tag
+E' un'eticatta che si applica ad un commit per identificarlo in modo speciale.
+Esempi di tags: `v0.1.2`, `release_1`. In questo modo è facile vedere nello storico le versioni particolari. Un tag può essere solo locale oppure condiviso anche nel remote e quindi con gli altri.  
+E' poi facile ripristinare il progetto ad una versione taggata, o scaricare tutto il progetto completo di uno specifico tag.
 
-- `git pull` aggiorna la linea di sviluppo locale con aggiornamenti dalla sua controparte remota. Gli sviluppatori utilizzano questo comando se un membro del team ha eseguito il commit su un *branch* remoto e vorrebbero riflettere tali modifiche nel loro ambiente locale.
+![Commit graph](img/git-commit_graph.webp)
 
-- `git push` aggiorna il repository remoto con tutti i commit effettuati localmente su un ramo.
+### Stash
+E' una memoria temporanea, dove poter registrare tutte le modifiche in corso senza voler creare un commit ad hoc. Uno stash si può nominare e riapplicare quando si vuole.
 
-![](img/git-commit_graph.webp)
+### .gitignore
+Si può dire a Git di ignorare alcuni files specifici, o una directory o alcuni tipi di files. Di solito sono file temporanei, o creati in automatico dal compilatore del progetto, o che si vogliono tenere riservati.
+
+### Patch
+Un gruppo di modifiche può essere salvato sotto forma di file speciale, da condividere con altri che possono riapplicarlo allo stesso progetto.
+Contiene i nomi dei files modificati e le relative modifiche.
+
+### Git LFS
+Git è stato sviluppato pensando sopratutto a files di testo.
+Se si usano invece files binary molto grandi (ad esempio .pdf, .tiff, wav, .mov) che non permettono di salvare le singole modifiche, ma devono essere sostituiti completamente, c'è il rischio di "ingolfare" lo storico del repository con diversi Gigabyte di dati poco utili. Per questo si abilita il "Large File Storage" che dice a Git di salvare determinati tipi di files binary non nel repository stesso, ma su uno storage separato (ad esempio S3 o DropBox)
+
+### Submodules
+Una directory di un progetto Git può essere un altro progetto Git, separato e indipendente. ad esempio una libreria condivisa tra più progetti.
+
+### Revisione storica e funzioni avanzate
+Con comandi particolari si può intervenire sullo storico dei commit, ad esempio eliminando un determinato tipo di file (ad esempio contenente un dato privato) o troppo grande.
+
+## Dormite tranquilli, ma avvertenza
+E' molto difficile "rompere" un repository, potete stare tranquilli che non farete mai danni.
+Mal che vada si butta via tutto il repository locale e lo si clona di nuovo dal remoto.
+Una sola avvertenza: prima di committare un file, pensateci molto bene se davvero vi serve memorizzarlo per il futuro, sopratutto se il file è molto grande (che quindi va a ingrossare l'archivio dello storico).
+Ricordate che una volta che un commit è pushato nel remote, andrà poi distribuito a TUTTI gli altri developers.. se avete un file .psd da 100Mb pensateci bene se committarlo.
 
 ## Alternative a Git
 Hg, Perforce, SVN sono solo alcuni, ma Git sta diventando lo standard
-
-## Git Clients
-
-- **GitHub Desktop** <https://desktop.github.com>
-  prodotto da GitHub, molto semplice con funzioni base. win/mac, gratuito. la prima scelta per i i principianti o per chi usa pochissimo Git
-- **Fork** <https://fork.dev>
-  win/mac, gratuito con licenza opzionale, veloce, completo, bello
-- **Source Tree** <https://www.sourcetreeapp.com>
-  win/mac, gratuito (necessita solo di account Atlassian), molto completo, un po' lento per progetti grossi e UI non perfetta
-- **GitKraken** <https://www.gitkraken.com/>
-  non gratuito per i repo privati, win/mac, completo, si integra con altri prodotti della Axosoft  
-
-## Temi
-
-- .gitignore
-- files binari e LFS
-- stash
-- conflitti
-- filenames: maiuscole e minuscole
-- filenames: line feed -> .editorconfig
-- dati sensibili
 
 ## Per approfondire
 
 - Git Pro book: <https://git-scm.com/book/en/v2>
 - Laboratori: <https://lab.github.com/courses>
-- <https://www.git-tower.com/learn/git/ebook/en/desktop-gui/introduction>
 - Gioco Online su Git: <https://learngitbranching.js.org/?locale=it_IT>

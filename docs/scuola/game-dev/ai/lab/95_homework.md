@@ -9,6 +9,8 @@ updated: 2023-01-10
 Introduzione all'AI
 [FORM](https://forms.gle/vTNGtu5ppX9GNk3RA)
 
+non so bene Introduzione
+
 ## Homework 1: Analisi GdT
 scegliere un board game (più è semplice meglio è). descrivere il processo mentale del giocatore, con tutti i passaggi logici, come se potesse essere tradotto in AI.
 
