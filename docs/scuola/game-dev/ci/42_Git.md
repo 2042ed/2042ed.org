@@ -8,6 +8,8 @@ weight: 42
 ---
 # Git
 
+![Git logo](../../../assets/img/gamedev/git-logo.webp)
+
 Git è stato creato da Linus Torvalds (Linux) nel 2005 come strumento per gestire lo sviluppo di Linux.
 E' un programma molto piccolo, funziona su ogni tipo di compiter, è estremamente solido e velocissimo, gratuito e open-source, e oggi testato su milioni di progetti da quelli piccolissimi a quelli enormi.
 
@@ -108,6 +110,7 @@ E' una memoria temporanea, dove poter registrare tutte le modifiche in corso sen
 
 ### .gitignore
 Si può dire a Git di ignorare alcuni files specifici, o una directory o alcuni tipi di files. Di solito sono file temporanei, o creati in automatico dal compilatore del progetto, o che si vogliono tenere riservati.
+Un esempio di `.gitignore` di un progetto Unity è [questo](https://github.com/github/gitignore/blob/main/Unity.gitignore)
 
 ### Patch
 Un gruppo di modifiche può essere salvato sotto forma di file speciale, da condividere con altri che possono riapplicarlo allo stesso progetto.

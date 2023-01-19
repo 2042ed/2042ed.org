@@ -8,7 +8,8 @@ weight: 40
 ---
 # Piattaforme di sviluppo collaborativo
 
-> Tenere traccia di tutto e provare nuove idee insieme ad altri.
+> Tenere traccia di tutte le modifiche ad un progetto e provare nuove idee insieme ad altri.
+> Un potente sistema di "save points"
 
 ## Cos'è un version control system?
 

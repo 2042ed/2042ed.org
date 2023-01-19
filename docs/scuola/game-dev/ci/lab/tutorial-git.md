@@ -5,19 +5,50 @@ updated: 2023-01-16
 ---
 # Git Tutorial
 
-## Installazione
+## Installazione Git
 
-### Configurare
-```
-$ git config --global user.name "Nome Cognome"
-$ git config --global user.email nome.cognome@emailprovider.com
-```
+Configurare `main` branch
 
 ## Account GitHub
+Creare account
 
 ## Git Client
-GitHub desktop
 
-## Temi
+- Installare GitHub desktop e configurare l'account.
+- Check options e default branch.
+- Analisi delle aree dell'app.
 
-- .gitignore
+## Creare Nuovo Repository
+`test-repo`
+
+## Aggiungere dei files
+
+`index.html`
+
+check su GitHub
+
+## .gitignore
+aggiugere un `random.txt` e poi ignorarlo.
+
+## Modificare il file
+e committare
+
+## eliminare file
+e check
+
+## revert changes
+
+## branch
+tipo `feature-1`  
+aggiungere un file `feature-1.html`
+
+check in main
+
+## merge
+from branch feature-1
+
+---
+
+
+
+

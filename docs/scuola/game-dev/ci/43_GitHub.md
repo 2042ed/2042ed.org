@@ -18,20 +18,24 @@ GitHub è la principale (ma non l'unica) piattaforma online che permette di ospi
 - workflow: projects, milestones, issues
 - documentazione
 
-## Come funziona GitHub
+## Git vs GitHub vs GitHub Desktop/Git Client
 
-# Il flow di GitHub
-Il flusso GitHub è un flusso di lavoro basato su branches, costruito attorno ai principali comandi Git utilizzati dai team di tutto il mondo.
+**Git** è l'applicazione che gestisce Versioning System.  
+**GitHub** è una piattaforma web che ospita repositories Git.  
+**GitHub Desktop/Git Client** è un programma che permette di comandare Git attraverso un'interfaccia grafica.
 
-Il flusso GitHub ha sei passaggi, ciascuno con vantaggi distinti quando implementato:
+## Funzioni e Concetti
 
+### README.md
+file in formato Markdown che sintetizza il progetto.
 
-## Funzioni
+### LICENSE.md
+importante sopratutto per i repository pubblici.
+Cosa possono fare gli altri col il nostro repo?
+Se non si mette nulla, è nostro standard copyright, altrimenti mettere MIT.
 
 ### Pull Request (PR)
 Una Pull Request
-
-
 
 ## Modelli per lo sviluppo collaborativo
 
@@ -43,3 +47,8 @@ Esistono due modi principali in cui le persone collaborano su GitHub:
 Con un repository condiviso, _shared repository_, sviluppatori e team sono esplicitamente designati come contributori con accesso in lettura, scrittura o amministratore. 
 
 Per un progetto open source o per progetti a cui chiunque può contribuire, la gestione delle autorizzazioni individuali può essere impegnativa, ma un modello _fork and pull_ consente a chiunque possa visualizzare il progetto di contribuire. Un fork è una copia di un progetto sotto l'account personale di uno sviluppatore. Ogni sviluppatore ha il pieno controllo del proprio fork ed è libero di implementare una correzione o una nuova funzionalità. Il lavoro completato nelle forche viene mantenuto separato o riportato al progetto originale tramite una  pull request. Lì, i maintainer possono rivedere le modifiche suggerite prima che vengano unite.
+
+## Alternative
+
+- GitLab
+- Bitbucket
