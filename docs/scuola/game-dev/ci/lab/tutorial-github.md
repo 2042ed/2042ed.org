@@ -12,3 +12,14 @@ see <https://github.com/StefanoCecere/StefanoCecere>
 Introdurre Markdown
 
 caricare immagine
+
+## albo classe
+
+creare direcotory `NomeCognome`, caricarci una propria immagine 512*512 jpg e un file di testo.md con 
+
+```markdown
+| Immagine | Nome | Corso | Team | Url |
+|---|---|---|---|---|
+|![](nomeimmagine.jpg) | Nome Cognome | Corso | Nome Team | [GitHub](https://github.com/proprioUsername)|
+```
+

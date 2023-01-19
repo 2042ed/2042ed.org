@@ -7,13 +7,18 @@ weight: 55
 toc: true
 draft: false
 ---
-# Markdown
+## Markdown
+
+![](img/markdown_logo.webp)
+
+Il formato Markdown è stato creato in contrapposizione al _markup_ dell'HTML.
+Qui la base è testo semplice con pochissime convenzioni che permettono al contenuto di essere poi convertito nei formati più utili (html, doc, pdf, ePub) garantendo un versioning perfetto e una preservazione e portabilità ottimali
+
+GitHub ha determinato massicciamente l'adozione dello standard Markdown per la documentazione e la scrittura in generale e ormai moltissimi siti vengono generati con Static Site Generators (vedi Jekyll o Hugo) a partire da contenuti scritti in Markdown, e la maggior parte degli editor di testo lo supportano nativamente.
+
+## Playground
 
 note: GitHub ha una sua versione di MarkDown: <https://github.github.com/gfm/>
-
-## Headings 2
-
-Text under Heading 2
 
 ### Heading 3
 
@@ -27,7 +32,7 @@ Text under Heading 4
 
 Text under Heading 5
 
-## Emphasis
+### Emphasis
 
 *Emphasis*, aka italics, with *asterisks* or _underscores_.  
 Strong emphasis, aka bold, with **asterisks** or __underscores__.  
@@ -36,26 +41,24 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 Highlights ==this part of text.==
 And `keywords`.  
 
-## Emojis
+### Emojis
 🤣
 [🤣](https://stefanocecere.com) 
 
-## Links
+### Links
 
-### External links
-
-![nome del link](https://www.sito.com)
-
-[www.google.com](https://www.google.com)  
-[www.google.com with title](https://www.google.com "Google's Homepage")   
+**External links**  
+- ![nome del link](https://www.sito.com)
+- [www.google.com](https://www.google.com)  
+- [www.google.com with title](https://www.google.com "Google's Homepage")   
 URLs and URLs in angle brackets will automatically get turned into links.
 http://www.example.com or <http://www.example.com> and sometimes
 example.com (but not on Github, for example).
 
-### Internal links
-This links to the [Introduction](10_Introduzione.md) 
+**Internal links**  
+This links to the [Introduction](10_Introduzione.md)
 
-## Code
+### Code
 
 We can highlight a `single keyword` or code blocks:
 
@@ -74,8 +77,7 @@ here we can write code.
 or **strong** test
 ```
 
-
-## Definitions
+### Definitions
 
 Parola da definire
 :  è una cosa che si fa e non si dice
@@ -83,7 +85,7 @@ Parola da definire
 Una seconda parola
 :  qui definiamo un'altro termine
 
-## List
+### List
 
 1. First ordered list item
 2. Another item
@@ -103,13 +105,13 @@ To have a line break without a paragraph, you will need to use two trailing spac
 Note that this line is separate, but within the same paragraph.  
 (This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
 
-## Images
+### Images
 
 Save your image (jpg or png format only) to `img/` and insert it like this:
 
 ![Figure 1 caption text](img/image.webp)
 
-## Tables
+### Tables
 
 We can have nice tables.  
 Colons can be used to align columns.  
@@ -138,7 +140,7 @@ Markdown | Less | Pretty
 *Still* | `renders` | **nicely**
 1 | 2 | 3
 
-## Blockquotes
+### Blockquotes
 
 > Blockquotes are very handy in email to emulate reply text.
 > This line is part of the same quote.
@@ -147,7 +149,7 @@ Quote break.
 
 > This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.
 
-## Maths
+### Maths
 
 $$
 y = -2.2x + 0.5
@@ -165,7 +167,7 @@ $$\begin{aligned}
   1 &= \frac{b}{c-a} \
 \end{aligned}$$
 
-## Footnotes
+### Footnotes
 
 Footnotes are best placed right after the paragraph first used.[^footnote]
 
@@ -173,8 +175,14 @@ Footnotes are best placed right after the paragraph first used.[^footnote]
 
 If you want to use endnotes instead turn them on in document options.
 
-## Comments
+### Comments
 
 We can have comments in the text
 
 <!-- Comments are not shown in the final PDF -->
+
+## Approfondimenti
+
+- dal creatore di Markdown: <https://daringfireball.net/projects/markdown/syntax>
+- Jekyll è il rendering engine delle GitHub pages: <https://jekyllrb.com>
+- corso markdown: <https://lab.github.com/githubtraining/communicating-using-markdown>

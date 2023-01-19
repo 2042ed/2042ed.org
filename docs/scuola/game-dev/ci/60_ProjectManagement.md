@@ -7,7 +7,7 @@ weight: 60
 toc: true
 draft: false
 ---
-# Project Management
+# Project Management (PM)
 _Cosa c'è da fare?_
 
 ## Code of Conduct

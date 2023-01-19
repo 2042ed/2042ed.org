@@ -1,13 +1,24 @@
 ---
-title: Preservazione e Immortalità
+title: Formati, Interscambio, Preservazione
 date: 2022-12-23
 updated: 2023-01-16
 type: book
-weight: 80
+weight: 50
 toc: true
 draft: false
 ---
-# Preservazione e Immortalità
+# Formati e Interscambio
+
+E' bene scegliere con cura il formato dei files
+
+## Interoperability e Future Proof
+
+- formati aperti e formati chiusi
+- chi può aprire quel file? potai farlo a futuro?
+- salvataggi su cloud proprietari
+- formati vincolanti (vedi scrivere in word)
+
+## Preservazione e Immortalità
 
 ![](img/future_proof_approved.webp)
 
@@ -23,7 +34,6 @@ il primo grande progetto di registrazione della memoria collettiva
 
 ## Second Brains software e metolodogie
 vedi <https://obsidian.md>
-atomi di markdown
 
 ## Strategie di preservazione
-se non è possibile usare un formato open, in aggiunta ad uno proprietario, effettuare degli screenshot completo per eventualmente valutare la bontà di conversioni o versioni future.
+se non è possibile usare un formato open, in aggiunta ad uno proprietario, effettuare degli screenshot completi per eventualmente valutare la bontà di conversioni o versioni future.

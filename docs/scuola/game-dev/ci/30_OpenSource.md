@@ -6,7 +6,7 @@ type: book
 weight: 30
 toc: true
 ---
-# Open Source
+# Open Source e Inner Source
 ![logo_opensource](img/logo_opensource.webp)
 
 ## Si può forse brevettare il sole?
@@ -43,38 +43,69 @@ Inoltre si possono usare progetti preesistenti per non dover reinventare tutto, 
 
 in un progetto Open si dà molto, è forse un po' più faticoso, ma si riceve ancora di più
 
-## Pros
+### Pros
 
-- gratuito
-- community
-- si modifica il necessario
-- crea Open Standards
-- le università, i centri di ricerca e le Istituzioni
-- è divertente
+- costo: gratuito
+- scalabilità: si parte con una soluzione minima e poi si scala
+- community engagement: mille occhi puntati.
+- flessibilità: gli sviluppatori open hanno a cuore il non essere "locked-in" una soluzione chiusa, quindi c'è grande inter-operabilità
+- le Università, i Centri di Ricerca, le Istituzioni e tanti Indie ormai lavorano qui
+- licenza: non bisogna tenere conto dei problemi di utilizzo / tracciare le licenze. Non c'è scadenza
 
-## Cons
+### Cons
 
-- non sempre user-friendly
-- mancanza di supporto garantito
-- necessita studio
-- può essere complesso
-- facilità di progetti abbandonati
+- problemi di sicurezza
+- mancanza di garanzia, manutenzione e supporto
+- non sempre user-friendly / necessita studio
+- facilità di progetti abbandonati / segmentazione
 - non sempre c'è qualità
-- non c'è guadagno monetario diretto
-- segmentazioni delle comunità
 
-## Considerazioni sull'Open Source
+### Considerazioni sull'Open Source
 
 - una filosofia, più che una pratica
-- storia: anni 90, Linux il primo grandissimo progetto OpenSource (il cui creatore inventò Git per migliorare lo sviluppo collaborativo), big companies oggi lo adottano (Facebook, Google, Microsoft, Oracle), ROI (Return Of Investment)
+- storia: anni 90, Linux il primo grandissimo progetto OpenSource, big companies oggi lo adottano (Facebook, Google, Microsoft, Oracle), ROI (Return Of Investment)
 - intelligenza collettiva: in tanti possono partecipare e mettere il meglio di se in modalità open e meritocratica
 - feedback in tempo reale con gli utenti
 - possibilità di lavoro (manutenzione, customizzazione, velocità)
 - il progetto sopravvive al nostro tempo e interesse. qualcun altro potrà portarlo avanti
-- aprire i propri cassetti di idee e pubblicare. male non fa
-- Game Jams sono i migliori eventi dove il prodotto deve essere rilasciato OpenSource. più del prodotto in sé è interessante il come è stato fatto, con chi e le referenze a futuro (portfolio)
+- aprire i propri cassetti di idee e pubblicare.
+- **Game Jams** sono i migliori eventi dove il prodotto deve essere rilasciato OpenSource. più del prodotto in sé è interessante il come è stato fatto, con chi e le referenze a futuro (portfolio)
 
-## Resources
+## InnerSource
+l'InnerSource è il processo di sviluppo collaborativo di progetti basandosi sulle tecnologie e procedure OpenSource, ma stando all'interno di un ambiente privato, non pubblico.
+
+l'InnerSource usa le skills degli sviluppatori abituati all'OpenSource e le porta dentro i firewalls dei progetti privati, garantendo una piattaforma interna per collaborare ai progetti.
+
+- OpenSource dietro ad un firewall
+- lavorare internamente come se fosse un progetto OpenSource
+- portare le best practices dell'OpenSource nel team work
+- Inner-sourcing è un mind-shift mentale
+
+### Perché InnerSource
+
+- la tecnologia rimane proprietaria
+- sviluppo più efficiente
+  - riuso del codice: comprensione del codice e dell'architettura dei moduli sviluppati da altri
+  - codice più pulito
+  - Documentazione Completa: il codice è documentato meglio
+  - riduzione dei **colli di bottiglia**
+- ottimizza la collaborazione
+  - migliora i contributi dei talenti
+  - Collaborazione cross-teams
+  - riduce la concentrazione della Conoscenza
+  - sviluppo più veloce, con Unit Tests e Continuous Integration
+- mix tra repo privati e pubblici
+
+---
+
+## Approfondimenti
 
 - <https://opensource.org/osd>
 - Contributing to Open Source for the first time <https://www.youtube.com/watch?v=c6b6B9oN4Vg>
+
+- <https://innersourcecommons.org>
+- <https://github.com/InnerSourceCommons>
+- [How to create an internal InnerSource community](https://opensource.com/life/16/11/create-internal-innersource-community)
+- video [InnerSource Journey with GitHub](https://www.youtube.com/watch?v=MhhBi7o9z90)
+- video [GitHub: InnerSource: Reaping the Benefits of Open Source, Behind Your Firewall](https://www.youtube.com/watch?v=sDKN-xyqcNc)
+- video [GitHub Satellite 2017 - Global Software Development with InnerSource](https://www.youtube.com/watch?v=64gaATwzXvE)

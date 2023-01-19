@@ -34,4 +34,3 @@ Integrazione progetto Unity -> GitHub -> Unity Cloud Build -> Discord -> Issues 
 - devlog (sito di progetto / twitter / FB)
 - changelog
 - backup / ridondanza / archivio
-- personal marketing: GitHub + Twitter, pensare alla propria presenza pubblica lavorativa e artistica. nel dubbio: NomeCognome e non fare cose di cui pentirsi.

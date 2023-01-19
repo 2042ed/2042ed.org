@@ -9,10 +9,12 @@ toc: true
 # Appendici e Risorse
 
 ## FAQ
+
 - Come si diventa uno sviluppatore / contributor open-source?
   <https://julia.hashnode.dev/how-can-i-become-an-open-source-contributor-the-ultimate-guide>
 
 ## progetti OpenSource
+
 - OpenSource projects finder: <https://www.findbestopensource.com>
 - OpenSource games: <https://en.wikipedia.org/wiki/List_of_open-source_video_games>
 - open Game Dev tips and tools <https://opensource.com/article/17/12/how-to-gaming-jam-development>
@@ -35,7 +37,6 @@ toc: true
   - <https://github.com/vgwb/Antura>
   - <https://github.com/QianMo/Unity-Design-Pattern>
   - <https://github.com/mob-sakai/UIEffect>
-  - <https://bitbucket.org/Unity-Technologies/>
 
 - frameworks per giochi narrativi
   - <https://github.com/snozbot/fungus>
@@ -46,4 +47,3 @@ toc: true
 - developers
   - <https://github.com/keijiro/>
   - <https://github.com/ncase>
-
