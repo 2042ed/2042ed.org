@@ -96,6 +96,15 @@ l'InnerSource usa le skills degli sviluppatori abituati all'OpenSource e le port
   - sviluppo più veloce, con Unit Tests e Continuous Integration
 - mix tra repo privati e pubblici
 
+## Closed Source vs Open Source
+
+Tutti i progetti "proprietari" hanno virtù tipo
+- poter usare assets commerciali
+- segreto industriale
+- controllo sulla proprietà
+- ...
+
+
 ---
 
 ## Approfondimenti

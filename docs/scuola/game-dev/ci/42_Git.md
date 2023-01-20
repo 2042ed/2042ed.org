@@ -102,6 +102,8 @@ Sono operazioni che sincronizzano un repository locale con uno remoto:
 `git merge` serve per unire un branch ad un altro.  
 Solitamente si fa da un branch di `dev/feature/bugfix` verso il `main`
 
+Solitamente Git gestisce in autonomia i merge, ma in alcuni casi di **confitto**, ovvero quando due persone diverse hanno modificato lo _stesso file nello stesso punto_, Git ti chiede se tenere la versione di un branch o dell'altro o eventualmente unire le modifiche manualmente (via editor di testo).
+
 ### Tag
 E' un'eticatta che si applica ad un commit per identificarlo in modo speciale.
 Esempi di tags: `v0.1.2`, `release_1`. In questo modo è facile vedere nello storico le versioni particolari. Un tag può essere solo locale oppure condiviso anche nel remote e quindi con gli altri.  
@@ -126,6 +128,7 @@ Se si usano invece files binary molto grandi (ad esempio .pdf, .tiff, wav, .mov)
 
 ### Submodules
 Una directory di un progetto Git può essere un altro progetto Git, separato e indipendente. ad esempio una libreria condivisa tra più progetti.
+
 
 ### Revisione storica e funzioni avanzate
 Con comandi particolari si può intervenire sullo storico dei commit, ad esempio eliminando un determinato tipo di file (ad esempio contenente un dato privato) o troppo grande.
