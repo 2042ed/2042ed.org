@@ -5,7 +5,7 @@ nav_order: 40
 ---
 
 # XR = AR + VR + MR
-*Le nuove tecnologie immersive*  
+_Le nuove tecnologie immersive_  
 di [Stefano Cecere](https://github.com/StefanoCecere)
 
 conoscere la teoria e le basi della XR, per essere pronti al futuro e cogliere le nuove opportunità.
@@ -25,6 +25,7 @@ conoscere la teoria e le basi della XR, per essere pronti al futuro e cogliere l
 ## Human Centered Design
 
 ## Trends
+
 1. hardware sempre più economico
 2. Remote work più connesso ([vedi](https://arpost.co/2021/04/27/vr-remote-collaboration-changing-work/))
 3. Augmented Shopping sarà la norma per i social media

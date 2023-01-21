@@ -14,6 +14,7 @@ nav_order: 90
 <https://unity.com/how-to/what-is-xr-glossary>
 
 # AR
+
 ## Hardware
 Google Devices
 <https://developers.google.com/ar/discover/supported-devices>
@@ -58,6 +59,7 @@ XR Interaction
 <https://github.com/Unity-Technologies/XR-Interaction-Toolkit-Examples>
 
 # VR
+
 ## hardware
 - <https://www.oculus.com/compare/>
 - <https://www.vive.com/us/>
@@ -72,13 +74,14 @@ XR Interaction
 <http://lavalle.pl/vr/> (free, huge)
 
 ## course
+
 - <https://www.fib.upc.edu/en/studies/masters/master-innovation-and-research-informatics/curriculum/syllabus/VAR-MIRI>
 - <https://unige.it/off.f/2020/ins/44020.html>
-- https://www.coursera.org/learn/introduction-virtual-reality
+- <https://www.coursera.org/learn/introduction-virtual-realityZ>
 
 ## Cardboard examples
 Cardboard Design Lab - Apps on Google Play
-https://play.google.com/store/apps/details?id=com.google.vr.cardboard.apps.designlab
+<https://play.google.com/store/apps/details?id=com.google.vr.cardboard.apps.designlab>
 
 Google Cardboard demo:
 <https://developers.google.com/cardboard/develop/unity/quickstart>

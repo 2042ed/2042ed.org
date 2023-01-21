@@ -11,10 +11,12 @@ nav_order: 30
 <https://unity.com/unity/features/vr>
 
 XR Interaction Toolkit
+
 - <https://blogs.unity3d.com/2019/12/17/xr-interaction-toolkit-preview-package-is-here/>
 - <https://github.com/Unity-Technologies/XR-Interaction-Toolkit-Examples/tree/master/VR>
 
-OpenXR: 
+OpenXR:
+
 - <https://forum.unity.com/threads/unity-support-for-openxr-in-preview.1023613/>
 - <https://docs.unity3d.com/Packages/com.unity.xr.openxr@1.0/manual/index.html>
 
@@ -22,4 +24,3 @@ OpenXR:
 ## Lab
 
 <https://github.com/StefanoCecere/GameLab_VR_Unity/>
-
