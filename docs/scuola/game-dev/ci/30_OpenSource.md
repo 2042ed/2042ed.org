@@ -104,7 +104,6 @@ Tutti i progetti "proprietari" hanno virtù tipo
 - controllo sulla proprietà
 - ...
 
-
 ---
 
 ## Approfondimenti
