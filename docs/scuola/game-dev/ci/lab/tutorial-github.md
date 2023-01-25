@@ -25,3 +25,28 @@ creare direcotory `NomeCognome`, caricarci una propria immagine 512*512 jpg e un
 |![](nomeimmagine.jpg) | Nome Cognome | Corso | Nome Team | [GitHub](https://github.com/proprioUsername)|
 ```
 
+Installare Unity 2021.3.16
+
+## PROGRAMMATORI:
+creare uno script .cs dentro Scripts
+creare una propria scena dentro _test/nome
+
+## designers:
+creare una propria scena dentro _test/nome
+
+## 3D ART
+creare un file .fbx dentro /Models
+max 10KB
+
+## Concepts
+creare un file immagine  dentro /Textures
+JPG max 10KB
+
+bonella martinozzi 
+sergio marra dirigente
++ assessora 
+
+gaetano amato
+
+2 fotanella 1 montepulciano e una chiusi
+

@@ -69,7 +69,7 @@ Allow specification of constraints and goals
 - **Diversity**
 Content looks like variations on a theme
 - **Creativity**
-Content looks "computer-generated
+Content looks "computer-generated"
 
 ## Metodi di generazione
 
@@ -84,7 +84,7 @@ Content looks "computer-generated
 - evaluation functions
 
 ### Solver-based
-Ropossum https://www.youtube.com/watch?v=FM3v0tbdKrs
+Ropossum <https://www.youtube.com/watch?v=FM3v0tbdKrs>
 
 ### Metodi Frattali
 

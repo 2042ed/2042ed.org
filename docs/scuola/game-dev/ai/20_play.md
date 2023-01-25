@@ -31,6 +31,7 @@ Una IA nemica ben implementata è caratterizzata dalla credibilità del moviment
 I compagni AI forniscono volti amichevoli in un ambiente ostile. Aiutano nella navigazione, nella risoluzione di enigmi e nel combattimento. Alleviano la solitudine.
 
 Vantaggi:
+
 - Non pre-programmati
 - Meno prevedibili
 - Più furbi
@@ -96,6 +97,7 @@ Unity Machine Learning - Reinforcement Learning Demo
 - <https://www.youtube.com/watch?v=fiQsmdwEGT8>
 
 Multi-Agent Hide and Seek
+
 - [OpenAI Multi-Agent Hide and Seek](https://youtu.be/kopoLzvh5jY)
 - [OpenAI Plays Hide and Seek…and Breaks The Game! 🤖](https://www.youtube.com/watch?v=Lu56xVlZ40M>)
 - [DeepMind’s AI Plays Catch…And So Much More! 🤖](https://www.youtube.com/watch?v=uuzow7TEQ1s)

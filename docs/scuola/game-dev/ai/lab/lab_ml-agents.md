@@ -18,10 +18,6 @@ Ml-Agents examples scenes
 
 Progetto: <https://github.com/StefanoCecere/GameLab_AI_Unity/>
 
-e verificare di aver installato il pacchetto Python + ml-agents
-
-<https://github.com/Unity-Technologies/ml-agents/blob/release_17_branch/docs/Learning-Environment-Create-New.md>
-
 ## Approfondimenti
 
 varie aggiornamenti:
