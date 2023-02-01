@@ -4,29 +4,30 @@ parent: XR
 has_children: false
 nav_order: 90
 ---
-# XR
+# Risorse
 
-## tutorials
-<https://learn.unity.com/course/introduction-to-xr-vr-ar-and-mr-foundations>
-<https://www.xrfordesigner.com/>
+## XR
 
-## Glossario XR
+### Glossario XR
 <https://unity.com/how-to/what-is-xr-glossary>
 
-# AR
+### tutorials
+<https://learn.unity.com/course/introduction-to-xr-vr-ar-and-mr-foundations>
 
-## Hardware
+## AR
+
+### Hardware
 Google Devices
 <https://developers.google.com/ar/discover/supported-devices>
 
-## Assets
+### Assets
 AR Foundation Editor Remote
 <https://assetstore.unity.com/packages/tools/utilities/ar-foundation-editor-remote-168773>
 
 AR Simulation
 <https://assetstore.unity.com/packages/tools/utilities/ar-simulation-173443>
 
-## Tutorials
+### Tutorials
 GDC - First look at Unity 2018 mobile AR key features
 <https://www.youtube.com/watch?v=3WvgLECD73c>
 
@@ -39,11 +40,11 @@ Tutorial Project: Getting Started with ARFoundation in Unity
 <https://youtu.be/Ml2UakwRxjk>
 <https://github.com/TheUnityWorkbench/tuw-arfoundation-demo>
 
-## Corsi AR
+### Corsi AR
 <https://www.coursera.org/learn/handheld-ar>
 <https://www.coursera.org/learn/handheld-ar/lecture/JN89S/the-magical-mirror>
 
-## Talks
+### Talks
 Conferenza su Unity MARS
 <https://resources.unity.com/unitenow/onlinesessions/how-to-create-captivating-deeply-interactive-mobile-ar-games>
 
@@ -58,28 +59,28 @@ XR Interaction
 <https://github.com/dilmerv/XRCoreInteractions>
 <https://github.com/Unity-Technologies/XR-Interaction-Toolkit-Examples>
 
-# VR
+## VR
 
-## hardware
+### hardware
 - <https://www.oculus.com/compare/>
 - <https://www.vive.com/us/>
 - <https://store.steampowered.com/sub/354231/>
 - <https://www.playstation.com/en-us/ps-vr/ps-vr-experiences/>
 - https://developers.google.com/cardboard
 
-## sites
+### sites
 <https://arvrtips.com>
 
-## books
+### books
 <http://lavalle.pl/vr/> (free, huge)
 
-## course
+### course
 
 - <https://www.fib.upc.edu/en/studies/masters/master-innovation-and-research-informatics/curriculum/syllabus/VAR-MIRI>
 - <https://unige.it/off.f/2020/ins/44020.html>
 - <https://www.coursera.org/learn/introduction-virtual-realityZ>
 
-## Cardboard examples
+### Cardboard examples
 Cardboard Design Lab - Apps on Google Play
 <https://play.google.com/store/apps/details?id=com.google.vr.cardboard.apps.designlab>
 

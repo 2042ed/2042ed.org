@@ -12,6 +12,8 @@ nav_order: 30
 
 XR Interaction Toolkit
 
+webminar: https://www.youtube.com/watch?v=MIoGBoC1txM
+
 - <https://blogs.unity3d.com/2019/12/17/xr-interaction-toolkit-preview-package-is-here/>
 - <https://github.com/Unity-Technologies/XR-Interaction-Toolkit-Examples/tree/master/VR>
 
