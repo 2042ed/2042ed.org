@@ -46,3 +46,6 @@ Il gioco italiano più famoso al mondo, e per un buon motivo: è semplice, abbas
 > Mi piace perché non sai mai chi siano i banditi e devi capire di chi dei tuoi amici ti puoi fidare
 
 
+## GameDev
+Una tesi di Laurea sul design di una #AI che gioca a Bang:  
+<https://emilianosciarra.it/una-tesi-di-laurea-sullintelligenza-artificiale-di-bang/>
