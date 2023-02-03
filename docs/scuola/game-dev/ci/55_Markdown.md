@@ -1,13 +1,13 @@
 ---
 title: Markdown
 date: 2022-12-23
-updated: 2023-01-16
+updated: 2023-02-03
 type: book
 weight: 55
 toc: true
 draft: false
 ---
-## Markdown
+# Markdown
 
 ![](img/markdown_logo.webp)
 
@@ -17,6 +17,7 @@ Qui la base è testo semplice con pochissime convenzioni che permettono al conte
 GitHub ha determinato massicciamente l'adozione dello standard Markdown per la documentazione e la scrittura in generale e ormai moltissimi siti vengono generati con Static Site Generators (vedi Jekyll o Hugo) a partire da contenuti scritti in Markdown, e la maggior parte degli editor di testo lo supportano nativamente.
 
 ## Playground
+guadare il codice di questa pagina per capire
 
 note: GitHub ha una sua versione di MarkDown: <https://github.github.com/gfm/>
 

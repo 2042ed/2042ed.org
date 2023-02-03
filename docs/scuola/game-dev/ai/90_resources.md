@@ -1,7 +1,7 @@
 ---
 title: Resources
 date: 2022-12-23
-updated: 2023-01-10
+updated: 2023-02-03
 type: book
 weight: 90
 ---
@@ -153,3 +153,8 @@ https://mohammadshaker.com/2014/01/18/ropossum-v1-0/
 
 - Game Description Language (GDL)
 https://medium.com/@ryanrothweiler/improving-game-design-process-9e392ebf73af
+
+
+## Niceties
+
+- <https://twitter.com/Spaceflux1> Videogioco con mappa frattale

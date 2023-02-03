@@ -1,7 +1,7 @@
 ---
 title: Git Tutorial
 date: 2023-01-14
-updated: 2023-01-16
+updated: 2023-02-03
 ---
 # Git Tutorial
 
@@ -28,12 +28,12 @@ Creare account
 check su GitHub
 
 ## .gitignore
-aggiugere un `random.txt` e poi ignorarlo.
+aggiungere un `random.txt` e poi ignorarlo.
 
 ## Modificare il file
 e committare
 
-## eliminare file
+## eliminare file
 e check
 
 ## revert changes
@@ -46,9 +46,3 @@ check in main
 
 ## merge
 from branch feature-1
-
----
-
-
-
-

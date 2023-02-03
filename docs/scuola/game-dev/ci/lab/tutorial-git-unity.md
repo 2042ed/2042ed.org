@@ -1,7 +1,7 @@
 ---
 title: Unity Game Project Template
 date: 2023-01-14
-updated: 2023-01-16
+updated: 2023-02-03
 ---
 # Unity Game Project Template
 

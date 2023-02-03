@@ -1,23 +1,28 @@
 ---
-title: GitHub Tutorial
+title: GitHub Lab
 date: 2023-01-14
-updated: 2023-01-16
+updated: 2023-02-03
 ---
-# GitHub Tutorial
+# GitHub Lab
 
 ## create a personal HomePage
 
-see <https://github.com/StefanoCecere/StefanoCecere>
+creare un repository che si chiami come il proprio username e inserirci un `readme.md`
 
-Introdurre Markdown
+tipo:
+- <https://github.com/StefanoCecere/StefanoCecere>
+- <https://github.com/KlausRenzo/KlausRenzo>
 
-caricare immagine
+per la sintassi Markdown potete fare riferimento a [qui](../55_Markdown.md)
 
-## albo classe
+## Albo di Classe
 
-Creiamo un albo tipo <https://github.com/TheSignAcademy/Albo_2124/>
+Creiamo un albo tipo <https://github.com/TheSignAcademy/Albo_2225>
 
-creare direcotory `NomeCognome`, caricarci una propria immagine 512*512 jpg e un file di testo.md con 
+- Creare una directory `data/NomeCognome`
+- caricarci una propria immagine 512\*512 jpg 
+- creare file markdown `NomeCognome.md` con dentro tipo:
+- comunicare ai propri programmatori o delegato la disponibilità del contenuto
 
 ```markdown
 | Immagine | Nome | Corso | Team | Url |
@@ -25,28 +30,29 @@ creare direcotory `NomeCognome`, caricarci una propria immagine 512*512 jpg e un
 |![](nomeimmagine.jpg) | Nome Cognome | Corso | Nome Team | [GitHub](https://github.com/proprioUsername)|
 ```
 
-Installare Unity 2021.3.16
+i PROGRAMMATORI o master git inseriranno nel `README.md` le righe di tabella del proprio team.
 
-## PROGRAMMATORI:
-creare uno script .cs dentro Scripts
-creare una propria scena dentro _test/nome
+## Progetto Teamwork
 
-## designers:
-creare una propria scena dentro _test/nome
+Installare Unity 2021.3.x
+Clonare il proprio progetto teamwork.
 
-## 3D ART
+### Programmatori
+
+- creare uno script .cs dentro Scripts
+- creare una propria scena dentro _test/nome
+- creare un brach personale di test di nome `dev_nome`
+- creare una `tag` di release
+
+### Game Designer
+- creare un brach personale di test di nome `dev_nome`
+- creare una propria scena dentro _test/nome
+
+### 3D Art
 creare un file .fbx dentro /Models
 max 10KB
 
-## Concepts
+### Concept
 creare un file immagine  dentro /Textures
 JPG max 10KB
-
-bonella martinozzi 
-sergio marra dirigente
-+ assessora 
-
-gaetano amato
-
-2 fotanella 1 montepulciano e una chiusi
 

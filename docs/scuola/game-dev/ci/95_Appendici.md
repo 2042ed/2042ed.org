@@ -1,7 +1,7 @@
 ---
 title: Appendici e Risorse
 date: 2022-12-23
-updated: 2023-01-16
+updated: 2023-02-03
 type: book
 weight: 95
 toc: true
@@ -28,7 +28,19 @@ toc: true
 - Phaser JS game engine <https://phaser.io>
 - Blender 3D engine  sempre più usato anche dai big studios <https://www.blender.org>
 - Audacity audio editor <http://www.audacityteam.org/download/linux/>
- 
+
+## Artisti Open Source / CC
+- https://quaternius.com/index.html
+- https://kenney.nl/assets
+
+## Programmatori Opensource
+- https://catlikecoding.com/
+- https://github.com/SebLague
+
+## Scuole Opensource
+- https://github.com/CodingTrain
+
+
 ## Esempi
 - progetti complessi:
   - <https://github.com/microsoft/vscode>
