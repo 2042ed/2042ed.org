@@ -10,6 +10,7 @@ updated: 2023-02-03
 creare un repository che si chiami come il proprio username e inserirci un `readme.md`
 
 tipo:
+
 - <https://github.com/StefanoCecere/StefanoCecere>
 - <https://github.com/KlausRenzo/KlausRenzo>
 
@@ -45,14 +46,14 @@ Clonare il proprio progetto teamwork.
 - creare una `tag` di release
 
 ### Game Designer
+
 - creare un brach personale di test di nome `dev_nome`
 - creare una propria scena dentro _test/nome
 
 ### 3D Art
-creare un file .fbx dentro /Models
+creare un file .fbx dentro `/Models`  
 max 10KB
 
 ### Concept
-creare un file immagine  dentro /Textures
+creare un file immagine  dentro `/Textures`  
 JPG max 10KB
-
