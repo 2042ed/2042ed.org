@@ -1,6 +1,6 @@
 ---
 title: ARKombat - Piante vs Robots
-summary: storia della nascita di gioco di carte in AR creato in Jam dai ragazzi
+description: storia della nascita di un gioco di carte in AR creato in Jam dai ragazzi
 tags: [GlobalGameJam, KidsMakeGames, Progetto]
 categories: [jamurr]
 date: 2023-02-05
