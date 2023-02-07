@@ -112,6 +112,8 @@ Verifichiamo bene tutto.. si leggono i QR code? funziona la Realtà Aumentata?
 
 ![Alt text](../../assets/img/project/arkombat/check_ar.webp){: style="height:300px"}
 
+![Alt text](../../assets/img/project/arkombat/check_ar_modelli.webp){: style="height:300px"}
+
 Ecco un po' di carte della prima versione:
 
 ![Alt text](../../assets/img/project/arkombat/carte.webp){: style="height:300px"}
