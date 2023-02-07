@@ -10,6 +10,11 @@ hide:
 
 _Benvenuti in questo spazio opensource e un po' familiare nell'intersezione tra il gioco, l'educazione e il futuro. Per genitori, educatori, sviluppatori, giocatori._
 
+## Novità
+
+[![ARKombat title](assets/img/project/arkombat/arkombat-title.webp)](2042/jam/arkombat.md)  
+[2022-02-05: Leggete la storia del gioco di carte creato dai ragazzi](2042/jam/arkombat.md)
+
 ## PLAY: per educatori, genitori e giocatori
 
 <div class="grid cards" markdown>
