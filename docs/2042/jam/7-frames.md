@@ -69,6 +69,7 @@ nella prima parte della giornata abbiamo spiegato come avremmo lavorato e poi in
 - Stefano Cecere
 
 ## Grazie speciali
+
 - Michele Lanzo
 - Internet Festival [www.internetfestival.it](https://www.internetfestival.it)
 - Mixart Pisa [www.mix-art.org](https://www.mix-art.org)
@@ -77,6 +78,7 @@ nella prima parte della giornata abbiamo spiegato come avremmo lavorato e poi in
 - e il piccolo BRUNO!
 
 ## Strumenti
+
 - [Fungus](https://fungusgames.com) (engine open source)
 - Unity
 - Minecraft

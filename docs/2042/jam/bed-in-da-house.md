@@ -40,6 +40,7 @@ The GitHub project is <https://github.com/2042ed/JAM.BedInDaHouse>
 
 ## Team
 Team 4+2 are
+
 - Ruben Aicardi (teen)
 - Fabio Cecere (kid)
 - Enea Polsinelli (kid)

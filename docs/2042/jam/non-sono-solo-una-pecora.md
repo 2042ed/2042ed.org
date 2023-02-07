@@ -21,11 +21,9 @@ this game was designed and drawn by a 7yo child at his first "real" game product
 
 {{< youtube 0DPo3DuW7Bk >}}
 
-
 GGJ site: <http://globalgamejam.org/2016/games/im-not-just-sheep-non-sono-solo-una-pecora>
 
 ![](img/notjustasheep_comp1.webp){: style="height:200px"}
 ![](img/notjustasheep_comp2.webp){: style="height:200px"}
 ![](img/notjustasheep_intro.webp){: style="height:200px"}
 ![](img/notjustasheep_pensieroprofontoteam.webp){: style="height:200px"}
-

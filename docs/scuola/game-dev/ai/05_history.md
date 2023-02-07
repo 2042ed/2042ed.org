@@ -5,12 +5,12 @@ updated: 2023-01-10
 ---
 # La storia della AI
 
-  - storia: inizio anni 50, Turing per giocare a scacchi senza computer
-  - modellare l'intelligenza
-  - deterministici
-  - Deep Blu fine anni '90
-  - Narrow/Weak AI & Strong (true) AI / AGI
-  - big data & GPU power -> ML
+- storia: inizio anni 50, Turing per giocare a scacchi senza computer
+- modellare l'intelligenza
+- deterministici
+- Deep Blu fine anni '90
+- Narrow/Weak AI & Strong (true) AI / AGI
+- big data & GPU power -> ML
 
 ## La storia dell'apprendimento automatico
 
