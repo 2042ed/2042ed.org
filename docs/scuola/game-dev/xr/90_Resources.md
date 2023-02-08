@@ -12,7 +12,10 @@ nav_order: 90
 <https://unity.com/how-to/what-is-xr-glossary>
 
 ### tutorials
-<https://learn.unity.com/course/introduction-to-xr-vr-ar-and-mr-foundations>
+
+- <https://learn.unity.com/course/introduction-to-xr-vr-ar-and-mr-foundations>
+- Da Google: ottimo <https://codelabs.developers.google.com/arcore-unity-ar-foundation>
+- lui spiega bene gli Anchor <https://www.andreasjakl.com/raycast-anchor-placing-ar-foundation-holograms-part-3/>
 
 ## AR
 
