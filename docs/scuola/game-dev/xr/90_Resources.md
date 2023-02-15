@@ -65,11 +65,12 @@ XR Interaction
 ## VR
 
 ### hardware
+
 - <https://www.oculus.com/compare/>
 - <https://www.vive.com/us/>
 - <https://store.steampowered.com/sub/354231/>
 - <https://www.playstation.com/en-us/ps-vr/ps-vr-experiences/>
-- https://developers.google.com/cardboard
+- <https://developers.google.com/cardboard>
 
 ### sites
 <https://arvrtips.com>
