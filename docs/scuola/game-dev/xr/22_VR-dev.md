@@ -41,5 +41,5 @@ webminar: <https://www.youtube.com/watch?v=MIoGBoC1txM>
 
 #### Mixed Reality Toolkit (MRTK)
 
-- https://learn.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/mrtk3-overview/
-- https://github.com/microsoft/MixedRealityToolkit-Unity
+- <https://learn.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/mrtk3-overview/>
+- <https://github.com/microsoft/MixedRealityToolkit-Unity>

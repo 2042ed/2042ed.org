@@ -39,7 +39,7 @@
 
 ## Interaction
 
-- audio 
+- audio
 - haptics
 - remote controller
 - UI
