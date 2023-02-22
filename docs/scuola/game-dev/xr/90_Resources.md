@@ -78,6 +78,13 @@ XR Interaction
 ### books
 <http://lavalle.pl/vr/> (free, huge)
 
+### youtubers
+
+- <https://www.youtube.com/@VRwithAndrew>
+- <https://www.youtube.com/@ValemTutorials>
+- <https://www.youtube.com/@ValemVR>
+- <https://www.youtube.com/@dilmerv>
+
 ### course
 
 - <https://www.fib.upc.edu/en/studies/masters/master-innovation-and-research-informatics/curriculum/syllabus/VAR-MIRI>
