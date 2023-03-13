@@ -6,13 +6,13 @@ Per essere aggiornati velocemente sugli sviluppi di questo sito e sulle attivit√
 
 <div class="grid cards" markdown>
 
-- :fontawesome-brands-telegram: **[Canale Telegram](https://t.me/ed2042)**  
+- :fontawesome-brands-telegram: **[Canale Telegram](https://t.me/cecere2042)**  
 un messaggio alla settimana
 - :fontawesome-brands-whatsapp: **[Canale WhatsApp](https://chat.whatsapp.com/CjWcksEAFHZKG9Edahs2yO)**  
 un messaggio alla settimana
-- :fontawesome-solid-envelope-open-text: **[Newsletter](https://tinyletter.com/2042ed)**  
+- :fontawesome-solid-envelope-open-text: **[Newsletter](https://cecere.substack.com)**  
 una email al mese
-- :fontawesome-brands-facebook: **[Facebook](https://facebook.com/2042ed)**  
+- :fontawesome-brands-facebook: **[Facebook](https://facebook.com/cecere.xyz)**  
 quando capita :)
 
 </div>
