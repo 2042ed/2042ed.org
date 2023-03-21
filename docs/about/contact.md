@@ -1,19 +1,19 @@
 ---
 title: Contatto
 ---
-## Seguici
-Per essere aggiornati velocemente sugli sviluppi di questo sito e sulle attività consigliamo **Telegram** o la **Newsletter**:
+## Segui
+Per essere aggiornati velocemente sugli sviluppi di questo sito e sulle attività consiglio **Telegram** o la **Newsletter**:
 
 <div class="grid cards" markdown>
 
 - :fontawesome-brands-telegram: **[Canale Telegram](https://t.me/cecere2042)**  
-un messaggio alla settimana
-- :fontawesome-brands-whatsapp: **[Canale WhatsApp](https://chat.whatsapp.com/CjWcksEAFHZKG9Edahs2yO)**  
-un messaggio alla settimana
+il canale preferito di interazione
 - :fontawesome-solid-envelope-open-text: **[Newsletter](https://cecere.substack.com)**  
-una email al mese
+una email alla settimana
+- :fontawesome-brands-whatsapp: **[Canale WhatsApp](https://chat.whatsapp.com/CjWcksEAFHZKG9Edahs2yO)**  
+se proprio non avete Telegram
 - :fontawesome-brands-facebook: **[Facebook](https://facebook.com/cecere.xyz)**  
-quando capita :)
+la mia pagina FB
 
 </div>
 
@@ -29,4 +29,3 @@ se vieni qui e metti una star al repository...
 lo spazio community più nerd
 
 </div>
-
