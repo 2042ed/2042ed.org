@@ -73,7 +73,7 @@ plugins:
       enabled: !ENV [CI, false]
       type: date
       locale: it
-      enable_creation_date: false
+      enable_creation_date: true
       exclude:
         - index.md
   - exclude:
