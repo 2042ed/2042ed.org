@@ -179,6 +179,9 @@ Anche una narrativa solo audio è molto interessante per stimolare l'immaginazio
 ### Avventura
 Il videogiocatore, in questo genere, si ritrova libero di esplorare aree di gioco sempre nuove, panorami sempre diversi risultando libero di interagire con i vari scenari e personaggi secondari. Il genere nasce con i giochi in stile platform. L’identificazione con il protagonista dal punto cognitivo ed emotivo e il senso di presenza sono delle colonne portanti di questi giochi. Gli esempi più chiari sono Super Mario, Crash Bandicoot.
 
+### Casual
+Giochi di breve durata, spesso giocati su smartphone e tablet durante gli spostamenti o negli intermezzi della vita quotidiana.
+
 ### Educativi
 Nel mondo della scuola e dell'educazione in generale, si è scoperto quanto i videogiochi possano essere utilissimi per determinati scopi didattici, a volte molto più coinvolgenti e immediati delle tecniche normali. Che siano esperienze in Realtà Virtuale o Aumentata per esplorare l'astronomia o la meccanica, o giochi strategici per rivivere la Storia, giochi che ti fanno imparare lingue straniere o risolvere problemi scientifici, la EdTech (così si chiama in gergo l'uso delle nuove tecnologie per fini educativi) è già tra noi.
 
@@ -186,16 +189,20 @@ Nel mondo della scuola e dell'educazione in generale, si è scoperto quanto i vi
 Quando l'interazione con il gioco è con il movimento fisico, dal semplice camminare (*PokemonGO*) al correre perché inseguiti da zombies virtuali (*Zombie Run*), dal fare addominali e flessioni per combattere un mostro (*Ring Fit Adventure*) al ballare in coreografia perfetta (*Just Dance*).
 Il videogioco permette di dare un minimo *senso* a quelle che sarebbero altrimenti attività pretesto: fare 20 flessioni uno può farle perché vuole allenarsi e ha un obiettivo di sviluppo fisico.. ma la motivazione potrebbe non essere sufficiente a farle *tutti i giorni* per un mese. 
 
-### FPS
-I giochi in prima persona (First Person Shooter)
+### FPS / Sparatutto
+I giochi in prima persona (First Person Shooter) o terza persona.
+Di solito sono giochi violenti: da soli o in team si combattono gli avversari impiegando armi da fuoco. Spesso l'ambiente circostante è visto dalla prospettiva del proprio personaggio di gioco.
 
-### Manageriali
+### Gestionali / Manageriali
 Si deve gestire una città, un mondo, una squadra di calcio, uno studio di videogiochi, una fabbrica, un Governo!, una ditta edile.. oggi qualsiasi cosa necessiti un manager nel mondo reale, ha la sua controparte nel mondo videoludico, e spesso con dettagli e procedure talmente precise, che i videogiochi non solo formano i nuovi Manager, ma vengono usati per migliorarsi, formare giovani leve, e simulare scenari alternativi. Davvero: ci sono scuole di business che usano i videogiochi anche per decidere chi assumere e chi no.
 Ma il "management" potrebbe essere anche solo il giardino di casa o il proprio allevamento di draghi pollo, il principio è lo stesso: imparo a gestire sistemi complessi, facendo crescere qualcosa di mio, in un ambiente simulato, sicuro e divertendomi.
 
 ### Musicali
 Due sono le componenti estetiche fondamentali per un gioco: la grafica e la musica.
 E qualche videogioco ha fatto della musica la componente principale, facendo giocare direttamente con la propria colonna sonora, con canzoni e con i suoni.
+
+### Open World
+offrono parecchie possibilità di scelta, in quanto non vi è un percorso predefinito e si gode di una libertà di movimento virtuale illimitata.  
 
 ### Playground
 Quando il gioco si avvicina al giocattolo, quindi con la scomparsa di regole e obiettivi, il videogioco diventa la propria cameretta dove mettersi sul pavimento a fare di tutto: dal prendersi cura dei propri cuccioli al costruire castelli con i blocchi (i *voxel*) digitale, dal tagliare i capelli in un salone di bellezza virtuale al fare i lavori di casa.
@@ -224,14 +231,35 @@ Come con i giochi manageriali, anche quelli che richiedono una forte strategia s
 Quattro sono le cose da considerare per decidere se un gioco è adatto e buono per le nostre esigenze
 
 1. verificare il codice **PEGI** (Pan European Game Information) che serve a classificare tutti i videogiochi per età e tipo di contenuto. Un PEGI 3 sarà adatto dai 3 anni in su, un PEGI 18 avrà contenuti e meccaniche di gioco adatto ai soli maggiorenni. Se i nostri ragazzi sono esperti, si può essere morbidi (ad esempio un Zelda lo danno PEGI-12 ma Fabio lo ha finito senza problemi a 9 anni e per noi quel genere di violenza di sparare frecce e spadate ai nemici non è un problema)
-2. cercare il titolo su un sito di recensioni di media per famiglie e ragazzi come il Common Sense Media [^url_commonsensemedia], che è davvero una grandissima risorsa utile anche per trovare nuovi videogiochi e film perfetti per i nostri ragazzi
-3. il gusto e l'esperienza personale: se mi piace un genere di gioco e lo conosco, che siano le avventure punta e clicca o i giochi di strategia, saprò valutare io stesso nuovi titolo di quel genere
+2. cercare il titolo su un sito di **recensioni** di media per famiglie e ragazzi come il Common Sense Media [^url_commonsensemedia], che è davvero una grandissima risorsa utile anche per trovare nuovi videogiochi e film perfetti per i nostri ragazzi
+3. il **gusto** e l'esperienza personale: se mi piace un genere di gioco e lo conosco, che siano le avventure punta e clicca o i giochi di strategia, saprò valutare io stesso nuovi titolo di quel genere
 4. vedere su youtube un po' di gameplay, ovvero qualcuno che lo gioca, così da capire cosa succede, cosa bisogna fare, che linguaggio e che estetica presenta.
 5. chiedere consiglio nei vari forum / gruppi facebook di categoria. c'è sempre molta gente disponibile a dare un parere!
 
 [^url_commonsensemedia]: <https://www.commonsensemedia.org> è il più grande e importante portale di informazioni e recensioni per i genitori
 
-## Cosa non ci piace
+## Modelli economici
+Dobbiamo stare molto attenti a come i VG guadagnano soldi.
+Spesso quelli che guadagnano di più sono _gratuiti_.
+
+### Pay to Play
+Acquisto singolo o abbonamento?
+
+### Free to Play
+I giochi free-to-play sono, come suggerisce il nome, pubblicizzati come gratuiti. Di regola, però, la gratuità vale solo per i primi livelli. In seguito per progredire sono necessari oggetti, che si acquistano con i soldi del gioco, ma per i quali si deve anche pagare in termini reali. Gli acquisti in-game possono diventare trappole dei costi, soprattutto per i bambini, che non capiscono questi modelli di pagamento e che nell'impeto del gioco hanno un solo e unico obiettivo, ossia avanzare il più velocemente possibile.
+
+### Pay to Win
+I giochi pay-to-win vanno ancora un passo oltre: essi permettono infatti di acquistare progressi di gioco o altri vantaggi. Questo modello è particolarmente controverso, poiché influenza il corso del gioco.
+
+## Rischi: Cosa non ci piace
+
+### Acquisti in-game, loot box e altre trappole dei costi
+con gli acquisti in-game (compresi gli acquisti in-app) vengono attivati, contro pagamento, nuovi contenuti, funzioni di gioco, feature o upgrade. Anche i giochi inizialmente gratuiti possono dunque avere risvolti negativi.
+
+Un altro fenomeno sono le cosiddette loot box, ovvero scrigni virtuali o buste a sorpresa. Esse contengono accessori come capi di abbigliamento o attrezzature, che però non sono indispensabili per il seguito del gioco. A seconda del gioco, le loot box possono essere aperte non appena si raggiungono determinati obiettivi o se si paga.
+
+### il peggio: pay-to-win
+
 > Giocheresti contro avversari sapendo che le regole prevedono che se spendi molti soldi sei più forte?
 
 Questi sono i giochi peggiori, e non li consideriamo neache giochi. Peggio dei giochi d'azzardo (che andrebbe evitati come la peste).
@@ -241,6 +269,15 @@ Se possibile evitare anche i giochi totalmente gratuiti, perché gratuiti non lo
 
 Da tenere a distanza anche i videogiochi che creano dipendenza (*addiction*) e che richiedono soldi per poter rigiocare più velocemente. Sono dei giochi subdoli che violano l'etica del buon gioco. Ma purtroppo ce ne sono tantissimi, e fanno un sacco di soldi, sopratutto con la popolazione più anziana. Sic.
 
+### Uso eccessivo
+una persona che gioca molto intensamente in un certo periodo, non deve per forza soffrire di una dipendenza da videogioco. Tuttavia, secondo alcuni studi, la dipendenza da Internet si manifesta spesso sotto forma di dipendenza da videogioco. Nei giochi di ruolo online si instaura rapidamente una stretta identificazione con il proprio "avatar" (il proprio personaggio nel gioco), che si vuole sviluppare e migliorare in continuazione. Poiché molte sfide devono essere affrontate in gruppo, cresce la pressione affinché ogni membro sia sempre presente. Nei giovani, particolarmente nei giovani già afflitti da altri problemi, questo può indurre a un uso problematico, con conseguenze dannose.
+
+### Contenuti inadatti
+bambini e adolescenti possono entrare facilmente in contatto con contenuti ludici non adatti alla loro età perché violenti, a sfondo sessuale, discriminatori o altro. Soprattutto nei videogiochi online è facile aggirare i limiti di età o cliccare su link che conducono a contenuti vietati ai minori
+
+### Evasione dalla vita quotidiana
+il mondo affascinante dei videogiochi e la possibilità di assumere ruoli diversi possono indurre i bambini e i giovani a scappare dai problemi reali e rifugiarsi nello spazio virtuale.
+
 ### Online Multigiocatori è pericoloso?
 > online non sai mai cosa c'è dall'altra parte del filo. _Mai_.
 
@@ -248,6 +285,7 @@ Se un gioco prevede l'online multigiocatore e si gioca in modalità aperta, biso
 Conviene quindi stare sempre molto attenti e prendere qualche precauzione per **giocare insieme si, ma al sicuro**.
 
 Ecco alcuni consigli e considerazioni:
+
 - almeno fino ai 14 anni abilitare una rete sociale di **solo amici fidati** 
 - **disabilitare le transazioni di denaro**. sembra ovvio, ma non lo è per tutti. la possibilità di pagare deve essere data solo ad un adulto consapevole e possibilmente critico.
 - **anonimato**: che i ragazzi siano sempre in modalità anonima, senza alcun riferimento alla propria vera identità, tantomeno alla propria casa

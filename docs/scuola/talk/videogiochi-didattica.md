@@ -35,27 +35,27 @@ Si sviluppano capacità trasversali / soft skills attraverso esperienze coinvolg
 l'attuale e le prossime generazioni necessitano di sviluppare competenze diverse dalla semplice conoscenza di materie base.
 
 - self management
-  - focus
-  - integrità
-  - adattamento
-  - iniziativa
+    - focus
+    - integrità
+    - adattamento
+    - iniziativa
 - social intelligence
-  - comunicazione / linguaggio
-  - sensibilità / empatia
-  - gestione delle emozioni e dello stress
-  - collaborazione / competizione
-  - leadership
+    - comunicazione / linguaggio
+    - sensibilità / empatia
+    - gestione delle emozioni e dello stress
+    - collaborazione / competizione
+    - leadership
 - innovazione
-  - curiosità
-  - creatività
+    - curiosità
+    - creatività
 - capacità cognitive 
-  - problem solving (analisi problema e individuare soluione)
-  - prendere buone decisioni
-  - pensiero critico, capacità di esaminare situazioni
+    - problem solving (analisi problema e individuare soluione)
+    - prendere buone decisioni
+    - pensiero critico, capacità di esaminare situazioni
 - etica
-  - saper vincere e perdere
-  - peer education
-  - senso delle cose
+    - saper vincere e perdere
+    - peer education
+    - senso delle cose
 
 **spoiler**: il gioco e il videogioco sviluppa tutte queste
 
@@ -66,23 +66,26 @@ la tecnologia evolve.
 così le idee e i giochi.  
 
 ### Playful experience
+
 - Meaningful
 - Joyful
 - Socially interactive
 - Actively engaging
 - Iterative
-<!-- slide -->
+
 > uno dei problemi più grandi per l'intero settore dell'istruzione ... è quello di tenere gli studenti motivati... I videogames sono coinvolgenti perché l'obiettivo primario dei Game Designers è mantenere vivo l'interesse del giocatore... Mantenere gli utenti coinvolti è un obiettivo che gli educatori non considerano primario. Il loro obiettivo è istruire (Prensky, 2006)
 
-<!-- slide -->
+---
+
 I videogiochi garantiscono:
+
 - esperienze personalizzate
 - feedback in tempo reale
 - forte immedimazione
 - contesti sicuri
 - reiterazione
 - coinvolgimento
-<!-- slide -->
+
 
 ### Non tutti i videogiochi sono uguali
 Gli effetti dipendono dal tipo di videogioco in uso. Si possono verificare conseguenze a livello cognitivo, emotivo e sociale molto differenti a seconda della tipologia specifica, della fascia di età a cui si riferisce il videogioco e della piattaforma di utilizzo. Ad esempio, un gioco action è in grado di aumentare la capacità di attenzione, mentre i casual game sono molto più efficaci per aiutare i bambini e i ragazzi a rilassarsi. Alcuni videogiochi prevedono un utente più attivo, altri, invece, più passivo; esistono anche videogiochi che possono essere utilizzati per l’apprendimento della grammatica e della storia.
@@ -126,12 +129,14 @@ Molti giochi commerciali si prestano ad essere usati così come sono perché con
 #### language settings
 innanzitutto qualsiasi gioco può cambiare lingua (testo/voiceover)
 #### language apps
+
 - Duolingo
 - Babbel
 - Bravolol
 
 #### Movimento / Exergames
 exercise games e kinestetici
+
 - [Just Dance 2019](https://www.ubisoft.com/en-us/game/just-dance-2019/)
 - [Run Keeper](https://runkeeper.com/)
 - [FitBit](https://www.fitbit.com/home)
@@ -139,11 +144,13 @@ exercise games e kinestetici
 - [Zombies, Run!](https://zombiesrungame.com/)
 
 #### AR games
+
 - [Pokémon Go](https://www.pokemongo.com/en-us/)
 - [Geocaching](https://www.geocaching.com/play)
 
 ### Cognitivi
 ####  brain training apps
+
 - [Dr Kawashima’s Brain Training](https://www.nintendo.co.uk/Games/Nintendo-DS/Dr-Kawashima-s-Brain-Training-How-Old-is-Your-Brain--270627.html)
 - [Mangahigh](https://www.mangahigh.com/en/)
 - [Peak Brain Training](https://www.peak.net/)
@@ -154,6 +161,7 @@ exercise games e kinestetici
 - [Sudoku](https://sudoku.game/)
 
 ### Simulazione
+
 - [Kerbal Space Academy](https://www.kerbalspaceprogram.com/)
 - [Civilization](https://civilization.com)
 - [SimCity](https://www.ea.com/games/simcity)
@@ -168,6 +176,7 @@ exercise games e kinestetici
 - [Stop Disasters!](https://www.stopdisastersgame.org/)
 
 ### Siti giochi educativi
+
 - Primary Games Arena - https://primarygamesarena.com/
 - Learning Games for Kids - https://learninggamesforkids.com/
 - Brain Pop - https://www.brainpop.com/games/game-finder/
@@ -239,10 +248,12 @@ Del resto, si può giocare secondo le regole o con le regole, nel senso di costr
 
 ### Multidiscipline
 i VG sono creazioni multidisciplinari
+
 - coding
 - storytelling
 - character design
 - grafica
+
 deve essere fatta in modo progressivo
 
 ### creare una storia interattiva
@@ -258,10 +269,11 @@ introducono al coding in modo visuale
 - [Scratch Jr](https://www.scratchjr.org/teach/activities)
 
 ### Minecraft
-[Minecraft](https://minecraft.net/)
-[Minecraft EDU](https://minecraftedu.com/)
+- [Minecraft](https://minecraft.net/)
+- [Minecraft EDU](https://minecraftedu.com/)
 
 ### Tools avanzati
+
 - Unity
 - RPG Maker
 
@@ -269,12 +281,14 @@ introducono al coding in modo visuale
 
 ### Progettazione
 Considerare:
+
 - gli obiettivi da perseguire (Es. le competenze da sviluppare o potenziare)
 - la metodologia da seguire (Es. gli strumenti disponibili, l’organizzazione del lavoro di classe, il tempo assegnato per ogni sessione di gioco...)
 - l’identificazione dei giochi da utilizzare (considerando le meccaniche di gioco e le caratteristiche dell’interfaccia in relazione agli obiettivi da perseguire)
 - i possibili effetti sulle prestazioni scolastiche degli studenti, i loro comportamenti e i loro atteggiamenti.
 
 ### Selezione dei giochi
+
 - capire come le meccaniche di gioco e le caratteristiche dell’interfaccia (appeal, funzionalità, usabilità) siano funzionali agli obiettivi educativi che si vuole perseguire
 - scegliere accuratamente i livelli di difficoltà e la loro progressione
 - calibrare in modo appropriato il livello di assistenza da offrire ad ogni studente in modo da attivare il ragionamento e il pensiero strategico e supportare adeguatamente la motivazione e l’impegno
@@ -312,6 +326,7 @@ gli insegnanti devono essere informati non solo sulle potenzialità, le caratter
 Free + Premium
 
 ### Parlare di videogiochi
+
 - game addiction
 - violenza
 - social networks
