@@ -46,4 +46,8 @@ played_vg_platforms:
 
  C'è per tutte le piattaforme
 
+![](../../assets/img/played/videogame/machinarium-3.webp)
 
+![](../../assets/img/played/videogame/machinarium-enigmi.webp)
+
+![](../../assets/img/played/videogame/machinarium-together.webp)

@@ -42,3 +42,5 @@ played_url_play:
 
 ![](img/micromacro_1.webp)
 ![](img/micromacro_2.webp)
+
+![](../../assets/img/played/boardgame/micro-macro-lens.webp)

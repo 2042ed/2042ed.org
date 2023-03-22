@@ -38,6 +38,8 @@ played_url_play:
 lastmod: 2022-12-18
 ---
 
+![](../../assets/img/played/boardgame/zombie-teenz-play.webp)
+
 **Zombie Teenz** è il nostro gioco definitivo (del momento)
 
 perché le partite sono velocissime (10 min), si collabora (e quindi si dialoga molto), ha poche mosse ma intelligenti, e più giochi più si sbloccano nuove regole e nuovi scenari, come il cagnolino 🐶 che lo puoi lanciare ad azzannare le caviglie dei mostri.
