@@ -1,5 +1,5 @@
 ---
-title: videogiochi-e-genitori
+title: Videogiochi e Genitori
 date: 2023-03-22
 updated: 2023-03-22
 ---
@@ -57,21 +57,23 @@ E mettiamo sul tavolo alternative: giochi da tavolo, attività STEM, giochi all'
 - https://www.mamamo.it/recensioni/videogiochi/
 - https://www.commonsensemedia.org/game-reviews
 
-## Regole per giovani gamer - Da 4 a 7 anni
+## Regole per giovani gamer
+
+### da 4 a 7 anni
 
 - I giochi digitali (anche quelli delle app) **non sono adatti a bambini al di sotto dei tre/quattro anni**.
 - Accompagna e supporta il tuo bambino durante i primi giochi. Parlate e condividete le vostre impressioni, soffermandovi sulle esperienze che ha vissuto e quello che ha imparato.
 - Seleziona videogame adatti alla sua età, allegri e con un’interfaccia pensata per tutta la famiglia.
 - Limita il tempo di gioco e nel calcolo includi anche il tempo trascorso in compagnia di altri media digitali. Per i bambini al di sotto dei 7 anni si consiglia **un tempo massimo che va dai 20 ai 30 minuti al giorno.**
 
-## Regole per bambini di elementari e medie - Da 7 a 12 anni
+### da 7 a 12 anni
 
 - Segui le indicazioni riportate sui videogame in cui viene indicata l’età minima consigliata per un determinato gioco. Ricorda comunque di aggiungere una valutazione personale, controllando se il tuo bambino è effettivamente pronto per quel tipo di gioco, a prescindere dall’età.
 - Anche quando si tratta di bambini con qualche anno in più, non perdere mai di vista i loro gusti in fatto di videogiochi e il loro comportamento di fronte ai contenuti proposti. Così facendo potrai notare immediatamente eventuali cambiamenti comportamentali e, di conseguenza, intervenire prima che la situazione degeneri.
 - Se, ad esempio, si tratta di giochi d’azione, presta qualche attenzione in più alla presenza di elementi violenti. Giochi dedicati alle corse in auto e moto o agli sport in generale possono essere ugualmente appassionanti, senza però contenere il fattore violenza.
 - Stabilisci dei tempi di gioco chiari e sensati: **i bambini sotto i 10 anni non dovrebbero trascorrere più di 60 minuti davanti allo schermo**. A partire dai 10 anni si può introdurre anche un monte ore settimanale. Sempre in linea generale, puoi calcolare un massimo di 9 ore alla settimana.
 
-## Regole per adolescenti - Dai 13 anni
+### dai 13 anni
 
 - Se tuo figlio si dimostra responsabile e rispettoso delle regole, puoi anche dargli la libertà di organizzare e suddividere il tempo che dedica ai media. Le tue linee guida si limiteranno a individuare, riconoscere e, nel caso, correggere un comportamento errato nell’uso del mondo digitale.
 - Invece di definire un orario giornaliero, limitati a individuare un limite settimanale. Per i ragazzi a partire dai 13 anni, si consiglia in generale un tempo che va **dai 90 ai 120 minuti al giorno** (quindi non più di 10/14 ore a settimana).

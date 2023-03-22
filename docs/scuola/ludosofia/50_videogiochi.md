@@ -10,10 +10,9 @@ updated: 2022-12-16
 ---
 # Videogiochi
 
-> TODO #TODO/vignetta   
-> 2020: smettila di fare fare videogiochi! ti rovini la vista!
-> 1600: smettila di leggere! ti rovini la vista!
-> 1400: smettila di osservare il cielo, ti rovini la vista!
+> 2020: smettila di fare fare videogiochi! ti rovini la vista!  
+> 1600: smettila di leggere! ti rovini la vista!  
+> 1400: smettila di osservare il cielo, ti rovini la vista!  
 
 ## Non sono tutti uguali
 Come nel mondo dei film ci sono molti generi: d'azione, storici, documentari, cartoni, animazione, film per adulti, commedie, serie, corti, ed ognuno di essi con vari ambiti e pubblico... e non li chiamiamo tutti *filmini*.
