@@ -108,13 +108,9 @@ extra:
 #            Grazie del feedback! Se vuoi aiutarmi a migliorare, <a href="https://2042ed.org/about/contact/" target="_blank" rel="noopener">mi scrivi o entri nel canale Telegram?</a>.
   social:
     - icon: fontawesome/brands/telegram
-      link: https://t.me/ed2042
-    - icon: fontawesome/brands/discord
-      link: https://discord.gg/VUjgGtDgAh
+      link: https://t.me/cecere2042
     - icon: fontawesome/brands/facebook
-      link: https://facebook.com/2042ed
-    - icon: fontawesome/brands/github
-      link: https://github.com/2042ed
+      link: https://facebook.com/cecere.xyz
   consent:
     title: Accettazione Cookie
     description: >-
