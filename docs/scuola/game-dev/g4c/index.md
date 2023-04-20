@@ -1,17 +1,13 @@
 ---
-title: G4C
-has_children: true
-nav_order: 20
+title: Games for Change e Business oltre l’Entertainment
+date: 2021-02-15
+updated: 2023-04-20
 ---
 
-# Games++
-*Giochi e Videogiochi Educativi e di Impatto Sociale / Business oltre l’entertainment*  
+# Games for Change e Business oltre l’Entertainment
+*Videogiochi per l'Impatto Sociale e Business oltre l’entertainment*  
 di [Stefano Cecere](https://github.com/StefanoCecere)
 
-- panoramica su Media e impatto sociale
-- caratteristiche dei giochi come strumenti di educazione, persuasione e trasformazione
-- case studies di videogiochi e giochi applicati
-- interesse, pubblico e tassonomia
-- frameworks dedicati per il design e Game Based Learning
-- problematiche e tips di sviluppo
-- mercato e opportunità
+[![G4C](img/book_g4c_banner.webp)](02_introduzione.md)
+
+👉🏼 [Inizia da qui](02_introduzione.md).
