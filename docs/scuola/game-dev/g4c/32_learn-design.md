@@ -1,10 +1,10 @@
 ---
-title: Learn Design
+title: "Design per apprendere"
 date: 2023-04-20
 updated: 2023-04-20
 ---
 
-# Learn Design
+# Design per apprendere
 Appunti per progettare un'esperienza didattica
 
 ## Framework

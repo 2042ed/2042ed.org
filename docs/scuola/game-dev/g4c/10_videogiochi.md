@@ -103,6 +103,7 @@ un buon game designer porta ad un'esperienza.
 > ci interessa far vivere esperienze formative o con effetti oltre il puro divertimento
 
 ### Cosa fanno e cosa portano
+
 - sono una forma di divertimento -> _piacere_
 - sono una forma di gioco -> _coinvolgimento_
 - hanno regole -> _struttura_
@@ -118,9 +119,28 @@ un buon game designer porta ad un'esperienza.
 
 ## Cosa fare oltre l'Entertainment?
 
-### Games for Good
-![](img/maestro.webp)
+- La valorizzazione del **territorio**, sia da un punto di vista turistico che culturale
+- L’estensione di esperienze di fruizione di luoghi di **arte, cultura e scienza** (es. musei)
+- La **divulgazione di conoscenze** (es. tecniche, specifiche, connesse a valori civici etc)
+- L’intervento **psico-pedagogico** per finalità riabilitative, abilitative e di supporto
+- L’ambito **educativo** (apprendimento, potenziamento)
+- La **formazione e le risorse umane** (es. team building, simulazione e acquisizione di competenze, selezione del personale etc)
 
+### Games for Good
+
+![maestro](img/maestro.webp)
+
+Chiamati anche **Games for good**, hanno come pilastro il trattare temi di rilevanza sociale pubblica, quali
+
+- Politica e Storia
+- Religione
+- Conflitti
+- Epidemie
+- Sexism e razzismo
+- Clima
+- Energia
+
+Solitamente sono finanziati dal settore pubblico o fondazioni, in alcuni casi la grande industria per motivi di immagine.
 
 ### Simulazioni
 Sperimentazione / Ricerca
@@ -129,9 +149,10 @@ Le simulazioni sono il miglior ambito dove imparare perché sono un **contesto s
 Testare i vari tipi di errore e relative conseguenze, ed allenarsi per migliorare le best practices.
 Non necessitano di formazione preliminare, perché si può imparare direttamente "learning by doing/playing".
 
-
 ### Serious Games
-![](img/abt-serious-games-book.webp)
+
+![serious game book](img/abt-serious-games-book.webp)
+_Libro "Serious Games" di Clark C. Abt, 1970_
 
 Giochi progettati per obiettivi che non sia il puro intrattenimento.
 L'intrattenimento può essere comunque un effetto complementare, laterale, dell'esperienza di gioco, ma l'obiettivo è attivare un qualche cambiamento nella comprensione, nell'attitudine o nel comportamento del giocatore.
@@ -157,9 +178,10 @@ Alcune caratteristiche di base sono:
 <https://www.youtube.com/watch?v=MUn3hVZ-ejk>
 
 ### Gamification
-Il termine gamification significa “trasformare in gioco qualcosa che non è un gioco. E’ un termine abbastanza generico sotto il quale si inseriscono elementi dei giochi nei sistemi non-gioco per migliorare la User Experience (UX) e l’engagement. 
+Il termine gamification significa “trasformare in gioco qualcosa che non è un gioco. E’ un termine abbastanza generico sotto il quale si inseriscono elementi dei giochi nei sistemi non-gioco per migliorare la User Experience (UX) e l’engagement.
 
-In particolare si usano i concetti e/o elementi dei giochi per “giochificare” applicazioni esistenti,  tipo:
+In particolare si usano i concetti e/o elementi dei giochi per “giochificare” applicazioni esistenti, tipo:
+
 - Punti
 - Badges
 - Trofei
@@ -169,9 +191,11 @@ In particolare si usano i concetti e/o elementi dei giochi per “giochificare�
 
 ![](img/gamification_elements.webp)
 
-### Modalità e Obiettivi di Design
+### Classificazione
 
 ![types-of-game-thinking-and-primary-design-goal](img/types-of-game-thinking-and-primary-design-goal.webp)
+
+![serious-games-areas](img/serious-games-areas.webp)
 
 ## GBL: Game Based Learning
 ![](img/gbl_mario.webp)
@@ -179,9 +203,11 @@ In particolare si usano i concetti e/o elementi dei giochi per “giochificare�
 Il **Game Based Learning** invece è un approccio che usa dei giochi completi, e non solo alcune meccaniche, per ottenere dei risultati predefiniti.
 Possono essere giochi specificatamente progettati oppure giochi esistenti adatti a rinforzare qualche concetto particolare.
 
-**Approfondimento: Edutopia**
-The Benefits of Constructionist Gaming. Playing and building games helps students understand complex systems—including their own systems of thinking.
-https://www.edutopia.org/topic/game-based-learning
+??? note "Approfondimenti"
+
+    **Approfondimento: Edutopia**
+    The Benefits of Constructionist Gaming. Playing and building games helps students understand complex systems—including their own systems of thinking.
+    [www.edutopia.org/topic/game-based-learning](https://www.edutopia.org/topic/game-based-learning)
 
 ## Una classificazione
 
@@ -201,22 +227,26 @@ Senza obiettivi (goals) e regole ben definite, non valuta la performace del gioc
 Regole e obiettivi ben definiti.
 
 ### Purpose (finalità)
-**1. Diffondere un **messaggio****
+**1. Diffondere un messaggio**
+
 - Educativo
 - Informativo
 - Persuasivo
 - Soggettivo
 
-**2. **Allenamento****
+**2. Allenamento**
+
 - Mentale
 - Fisico
 
-**3. **Data Exchange****
-Raccogliere dati e informazioni dai giocatori o invitarli a condividerli.
+**3. Data Exchange**
+
+- Raccogliere dati e informazioni dai giocatori o invitarli a condividerli.
 
 ### Scope
 **Mercati**
-- *Entertainment*
+
+- _Entertainment_
 - Advertising e Marketing
 - Ambiente ed Ecologia
 - Arte
@@ -235,11 +265,13 @@ Raccogliere dati e informazioni dai giocatori o invitarli a condividerli.
 ![](img/diagramma_tipologie.webp)
 
 **Pubblico**
+
 - Pubblico generico
 - Professionisti
 - Studenti
 
-### Combinazioni:
+### Combinazioni
+
 - **Video Game**: game-based + entertainment  
 - **Video Toy**: play-based + entertainment  
 - **Impact Game**: game-based + !entertainment  
@@ -261,17 +293,31 @@ Un esempio semplice: se invento un gioco divertente che aiuta a risolvere il pro
 
 > Si tratta di esplorare l’INVENTIVA APPLICATA a migliorare il mondo
 
-#### I problemi che abbiamo e con i giochi aiutare a risolverli
+### I problemi che abbiamo e con i giochi aiutare a risolverli
 Anziché fare un gioco divertente fine a se stesso, andiamo a prendere un **tema**, un **target**, ne identifichiamo un **problema** e attraverso un game play e una finalità adeguata, creiamo uno strumento che lo tratta.
 
-Il prossimo prototipo, la prossima jam, il prossimo esercizio potrebbe essere qualcosa di potenzialmente utile a qualcuno
+Il prossimo prototipo, la prossima Jam, il prossimo esercizio potrebbe essere qualcosa di potenzialmente utile a qualcuno.  
+Non deve essere necessariamente un progetto “serio” nel senso di accademico, con validità scientifica.  
+Ricordarci appunto che non c’è solo l’Entertainment per l’Entertainment, l’_ars gratia artis_.
 
-Non deve essere necessariamente un progetto “serio” nel senso di accademico, con validità scientifica, 
+## Vantaggi
 
-Ricordarci appunto che non c’è solo l’Entertainment per l’Entertainment, l’*ars gratia artis*.
+- La capacità del gioco di gestire la complessità.
+- Il maggiore livello di coinvolgimento dell’utente grazie a all’uso della narrazione interattiva
+- La relativa facilità di accesso: i giochi sono sempre più usabili.
+- La sempre più presente pervasività: oggi più di ieri «occupano» tecnologie alla portata di tutti e non ne richiedono di specifiche, utilizzabili esclusivamente per esperienze di gioco.
+
+## Svantaggi
+
+- Immaturità del medium: se confrontata a quella di altri media, a livello di accettazione e valorizzazione
+- Mancanza di una adeguata educazione del pubblico in generale
+- Immaturità dell’industria in termini di professionalità
+- Budget molto ridotti
+- Committenti spesso impreparati
+- La difficoltà a conciliare divertimento e serietà
 
 ## Chi sono io? Perché sono qui?
 
-![](img/chi_sono.webp)
+![chi sono](img/chi_sono.webp)
 
 ## ✍️ 🟧 RIPONDERE

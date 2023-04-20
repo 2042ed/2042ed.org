@@ -9,11 +9,7 @@ toc: true
 ---
 
 # Case studies
-
-- Vetrine / Concorsi
-- Game Based Learning
-- Serious Games
-- Aziende
+Vediamo una selezione di videogiochi interessanti.
 
 ## Vetrine / Concorsi
 
@@ -22,9 +18,8 @@ toc: true
 
 👉🏼 <https://youtu.be/r5T4ftMYRS8>
 
-[Unity for Humanity 2023 Winners](https://blog.unity.com/news/meet-the-2023-unity-for-humanity-grant-winners)
-
-[Unity for Humanity 2022 Winners](https://blog.unity.com/news/announcing-our-2022-unity-for-humanity-grant-winners)
+- [Unity for Humanity 2023 Winners](https://blog.unity.com/news/meet-the-2023-unity-for-humanity-grant-winners)
+- [Unity for Humanity 2022 Winners](https://blog.unity.com/news/announcing-our-2022-unity-for-humanity-grant-winners)
 
 ### Games 4 Change
 [Featured Games](https://www.gamesforchange.org/games/)
@@ -201,19 +196,6 @@ Un gioco di strategia che mette il futuro del mondo nelle tue mani: come darai r
 <https://www.soothsayergames.com>
 
 ## Games for good
-Chiamati anche **Games for good**, hanno come pilastro il trattare temi di rilevanza sociale pubblica, quali
-
-- Politica e Storia
-- Religione
-- Conflitti
-- Epidemie
-- Sexism e razzismo
-- Clima
-- Energia
-
-Solitamente sono finanziati dal settore pubblico o fondazioni.
-In alcuni casi la grande industria per motivi di immagine.
-Come i giochi educativi, anche qui i giocatori imparano qualcosa rilevante le questioni sociali giocando. Come nei giochi per la salute, alcuni videogiochi persuasivi sono stati validati.
 
 ### Chef Adventure
 Il giocatore interpreta un giovane cuoco che, in cerca di fortuna, viaggia lungo un’onirica strada di campagna. Il gioco è realizzato all’interno del progetto Cittadinanza Consapevole, percorso educativo Benessere. Nel gioco vengono trattati i temi della filiera, del consumo e della solidarietà.

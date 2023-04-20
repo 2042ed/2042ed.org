@@ -125,7 +125,7 @@ Johan Huizinga, 2002, , Einaudi
 **Gamification & Behavioral Design: The Octalysis Framework** 
 <https://www.udemy.com/course/gamification-behavioral-design-the-octalysis-framework/>
 
-## video
+## Video
 
 **Serious Games and Gamification Development Secrets 2018**
 <https://www.youtube.com/watch?v=g2CXB-Chsk0>
