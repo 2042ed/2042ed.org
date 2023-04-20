@@ -1,16 +1,11 @@
 ---
 title: "Oltre l'Entertainment"
 date: 2022-05-05
-lastmod: 2022-02-08T00:00:00
 updated: 2023-04-20
 summary: "panoramica sui media e l'impatto sociale e caratteristiche dei giochi come strumenti di educazione, persuasione e trasformazione"
 type: book
 weight: 10
 toc: true
-draft: false
-header:
-  navbar:
-    enable: false
 ---
 
 # Oltre l'Entertainment
@@ -153,6 +148,9 @@ Alcune caratteristiche di base sono:
 - Usare le dinamiche di gioco o le tecnologie dei giochi
 - Fornire ai giocatori del feedback positivo/negativo rispetto alla progressione verso la sfida del gioco e il raggiungimento degli obiettivi.
 
+🎥 Video Learning through "serious games"
+<https://www.youtube.com/watch?v=MUn3hVZ-ejk>
+
 ### Gamification
 Il termine gamification significa “trasformare in gioco qualcosa che non è un gioco. E’ un termine abbastanza generico sotto il quale si inseriscono elementi dei giochi nei sistemi non-gioco per migliorare la User Experience (UX) e l’engagement. 
 
@@ -171,6 +169,10 @@ In particolare si usano i concetti e/o elementi dei giochi per “giochificare�
 
 Il Game Based Learning invece è un approccio che usa dei giochi completi, e non solo alcune meccaniche, per ottenere dei risultati predefiniti.
 Possono essere giochi specificatamente progettati oppure giochi esistenti adatti a rinforzare qualche concetto particolare.
+
+**Approfondimento: Edutopia**
+The Benefits of Constructionist Gaming. Playing and building games helps students understand complex systems—including their own systems of thinking.
+https://www.edutopia.org/topic/game-based-learning
 
 ## Una classificazione
 

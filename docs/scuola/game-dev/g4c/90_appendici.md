@@ -34,18 +34,7 @@ Explore how immersive media and cutting edge technologies are creating new ways 
 ### UNESCO - Mobile Learning Week
 <https://en.unesco.org/mlw/>
 
-Artificial Intelligence for Sustainable Development
-
-UNESCO’s Mobile Learning Week focus on Artificial Intelligence and sustainable development.
-
-Held annually at UNESCO Headquarters in Paris, the event convenes education and technology experts from around the world. 
-
-The aim: To look at the opportunities and threats linked to the use of AI in education. Key issues include:
-
-- How to ensure inclusive and equitable use of AI in education?
-- How to leverage AI to enhance education and learning?
-- How to promote skills development for jobs and life in the AI era?
-- How to safeguarding transparent and auditable use of education data?
+Oggi Digital Learning Week (DLW)
 
 ### Immersive Education Initiative
 <http://immersiveeducation.org/>
@@ -154,17 +143,6 @@ catalogo
 <http://www.gamesandlearning.org/>
 
 <https://www.onlinecolleges.net/50-great-sites-for-serious-educational-games/>
-
-## Studios
-
-**Filament Games**
-https://www.filamentgames.com/portfolio/
-
-**Strange Loop Games**
-<http://www.strangeloopgames.com/>
-
-**Gioco: Eco**
-<http://www.strangeloopgames.com/eco/>
 
 ## Associazioni
 

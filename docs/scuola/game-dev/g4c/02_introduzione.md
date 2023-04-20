@@ -1,8 +1,7 @@
 ---
 title: Business oltre l’Entertainment
-parent: G4C
-has_children: false
-nav_order: 2
+date: 2022-12-24
+updated: 2023-04-20
 ---
 
 # Business oltre l’Entertainment
@@ -19,7 +18,7 @@ I videogiochi possono essere usati per insegnare, formare, promuovere, simulare,
 Divideremo il percorso in quattro sezioni:
 
 1. [Potenza dei videogiochi](10_videogiochi.md)
-2. [Applicazioni e Case Studies](20_temi-case-studies.md)
+2. [Applicazioni e Case Studies](20_case-study.md)
 3. [Design e Sviluppo](30_design.md)
 4. [Business e Marketing](40_biz-marketing.md)
 5. [Appendici e Approfondimenti](90_appendici.md)

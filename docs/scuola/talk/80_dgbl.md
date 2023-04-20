@@ -1,10 +1,11 @@
 ---
-title: DGBL
+title: Digital Game Based Learning
+date: 2022-05-05
+updated: 2023-04-20
 summary: "Digital Game Based Learning slides"
 authors: []
 tags: []
 categories: [talk]
-date: "2021-04-15T00:00:00Z"
 draft: true
 type: slides
 slides:

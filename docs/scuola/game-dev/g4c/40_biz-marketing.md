@@ -8,10 +8,16 @@ type: book
 ---
 # Business e Marketing
 
+## Tipologie di business
+- videogiochi
+- componenti (assets, librerie, tool)
+- servizi (in-game o produttivi)
+- consulenza
+
 ## Considerazioni
 - trovarsi una nicchia (tematica o tecnologica)
 - come applicarsi ai bandi
-- dove trovare l'expert e la valutazione scientifica
+- dove trovare l'esperto e la valutazione scientifica
 - come fare i field test
 - gestione del (poco) budget
 
