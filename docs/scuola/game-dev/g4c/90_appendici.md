@@ -1,15 +1,11 @@
 ---
-title: "Appendici"
+title: Appendici
+date: 2022-12-23
+updated: 2023-04-20
 summary: "eventi e risorse per approfondire"
-date: 2017-09-09T00:00:00
-lastmod: 2022-02-08T00:00:00
 type: book
 weight: 90
 toc: true
-draft: false
-header:
-  navbar:
-    enable: false
 ---
 
 # Appendici
@@ -91,7 +87,7 @@ Ai fini indicati in questo programma per supportare l'implementazione di Progett
 - Sfida contro il divario digitale nelle aree rurali.
 - Sfida per la promozione dell'imprenditoria sociale.
 - Sfida per migliorare la vita degli anziani nella provincia.
-- Sfida per l'attivazione di azioni di formazione e addestramento per le entità sociale**.**
+- Sfida per l'attivazione di azioni di formazione e addestramento per le entità sociale.
 - Sfida per la promozione della cultura imprenditoriale nella provincia in particolare rivolto a giovani e donne nelle zone rurali.
 - Sfida per valorizzare le risorse naturali del territorio in un certo senso sostenibile, attraverso azioni innovative nel settore zootecnico, agricolo e agricolo l'ambiente
 - Sfida per l'inclusione sociale delle persone con diversità funzionale e, in particolare, quelli con ASD.
@@ -134,15 +130,10 @@ Johan Huizinga, 2002, , Einaudi
 
 ## Siti Web
 
-catalogo
-
-<https://games.ngo/>
-
-<https://www.formazione-cambiamento.it/numeri/2019/n-14-la-gamification-nell-e-learning>
-
-<http://www.gamesandlearning.org/>
-
-<https://www.onlinecolleges.net/50-great-sites-for-serious-educational-games/>
+- <https://games.ngo/>
+- <https://www.formazione-cambiamento.it/numeri/2019/n-14-la-gamification-nell-e-learning>
+- <http://www.gamesandlearning.org/>
+- <https://www.onlinecolleges.net/50-great-sites-for-serious-educational-games>
 
 ## Associazioni
 

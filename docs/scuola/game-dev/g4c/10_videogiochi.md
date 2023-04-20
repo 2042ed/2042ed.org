@@ -125,6 +125,11 @@ un buon game designer porta ad un'esperienza.
 ### Simulazioni
 Sperimentazione / Ricerca
 
+Le simulazioni sono il miglior ambito dove imparare perché sono un **contesto sicuro**, dove poter sbagliare senza preoccuparsi degli errori.
+Testare i vari tipi di errore e relative conseguenze, ed allenarsi per migliorare le best practices.
+Non necessitano di formazione preliminare, perché si può imparare direttamente "learning by doing/playing".
+
+
 ### Serious Games
 ![](img/abt-serious-games-book.webp)
 
@@ -164,10 +169,14 @@ In particolare si usano i concetti e/o elementi dei giochi per “giochificare�
 
 ![](img/gamification_elements.webp)
 
+### Modalità e Obiettivi di Design
+
+![types-of-game-thinking-and-primary-design-goal](img/types-of-game-thinking-and-primary-design-goal.webp)
+
 ## GBL: Game Based Learning
 ![](img/gbl_mario.webp)
 
-Il Game Based Learning invece è un approccio che usa dei giochi completi, e non solo alcune meccaniche, per ottenere dei risultati predefiniti.
+Il **Game Based Learning** invece è un approccio che usa dei giochi completi, e non solo alcune meccaniche, per ottenere dei risultati predefiniti.
 Possono essere giochi specificatamente progettati oppure giochi esistenti adatti a rinforzare qualche concetto particolare.
 
 **Approfondimento: Edutopia**

@@ -1,16 +1,14 @@
 ---
-title: "Development"
-summary: "problematiche e tips di sviluppo"
-date: 2017-09-09T00:00:00
-lastmod: 2022-02-08T00:00:00
+title: Development
+date: 2021-04-18
+updated: 2023-04-20
+summary: "sviluppo: suggerimenti e problematiche"
 type: book
 weight: 30
 toc: true
-draft: false
-header:
-  navbar:
-    enable: false
 ---
+
+# Development
 
 ## Focus
 **Avere sempre ben chiaro il focus del progetto** aiuta Designers, developers, artisti. Accelera lo sviluppo, da direzione all'arte, migliora la possibilità di test.

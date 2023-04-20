@@ -1,7 +1,6 @@
 ---
 title: Business e Marketing
 date: 2022-05-05
-lastmod: 2022-02-08T00:00:00
 updated: 2023-04-20
 summary: "mercato e opportunità"
 type: book
@@ -9,17 +8,31 @@ type: book
 # Business e Marketing
 
 ## Tipologie di business
+Innanzitutto chiariamo due macro destinatari del nostro lavoro:
+
+1. B2C (Business to Consumer)
+2. B2B (Business to Business)
+
+## Cosa vendiamo
+
 - videogiochi
 - componenti (assets, librerie, tool)
 - servizi (in-game o produttivi)
 - consulenza
 
-## Considerazioni
-- trovarsi una nicchia (tematica o tecnologica)
-- come applicarsi ai bandi
-- dove trovare l'esperto e la valutazione scientifica
-- come fare i field test
-- gestione del (poco) budget
+## Chi ci paga?
+Nel caso del puro entertainment le entrate derivano dalla vendita dei giochi, in ogni caso possiamo prevedere queste fonti:
+
+- Distributori (piattaforme online)
+- Publisher
+
+- Fondazioni private e pubbliche
+- Organizzazioni Non Goverative (ONG) e No Profit
+- Università
+- Governi
+- Imprese private
+- Publishers
+- Donazioni e Supporto (Patreon / Kickstarter)
 
 ## Analisi di mercato
 - Per chi stiamo sviluppando?
@@ -28,9 +41,11 @@ type: book
 - Chi sono i nostri concorrenti e quali sono i loro principali punti di forza?
 - Con quali mezzi possiamo comunicare al meglio il nostro prodotto al gruppo target?
 
-Un problema significativo affrontato da tutti gli attori in questo settore è la mancanza di editori/distributori nel settore e di specialisti.
+## Modalità di vendita
+- 
 
-## Different Business Model
+
+## Diversi modello di Business
 
 Modello **classico**  
 ![](img/biz_classic.webp)
@@ -38,17 +53,6 @@ Modello **classico**
 Modello **applied**  
 ![](img/biz_applied.webp)
 
-## Finanziamento
-Oltre ai classici distributori e self publisher, qui c’è la possibilità di lavorare con
-
-- Fondazioni private e pubbliche
-- Organizzazioni Non Goverative (ONG) e No Profit
-- Università
-- Individui
-- Governi
-- Imprese private
-- Publishers
-- autofinanziamento (Kickstarter)
 
 ## Temi legali
 Etnia, Gender, Data Protection e Privacy
@@ -69,10 +73,21 @@ Servono
 - Libero Professionista
 - Startup
 
+
+## Considerazioni
+- trovarsi una nicchia (tematica o tecnologica)
+- come applicarsi ai bandi
+- dove trovare l'esperto e la valutazione scientifica
+- come fare i field test
+- gestione del (poco) budget
+
 ## Farsi trovare
 necessità di avere una presenza web con i propri temi, interessi e capacità.
 
 tranquilli, ti troviamo noi
 
 ![](img/cv_openai.webp)
+
+## Networking
+Imparare in pubblico
 

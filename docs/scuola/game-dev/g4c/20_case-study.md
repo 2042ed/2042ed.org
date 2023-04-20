@@ -252,8 +252,9 @@ https://www.youtube.com/watch?v=rJULyO9E2vE
 https://www.youtube.com/watch?v=1wQBUhqt7N0
 
 
-📽 #VIDEO [Build better cities with games](https://www.ted.com/talks/karoliina_korppoo_how_a_video_game_might_help_us_build_better_cities/)
-<iframe width="937" height="527" src="https://www.youtube.com/embed/qYUmI5kGsYk" title="How a video game might help us build better cities | Karoliina Korppoo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+• **Simulazione in sala operatoria: la isterectomia laparoscopica**  
+• **XVR Simulation**  
+• **SKILLATO® Adventure**
 
 Some titles:
 - [Democracy](https://positech.co.uk/democracy/) - political strategy game
@@ -267,6 +268,12 @@ Some titles:
 ## Architettura
 **Build better cities**
 https://www.ted.com/talks/karoliina_korppoo_how_a_video_game_might_help_us_build_better_cities/
+
+
+📽 #VIDEO [Build better cities with games](https://www.ted.com/talks/karoliina_korppoo_how_a_video_game_might_help_us_build_better_cities/)
+<iframe width="937" height="527" src="https://www.youtube.com/embed/qYUmI5kGsYk" title="How a video game might help us build better cities | Karoliina Korppoo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 ## Cultura e Arte
 Il nostro patrimonio artistico e culturale è immenso
