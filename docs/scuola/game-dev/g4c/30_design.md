@@ -1,7 +1,7 @@
 ---
 title: Design
 date: 2021-01-07
-updated: 2023-04-20
+updated: 2023-04-21
 summary: "come progettare serious games e Game Based Learning"
 type: book
 weight: 30
@@ -55,6 +55,9 @@ Le Nazioni Unite hanno definito lo Sviluppo Sostenibile quello che è richiesto 
 ricordiamoci che spesso non siamo noi il target!
 trovare un focus group per discutere il progetto
 
+### Inclusività
+Giochi inclusivi = pensare alle conseguenze, all'impatto, di ogni decisione creativa, e provare a limitare per quanto possibile ogni impatto negativo.
+
 ### Metodologia e genere
 - Simulazione
 - GBL
@@ -89,6 +92,10 @@ Vedi [libro](https://www.amazon.it/Factfulness-ragioni-capiamo-mondo-pensiamo/dp
 ![](img/dev_iterative.webp)
 
 **Interdisciplinary Teamwork**: The framework suggests an interdisciplinary approach in which all team members, not just the designers, participate in every aspect of the development process and learn from each others field of expertise
+
+### Non essere moralisti
+non bloccare l'avanzamento del gioco se il giocatore non accetta il tuo punto di vista. Non far sentire in colpa o "attaccati" chi alla fine non la pensa come noi.
+
 
 ## Caratteristiche di un buon gioco
 - sfide continue

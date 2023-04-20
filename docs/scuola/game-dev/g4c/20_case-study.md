@@ -1,7 +1,7 @@
 ---
 title: Case studies
 date: 2022-05-05
-updated: 2023-04-20
+updated: 2023-04-21
 summary: "case studies di videogiochi e giochi applicati"
 type: book
 weight: 20
@@ -24,6 +24,23 @@ Vediamo una selezione di videogiochi interessanti.
 ### Games 4 Change
 [Featured Games](https://www.gamesforchange.org/games/)
 
+## Cinema
+
+### Mich-L: a MWU short animated film
+Totalmente realizzato in tempo reale con Unity. Progetto scaricabile.
+👉🏼 [Dettagli qui](https://unity.com/demos/mich-l-cinematics)
+
+🎥 <https://youtu.be/baMSOUvHG2E>  
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/baMSOUvHG2E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+👉🏼 Il futuro dei cinema sono i Video Giochi, ma non nel modo in cui lo pensiamo.
+[leggi articolo](https://newanddigital.medium.com/the-future-of-cinema-is-video-games-just-not-the-way-you-think-b6a664099b76)
+
+### Cinema Wall
+🎥 <https://youtu.be/gUnxzVOs3rk?t=27>  
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gUnxzVOs3rk?start=27" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Giochi educativi / DGBL
 
 ### Antura & the Letters
@@ -35,6 +52,14 @@ The educational goal of the game is to help players to acquire the basics of Ara
 > **Possible skills taught**: Recognizing letters (shapes, names, phonemes); syllables and word reading; vocabulary
 
 website: [antura.org](https://www.antura.org)
+
+### Freud's Bones
+Freud's Bones is a narrative-driven adventure that wants to pay homage to the birth of psychoanalysis and to its founder Sigmund Freud. Immerse yourself in his mind and face his crisis and those of his patients in this game with an extremely breakable fourth wall.
+
+👉🏼 [freudsbones.com](https://www.freudsbones.com)
+
+🎥 <https://youtu.be/il5gst1_lJs>  
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/il5gst1_lJs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Dragon Box
 ![dragonbox](../../../assets/img/played/videogame/dragonbox.webp)

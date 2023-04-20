@@ -1,7 +1,7 @@
 ---
 title: "Oltre l'Entertainment"
 date: 2022-05-05
-updated: 2023-04-20
+updated: 2023-04-21
 summary: "panoramica sui media e l'impatto sociale e caratteristiche dei giochi come strumenti di educazione, persuasione e trasformazione"
 type: book
 weight: 10
@@ -35,19 +35,33 @@ Perché inizio con questa citazione "storica"? perché si scoprì che molti gioc
 
 ![](img/diagramma-di-cipolla-stupidita_featured.webp)
 
-
 ### IKIGAI
 Parola e concetto giapponese.
 Il diagramma dovrebbe essere abbastanza auto-esplicativo:
 ![](img/ikigai.webp)
 
 ## Media e impatto sociale
+
+- Questo gioco mi ha aiutato a scoprire lati di me che non riconoscevo
+- Questo gioco mi ha aiutato ad accettare il mio passato
+- Questo gioco mi ha fatto capire quanto non conoscevo la storia
+- Questo gioco mi ha fatto comprendere la complessità delle situazioni
+- Questo gioco mi ha dato nuove prospettive
+
 I media hanno sempre avuto un impatto sulla società.
 Dai racconti mitologici ai testi sacri, dall'enciclopedia ai giornali.
 
 **Conoscenza, Educazione e Libertà** sono sempre andate insieme, e con l'esplosione delle ICT (Information Communication Technologies) la nostra società è basata sull'Informazione e sopratutto sull'attenzione, con tempi di assimilazione sempre più brevi.
 
 Per questo un medium fondato sul coinvolgimento e sull'autoadattamento alle caratteristiche del fruitore è particolarmente potente e può agevolare **un impatto sociale positivo**.
+
+**Impatto Sociale Diretto**
+i giochi sono progettati per far pensare a questi temi, provocano reazioni.
+giochi progettati con l'obiettivo di creare supporto attivo per una causa.
+
+**Impatto Sociale Indiretto**
+quando è una conseguenza secondaria, o inaspettata. ogni lavoro creato ha un impatto, e gli autori dovrebbero pensarci, hanno una responsabilità che non è opzionale
+
 
 ## Virtù dei Videogiochi
 Una super sintesi di cosa sono e loro virtù
@@ -248,21 +262,28 @@ Regole e obiettivi ben definiti.
 
 - _Entertainment_
 - Advertising e Marketing
+- Aerospaziale
 - Ambiente ed Ecologia
-- Arte
+- Architettura, Ingegneria, Costruzioni
+- Arte / Musica / ShowBiz
+- Azzardo / Gambling
+- Cinema e Animazione
+- Commercio / Retail
 - Cultura e Musei
-- Educazione
+- Educazione / EdTech
+- Erotico / Adult
 - Industria e Corporate
 - Informazione e Media
+- Metaverso
 - Militare e Difesa
 - Politica e Pianificazione
 - Psicologia e Benessere
-- Sanità
+- Sanità e Salute
 - Società e Comportamento
 - Ricerca Scientifica
-- Umanitario e Caricatevole
+- Umanitario e Solidarietà
 
-![](img/diagramma_tipologie.webp)
+👉🏼 [unity.com/solutions](https://unity.com/solutions)
 
 **Pubblico**
 
