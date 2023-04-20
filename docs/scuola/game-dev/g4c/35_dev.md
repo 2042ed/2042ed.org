@@ -15,6 +15,7 @@ toc: true
 
 ## Assiomi da sfatare
 Due luoghi comuni errati sullo sviluppo dei videogiochi sono
+
 1) che i giochi semplici sono semplici da produrre 
 2) dalla complessità tecnica di un gioco emerge la sua bellezza. 
 
@@ -34,21 +35,25 @@ La creazione di un prototipo dall’idea di gioco porterà probabilmente a modif
 - adattamento della difficoltà e delle challenges
 - analisi dei dati
 
-## Framework di Sviluppo
-![](img/frameworkdisviluppo.webp)
+## Strumenti collaborativi
 
-## AGILE
+### Source Control
+Git
+
+### AGILE
 agile software development methods means that the development process does not follow a previously laid out, rigid plan; instead, it is flexible to adjust to changing requirements and software specifications.
 Cicli settimanali, fast feedback, impostazione progetto
 
-
-## SCRUM
+### SCRUM
 most software projects are far too complex to rely on the perfect plan
 
 ![](img/scrum.webp)
 
+## Framework di Sviluppo
+![](img/frameworkdisviluppo.webp)
+
 ## Player Modeling
-Per avere un impatto, può essere molto utili crare un modello del giocatore
+Per avere un impatto, può essere molto utili creare un modello del giocatore
 
 ![](img/player_model.webp)
 
@@ -80,16 +85,12 @@ Per avere un impatto, può essere molto utili crare un modello del giocatore
 
 ![](img/game_storytelling_2.webp)
 
-vedi http://www.storytec.de/index.php?id=22&L=1
-
+vedi <http://www.storytec.de/index.php?id=22&L=1>
 
 ## Adattamento del gioco
 ![](img/game_adattamento.webp)
 
 ![](img/player_preferences.webp)
-
-
-
 
 ## Tecnologie
 Alcune tecnologie e metodologie sono particolarmente interessanti
@@ -97,14 +98,19 @@ Alcune tecnologie e metodologie sono particolarmente interessanti
 ### XR: AR / VR / MR
 - immersività ed empatia
 - nuove frontiere
+Leggere il percorso dedicato alla [XR](../xr/index.md)
 
 ### A.I.
 - Customized/tailored content
 - Player profile
 
+Leggere il percorso dedicato alle [Game AI](../ai/index.md).
+
 ### Open Source
 (collaborazione, visibilità, reciprocità, velocità, future)
-molti frameworks e soluzioni esistenti
+molti frameworks e soluzioni esistenti.
+
+Leggere il percorso dedicato al [Open Source e Sviluppo Distribuito](../ci/index.md)
 
 ![](img/open_everything.webp)
 
@@ -147,5 +153,4 @@ piattaforma di sviluppo, tests, velocità e accessibilità
 - Expected launch date
 
 ## Case study: Antura planning
-Antura Screen by Screen
-https://docs.google.com/presentation/d/1hc5Sjzq6cg_Y-FHgIK819KzfHWOG0KF9jhPh6Klf4Ww/edit#slide=id.g24c0825d9f_0_52
+Antura Screen by Screen - [Google Doc](https://docs.google.com/presentation/d/1hc5Sjzq6cg_Y-FHgIK819KzfHWOG0KF9jhPh6Klf4Ww/edit#slide=id.g24c0825d9f_0_52)

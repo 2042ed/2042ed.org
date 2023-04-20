@@ -20,7 +20,7 @@ toc: true
 ### Unity for Humanity
 <https://unity.com/humanity>
 
-👉🏼 https://youtu.be/r5T4ftMYRS8
+👉🏼 <https://youtu.be/r5T4ftMYRS8>
 
 [Unity for Humanity 2023 Winners](https://blog.unity.com/news/meet-the-2023-unity-for-humanity-grant-winners)
 
@@ -97,13 +97,13 @@ Giochi tipo Re-Mission (www.re-mission.net) incoraggiano i giovani pazienti mala
 ### Games for Health Showcase
 
 - 🎥 <https://www.youtube.com/watch?v=8pIFskqIpgk>
-- 🎥<https://www.youtube.com/watch?v=ath966NqZ7g>
+- 🎥 <https://www.youtube.com/watch?v=ath966NqZ7g>
 
 ### The Game that can give you 10 extra years of life
 
 Game designer Jane McGonigal firmly believes that video games are not just about mashing buttons and getting to the next level. In fact, during her talk at TEDGlobal 2012, McGonigal gave several surprising statistics: that online gaming can be more effective than pharmaceuticals in treating **clinical depression** and that just 30 minutes a day is correlated with significant **increases in happiness**.
 
-https://blog.ted.com/10-online-games-with-a-social-purpose/
+<https://blog.ted.com/10-online-games-with-a-social-purpose/>
 
 📽 #VIDEO [The game that can give you 10 extra years of life](https://www.ted.com/talks/jane_mcgonigal_the_game_that_can_give_you_10_extra_years_of_life)
 <iframe width="937" height="527" src="https://www.youtube.com/embed/lfBpsV1Hwqs" title="The game that can give you 10 extra years of life | Jane McGonigal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -148,6 +148,17 @@ website: [playbounden.com](http://playbounden.com)
 
 > L'arte e la scienza del comportamento e della valutare il bene e il male, il giusto e l'ingiusto.
 
+### Nuclear War Simulator
+
+![nuclear-war-simulator](../../../assets/img/played/videogame/nuclear-war-simulator.webp)
+
+*A nuclear conflict simulation and visualisation tool*
+
+non è entertainment, ma uno strumento capace, rendendo disponibile l’arsenale nucleare globale e possibili simulazioni di attacchi su precise aree della Terra, di calcolare l’impatto  delle bombe atomiche fino a rendere irriconoscibile l’intero globo alla vigilia di un’estinzione di massa.
+
+- 👉🏼 [nuclearwarsimulator.com](https://nuclearwarsimulator.com)
+- 🎥 [Trailer](https://youtu.be/VzEKOvPwgMY)
+
 ### PeaceMaker
 ![peacemaker](../../../assets/img/played/videogame/peacemaker.webp)
 
@@ -159,20 +170,20 @@ Website [peacemakergame.com](http://peacemakergame.com)
 ![phone_story](../../../assets/img/played/videogame/phone_story.webp)
 
 Phone Story è un gioco mobile che tenta di provocare una riflessione critica sulla propria piattaforma tecnologica. Sotto la superficie dei nostri gadget elettronici, dietro la sua interfaccia lucida, si nasconde il prodotto di una catena di approvvigionamento inquietante che si estende in tutto il mondo. Phone Story rappresenta questo processo con quattro giochi educativi che rendono il giocatore simbolicamente complice dell'estrazione del coltan in Congo, della manodopera esternalizzata in Cina, dell'e-waste in Pakistan e del consumismo dei gadget in Occidente.
-http://phonestory.org
+<http://phonestory.org>
 
 ### Unmanned
 ![unmanned](../../../assets/img/played/videogame/unmanned.webp)
 La maggior parte dei videogiochi sparatutto fa sembrare la guerra piena di azione e affascinante. Unmanned mira a dipingere un ritratto molto più realistico, proiettando i giocatori nei panni di un soldato alle prese con noia e sogni traumatici, oltre ai doveri militari.
-http://unmanned.molleindustria.org
+<http://unmanned.molleindustria.org>
 
 ### Data Dealer
 
-🎥 https://youtu.be/x2eCAgQ1DTo
+🎥 <https://youtu.be/x2eCAgQ1DTo>
 
 Data Dealer is an online game about collecting and selling personal data - full of irony and gleeful sarcasm. It's a browser/serious/edu/impact game about digital culture and surveillance and aims to raise awareness about online privacy in a new and fun way.
 
-https://datadealer.com
+<https://datadealer.com>
 
 ### Half the Sky Movement
 ![halfthesky](../../../assets/img/played/videogame/halfthesky.webp)
@@ -180,17 +191,18 @@ https://datadealer.com
 Un'avventura / simulazione che può far conoscere e aiutare la realtà della donne e delle ragazze nel mondo, raccogliendo donazioni reali. 
 Il gioco crea relazioni tra persone che hanno condiviso le stesse situazioni e permettono un confronto positivo.
 
-http://www.halftheskymovement.org
+<http://www.halftheskymovement.org>
 
 ### Fate of the World
 ![fateoftheworld](../../../assets/img/played/videogame/fateoftheworld.webp)
 
 Un gioco di strategia che mette il futuro del mondo nelle tue mani: come darai risposte ai problemi del riscaldamento globale, della crescita della popolazione, delle risorse naturali e dalla scomparsa di specie animali? i prossimi 200 anni sono nelle tue mani.
 
-https://www.soothsayergames.com
+<https://www.soothsayergames.com>
 
 ## Games for good
 Chiamati anche **Games for good**, hanno come pilastro il trattare temi di rilevanza sociale pubblica, quali
+
 - Politica e Storia
 - Religione
 - Conflitti
@@ -205,8 +217,7 @@ Come i giochi educativi, anche qui i giocatori imparano qualcosa rilevante le qu
 
 ### Chef Adventure
 Il giocatore interpreta un giovane cuoco che, in cerca di fortuna, viaggia lungo un’onirica strada di campagna. Il gioco è realizzato all’interno del progetto Cittadinanza Consapevole, percorso educativo Benessere. Nel gioco vengono trattati i temi della filiera, del consumo e della solidarietà.
-https://youtu.be/t67SMz7yJsE
-
+<https://youtu.be/t67SMz7yJsE>
 
 **World Without Oil**  
 Also a McGonigal creation, players in this game are dropped into a world where oil resources have been tapped and where they must get creative to survive the massive global shortage. The best part of the game? It teaches easy ways to use less oil in the real world—habits that players report keeping up when they aren’t playing.  
@@ -246,15 +257,25 @@ Ad oggi il settore più grande ed economicamente più rilevante.
 
 Target sia professionale che pubblico.
 
-- Immersive Simulation for Field Operator Training
-https://www.youtube.com/watch?v=rJULyO9E2vE
-- Combat Medic Trainer 3D Simulation Video Game
-https://www.youtube.com/watch?v=1wQBUhqt7N0
+- 🎥 [Immersive Simulation for Field Operator Training](https://www.youtube.com/watch?v=rJULyO9E2vE)
+- 🎥 [Combat Medic Trainer 3D Simulation Video Game](https://www.youtube.com/watch?v=1wQBUhqt7N0)
 
+**Simulazione in sala operatoria: la isterectomia laparoscopica**   
+![simulatore-chirurgia](img/videogames/simulatore-chirurgia.webp)
 
-• **Simulazione in sala operatoria: la isterectomia laparoscopica**  
-• **XVR Simulation**  
-• **SKILLATO® Adventure**
+La fondazione policlinico Universitario A. Gemelli ha ideato un serious game sulla isterectomia laparoscopica. Questo gioco permette ai medici di esercitarsi sulla isterectomia laparoscopica in qualsiasi condizione del paziente. In poche ore i chirurgi possono quindi affrontare anche le complicanze rare che normalmente un chirurgo incontrerebbe poche volte durante la propria carriera. La simulazione ha quindi permesso di eliminare dei rischi per i pazienti, di simulare casi gravi e rari e complicazioni, riducendo le possibilità di errore.
+
+**XVR Simulation**
+![xvr-simulation](img/videogames/xvr-simulation.webp)
+
+Piattaforma per simulare incidenti e formazione
+<https://www.xvrsim.com>
+
+**Simulazioni Industriali**
+
+![simulation-industries](img/videogames/simulation-industries.webp)
+
+<https://www.seriousgames.net/en/interactive-3d-simulation-training/>
 
 Some titles:
 - [Democracy](https://positech.co.uk/democracy/) - political strategy game
@@ -267,13 +288,11 @@ Some titles:
 
 ## Architettura
 **Build better cities**
-https://www.ted.com/talks/karoliina_korppoo_how_a_video_game_might_help_us_build_better_cities/
+<https://www.ted.com/talks/karoliina_korppoo_how_a_video_game_might_help_us_build_better_cities/>
 
 
 📽 #VIDEO [Build better cities with games](https://www.ted.com/talks/karoliina_korppoo_how_a_video_game_might_help_us_build_better_cities/)
 <iframe width="937" height="527" src="https://www.youtube.com/embed/qYUmI5kGsYk" title="How a video game might help us build better cities | Karoliina Korppoo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 
 ## Cultura e Arte
 Il nostro patrimonio artistico e culturale è immenso
@@ -299,8 +318,8 @@ La AR per le esplorazioni culturali
 ### Why i brought PacMan to MoMa
 In her TED Talk, Paola Antonelli explains her decision to acquire 14 video games for MoMA’s permanent collection.
 
-- https://www.ted.com/talks/paola_antonelli_why_i_brought_pacman_to_moma
-- https://blog.ted.com/paola-antonelli-on-acquiring-games-for-moma/
+- <https://www.ted.com/talks/paola_antonelli_why_i_brought_pacman_to_moma>
+- <https://blog.ted.com/paola-antonelli-on-acquiring-games-for-moma>
 
 ## Gamifications
 Some example of good use of Gamification

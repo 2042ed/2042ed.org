@@ -20,20 +20,6 @@ Innanzitutto chiariamo due macro destinatari del nostro lavoro:
 - servizi (in-game o produttivi)
 - consulenza
 
-## Chi ci paga?
-Nel caso del puro entertainment le entrate derivano dalla vendita dei giochi, in ogni caso possiamo prevedere queste fonti:
-
-- Distributori (piattaforme online)
-- Publisher
-
-- Fondazioni private e pubbliche
-- Organizzazioni Non Goverative (ONG) e No Profit
-- Università
-- Governi
-- Imprese private
-- Publishers
-- Donazioni e Supporto (Patreon / Kickstarter)
-
 ## Analisi di mercato
 - Per chi stiamo sviluppando?
 - Quanto è ampio il gruppo target e il potenziale di vendita?
@@ -41,9 +27,28 @@ Nel caso del puro entertainment le entrate derivano dalla vendita dei giochi, in
 - Chi sono i nostri concorrenti e quali sono i loro principali punti di forza?
 - Con quali mezzi possiamo comunicare al meglio il nostro prodotto al gruppo target?
 
-## Modalità di vendita
-- 
+## Chi ci paga?
+Nel caso del puro entertainment le entrate derivano dalla vendita dei giochi, in ogni caso possiamo prevedere queste fonti:
 
+- Distributori (piattaforme online)
+- Publisher
+- Utenti finali
+- Imprese private
+- Fondazioni private e pubbliche
+- Organizzazioni Non Goverative (ONG) e No Profit
+- Università
+- Governi
+
+## Modalità di vendita
+- gratuito (sviluppo pre-finanziato)
+- gratuito (in-app purchases)
+- gratuito (advertising)
+- pagamento (one shot)
+- subscription / abbonamento
+- donationware
+- offerta libera
+- Patreon / supporters
+- Kickstarter / crowdfunding
 
 ## Diversi modello di Business
 
@@ -53,14 +58,13 @@ Modello **classico**
 Modello **applied**  
 ![](img/biz_applied.webp)
 
-
 ## Temi legali
 Etnia, Gender, Data Protection e Privacy
 
 ## Team
 Imparare a lavorare in gruppo è la cosa più difficile ma anche la più importante.
 
-Servono
+Servono:  
 - comunicazione diretta e nonviolenta
 - obiettivi chiari 
 - bisogni espliciti
@@ -73,21 +77,14 @@ Servono
 - Libero Professionista
 - Startup
 
-
-## Considerazioni
-- trovarsi una nicchia (tematica o tecnologica)
-- come applicarsi ai bandi
-- dove trovare l'esperto e la valutazione scientifica
-- come fare i field test
-- gestione del (poco) budget
-
 ## Farsi trovare
-necessità di avere una presenza web con i propri temi, interessi e capacità.
+E' importante avere una presenza web con i propri temi, interessi e capacità.  Definire in modo semplice e conciso la propria "tag cloud" e la propria mission può agevolare sensibilmente l'opportunità di essere trovati e coinvolti in determinati progetti.
 
-tranquilli, ti troviamo noi
+> Tranquilli, ti troviamo noi
 
 ![](img/cv_openai.webp)
 
-## Networking
-Imparare in pubblico
-
+## Networking e Social Media
+- Imparare in pubblico
+- entrare in forum e gruppi tematici
+- rimanere in collegamento con persone che stanno nella stessa area di attività e interesse

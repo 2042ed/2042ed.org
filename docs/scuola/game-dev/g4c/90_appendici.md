@@ -15,16 +15,16 @@ toc: true
 ### Games 4 Change
 <http://www.gamesforchange.org>
 
-#### Civics & Social Issues
+**Civics & Social Issues**  
 From social justice to environmental action, this track encompasses sessions that fuel and inform responsible citizenship in an era that desperately needs it.
 
-#### Games for Learning Summit
+**Games for Learning Summit**  
 Sharing new projects and research that evidence the power of game-based learning to transform education both in and out of the classroom.
 
-#### Health & Wellness
+**Health & Wellness**  
 Let's do away with the stigma: we know that games can improve our health, fitness, and even mindfulness through interactivity. Come learn how.
 
-#### XR for Change Summit
+**XR for Change Summit**  
 Explore how immersive media and cutting edge technologies are creating new ways to create meaningful change.
 
 ### UNESCO - Mobile Learning Week
@@ -82,16 +82,18 @@ The Unity for Humanity Challenge is a skills based contest and is designed to fi
 ### Bando innovazione sociale
 Ai fini indicati in questo programma per supportare l'implementazione di Progetti di innovazione sociale, solo progetti che possono proporre soluzioni alle seguenti sfide:
 
-- Sfida per far fronte allo spopolamento delle aree rurali per il ritorno e l'insediamento di giovani nelle aree rurali.
-- Sfida mirata all'invecchiamento della popolazione, nonché progetti che aiutano migliorare la qualità della vita degli anziani e delle persone a carico.
-- Sfida contro il divario digitale nelle aree rurali.
-- Sfida per la promozione dell'imprenditoria sociale.
-- Sfida per migliorare la vita degli anziani nella provincia.
-- Sfida per l'attivazione di azioni di formazione e addestramento per le entità sociale.
-- Sfida per la promozione della cultura imprenditoriale nella provincia in particolare rivolto a giovani e donne nelle zone rurali.
-- Sfida per valorizzare le risorse naturali del territorio in un certo senso sostenibile, attraverso azioni innovative nel settore zootecnico, agricolo e agricolo l'ambiente
-- Sfida per l'inclusione sociale delle persone con diversità funzionale e, in particolare, quelli con ASD.
-- Altre proposte e sfide considerate dalle entità sociali, che
+??? note "Leggi tutto"
+
+    - Sfida per far fronte allo spopolamento delle aree rurali per il ritorno e     l'insediamento di giovani nelle aree rurali.
+    - Sfida mirata all'invecchiamento della popolazione, nonché progetti che aiutano     migliorare la qualità della vita degli anziani e delle persone a carico.
+    - Sfida contro il divario digitale nelle aree rurali.
+    - Sfida per la promozione dell'imprenditoria sociale.
+    - Sfida per migliorare la vita degli anziani nella provincia.
+    - Sfida per l'attivazione di azioni di formazione e addestramento per le entità     sociale.
+    - Sfida per la promozione della cultura imprenditoriale nella provincia in     particolare rivolto a giovani e donne nelle zone rurali.
+    - Sfida per valorizzare le risorse naturali del territorio in un certo senso     sostenibile, attraverso azioni innovative nel settore zootecnico, agricolo e     agricolo l'ambiente
+    - Sfida per l'inclusione sociale delle persone con diversità funzionale e, in     particolare, quelli con ASD.
+    - Altre proposte e sfide considerate dalle entità sociali, che
 
 supponiamo un beneficio o un contributo sociale dall'innovazione sociale per la provincia di Malaga e in particolare per i comuni con meno di 20.000 abitanti.
 

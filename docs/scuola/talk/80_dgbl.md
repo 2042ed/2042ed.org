@@ -144,11 +144,11 @@ Games bring together combination of motivating elements not found together in an
 
 ---
 
-![](img/dgbl/games.webp)
+![](../game-dev/g4c/img/dgbl/games.webp)
 
 ---
 # Learning
-![](img/dgbl/cognitive_approach.webp)
+![](../game-dev/g4c/img/dgbl/cognitive_approach.webp)
 
 ---
 
@@ -188,16 +188,16 @@ Assessment happens around a game more often than it happens inside the game, and
 ---
 
 # Domain Expert
-![](img/domain_expert.webp)
+![](../game-dev/g4c/img/domain_expert.webp)
 
 ---
 # Game Model
-![](img/dgbl/GBLModel.webp)
+![](../game-dev/g4c/img/dgbl/GBLModel.webp)
 
 ---
 # Objectives of learning analytics
 
-![](img/dgbl/game_learning_analytics.webp)
+![](../game-dev/g4c/img/dgbl/game_learning_analytics.webp)
 
 ---
 
