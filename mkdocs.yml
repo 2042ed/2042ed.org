@@ -44,6 +44,8 @@ theme:
 markdown_extensions:
   - tables
   - admonition
+  - pymdownx.details
+  - pymdownx.superfences
   - pymdownx.caret
   - pymdownx.mark
   - pymdownx.tilde
