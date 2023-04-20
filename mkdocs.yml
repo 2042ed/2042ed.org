@@ -23,7 +23,7 @@ theme:
     - navigation.indexes
 #    - navigation.expand
 #    - navigation.sections
-#    - announce.dismiss
+    - announce.dismiss
   font:
     text: Roboto
     code: Roboto Mono
