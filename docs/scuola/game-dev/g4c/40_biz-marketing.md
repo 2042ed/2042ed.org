@@ -1,16 +1,12 @@
 ---
-title: "Business e Marketing"
-summary: "mercato e opportunità"
-date: 2017-09-09T00:00:00
+title: Business e Marketing
+date: 2022-05-05
 lastmod: 2022-02-08T00:00:00
+updated: 2023-04-20
+summary: "mercato e opportunità"
 type: book
-weight: 40
-toc: true
-draft: false
-header:
-  navbar:
-    enable: false
 ---
+# Business e Marketing
 
 ## Considerazioni
 - trovarsi una nicchia (tematica o tecnologica)

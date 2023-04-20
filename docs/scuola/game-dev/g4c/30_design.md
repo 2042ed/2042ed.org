@@ -55,7 +55,7 @@ Le Nazioni Unite hanno definito lo Sviluppo Sostenibile quello che è richiesto 
 
 ### Audience
 ricordiamoci che spesso non siamo noi il target!
-trovare un focus group per discutere il profetto
+trovare un focus group per discutere il progetto
 
 ### Metodologia e genere
 - Simulazione
