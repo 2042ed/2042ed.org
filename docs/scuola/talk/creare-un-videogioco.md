@@ -248,60 +248,160 @@ Massimo rapporto qualità/prezzo. Dedicate al gioco. Titoli AAA.
 Nuova frontiera
 
 #### Altro
+
 - wearable
 - audio only
 - robot
 
 ## Come si crea
 
-Si parte da un'idea di esperienza che si vuole far vivere al giocatore, con tanto di sfide e difficoltà da superare, storia, ambientazione, personaggi.  
-Che tipo di azioni dovraà compiere il giocatore? (meccaniche del gioco / gameplay)
+![](img_dentro_vg/gamedev-fasi.webp)
+
+### Definizione degli obiettivi
+Si parte da un'idea di esperienza che si vuole far vivere al giocatore, con tanto di sfide e difficoltà da superare, storia da raccontare, ambientazione, personaggi.  
+
+![](https://www.wikihow.com/images/thumb/d/dd/Design-a-Video-Game-Step-01-Version-3.jpg/v4-728px-Design-a-Video-Game-Step-01-Version-3.jpg.webp)
+
+### Pubblico
+Per chi lo sto creando? Chi lo giocherà?
+
+![](https://www.wikihow.com/images/thumb/b/bd/Design-a-Video-Game-Step-02-Version-3.jpg/v4-728px-Design-a-Video-Game-Step-02-Version-3.jpg.webp)
+
+### Gameplay
+Che genere e che meccanica di gioco prevedo e quali azioni dovrà compiere il giocatore?
+
+![](https://www.wikihow.com/images/thumb/1/15/Design-a-Video-Game-Step-04-Version-3.jpg/v4-728px-Design-a-Video-Game-Step-04-Version-3.jpg.webp)
+
+### Prototipo
+Solitamente si inizia con un semplice **prototipo** per capire se le meccaniche di gioco funzionano facendolo testare a diverse persone.
+
+![](https://miro.medium.com/v2/resize:fit:1400/0*Nk_M39HXtYEn6x7r)
+
+![](https://theglobalgaming.com/assets/images/article/prototype-2.jpg)
+
+Ci sono persone che riescono a creare videogiochi in solitario, ma solitamente ci sono 3 (+1) figure chiave:
+
+- il game designer
+- il programmatore
+- l'artista
+- il marketing
 
 ### Game Designer
+E' lo sceneggiatore del gioco.
 
-- Sviluppare la trama, i retroscena dei personaggi e i dialoghi
+![](https://www.wikihow.com/images/thumb/b/b9/Design-a-Video-Game-Step-08-Version-3.jpg/v4-728px-Design-a-Video-Game-Step-08-Version-3.jpg.webp)
+Bilancia i vari elementi
+
+- Sviluppa la trama, i retroscena dei personaggi e i dialoghi
+
+![](https://www.wikihow.com/images/thumb/d/d0/Design-a-Video-Game-Step-11-Version-4.jpg/v4-728px-Design-a-Video-Game-Step-11-Version-4.jpg.webp)
+
 - Sviluppo del gameplay, delle regole e del sistema di punteggio
-- Determinazione del livello di difficoltà
-- Ambienti di costruzione, sporgenze, ostacoli e oggetti
-- Livello e design del mondo
-- Programmazione/scripting
-- Montaggio digitale
+
+![](https://www.wikihow.com/images/thumb/c/c8/Design-a-Video-Game-Step-07-Version-3.jpg/v4-728px-Design-a-Video-Game-Step-07-Version-3.jpg.webp)
+- Determinazione del livello di difficoltà e gli incentivi
+
+![](https://www.wikihow.com/images/thumb/a/a2/Design-a-Video-Game-Step-06-Version-3.jpg/v4-728px-Design-a-Video-Game-Step-06-Version-3.jpg.webp)
+
+- Costruisce i livelli e determina gli ostacoli e oggetti
+- Può definire il comportamento dei personaggi non giocanti / boss
 
 ![Game Design Scheme](../game-dev/g4c/img/playgamedesign.webp)
 
-#### Storia
-#### Difficoltà
-#### Obiettivi
+#### Storia e personaggi
+
+![](https://www.wikihow.com/images/thumb/0/0b/Design-a-Video-Game-Step-28-Version-4.jpg/v4-728px-Design-a-Video-Game-Step-28-Version-4.jpg.webp)
+
+#### Level Design
+
+![](https://www.wikihow.com/images/thumb/5/5f/Design-a-Video-Game-Step-12-Version-4.jpg/v4-728px-Design-a-Video-Game-Step-12-Version-4.jpg.webp)
+
+![](https://www.cgspectrum.com/hs-fs/hubfs/CGSpectrum_November2019%20Theme/images/UE4-placeholder-assets-soul-cave.jpg)
+
+![](https://www.cgspectrum.com/hs-fs/hubfs/CGSpectrum_November2019%20Theme/images/UE4-placeholder-asset-pack-soul-cave.jpg)
+
+---
 
 ### Arte
 il 75%/90% del budget di produzione va nell'arte
 
-#### concept artists
-#### animators
+#### Concept Artists
+
+Definiscono l'aspetto grafico e la personalità, del mondo e dei personaggi
+
+![](https://www.wikihow.com/images/thumb/9/9e/Design-a-Video-Game-Step-10-Version-4.jpg/v4-728px-Design-a-Video-Game-Step-10-Version-4.jpg.webp)
+
+![](https://www.wikihow.com/images/thumb/5/5c/Design-a-Video-Game-Step-13-Version-4.jpg/v4-728px-Design-a-Video-Game-Step-13-Version-4.jpg.webp)  
+
+![](https://www.cgspectrum.com/hubfs/Starcraft2_KoreaBillboard_Small_brian_huang.webp)
+
+![](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*lrZMO82H6bjZb4Pq.png)
+
+Definiscono l'estetica
+![](https://www.wikihow.com/images/thumb/a/ab/Design-a-Video-Game-Step-16-Version-4.jpg/v4-728px-Design-a-Video-Game-Step-16-Version-4.jpg.webp)
+
+#### Interfaccia Utente (UI)
+
+![](https://www.wikihow.com/images/thumb/6/62/Design-a-Video-Game-Step-15-Version-4.jpg/v4-728px-Design-a-Video-Game-Step-15-Version-4.jpg.webp)
+
 #### 3D modelers
+
+![](https://theglobalgaming.com/assets/images/article/3d-modelling.jpg)
+
+![](https://miro.medium.com/v2/resize:fit:1400/0*dLPbkVsId7CIDBzG)
+
+![](https://www.cgspectrum.com/hs-fs/hubfs/CGSpectrum_November2019%20Theme/images/vfx-pipeline-3d-modeling-interview-victoria-passariello-image-02-1-768x746.jpg)
+
+#### animators
+
+![](https://theglobalgaming.com/assets/images/article/The-Division-img.1.jpg)
+
 #### FX artists
+
+![](https://www.cgspectrum.com/hs-fs/hubfs/CGSpectrum_November2019%20Theme/images/Assasins-Creed-Odyssey-Landscape-Ubisoft-600x338.jpg)
+
+
 #### Musicisti
+
+![](https://www.wikihow.com/images/thumb/e/ec/Design-a-Video-Game-Step-23-Version-4.jpg/v4-728px-Design-a-Video-Game-Step-23-Version-4.jpg.webp)
+
 #### Audio
 
+![](https://www.wikihow.com/images/thumb/0/08/Design-a-Video-Game-Step-20-Version-4.jpg/v4-728px-Design-a-Video-Game-Step-20-Version-4.jpg.webp)
+
+![](https://www.wikihow.com/images/thumb/5/59/Design-a-Video-Game-Step-21-Version-4.jpg/v4-728px-Design-a-Video-Game-Step-21-Version-4.jpg.webp)
+
+![](https://www.wikihow.com/images/thumb/2/25/Design-a-Video-Game-Step-22-Version-4.jpg/v4-728px-Design-a-Video-Game-Step-22-Version-4.jpg.webp)
+
 ### Programmazione
+
+![](img_dentro_vg/game_programming.webp)
+
 Tutta la tecnologia digitale, la logica, l'interfacciamento tra hardware e software.
+Il programmatore è la figura più ingegneristica con le maggiori competenze tecnologiche. Deve trovare le soluzioni conoscendo bene l'hardware e il software.
+
+SOno necessarie passione per la logica, matematica, la fisica, il pensare bene, l'ottimizzare, statistica.
+
+![](img_dentro_vg/visual-scripting2.webp)
+
+![](img_dentro_vg/visual-scripting.webp)
+
+
+Ci sono molti linguaggi che possono essere usati, e si va dal "visual scripting" al Javascript, al C# al C++ (in ordine di complessità).
 
 - Creazione di un motore di base personalizzato per il gioco
-- Funzioni di scripting, eventi, interazioni
-- Creazione di fisica (ad es. differenze di gravità in un gioco ambientato nello spazio)
-- Sviluppo e modifica di render grafici 3D
-- Simulare l'intelligenza artificiale negli avversari
+- Porgrammazione delle interazioni
+- Gestione della fisica (ad es. differenze di gravità in un gioco ambientato nello spazio)
+- La resa grafica
+- Intelligenza Artificiale negli avversari
 - Aggiunta di effetti sonori, musica e voci fuori campo
 - Implementare la logica e la meccanica del gioco
 - Creazione dell'interfaccia utente
-- Scrivere codice specifico per tastiera, mouse o joystick
 - Consentire ai giocatori di competere o cooperare tramite LAN o Internet
 - Sviluppo di strumenti personalizzati
-- Porting del codice tra piattaforme
-- Implementazione di algoritmi, gestione dei requisiti di memoria e problemi di memorizzazione nella cache
-- Identificare e correggere i bug
 
 ### Produzione
+
 - Controllo qualità
 - scrittura
 - attori
@@ -319,23 +419,42 @@ Tutta la tecnologia digitale, la logica, l'interfacciamento tra hardware e softw
 I giochi Arcade sono quei giochi, nati negli anni ’80, con meccaniche e caratteristiche semplici. Lo scopo principale dei giochi arcade, visto anche che nascono per le sale giochi, è quello di cercare di superare e superarsi con punteggi sempre più alti.
 Tramite questo tipo di videogiochi il giocatore aumenta la destrezza oculo-motoria e velocizza l’individualizzazione di strategie per poter superare il punteggio stabilito. Ad oggi il genere degli arcade, vista la quasi totale scomparsa delle sale giochi, ha ancora vita nei giochi per smartphone. Tra gli esempi più noti del genere abbiamo il sempreverde Pac-Man e Space Invaders.
 
+
+
 ### Audio game
 Giochi sviluppati soprautto per i non-vedenti, ma interessanti e godibili da tutti.
 E' qui che si sviluppato e trovano le più avanzate tecnologie di spazialità.
 Anche una narrativa solo audio è molto interessante per stimolare l'immaginazione, avvicinandoci al libro.
 
 ### Avventura
-Il videogiocatore, in questo genere, si ritrova libero di esplorare aree di gioco sempre nuove, panorami sempre diversi risultando libero di interagire con i vari scenari e personaggi secondari. Il genere nasce con i giochi in stile platform. L’identificazione con il protagonista dal punto cognitivo ed emotivo e il senso di presenza sono delle colonne portanti di questi giochi. Gli esempi più chiari sono Super Mario, Crash Bandicoot.
+Il videogiocatore, in questo genere, si ritrova libero di esplorare aree di gioco sempre nuove, panorami sempre diversi risultando libero di interagire con i vari scenari e personaggi secondari.
+
+#### The Legend of Zelda: Breath of the Wild
 
 ### Avventura Platform / Puzzle 
 
 #### Portal
+![](../../assets/img/played/videogame/portal.webp)
+
+### Avventura Punta e Clicca
+
+#### 7 FRAMES
+videogioco realizzato da 7 ragazzini, sotto la mia supervisione, in 3 giorni.
+<https://2042ed.org/2042/jam/7-frames/>
 
 ### Casual
 Giochi di breve durata, spesso giocati su smartphone e tablet durante gli spostamenti o negli intermezzi della vita quotidiana.
 
+![](../../assets/img/played/videogame/fancade.webp)
+Fancade is a huge collection of simple games. Play them instantly, or make your own game using drag-n-drop building blocks!
+website: [fancade.com](https://www.fancade.com)
+
+
 ### Educativi
 Nel mondo della scuola e dell'educazione in generale, si è scoperto quanto i videogiochi possano essere utilissimi per determinati scopi didattici, a volte molto più coinvolgenti e immediati delle tecniche normali. Che siano esperienze in Realtà Virtuale o Aumentata per esplorare l'astronomia o la meccanica, o giochi strategici per rivivere la Storia, giochi che ti fanno imparare lingue straniere o risolvere problemi scientifici, la EdTech (così si chiama in gergo l'uso delle nuove tecnologie per fini educativi) è già tra noi.
+
+#### Antura and the Letters
+
 
 ### ExerGame
 Quando l'interazione con il gioco è con il movimento fisico, dal semplice camminare (*PokemonGO*) al correre perché inseguiti da zombies virtuali (*Zombie Run*), dal fare addominali e flessioni per combattere un mostro (*Ring Fit Adventure*) al ballare in coreografia perfetta (*Just Dance*).
@@ -343,6 +462,10 @@ Quando l'interazione con il gioco è con il movimento fisico, dal semplice cammi
 ### FPS / Sparatutto
 I giochi in prima persona (First Person Shooter) o terza persona.
 Di solito sono giochi violenti: da soli o in team si combattono gli avversari impiegando armi da fuoco. Spesso l'ambiente circostante è visto dalla prospettiva del proprio personaggio di gioco.
+
+#### Fortnite
+![](../../assets/img/played/videogame/fortnite.webp)
+![](https://theglobalgaming.com/assets/images/article/Fortnite-gameplay-img.1.png)
 
 ### Gestionali / Manageriali
 Si deve gestire una città, un mondo, una squadra di calcio, uno studio di videogiochi, una fabbrica, un Governo!, una ditta edile.. oggi qualsiasi cosa necessiti un manager nel mondo reale, ha la sua controparte nel mondo videoludico, e spesso con dettagli e procedure talmente precise, che i videogiochi non solo formano i nuovi Manager, ma vengono usati per migliorarsi, formare giovani leve, e simulare scenari alternativi. Davvero: ci sono scuole di business che usano i videogiochi anche per decidere chi assumere e chi no.
@@ -352,15 +475,22 @@ Ma il "management" potrebbe essere anche solo il giardino di casa o il proprio a
 Due sono le componenti estetiche fondamentali per un gioco: la grafica e la musica.
 E qualche videogioco ha fatto della musica la componente principale, facendo giocare direttamente con la propria colonna sonora, con canzoni e con i suoni.
 
+### Platform
+
+#### Braid
+![](../../assets/img/played/videogame/braid.webp)
+
 ### Puzzle
 #### Monument Valley
 
-### Ricerca scientifica
-Può un giocatore contribuire alla ricerca contro il cancro? E non donando soldi come ormai ci siamo abituati, ma semplicemente cercando di risolvere dei livelli di un gioco? Ebbene sì. Alcuni giochi sono stati creati apposta per presentare a milioni di giocatori problemi la cui soluzione i computer non riescono a trovare, ma che l'Intelligenza Collettiva umana può e ce la fa!
+### Monument Valley
+![](../../assets/img/played/videogame/monumentvalley.webp)
 
 ### RPG
 Gli RPG (Role-Playing Game) sono un genere videoludico basato principalmente sul fantasy e che vede la sua origine tramite i classici GDR (Dungeons and Dragons). In questo genere di giochi il giocatore prende il controllo di un personaggio e lo potenzia fino a raggiungere il livello massimo disponibile modificando a piacimento i vari parametri. Riguardo al genere bisogna fare una distinzione tra il JRPG (di stampo giapponese) e l’RPG occidentale. Le differenze riguardano solo le tematiche. Inizialmente il genere prevedeva battaglie a turni ma questo stile è stato via via abbandonato per delle dinamiche più action. Tra gli esempi abbiamo la saga di *Final Fantasy* e di *Dragon Quest*.
 
+#### Final Fantasy serie
+![](../../assets/img/played/videogame/finalfantasy.webp)
 
 ### Sandbox
 #### Minecraft
@@ -368,8 +498,19 @@ Gli RPG (Role-Playing Game) sono un genere videoludico basato principalmente sul
 ### Simulazioni
 I videogiochi di simulazione cercano di simulare il più possibile la vita reale. Sono utilizzati anche da piloti per esercitarsi nell’uso di alcuni mezzi di trasporto. Lo scopo principale è quello di permettere al giocatore di fare cose che nella vita reale non potrebbe fare (come pilotare un aereo, fare gare clandestine con le macchine, essere una capra!) 
 
+#### Kerbal Space Program
+![](../../assets/img/played/videogame/kerbal.webp)
+
+Take charge of the space program for the alien race known as the Kerbals. You have access to an array of parts to assemble fully-functional spacecraft that flies (or doesn’t) based on realistic aerodynamic and orbital physics. Launch your Kerbal crew into orbit and beyond (while keeping them alive) to explore moons and planets in the Kerbol solar system, constructing bases and space stations to expand the reach of your expedition.  
+website: [kerbalspaceprogram.com](https://www.kerbalspaceprogram.com)
+
+
 ### Sportivi
 Tutti nella vita abbiamo giocato ad un videogioco sportivo, chi per passione, chi per divertimento con gli amici ma una partita a FIFA o a PES (ma anche ad NBA, o gli altri sport) l’abbiamo fatta. Lo scopo è quello di simulare l’esperienza reale della gestione della squadra e quindi di utilizzare e creare le strategie adatte per vincere.
+
+#### NBA
+![](../../assets/img/played/videogame/nba.webp)
+**Curricular connections:** Social Studies; biomechanics; economics; biometrics; management **Possible skills taught:** Systems thinking; collaboration; decision-making; critical gaming vocabulary; critical thinking; historical awareness
 
 ### Strategia 
 Se i Giochi da Tavolo sviluppano un senso della strategia a turni sequenziali, ovvero decido la mia mossa in previsione di quella dei miei prossimi avversari e delle mie prossime mosse, il videogioco permette una ricerca di strategia in Tempo Reale, ovvero mentre tutti gli altri giocatori e avversari stanno giocando le loro mosse.
@@ -377,9 +518,17 @@ Il tipo di gioco si chiama appunto RTS (Real Time Strategy).
 E il bello è che possiamo giocare tanto contro altri giocatori online, tanto contro le Intelligenze Artificiali più brave al mondo.
 Come con i giochi manageriali, anche quelli che richiedono una forte strategia sviluppano molto la capacità di analisi e di previsione a futuro in funzione dello situazione attuale e alla storia precedente.
 
+#### Civilization 
+![](../../assets/img/played/videogame/civilization.webp)
+
+
+
+
 ## Idee e strumenti per iniziare
 
 ### Consigli
+
+![](https://www.wikihow.com/images/thumb/0/08/Design-a-Video-Game-Step-32-Version-4.jpg/v4-728px-Design-a-Video-Game-Step-32-Version-4.jpg.webp)
 
 - segnatevi i videogiochi che vi piacciono di più, e iniziate a studiarli, ovvero domandatevi: come lo avranno realizzato? andate a cercare dei video che lo spiegano.
 - tenete sempre a portata di mano un quadernino dove registrare le idee che vi vengono in mente su giochi che vi piacerebbe creare.
@@ -388,9 +537,15 @@ Come con i giochi manageriali, anche quelli che richiedono una forte strategia s
 
 Ecco alcuni strumenti con cui iniziare:
 
+### Usare framework dedicati
+Sono soluzioni che consentono di partire da un gioco fatto e finito, e poterlo modificare o crearne uno simile (tipo un'avventura punta e clicca o un platform)
+
 ### Super Mario Maker 2
 Per la Nintendo Switch. Semplicissimo creare livelli platform.
 Level Design.
+
+![](../../assets/img/played/videogame/supermariomaker.webp)
+
 
 ### Portal 2 editor
 Creare un livello di Portal è un'esperienza a 360 gradi.
@@ -412,10 +567,15 @@ Una versione evoluta di Code.org, per programmare giochi più complessi (multipl
 <https://arcade.makecode.com/>
 
 ### Unity
-Strumento estremamante professionale, ma molto accessibile, e gratuito per creare giochi anche grande qualità (la metà dei videogiochi del mondo è creata con Unity). Ha moltissime risorse per imparare, e una serie di progetti di esempio da studiare (microgames).
+
+![](https://miro.medium.com/v2/resize:fit:1256/format:webp/0*unSpFPROhQMKZ6XZ.jpg)
+
+Strumento estremamante professionale, ma molto accessibile, e gratuito per creare giochi anche grande qualità (la metà dei videogiochi del mondo è creata con Unity). Ha moltissime risorse per imparare, e una serie di progetti di esempio da studiare (microgames).  
 <https://learn.unity.com/project/start-learning-1>
 
 ## Approfondimenti
+
+![2042ed](../../assets/img/logo/header_2042ed.webp)
 
 Nel mio sito [2042ed.org](https://2042ed.org/) ci sono diverse risorse per approfondire il mondo dei giochi e dei videogiochi, sia da giocatori che da sviluppatori.
 
@@ -424,9 +584,27 @@ Se questo mondo ti piace e ti interessa, ti invito a contattarmi e provare a val
 
 tipo [TheSign Academy](https://thesign.academy/) venerdì 5 maggio (scuola dove insegno io), [Università di Firenze](https://www.unifi.it/index.php?module=ofform2&mode=1&cmd=3&AA=2022&afId=598918) inizia ad avere esami di Game Design.
 
+### Video
+- How to program in C# - BASICS - Beginner Tutorial
+<https://www.youtube.com/playlist?list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51>
+
 ### Articoli
 
 - <https://www.wikihow.it/Creare-un-Videogioco> (da cui sono tratte alcune immagini di questa pagina)
 
 ### Libri
 
+- Jesse Schell – The Art of Game Design. A Book of Lenses
+- Le professioni del videogioco (Marco Accordi Rickards e Paola Frignani)
+
+### Film da vedere
+
+- Tetris (2023, Apple TV)
+- Wargames (1983)
+- Ralph Spaccatutto e seguito
+- Free guy (2021)
+- Ready Player One (2018)
+
+### Documentari
+
+La storia di Minecraft: <https://www.youtube.com/watch?v=1rOUfNa7dxM>
