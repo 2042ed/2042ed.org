@@ -1,15 +1,20 @@
 ---
-title: Creare un videogioco (teenz)
+title: Creare un videogioco
 date: 2023-04-24
 updated: 2023-04-25
 summary: "arti, tecnologie, scienze, psicologia, economia, strumenti e idee per chi volesse guardare dietro lo schermo di un videogioco e provare a creare"
-authors: []
-tags: []
+tags: [videogiochi]
 categories: [talk]
+
+width: 1280
+height: 720
+maxScale: 1.0
 ---
 
 # Creare un videogioco
 _arti, tecnologie, scienze, psicologia, economia, strumenti e idee per chi volesse guardare dietro lo schermo e provare a creare._
+
+---
 
 ## Chi sono e perché
 
@@ -23,88 +28,146 @@ _Ludologo, Game Developer, Educatore_
 - EdTech e Game Based Learning @ **[Future Education Modena](https://fem.digital)**
 - Docente Game A.I. / XR / OpenSource / Giochi applicati @ **[TheSign Academy](https://thesign.academy)**
 
-### Perché sono qui?
+---
+
+### Perché sono qui a parlare di VG?
 
 1. perché mi piace condividere quello che so.
-2. perché i videogiochi sono il medium del presente (e del futuro) e potrebbero giovare conoscerli meglio dal punti di vista
+2. il digitale e l'interattività immersiva sono rivoluzionarie.
+3. dopo il libro, la radio, il cinema, il videogioco è il medium del presente (e sempre più del futuro).
 
-### Creativo
-I videogiochi sono medium multimediali e multidisciplinari, che danno tanta soddisfazione ad essere giocati, ma ancora di più ad essere creati.
+---
 
-### Economico
+### Creatività multimediale
+
+![multimedialità](../game-dev/g4c/img/creative_multimedia.webp){: style="height:400px"}
+
+I videogiochi sono medium multimediali e multidisciplinari.
+Danno soddisfazione ad essere giocati, ma ancora di più ad essere creati.
+
+---
+
+### Economia e lavoro
+
 Ci sono più di 3 miliardi di videogiocatori nel mondo.
-Nel 2022 ci sono stati 203 miliardi di ricavi. E' un'industria in crescita del 7% annuo.  Anche in Italia crescono gli studi che producono, chi gioca (anche in modo professionale), le scuole che insegnano.
+Nel 2022 ci sono stati 203 miliardi di ricavi. E' un'industria in crescita costante. Anche in Italia crescono gli studi che producono, chi gioca (anche in modo professionale), le scuole che insegnano.
+
 Potrebbe essere interessante lavorare con i videogiochi.
+
+![](img_dentro_vg/GTA5-image.webp)
+_GTA 5 è costato 137 milioni per svilupparlo, e altri 128 per commercializzarlo._
+
+---
 
 ### Ikigai
 L'invito è sapere che esiste una strada che porta all'Ikigai, concetto giapponese che rappresenta:
-![](../game-dev/g4c/img/ikigai.webp)
+![IKIGAI](../game-dev/g4c/img/ikigai.webp)
+
+---
 
 ## Il Digitale
-Non si può introdurre il videogioco se prima non diciamo due parole sul mondo digitale
 
-Digit = cifra, numero
-Dominio numerico.
+![](img_dentro_vg/digi_love.webp)
 
-Usiamo i numeri binari, a base 2
-Bit: interruttore 0 o 1, spento o acceso.
+Non si può parlare di videogiochi se prima non diciamo due parole sul mondo digitale.
 
-Ogni tipo di informazione può essere codificata in numeri:
+**Digit** = cifra, numero
+**Digitale** è tutto ciò che viene rappresentato e gestito in modo numerico.
+
+---
+
+### Codice Binario
+
+![](img_dentro_vg/digi_binario.webp)
+
+Usiamo i numeri binari, a base 2, con i **Bit** che possono essere intesi come interruttori spenti o accesi, dal valore 0 o 1.
+
+E' facile costruire qualsiasi numero decimale con una sequenza di bit.
+
+![](img_dentro_vg/digi_conversione.webp)
+
+### Informatica
+E' scienza dell'informazione.  
+Della Codifica, elaborazione, immagazinamento, decodifica dell'informazione convertita in numeri.
+
+_Ogni_ tipo di informazione può essere codificata in numeri:
+
 - testo
+
+![](img_dentro_vg/digi_binary_text.webp)
+
 - colori
 - immagini
+
+![](img_dentro_vg/digi_binary_image.webp)
+
 - immagini in movimento
 - oggetti tridimensionali
 - suoni
+
+![](img_dentro_vg/digi_binary_audio.webp)
+
 - miscele di testi, immagini e suoni in movimento
 - procedure logiche
 - tutto ciò che è misurabile e riconducibile ad un numero (temperatura, pressione, forze...)
 
-Informatica: scienza dell'informazione.
-Codifica, elaborazione, immagazinamento, decodifica dell'informazione,
+### CPU
 
-Il "cuore" che elabora i dati è la CPU (Central Processing Unit).
+![](img_dentro_vg/digi_cpu_board.webp)
+
+Il "cuore" che elabora i dati digitali è la CPU (Central Processing Unit).
 
 Riceve dati in ingresso, li elabora seguendo delle istruzioni date, li memorizza o li restituisce.
 
-### Input
+![CPU](img_dentro_vg/digi_cpu.webp)
 
+---
 
-### Output
+### Codice
 
+![](img_dentro_vg/code_if_then.webp)
+
+---
+
+### Input / Output
+
+![](img_dentro_vg/hardware_porte.webp)
+
+---
 
 ## Cosa è un videogioco
 
 gioco -> analogico o digitale?
 
-### Medium Multimediali & Multidisciplinari
-![](../game-dev/g4c/img/creative_multimedia.webp)
+--- 
+
+### Hardware e Software
+
+![](img_dentro_vg/digi_hardware-software.webp)
+
+---
 
 ### Immersività
 
 > Parlami e dimentico, insegnami e potrei ricordare, coinvolgimi e imparerò (Benjamin Franklin)
 
-**Immersione** è la caratteristica della mente umana che deforma lo spazio tempo interno.
-
-Si vive un'esperienza dentro un gioco, finché non si rompe a causa di:
-
-- distrazione esterna
-- errore o bug
-- quando si riflette su quanto sta accadendo
-
-L'immersività permette:
+**Immersione** è la caratteristica della mente umana che deforma lo spazio tempo interno e permette:
 
 - esperienza di scenari reali in **ambienti protetti** e a basso rischio dove **poter fare errori**
 - coinvolgimento in complicate situazioni morali ed etiche
 
+---
+
 ### Interattività
-![](../game-dev/g4c/img/interactive.webp)
+![](../game-dev/g4c/img/interactive.webp){: style="height:400px"}
 E' la virtù principale permessa dalla CPU (la componente pre-programmata / automatica) che differenzia il videogioco dai giochi non digitali.
 
 - esperienze non-lineari
 
+---
+
 ### Feedback loop
-![loop](../game-dev/g4c/img/loop.webp)
+![loop](../game-dev/g4c/img/loop.webp){: style="height:400px"}
 
 Il feedback automatizzato / programmato sul giocatore permette di 
 
@@ -112,41 +175,48 @@ Il feedback automatizzato / programmato sul giocatore permette di
 - i meccanismi di gratificazione possono aiutare a superare i momenti di difficoltà
 - favorire un apprendimento individuale e personalizzato
 
-### Player centric
+---
+
+### Un medium umano-centrico
+
+![humanist_player](img/humanist_player.webp){: style="height:40%"}
+
 Tutto è pensato, confezionato e valutato intorno al giocatore e alle sue azioni.
 Creato prima ed elaborato in tempo reale.
 Si può considerare il videogioco un *medium umanista*.
 
-![humanist_player](img/humanist_player.webp)
+---
 
 ### Strutturano un'esperienze
 
 Da elementi destrutturati
-![](../game-dev/g4c/img/destructured.webp)
+![](../game-dev/g4c/img/destructured.webp){: style="height:400px"}
 
 un buon game designer porta ad un'esperienza.
-![](../game-dev/g4c/img/experience.webp)
+![](../game-dev/g4c/img/experience.webp){: style="height:400px"}
 
-> ci interessa far vivere esperienze formative o con effetti oltre il puro divertimento
+---
 
-### Cosa fanno e cosa portano
+### Virtù dei videogiochi
 
-- sono una forma di divertimento -> _piacere_
-- sono una forma di gioco -> _coinvolgimento_
-- hanno regole -> _struttura_
-- hanno obiettivi -> _motivazione_
-- sono interattivi -> _azioni_
-- si adattano -> _flow_
-- danno risultati e feedback -> _apprendimento_
-- hanno una vincita ->  _gratificazione_ dell'ego
+- sono una forma di divertimento -> procurano _piacere_
+- sono una forma di gioco -> generano _coinvolgimento_
+- hanno regole -> hanno _struttura_
+- hanno obiettivi -> stimolano la _motivazione_
+- sono interattivi -> necessitano _azioni, scelte_
+- si adattano -> innescano un _flow mentale_
+- danno risultati e feedback -> c'è _apprendimento_
+- hanno una vincita ->  procurano _gratificazione_
 - hanno conflitti/antagonisti/sfide -> _adrenalina_
-- richiedono capacità di problem solving -> sviluppa _creatività_
-- hanno interazioni tra pari -> _gruppi sociali_
-- hanno personaggi e storie -> _emozioni_
+- richiedono capacità di problem solving -> sviluppano _creatività_
+- hanno interazioni tra pari -> costruzione _gruppi sociali_
+- hanno personaggi e storie -> procurano _emozioni_
+
+---
 
 ### Il circuito
 
-![Circuito dei Videogiochi](img/vg-circuit.webp)
+![Circuito dei Videogiochi](img/vg-circuit.webp){: style="height:400px"}
 
 Il giocatore, consideriamolo umano per il momento, è al _centro_ del circuito, come un agente senziente e intelligente che percepisce, elabora decisioni e le attua andando a modificare l'ambiente e ottenendo risultati e sensazioni, l'esperienza di gioco appunto.
 
@@ -158,28 +228,34 @@ Ultimamente i videogiochi sono sviluppati per rendere l'esperienza ludica il pi�
 
 Per _cucire_ al meglio le esperienze intorno ai giocatori, come fossero dei sarti multimediali, i creatori di videogiochi sono sempre più attenti alla psicologia, alla sociologia, alla filosofia e alla fisiologia umana.
 
-### Un medium umano-centrico
+![](img_dentro_vg/game_human-hw-sw-circuit.webp)
 
-![](img/humanist_player.webp){: style="height:40%"}
-
-Questi elementi di interattività, contenuti adattati, multiutenza, immersività, creatività multidisciplinare, rendono il videogioco un medium davvero "umano centrico" che si interessa di moltissimi aspetti del giocatore. E se i game designer avessero davvero a cuore la crescita, lo sviluppo, il benessere dell'umano in gioco, il potenziale è impressionante.
+---
 
 ### Piattaforme
+Oggi esistono molte configurazioni hardware per videogiocare
 
 #### Computer
+fisso o portatile. si sta seduti a casa. tastiera e mouse, controllers.
 
 #### Mobile
+Smartphone o Tablet. In viaggio. Touch.
 
 #### Console
+Massimo rapporto qualità/prezzo. Dedicate al gioco. Titoli AAA.
 
 #### VR / AR / XR
+Nuova frontiera
 
 #### Altro
-wearable
+- wearable
+- audio only
+- robot
 
 ## Come si crea
 
-Si parte da un'idea di esperienza che si vuole far vivere al giocatore.
+Si parte da un'idea di esperienza che si vuole far vivere al giocatore, con tanto di sfide e difficoltà da superare, storia, ambientazione, personaggi.  
+Che tipo di azioni dovraà compiere il giocatore? (meccaniche del gioco / gameplay)
 
 ### Game Designer
 
@@ -239,7 +315,7 @@ Tutta la tecnologia digitale, la logica, l'interfacciamento tra hardware e softw
 
 <https://www.youtube.com/watch?v=AzEEwKcuEng>
 
-### Arcade 
+### Arcade
 I giochi Arcade sono quei giochi, nati negli anni ’80, con meccaniche e caratteristiche semplici. Lo scopo principale dei giochi arcade, visto anche che nascono per le sale giochi, è quello di cercare di superare e superarsi con punteggi sempre più alti.
 Tramite questo tipo di videogiochi il giocatore aumenta la destrezza oculo-motoria e velocizza l’individualizzazione di strategie per poter superare il punteggio stabilito. Ad oggi il genere degli arcade, vista la quasi totale scomparsa delle sale giochi, ha ancora vita nei giochi per smartphone. Tra gli esempi più noti del genere abbiamo il sempreverde Pac-Man e Space Invaders.
 
@@ -263,7 +339,6 @@ Nel mondo della scuola e dell'educazione in generale, si è scoperto quanto i vi
 
 ### ExerGame
 Quando l'interazione con il gioco è con il movimento fisico, dal semplice camminare (*PokemonGO*) al correre perché inseguiti da zombies virtuali (*Zombie Run*), dal fare addominali e flessioni per combattere un mostro (*Ring Fit Adventure*) al ballare in coreografia perfetta (*Just Dance*).
-Il videogioco permette di dare un minimo *senso* a quelle che sarebbero altrimenti attività pretesto: fare 20 flessioni uno può farle perché vuole allenarsi e ha un obiettivo di sviluppo fisico.. ma la motivazione potrebbe non essere sufficiente a farle *tutti i giorni* per un mese. 
 
 ### FPS / Sparatutto
 I giochi in prima persona (First Person Shooter) o terza persona.
@@ -305,6 +380,7 @@ Come con i giochi manageriali, anche quelli che richiedono una forte strategia s
 ## Idee e strumenti per iniziare
 
 ### Consigli
+
 - segnatevi i videogiochi che vi piacciono di più, e iniziate a studiarli, ovvero domandatevi: come lo avranno realizzato? andate a cercare dei video che lo spiegano.
 - tenete sempre a portata di mano un quadernino dove registrare le idee che vi vengono in mente su giochi che vi piacerebbe creare.
 - guardate qualche video di persone che creano videogiochi (ad esempio [Brackeys](https://www.youtube.com/@Brackeys))
@@ -349,7 +425,8 @@ Se questo mondo ti piace e ti interessa, ti invito a contattarmi e provare a val
 tipo [TheSign Academy](https://thesign.academy/) venerdì 5 maggio (scuola dove insegno io), [Università di Firenze](https://www.unifi.it/index.php?module=ofform2&mode=1&cmd=3&AA=2022&afId=598918) inizia ad avere esami di Game Design.
 
 ### Articoli
-- <https://www.wikihow.it/Creare-un-Videogioco>
+
+- <https://www.wikihow.it/Creare-un-Videogioco> (da cui sono tratte alcune immagini di questa pagina)
 
 ### Libri
 
