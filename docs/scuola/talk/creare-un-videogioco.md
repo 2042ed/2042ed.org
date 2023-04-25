@@ -11,22 +11,31 @@ height: 720
 maxScale: 1.0
 ---
 
+### Input / Output
+
+![](img_dentro_vg/hardware_porte.webp)
+
+---
+
 # Creare un videogioco
 _arti, tecnologie, scienze, psicologia, economia, strumenti e idee per chi volesse guardare dietro lo schermo e provare a creare._
+
+![](img_dentro_vg/banner_talk.webp)
 
 ---
 
 ## Chi sono e perché
 
 ### Stefano Cecere
-_Ludologo, Game Developer, Educatore_
 
 ![Stefano Cecere](../../assets/img/stefano/stefanocecere_pixel.webp)
 
-- ho iniziato ad hackerare i computer a 10 anni, primo VG in seconda Liceo.
-- Sviluppo videogiochi per l'impatto sociale positivo @ **[Videogames Without Borders](https://vgwb.org)**
-- EdTech e Game Based Learning @ **[Future Education Modena](https://fem.digital)**
+- ho iniziato ad hackerare i computer a 10 anni, primo VG in terza Liceo[^giochi-liceo].
+- Sviluppo videogiochi educativi @ **[Videogames Without Borders](https://vgwb.org)**
+- Ricercatore nell'uso di giochi e tecnologia a Scuola @ **[Future Education Modena](https://fem.digital)**
 - Docente Game A.I. / XR / OpenSource / Giochi applicati @ **[TheSign Academy](https://thesign.academy)**
+
+[^giochi-liceo]: vedi [videogiochi per Amiga](https://cecere.xyz/project/amiga-videogames/)
 
 ---
 
@@ -87,57 +96,51 @@ E' facile costruire qualsiasi numero decimale con una sequenza di bit.
 ![](img_dentro_vg/digi_conversione.webp)
 
 ### Informatica
-E' scienza dell'informazione.  
-Della Codifica, elaborazione, immagazinamento, decodifica dell'informazione convertita in numeri.
+E' la scienza dell'informazione.  
+Si occupa anche della codifica, memorizzazione, elaborazione, decodifica dell'informazione digitalizzata.
 
 _Ogni_ tipo di informazione può essere codificata in numeri:
 
-- testo
+- **Testo**
 
 ![](img_dentro_vg/digi_binary_text.webp)
 
-- colori
-- immagini
+- **Immagini**
 
 ![](img_dentro_vg/digi_binary_image.webp)
 
-- immagini in movimento
-- oggetti tridimensionali
-- suoni
+- **Video** (immagini in movimento)
+- **Modelli 3D**
+- **Suoni** (campionamento)
 
 ![](img_dentro_vg/digi_binary_audio.webp)
 
-- miscele di testi, immagini e suoni in movimento
-- procedure logiche
-- tutto ciò che è misurabile e riconducibile ad un numero (temperatura, pressione, forze...)
+- **Procedure logiche** (codice di programmazione)
+- Tutto ciò che è misurabile e riconducibile ad un numero (temperatura, pressione, forze...)
 
 ### CPU
 
 ![](img_dentro_vg/digi_cpu_board.webp)
 
-Il "cuore" che elabora i dati digitali è la CPU (Central Processing Unit).
+Dentro ogni dispositivo digitale c'è un "cuore" che elabora i dati: la CPU (Central Processing Unit).
 
-Riceve dati in ingresso, li elabora seguendo delle istruzioni date, li memorizza o li restituisce.
+Riceve dati in ingresso, li elabora seguendo delle istruzioni date (il programma, il software), li memorizza e li restituisce.
 
 ![CPU](img_dentro_vg/digi_cpu.webp)
 
 ---
 
 ### Codice
+Le istruzioni delle procedure da seguire sono codificate in codice macchina, oggi scritto con linguaggi simili all'inglese, o rappresentanti da diagrammi di flusso logico.
 
 ![](img_dentro_vg/code_if_then.webp)
 
 ---
 
-### Input / Output
-
-![](img_dentro_vg/hardware_porte.webp)
-
----
-
 ## Cosa è un videogioco
 
-gioco -> analogico o digitale?
+E' un gioco veicolato da un dispositivo _digitale_.
+Può essere considerato un Medium, un veicolatore di esperienze multimediali dove il giocatore è il protagonista che agisce.
 
 --- 
 
@@ -145,35 +148,39 @@ gioco -> analogico o digitale?
 
 ![](img_dentro_vg/digi_hardware-software.webp)
 
+Un videogioco è il software, il codice di programmazione che gestisce gli elementi multimediali, che viene eseguito da un Hardware specifico. A volte un videogioco è la combinazione indissolubile di HW (Hardware) e SW (Software)
+
 ---
 
-### Immersività
+### Piattaforme
+Gli hardware più comuni per videogiocare sono
 
-> Parlami e dimentico, insegnami e potrei ricordare, coinvolgimi e imparerò (Benjamin Franklin)
+#### Computer
+fisso o portatile. si sta seduti a casa. tastiera e mouse, controllers.
 
-**Immersione** è la caratteristica della mente umana che deforma lo spazio tempo interno e permette:
+#### Mobile
+Smartphone o Tablet. In viaggio. Touch.
 
-- esperienza di scenari reali in **ambienti protetti** e a basso rischio dove **poter fare errori**
-- coinvolgimento in complicate situazioni morali ed etiche
+#### Console
+Massimo rapporto qualità/prezzo. Dedicate al gioco. Titoli AAA.
+
+#### Arcade Cabinet
+Sono console dedicate installate nelle sale giochi
+
+#### VR / AR / XR
+Nuova frontiera
+
+#### Altro
+
+- wearable
+- audio only
+- robot
 
 ---
 
 ### Interattività
 ![](../game-dev/g4c/img/interactive.webp){: style="height:400px"}
-E' la virtù principale permessa dalla CPU (la componente pre-programmata / automatica) che differenzia il videogioco dai giochi non digitali.
-
-- esperienze non-lineari
-
----
-
-### Feedback loop
-![loop](../game-dev/g4c/img/loop.webp){: style="height:400px"}
-
-Il feedback automatizzato / programmato sul giocatore permette di 
-
-- migliorare le capacità di pensiero critico e di lettura e insegnano nuove capacità tecniche.
-- i meccanismi di gratificazione possono aiutare a superare i momenti di difficoltà
-- favorire un apprendimento individuale e personalizzato
+E' la virtù principale dei videogiochi, ed è permessa dalla CPU che elabora le azioni del giocatore in tempo reale e reagisce in modo autonomo, preprogrammato o imprevedibile, permettendo esperienze non-lineari.
 
 ---
 
@@ -181,23 +188,29 @@ Il feedback automatizzato / programmato sul giocatore permette di
 
 ![humanist_player](img/humanist_player.webp){: style="height:40%"}
 
-Tutto è pensato, confezionato e valutato intorno al giocatore e alle sue azioni.
-Creato prima ed elaborato in tempo reale.
-Si può considerare il videogioco un *medium umanista*.
+Il Videogioco è pensato, confezionato ed eseguito intorno al giocatore e alle sue azioni. Il giocatore è al centro. Si può considerarlo un *medium umanista*.
 
 ---
 
-### Strutturano un'esperienze
+### Il circuito
 
-Da elementi destrutturati
-![](../game-dev/g4c/img/destructured.webp){: style="height:400px"}
+![Circuito dei Videogiochi](img/vg-circuit.webp){: style="height:400px"}
 
-un buon game designer porta ad un'esperienza.
-![](../game-dev/g4c/img/experience.webp){: style="height:400px"}
+Il giocatore, consideriamolo umano per il momento, è al _centro_ del circuito, come un agente senziente e intelligente che percepisce, elabora decisioni e le attua andando a modificare l'ambiente e ottenendo risultati e sensazioni, l'esperienza di gioco appunto.
+
+A differenza dei giochi a "turni" (tipo gli scacchi) dove il tempo è sospeso tra una decisione e l'altra, quasi sempre i videogiochi si svolgono in tempo reale, ovvero si gioca immersi nel tempo con l'effetto di una maggiore e costante tensione, coinvolgimento intellettuale, emotivo e motorio. Il giocatore vive all'interno di un *flusso* non solo spaziale, ma anche temporale.
+
+Questo circuito di interattività in tempo reale differenzia il medium videogioco da tutti gli altri medium "passivi", ovvero dove si è solo spettatori.
+
+Ultimamente i videogiochi sono sviluppati per rendere l'esperienza ludica il più  coinvolgente possibile, anche adattando i contenuti di gioco (difficoltà, ambientazioni, elementi grafici e sonori, comportamento dei personaggi, addirittura la storia) in funzione della diversità fisica, culturale, psicologica, delle capacità e delle scelte del giocatore.
+
+Per _cucire_ al meglio le esperienze intorno ai giocatori, come fossero dei sarti multimediali, i creatori di videogiochi sono sempre più attenti alla psicologia, alla sociologia, alla filosofia e alla fisiologia umana.
+
+![](img_dentro_vg/game_human-hw-sw-circuit.webp)
 
 ---
 
-### Virtù dei videogiochi
+### VIrtù dei videogiochi
 
 - sono una forma di divertimento -> procurano _piacere_
 - sono una forma di gioco -> generano _coinvolgimento_
@@ -214,61 +227,20 @@ un buon game designer porta ad un'esperienza.
 
 ---
 
-### Il circuito
-
-![Circuito dei Videogiochi](img/vg-circuit.webp){: style="height:400px"}
-
-Il giocatore, consideriamolo umano per il momento, è al _centro_ del circuito, come un agente senziente e intelligente che percepisce, elabora decisioni e le attua andando a modificare l'ambiente e ottenendo risultati e sensazioni, l'esperienza di gioco appunto.
-
-A differenza dei giochi a "turni" (tipo gli scacchi) dove il tempo è sospeso tra una decisione e l'altra, quasi sempre i videogiochi si svolgono in tempo reale, ovvero si gioca immersi nel tempo con l'effetto di una maggiore e costante tensione, coinvolgimento intellettuale, emotivo e motorio. Il giocatore vive all'interno di un *flusso* non solo spaziale, ma anche temporale.
-
-Questo circuito di interattività in tempo reale differenzia il medium videogioco da tutti gli altri medium "passivi", ovvero dove si è solo spettatori, o al massimo si interagisce parzialmente.
-
-Ultimamente i videogiochi sono sviluppati per rendere l'esperienza ludica il più  coinvolgente possibile, anche adattando i contenuti di gioco (difficoltà, ambientazioni, elementi grafici e sonori, comportamento dei personaggi, addirittura la storia) in funzione della diversità fisica, culturale, psicologica, delle capacità e delle scelte del giocatore.
-
-Per _cucire_ al meglio le esperienze intorno ai giocatori, come fossero dei sarti multimediali, i creatori di videogiochi sono sempre più attenti alla psicologia, alla sociologia, alla filosofia e alla fisiologia umana.
-
-![](img_dentro_vg/game_human-hw-sw-circuit.webp)
-
----
-
-### Piattaforme
-Oggi esistono molte configurazioni hardware per videogiocare
-
-#### Computer
-fisso o portatile. si sta seduti a casa. tastiera e mouse, controllers.
-
-#### Mobile
-Smartphone o Tablet. In viaggio. Touch.
-
-#### Console
-Massimo rapporto qualità/prezzo. Dedicate al gioco. Titoli AAA.
-
-#### VR / AR / XR
-Nuova frontiera
-
-#### Altro
-
-- wearable
-- audio only
-- robot
-
-## Come si crea
-
-![](img_dentro_vg/gamedev-fasi.webp)
+## Come si crea un VG
 
 ### Definizione degli obiettivi
-Si parte da un'idea di esperienza che si vuole far vivere al giocatore, con tanto di sfide e difficoltà da superare, storia da raccontare, ambientazione, personaggi.  
+Si parte da un'idea dell'esperienza che si vuole far vivere al giocatore, con tanto di sfide e difficoltà da superare, storia da raccontare, ambientazione, personaggi.  
 
 ![](https://www.wikihow.com/images/thumb/d/dd/Design-a-Video-Game-Step-01-Version-3.jpg/v4-728px-Design-a-Video-Game-Step-01-Version-3.jpg.webp)
 
 ### Pubblico
-Per chi lo sto creando? Chi lo giocherà?
+Per chi lo sto creando? Chi lo giocherà? Saranno bambini, giovani, professionisti, gente che gioca ogni tanto?
 
 ![](https://www.wikihow.com/images/thumb/b/bd/Design-a-Video-Game-Step-02-Version-3.jpg/v4-728px-Design-a-Video-Game-Step-02-Version-3.jpg.webp)
 
 ### Gameplay
-Che genere e che meccanica di gioco prevedo e quali azioni dovrà compiere il giocatore?
+Che genere e che meccanica di gioco prevedo? quali azioni dovrà compiere il giocatore?
 
 ![](https://www.wikihow.com/images/thumb/1/15/Design-a-Video-Game-Step-04-Version-3.jpg/v4-728px-Design-a-Video-Game-Step-04-Version-3.jpg.webp)
 
@@ -279,11 +251,17 @@ Solitamente si inizia con un semplice **prototipo** per capire se le meccaniche 
 
 ![](https://theglobalgaming.com/assets/images/article/prototype-2.jpg)
 
-Ci sono persone che riescono a creare videogiochi in solitario, ma solitamente ci sono 3 (+1) figure chiave:
+### Flusso di produzione
+![](img_dentro_vg/gamedev-fasi.webp)
+
+
+### Team di sviluppo
+Ci sono persone che riescono a creare videogiochi in solitario, ma solitamente ci sono 3 (+2) figure chiave:
 
 - il game designer
 - il programmatore
 - l'artista
+- il produttore
 - il marketing
 
 ### Game Designer
@@ -402,10 +380,14 @@ Ci sono molti linguaggi che possono essere usati, e si va dal "visual scripting"
 
 ### Produzione
 
-- Controllo qualità
-- scrittura
-- attori
-- traduzioni
+- Nei giochi medio/grandi è essenziale la figura del **Produttore**, che tiene le fila di tutte le persone che stanno lavorando insieme.
+- Controllo qualità, verifica i bug (errori e problemi)
+- Scrittura (dei testi, della storia)
+- Traduzioni (la maggior parte dei videogiochi sono in inglese più le lingue native)
+- Attori (per registrare le voci)
+
+### Marketing
+Si preoccupa di "vendere" il videogioco, facendo analisi di mercato (giochi simili, concorrenti) e curando la comunicazione, la diffusione, la community dei giocatori, la visibilità nei negozi.
 
 ## Categorie e casi studio
 
@@ -439,25 +421,42 @@ Il videogiocatore, in questo genere, si ritrova libero di esplorare aree di gioc
 ### Avventura Punta e Clicca
 
 #### 7 FRAMES
+![](https://play-lh.googleusercontent.com/vbnSW_DVLmu-gR2hBETt3fdaJWEzltceP4uSTU8Zro9PZBfhTBxs3OktD46kvXqokA=w526-h296-rw)
 videogioco realizzato da 7 ragazzini, sotto la mia supervisione, in 3 giorni.
 <https://2042ed.org/2042/jam/7-frames/>
 
+#### Thimbleweed Park
+![](https://cdn.akamai.steamstatic.com/steam/apps/569860/ss_1a90833d40cb29fe1a13ef72f154b36f5fe0d2a5.1920x1080.jpg)
+
+### Combattimento
+
+#### Street Fighter
+![](https://www.stuff.tv/wp-content/uploads/sites/2/2021/08/street_fighter.jpg)
+
+### Corse
+#### Assetto Corsa
+![](https://www.gamereactor.it/media/58/assettocorsaps4_1845873b.jpg)
+
 ### Casual
 Giochi di breve durata, spesso giocati su smartphone e tablet durante gli spostamenti o negli intermezzi della vita quotidiana.
+
+#### Fancade
 
 ![](../../assets/img/played/videogame/fancade.webp)
 Fancade is a huge collection of simple games. Play them instantly, or make your own game using drag-n-drop building blocks!
 website: [fancade.com](https://www.fancade.com)
 
-
 ### Educativi
 Nel mondo della scuola e dell'educazione in generale, si è scoperto quanto i videogiochi possano essere utilissimi per determinati scopi didattici, a volte molto più coinvolgenti e immediati delle tecniche normali. Che siano esperienze in Realtà Virtuale o Aumentata per esplorare l'astronomia o la meccanica, o giochi strategici per rivivere la Storia, giochi che ti fanno imparare lingue straniere o risolvere problemi scientifici, la EdTech (così si chiama in gergo l'uso delle nuove tecnologie per fini educativi) è già tra noi.
 
 #### Antura and the Letters
-
+![](../../assets/img/played/videogame/antura.webp)
 
 ### ExerGame
 Quando l'interazione con il gioco è con il movimento fisico, dal semplice camminare (*PokemonGO*) al correre perché inseguiti da zombies virtuali (*Zombie Run*), dal fare addominali e flessioni per combattere un mostro (*Ring Fit Adventure*) al ballare in coreografia perfetta (*Just Dance*).
+
+#### Ring Fit Adventure
+![](../../played/videogame/img/ringfit_adventure.webp)
 
 ### FPS / Sparatutto
 I giochi in prima persona (First Person Shooter) o terza persona.
@@ -471,9 +470,15 @@ Di solito sono giochi violenti: da soli o in team si combattono gli avversari im
 Si deve gestire una città, un mondo, una squadra di calcio, uno studio di videogiochi, una fabbrica, un Governo!, una ditta edile.. oggi qualsiasi cosa necessiti un manager nel mondo reale, ha la sua controparte nel mondo videoludico, e spesso con dettagli e procedure talmente precise, che i videogiochi non solo formano i nuovi Manager, ma vengono usati per migliorarsi, formare giovani leve, e simulare scenari alternativi. Davvero: ci sono scuole di business che usano i videogiochi anche per decidere chi assumere e chi no.
 Ma il "management" potrebbe essere anche solo il giardino di casa o il proprio allevamento di draghi pollo, il principio è lo stesso: imparo a gestire sistemi complessi, facendo crescere qualcosa di mio, in un ambiente simulato, sicuro e divertendomi.
 
+#### Anno 1800
+![](https://assets.rockpapershotgun.com/images/2020/01/Anno-1800-Best-Management-Games.jpg)
+
 ### Musicali
 Due sono le componenti estetiche fondamentali per un gioco: la grafica e la musica.
 E qualche videogioco ha fatto della musica la componente principale, facendo giocare direttamente con la propria colonna sonora, con canzoni e con i suoni.
+
+#### Beat Saber
+![](https://i.ytimg.com/vi/3ehSPtWoiuc/maxresdefault.jpg)
 
 ### Platform
 
@@ -483,7 +488,6 @@ E qualche videogioco ha fatto della musica la componente principale, facendo gio
 ### Puzzle
 #### Monument Valley
 
-### Monument Valley
 ![](../../assets/img/played/videogame/monumentvalley.webp)
 
 ### RPG
@@ -521,8 +525,8 @@ Come con i giochi manageriali, anche quelli che richiedono una forte strategia s
 #### Civilization 
 ![](../../assets/img/played/videogame/civilization.webp)
 
-
-
+#### StarCraft: Brood War
+![starcraf](https://ftw.usatoday.com/wp-content/uploads/sites/90/2021/12/starcraft-brood-war.png)
 
 ## Idee e strumenti per iniziare
 
@@ -582,9 +586,11 @@ Nel mio sito [2042ed.org](https://2042ed.org/) ci sono diverse risorse per appro
 ### Scuole
 Se questo mondo ti piace e ti interessa, ti invito a contattarmi e provare a valutare delle scuole di sviluppo videogiochi, magari andando agli open day.
 
-tipo [TheSign Academy](https://thesign.academy/) venerdì 5 maggio (scuola dove insegno io), [Università di Firenze](https://www.unifi.it/index.php?module=ofform2&mode=1&cmd=3&AA=2022&afId=598918) inizia ad avere esami di Game Design.
+- [TheSign Academy](https://thesign.academy/) (scuola dove insegno io) open day venerdì 5 maggio
+- [Università di Firenze](https://www.unifi.it/index.php?module=ofform2&mode=1&cmd=3&AA=2022&afId=598918) inizia ad avere esami di Game Design.
 
 ### Video
+
 - How to program in C# - BASICS - Beginner Tutorial
 <https://www.youtube.com/playlist?list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51>
 
@@ -601,10 +607,11 @@ tipo [TheSign Academy](https://thesign.academy/) venerdì 5 maggio (scuola dove 
 
 - Tetris (2023, Apple TV)
 - Wargames (1983)
-- Ralph Spaccatutto e seguito
+- Ralph Spaccatutto (2012)
 - Free guy (2021)
 - Ready Player One (2018)
+- The Super Mario Bros (2023)
 
 ### Documentari
 
-La storia di Minecraft: <https://www.youtube.com/watch?v=1rOUfNa7dxM>
+- La storia di Minecraft: <https://www.youtube.com/watch?v=1rOUfNa7dxM>
