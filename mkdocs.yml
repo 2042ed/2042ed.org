@@ -43,6 +43,7 @@ theme:
 
 markdown_extensions:
   - tables
+  - footnotes
   - admonition
   - pymdownx.details
   - pymdownx.superfences
