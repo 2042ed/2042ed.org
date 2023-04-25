@@ -15,9 +15,9 @@ Qui alcuni studi e lavori di approfondimento su temi vari, dalla tecnologia alla
 - :fontawesome-solid-book: [Ludosofia](ludosofia/index.md)  
 _manuale al giocare bene insieme_
 - :fontawesome-solid-book: [GameDev](game-dev/index.md)  
-_da Git all'Immortalità_ 
-- :fontawesome-solid-book: [Talk](talk/umanesimo-tecnologia.md)  
-_Presentazioni varie_ 
+_da Git all'Immortalità_
+- :fontawesome-solid-book: [Talk](talk/index.md)  
+_Talk e Presentazioni varie_
 - :fontawesome-solid-book: [Mediateca](mediateca/tabella-periodica-fumetti.md)  
 _Ricerche e materiali nel campo della pedagogia e dell'educazione_ 
 

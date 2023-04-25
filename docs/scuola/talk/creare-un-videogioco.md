@@ -1,12 +1,22 @@
+---
+title: Creare un videogioco (teenz)
+date: 2023-04-24
+updated: 2023-04-25
+summary: "arti, tecnologie, scienze, psicologia, economia, strumenti e idee per chi volesse guardare dietro lo schermo di un videogioco e provare a creare"
+authors: []
+tags: []
+categories: [talk]
+---
+
 # Creare un videogioco
-*arti, tecnologie, scienze, psicologia, economia, strumenti e idee per chi volesse guardare dietro lo schermo e provare a creare.*
+_arti, tecnologie, scienze, psicologia, economia, strumenti e idee per chi volesse guardare dietro lo schermo e provare a creare._
 
 ## Chi sono e perché
 
 ### Stefano Cecere
 _Ludologo, Game Developer, Educatore_
 
-![](../../assets/img/stefano/stefanocecere_pixel.webp)
+![Stefano Cecere](../../assets/img/stefano/stefanocecere_pixel.webp)
 
 - ho iniziato ad hackerare i computer a 10 anni, primo VG in seconda Liceo.
 - Sviluppo videogiochi per l'impatto sociale positivo @ **[Videogames Without Borders](https://vgwb.org)**
@@ -68,7 +78,7 @@ Riceve dati in ingresso, li elabora seguendo delle istruzioni date, li memorizza
 gioco -> analogico o digitale?
 
 ### Medium Multimediali & Multidisciplinari
-![](img/creative_multimedia.webp)
+![](../game-dev/g4c/img/creative_multimedia.webp)
 
 ### Immersività
 
@@ -77,25 +87,27 @@ gioco -> analogico o digitale?
 **Immersione** è la caratteristica della mente umana che deforma lo spazio tempo interno.
 
 Si vive un'esperienza dentro un gioco, finché non si rompe a causa di:
+
 - distrazione esterna
 - errore o bug
 - quando si riflette su quanto sta accadendo
 
 L'immersività permette:
+
 - esperienza di scenari reali in **ambienti protetti** e a basso rischio dove **poter fare errori**
 - coinvolgimento in complicate situazioni morali ed etiche
 
 ### Interattività
-![](img/interactive.webp)
+![](../game-dev/g4c/img/interactive.webp)
 E' la virtù principale permessa dalla CPU (la componente pre-programmata / automatica) che differenzia il videogioco dai giochi non digitali.
 
 - esperienze non-lineari
 
-
 ### Feedback loop
-![loop](img/loop.webp)
+![loop](../game-dev/g4c/img/loop.webp)
 
 Il feedback automatizzato / programmato sul giocatore permette di 
+
 - migliorare le capacità di pensiero critico e di lettura e insegnano nuove capacità tecniche.
 - i meccanismi di gratificazione possono aiutare a superare i momenti di difficoltà
 - favorire un apprendimento individuale e personalizzato
@@ -110,10 +122,10 @@ Si può considerare il videogioco un *medium umanista*.
 ### Strutturano un'esperienze
 
 Da elementi destrutturati
-![](img/destructured.webp)
+![](../game-dev/g4c/img/destructured.webp)
 
 un buon game designer porta ad un'esperienza.
-![](img/experience.webp)
+![](../game-dev/g4c/img/experience.webp)
 
 > ci interessa far vivere esperienze formative o con effetti oltre il puro divertimento
 
@@ -134,9 +146,9 @@ un buon game designer porta ad un'esperienza.
 
 ### Il circuito
 
-![](img/vg-circuit.webp)
+![Circuito dei Videogiochi](img/vg-circuit.webp)
 
-Il giocatore, consideriamolo umano per il momento, è al *centro* del circuito, come un agente senziente e intelligente che percepisce, elabora decisioni e le attua andando a modificare l'ambiente e ottenendo risultati e sensazioni, l'esperienza di gioco appunto.
+Il giocatore, consideriamolo umano per il momento, è al _centro_ del circuito, come un agente senziente e intelligente che percepisce, elabora decisioni e le attua andando a modificare l'ambiente e ottenendo risultati e sensazioni, l'esperienza di gioco appunto.
 
 A differenza dei giochi a "turni" (tipo gli scacchi) dove il tempo è sospeso tra una decisione e l'altra, quasi sempre i videogiochi si svolgono in tempo reale, ovvero si gioca immersi nel tempo con l'effetto di una maggiore e costante tensione, coinvolgimento intellettuale, emotivo e motorio. Il giocatore vive all'interno di un *flusso* non solo spaziale, ma anche temporale.
 
@@ -179,7 +191,7 @@ Si parte da un'idea di esperienza che si vuole far vivere al giocatore.
 - Programmazione/scripting
 - Montaggio digitale
 
-![](img/playgamedesign.webp)
+![Game Design Scheme](../game-dev/g4c/img/playgamedesign.webp)
 
 #### Storia
 #### Difficoltà
