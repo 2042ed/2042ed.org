@@ -23,7 +23,7 @@ dietro lo schermo e provare a creare._
 ## Chi sono e perché
 
 ### Stefano Cecere
-
+_ozio creativo, educazione, tecnologia_  
 ![Stefano Cecere](../../assets/img/stefano/stefanocecere_pixel.webp)
 
 - Iniziato ad hackerare i computer a 10 anni, primo VG in terza Liceo[^giochi-liceo].
@@ -31,6 +31,7 @@ dietro lo schermo e provare a creare._
 - Sviluppo videogiochi @ **[Videogames Without Borders](https://vgwb.org)**
 - Game Based Learning e EdTech @ **[Future Education Modena](https://fem.digital)**
 - Docente Game A.I. / XR / OpenSource / Giochi applicati @ **[TheSign Academy](https://thesign.academy)**
+- Condivido sul sito [2042ed.org](https://2042ed.org/)
 
 [^giochi-liceo]: vedi [videogiochi per Amiga](https://cecere.xyz/project/amiga-videogames/)
 
@@ -73,7 +74,7 @@ L'invito è sapere che esiste una strada che porta all'Ikigai, concetto giappone
 
 ## Il Digitale
 
-![](img_dentro_vg/digi_love.webp){: style="height:300px"}
+![dig|700](img_dentro_vg/digi_love.webp){: style="height:300px"}
 
 Non si può parlare di videogiochi se prima non diciamo due parole sul mondo digitale.
 
@@ -650,13 +651,15 @@ I videogiochi di simulazione cercano di simulare il più possibile la vita reale
 #### Kerbal Space Program
 ![](../../assets/img/played/videogame/kerbal.webp)
 
-Take charge of the space program for the alien race known as the Kerbals. You have access to an array of parts to assemble fully-functional spacecraft that flies (or doesn’t) based on realistic aerodynamic and orbital physics. Launch your Kerbal crew into orbit and beyond (while keeping them alive) to explore moons and planets in the Kerbol solar system, constructing bases and space stations to expand the reach of your expedition.  
+Un vero e proprio simulatore di ingegneria aereospaziale   
 website: [kerbalspaceprogram.com](https://www.kerbalspaceprogram.com)
 
 ---
 
 ### Sportivi
 Tutti nella vita abbiamo giocato ad un videogioco sportivo, chi per passione, chi per divertimento con gli amici ma una partita a FIFA o a PES (ma anche ad NBA, o gli altri sport) l’abbiamo fatta. Lo scopo è quello di simulare l’esperienza reale della gestione della squadra e quindi di utilizzare e creare le strategie adatte per vincere.
+
+![](https://i.ytimg.com/vi/gr-_oWYvsDU/hqdefault.jpg)
 
 ---
 
@@ -714,7 +717,6 @@ Per la Nintendo Switch. Semplicissimo creare livelli platform.
 Level Design.
 
 ![](../../assets/img/played/videogame/supermariomaker.webp)
-
 
 ---
 
@@ -803,13 +805,13 @@ Se questo mondo ti piace e ti interessa, ti invito a contattarmi e provare a val
 - Ready Player One (2018)
 - The Super Mario Bros (2023)
 
-### Documentari
+**Documentari**
 
 - La storia di Minecraft: <https://www.youtube.com/watch?v=1rOUfNa7dxM>
 
-
 ---
 
-Arrivederci  
+## Arrivederci  
 
-Stefano Cecere
+Stefano Cecere  
+@cecere2042
