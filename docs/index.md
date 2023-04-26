@@ -12,8 +12,11 @@ _Benvenuti in questo spazio opensource e un po' familiare nell'intersezione tra 
 
 ## Novità
 
+[![banner](scuola/talk/img_dentro_vg/banner_talk.webp)](scuola/talk/creare-un-videogioco.md)
+[2023-04-25: Presentazione sul Creare un Videogioco](scuola/talk/creare-un-videogioco.md)
+
 [![ARKombat title](assets/img/project/arkombat/arkombat-title.webp)](2042/jam/arkombat.md)  
-[2022-02-05: Leggete la storia del gioco di carte creato dai ragazzi](2042/jam/arkombat.md)
+[2023-02-05: Leggete la storia del gioco di carte creato dai ragazzi](2042/jam/arkombat.md)
 
 ## PLAY: per educatori, genitori e giocatori
 
