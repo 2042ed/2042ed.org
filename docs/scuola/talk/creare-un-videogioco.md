@@ -32,6 +32,7 @@ _ozio creativo, educazione, tecnologia_
 - Game Based Learning e EdTech @ **[Future Education Modena](https://fem.digital)**
 - Docente Game A.I. / XR / OpenSource / Giochi applicati @ **[TheSign Academy](https://thesign.academy)**
 - Condivido sul sito [2042ed.org](https://2042ed.org/)
+- vicepresidente della Casa del Popolo di Settignano (Firenze)
 
 [^giochi-liceo]: vedi [videogiochi per Amiga](https://cecere.xyz/project/amiga-videogames/)
 
@@ -815,3 +816,5 @@ Se questo mondo ti piace e ti interessa, ti invito a contattarmi e provare a val
 
 Stefano Cecere  
 @cecere2042
+
+o ci vediamo a Settignano la terza domenica del mese!
