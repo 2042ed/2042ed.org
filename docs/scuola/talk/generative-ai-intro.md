@@ -23,7 +23,7 @@ Per comprenderne le potenzialità, i limiti ed eventuali preoccupazioni, è bene
 
 Iniziamo con una domanda: **Cosa è una pecora?**
 
-![](img_ai/sheep.webp)
+![](img_ai/sheep.webp){: style="height:300px"}
 
 ## Come costruire il modello
 
@@ -36,11 +36,11 @@ Nella nostra mente potremmo iniziare ad elencare tutte le caratteristiche che co
 - colore: chiaro
 - peso: medio
 - dimensioni: medie
-- ... e così via altre variabili che riteniamo utili alla calssificazione
+- ... e così via altre variabili che riteniamo utili alla classificazione
 
 Oppure potremmo osservare centinaia di foto di animali, con il relativo nome, e dire: deduciamo e memorizziamo le caratteristiche comuni, i "patterns" che vediamo nelle foto etichettate con "Pecora". Questo è il **modello supervisionato**.
 
-Oppure possiamoo dire: ecco tutta la conoscenza umana, testi e immagini. Vediamo di trovare tutto quello che possiamo associare alla parola "pecora". Questo è il **modello non supervisionato**.
+Oppure possiamo dire: ecco tutta la conoscenza umana, testi e immagini. Vediamo di trovare tutto quello che possiamo associare alla parola "pecora". Questo è il **modello non supervisionato**.
 
 _Spoiler: un misto delle tre sarà il **il modello GPT**._
 
@@ -63,7 +63,7 @@ Non entreremo ora nei dettagli tecnici ma è importante sapere:
 ### Rete Neurale Artificiale (ANN)
 La Rete Neurale Artificiale si ispira alla struttura del nostro cervello, ed è composta da una rete di neuroni connessi tra loro che elaborano le informazioni in ingresso e restituiscono una risposta.
 
-![](../game-dev/ci/img/neurons.webp)
+![](../game-dev/ci/img/neurons.webp){: style="height:300px"}
 
 Il nostro cervello ha circa 85 miliardi di neuroni che comunicano tra loro attraverso segnali elettrici e chimici (sinapsi), segnali che seguono milioni ci connessioni accendendo diverse sequenze di neuroni. Ma il cervello è in grado di modificare le proprie connessioni (plasticità).
 
@@ -71,14 +71,14 @@ La versione artificiale parte dalla simulazione di un singolo neurone:
 
 ![](img_ai/ai.neuron.webp)
 
-e li connette con unaserie di livelli (layers) verticali. C'è un primo livello di Input, dove entrano i dati, i segnali. Tutta una serie di n (potenzialmente tanti. tantissimi) livelli intermedi "nascosti", ed infine un livello di neuroni in uscita (output). Ogni Neurone ed ogni connessione tra neuroni ha dei parametri che determina come i segnali si muovono e si trasformano.
+e li connette con una serie di livelli (layers) verticali. C'è un primo livello di Input, dove entrano i dati, i segnali. Tutta una serie di n (potenzialmente tanti. tantissimi) livelli intermedi "nascosti", ed infine un livello di neuroni in uscita (output). Ogni Neurone ed ogni connessione tra neuroni ha dei parametri che determina come i segnali si muovono e si trasformano.
 
 In input potremmo avere un testo, un'immagine, i parametri di velocità della propria auto, tutto quello che vedo intorno a me.
 
 ![](img_ai/ai.nn-scheme.webp)
 
 ## Come impara?
-La configurazione della Rete Neurale, ovvero la definitizione di tutti i parametri, i pesi, dei nodi e delle connessioni, si chiama **Training** ed avviene analizzando grandi quantità di dati con diverse tecniche e metodi:
+La configurazione della Rete Neurale, ovvero la definizione di tutti i parametri, i pesi, dei nodi e delle connessioni, si chiama **Training** ed avviene analizzando grandi quantità di dati con diverse tecniche e metodi:
 
 ### Supervised learning
 ![](img_ai/ml-supervised.webp)
@@ -88,16 +88,16 @@ La rete sa cosa le viene dato in input, e aggiorna il suo modello per avvicinars
 #### Captcha
 
 ![](img_ai/recaptcha-examples.webp)  
-![](img_ai/recaptcha.webp)
+![](img_ai/recaptcha.webp){: style="height:300px"}
 
 Sapete cosa abbiamo fatto negli ultimi 20 anni, rispondendo prima alla lettura di parole dei libri, poi numeri civici, poi insegne, targhe e poi semafori, idranti e tutto quanto?
 
-![](img_ai/comic-captcha.webp)
+![](img_ai/comic-captcha.webp){: style="height:300px"}
 
 ### Unsupervised Learning
 ![](img/ml-unsupervised.webp)
 
-Il modello non supervisionato cerca di trovare caratteristiche comuni nei dati in ingresso. correlazioni, raggruppamenti. Non sa bene cosa significhino, però ad esempio potrebbe scoprire che dopo un "ciao" spesso segue un "come stai?", che una appartamento le cui coordinate sono centrali rispetto alla città, ha un costo per mq più alto, e così via.
+Il modello non supervisionato cerca di trovare caratteristiche comuni nei dati in ingresso. correlazioni, raggruppamenti. Non sa bene cosa significhino, però ad esempio potrebbe scoprire che alcune immagini sono diverse da altre (tipo cani e gatti), che dopo un "ciao" spesso segue un "come stai?", che una appartamento le cui coordinate sono centrali rispetto alla città, ha un costo per mq più alto, e così via.
 
 ### Semi-Supervised Learning
 ![](img_ai/ai.semi-supervised-learning.webp)
@@ -118,7 +118,7 @@ Sebbene la teoria informatica avesse diversi decenni, tutto il Machine Learning 
 ![](img_ai/ml-reinforced.webp)
 
 Impara a tentativi, aggiornato dal feedback e premi o penalità.
-Prendiamo due "agenti" ovvero un'entità dotata di sensori e attuatori e lo mettiamo in un ambiente, ad esempio dentro diciamo: voi squadra rossa dovete acchiappare lasquadra blu per vincere. Voi blu non dovete farvi prendere da quelli rossi per vincere. Pronti?
+Prendiamo due "agenti" ovvero un'entità dotata di sensori e attuatori e lo mettiamo in un ambiente e diciamo: voi squadra rossa dovete acchiappare la squadra blu per vincere. Voi blu non dovete farvi prendere da quelli rossi per vincere. Pronti?
 
 👉🏼 video [Multi-Agent Hide and Seek](https://youtu.be/kopoLzvh5jY?t=5)
 
@@ -313,9 +313,9 @@ Esempi:
 - [Rephrase](https://www.rephrase.ai) Text-to-video
 - [Deepswap](https://www.deepswap.ai) swap faces in video
 
-![](img_ai/example.synthesia.ai.webp)
+![](img_ai/example.synthesia.ai.webp){: style="height:400px"}
 
-![](img_ai/face-fakes.webp)  
+![](img_ai/face-fakes.webp){: style="height:400px"}  
 vedi [video MegaPortraits](https://www.youtube.com/watch?v=9D5ulvdg0jM)
 
 #### Deep Fake video
@@ -334,7 +334,7 @@ Esempi:
 analizza 3 secondi della tua voce e poi potrà dire qualsiasi cosa
 
 [SuperTone AI](https://supertone.ai/)  
-👉🏼 ascoltiamo uan demo di Freddie Mercury che canta in koreano 
+👉🏼 [ascoltiamo una demo](https://supertone.ai/) di Freddie Mercury che canta in coreano.  
 
 ![](img_ai/tool.supertone.webp)
 
@@ -397,7 +397,7 @@ Altri esempi:
 un assistente personale in grado di creare sequenze di comandi selezionando e integrando diversi sistemi.  
 [github.com/microsoft/JARVIS](https://github.com/microsoft/JARVIS)
 
-![](img_ai/jarvis-scheme.webp)
+![](img_ai/jarvis-scheme.webp){: style="height:400px"}
 
 Altri esempi:  
 - [Bardeen](https://www.bardeen.ai) Automatizzazione di procedure online
@@ -407,16 +407,16 @@ Altri esempi:
 [GitHub Copilot](https://github.com/features/copilot)  
 Il tuo assistente alla programmazione: scrivi cosa vuoi che faccia e lui scrive il codice, praticamente in ogni linguaggio.
 
-![](img_ai/tool.copilot.webp)
+![](img_ai/tool.copilot.webp){: style="height:400px"}
 
 [Debuild](https://debuild.app)  
 crea un'app web completa in pochi secondi
-![](img_ai/tool.debuild.webp)
+![](img_ai/tool.debuild.webp){: style="height:400px"}
 
 ### Scienza
 ![](img_ai/example.science.jpg){: style="height:400px"}
 
-AlphaFold e Mata AI hanno costruito dei modelli da 15 miliardi di parametri per l'analisi e il sequenziamento della proteine. Migliorando ed accelerando i processi fino a 60 volte. Impatto sulla medicina, chimica, energie rinnovabili. ([fonte](https://www.science.org/doi/10.1126/science.ade2574))
+AlphaFold e Meta AI hanno costruito dei modelli da 15 miliardi di parametri per l'analisi e il sequenziamento della proteine. Migliorando ed accelerando i processi fino a 60 volte. Impatto sulla medicina, chimica, energie rinnovabili. ([fonte](https://www.science.org/doi/10.1126/science.ade2574))
 
 ### Robot autonomi
 
@@ -427,10 +427,11 @@ AlphaFold e Mata AI hanno costruito dei modelli da 15 miliardi di parametri per 
 > L'ultimo decennio è stato definito da User Generated Content (UGC). Il prossimo sarà costruito su AI Generated Content (AIGC)
 
 ![](img_ai/comic-statistics.webp){: style="height:400px"}
+
 ![](img_ai/comic.turn-it-off.webp){: style="height:400px"}
 
 Attenzione ai "gorilla nell'algoritmo":
-![](img_ai/problem.gorillas_google.webp)
+![](img_ai/problem.gorillas_google.webp){: style="height:400px"}
 
 > Gli output della GenAI sono il frutto dell'elaborazione della produzione della nostra umanità, magari riconnesso in modo originale e imprevedibile
 
@@ -476,4 +477,4 @@ si, il gioco che simula una capra (non una pecora ma ok) l'hanno fatto ed è un 
 --- 
 
 **Soluzione al quiz iniziale**
-Do Androids dream of Electric Sheeps? e Il Piccolo Principe
+Do Androids dream of Electric Sheep? e Il Piccolo Principe
