@@ -48,21 +48,6 @@ _Benvenuti in questo spazio opensource e un po' familiare nell'intersezione tra 
 
 </div>
 
-## Changelog (ultimi aggiornamenti)
-
-### <small>13 Dicembre 2022</small>
-- finalmente con un po' di sprint mi ci metto e metto insieme questo sito. E' in _alpha_ ma meglio che niente.
-
-## Per rimanere aggiornati
-<div class="grid cards" markdown>
-
-- :fontawesome-brands-telegram: **[Canale Telegram](https://t.me/ed2042)**  
-- :fontawesome-brands-whatsapp: **[Canale WhatsApp](https://chat.whatsapp.com/CjWcksEAFHZKG9Edahs2yO)**  
-- :fontawesome-solid-envelope-open-text: **[Newsletter mensile](https://tinyletter.com/2042ed)**  
-- :fontawesome-brands-facebook: **[Facebook](https://facebook.com/2042ed)**  
-
-</div>
-
 ---
 
 _Play Well, Die Happy!_
