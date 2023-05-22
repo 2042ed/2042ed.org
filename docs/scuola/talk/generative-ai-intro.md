@@ -1,11 +1,11 @@
 ---
-title: Introduzione alla GenAI - Intelligenza Artificiale creativa
+title: GenAI - introduzione alla AI creativa
 date: 2023-05-21
 updated: 2023-05-22
 tags: [AI]
 ---
-# Androide: sai sognare e disegnare una pecora?
-_Un'introduzione all'AI creativa_
+# Gli androidi sanno disegnare una pecora?
+_Un'introduzione alla AI creativa_
 
 > **Durata**: 15 min  
 > **Pubblico**: tutti  
@@ -15,10 +15,10 @@ _Un'introduzione all'AI creativa_
 
 !!! question "QUIZ"
 
-    Il titolo cela ben due importanti opere del XX secolo. Chi le identifica?
+    Il titolo cela due opere del XX secolo. Quali?
 
 ## Introduzione
-Un aspetto particolarmente interessante, e per qualcuno utile, per altri "disruptive" (ovvero che sta cambiando radicalmente la nostra società) dell'Intelligenza Artificiale è la sua capacità di creare nuovi contenuti. Tecnicamente si chiama _Generative AI_.  
+Un aspetto particolarmente interessante, e per qualcuno utile, per altri "disruptive" (ovvero che sta cambiando radicalmente la nostra società) dell'Intelligenza Artificiale è la sua capacità di creare nuovi contenuti. Tecnicamente si chiama _Generative AI_, o **GenAI**.  
 Per andare oltre l'effetto wow e comprenderne le potenzialità, i limiti ed eventuali preoccupazioni, è bene fare un accenno alla teoria e alla tecnologia che la sottende. _Dobbiamo studiare un po'_ :)
 
 Iniziamo con una domanda: **Cosa è una pecora?**
@@ -34,13 +34,9 @@ Nella nostra mente potremmo iniziare ad elencare tutte le caratteristiche che co
 - dimensioni: medie
 - ... e così via altre variabili che riteniamo utili alla calssificazione
 
-Oppure potremmo fare vedere 200 foto di animali, con il relativo nome, e dire: impara dalle foto con scritto "Pecora" tutto quello che puoi. memorizzane le caratteristiche.. i "patterns" che vedi. Questo è il **modello supervisionato**
-
-TODO img
+Oppure potremmo fare vedere 200 foto di animali, con il relativo nome, e dire: impara dalle foto con scritto "Pecora" tutto quello che puoi. memorizzane le caratteristiche.. i "patterns" che vedi. Questo è il **modello supervisionato**.
 
 Oppure posso dirti: ecco tutta la conoscenza umana, testi e immagini. Vedi tu di trovare tutto quello che puoi sulla parola "pecora". Questo è il **modello GPT**
-
-TODO img
 
 ## Machine Learning
 
@@ -48,47 +44,11 @@ TODO img
 
 Il Machine Learning è un sottoinsieme dell'Intelligenza Artificiale, che si preoccupa di **come le macchine possano imparare da sole**, per la precisione Insegnare alle macchine a riconoscere dei **pattern** nei **dati** e fare **previsioni** e prendere buone **decisioni** a partire da essi.
 
-Non entreremo nei dettagli ma serve conoscere 3 cose:
+Non entreremo nei dettagli tecnici ma serve conoscere:
 
-- come impara (training)
-- come funziona (rete neurale)
-- cosa può fare (output e modelli)
-
-
-## Come impara? Training
-analizzando grandi quantità di dati, usando questi metodi:
-
-### Supervised learning
-
-
-### Unsupervised Learning
-
-
-
-### Semi-Supervised Learning
-
-
-### Reinforced Learning
-> Ottimo lavoro!
-
-Impara a tentativi, aggiornato dal feedback e premi o penalità
-
-👉🏼 video [Multi-Agent Hide and Seek](https://youtu.be/kopoLzvh5jY?t=5)
-
-Caso speciale: RLHF: reinforcement learning with human feedback
-
-
-### Imitation Learning
-
-![](img_ai/comic-ai-copies-human.jpg)
-
-
-### Deep Learning
-![](img_ai/ai-history.webp)
-
-![](img_ai/deeplearning-prismer.webp)
-
-![](img_ai/Papers-Per-Month-scaled.webp)
+- come funziona? (rete neurale)
+- come impara? (training)
+- cosa può fare? (output)
 
 ## Come funziona? Rete Neurale
 
@@ -100,15 +60,55 @@ Il nostro cervello ha circa 85 miliardi di neuroni che comunicano tra loro attra
 
 ![](img_ai/ai.nn-scheme.webp)
 
+## Come impara?
+La configurazione della Rete Neurale, ovvero la definitizione di tutti i parametri, i pesi, dei nodi e delle connessioni, si chiama **Training** ed avviene analizzando grandi quantità di dati con diverse tecniche e metodi:
 
-### Captcha
+### Supervised learning
+![](img_ai/ml-supervised.webp)
+
+#### Captcha
 ![](img_ai/recaptcha.webp)
 
-### Big Data
+![](img_ai/comic-captcha.webp)
+
+### Unsupervised Learning
+![](img/ml-unsupervised.webp)
+
+#### Big Data
 
 ![](img_ai/books-library.webp)
 
 [book](https://books.google.com/)
+
+### Semi-Supervised Learning
+![](img_ai/ai.semi-supervised-learning.webp)
+
+### Reinforced Learning
+> Ottimo lavoro!
+
+![](img_ai/ml-reinforced.webp)
+
+Impara a tentativi, aggiornato dal feedback e premi o penalità
+
+👉🏼 video [Multi-Agent Hide and Seek](https://youtu.be/kopoLzvh5jY?t=5)
+
+Caso speciale: **RLHF** (reinforcement learning with human feedback) dove gli umani danni indicatori di bontà della risposta.
+
+### Imitation Learning
+
+![](img/ml-imitation.webp)
+
+l'AI osserva e memorizza il comportamento umano, ne deduce i pattern e lo memorizza nelle ANN.
+
+![](img_ai/comic-ai-copies-human.jpg)
+
+
+### Deep Learning
+![](img_ai/ai-history.webp)
+
+![](img_ai/deeplearning-prismer.webp)
+
+![](img_ai/Papers-Per-Month-scaled.webp)
 
 ## Cosa può fare?
 
@@ -122,18 +122,35 @@ Ambito medico: anticipare problemi di salute, potenziali tumori
 Analisi del "**sentimento**"  
 ![](img_ai/sentiment-indicator.webp)
 
-
 ### Creazione: Generative AI
 
 ![](img_ai/genai.whereis.webp)
 
-
 ![](img_ai/deeplearning.modeltypes.webp)
 
+In pratica il modello di Deep Learning generativo:
 
-### Natural Language Processing
-Comprendere il linguaggio umano.  
-Large Language Models, sempre più Large.
+- crea nuovi dati simili a quelli su cui si è allenato.
+- conosce la distribuzione dei dati e quanto un dato esempio è simile
+- predice la prossima parola in una frase.
+
+#### Immagini
+
+Le tecniche più usate sono la
+
+- **GAN** (Generative Adversial Network)  
+Dove un modello crea degli esempi di immagini e un discriminatore vede se riesce a capire se sono reali o no
+
+![](img_ai/gan-scheme.webp)
+
+- **Diffusion**
+
+![](img_ai/diffusion-cat.webp)
+
+#### testo
+
+Il Natural Language Processing permette di comprendere il linguaggio umano.  
+Large Language Models, sempre più grandi.
 
 | LLM                                                         | Year   | By     | Size        |
 | ----------------------------------------------------------- | ------ | ------ | ----------- |
@@ -369,7 +386,7 @@ crea un'app web completa in pochi secondi
 
 AlphaFold e Mata AI hanno costruito dei modelli da 15 miliardi di parametri per l'analisi e il sequenziamento della proteine. Migliorando ed accelerando i processi fino a 60 volte. Impatto sulla medicina, chimica, energie rinnovabili. ([fonte](https://www.science.org/doi/10.1126/science.ade2574))
 
-## Sintesi
+## Conclusione
 
 > L'ultimo decennio è stato definito da User Generated Content (UGC). Il prossimo sarà costruito su AI Generated Content (AIGC)
 
@@ -379,25 +396,33 @@ AlphaFold e Mata AI hanno costruito dei modelli da 15 miliardi di parametri per 
 Attenzione ai "gorilla nell'algoritmo":
 ![](img_ai/problem.gorillas_google.webp)
 
-## Finale
+> Gli output della GenAI sono il frutto dell'elaborazione della produzione della nostra umanità, magari riconnesso in modo originale e imprevedibile
 
-> Oggi è più un problema di immaginazione e curiosità, che non di tecnologia e risorse.
-> 
+> Oggi è più un problema di immaginazione e curiosità, che non di tecnologia e risorse.  
 > Dobbiamo imparare a descrivere bene quello che vogliamo...
 > e fare attenzione a quello che desideriamo.
 
-## Problemi
+Se vuoi continuare a saperne di più, puoi iscriverti alla mia **newsletter** [2042](https://2042.substack.com/) o esplorare tutti i link e materiali di questo sito.
 
-- Mercato del lavoro
-- Consumo energentico
-- Bias nei dati di training
-- Inganno
+## Appendici
 
-## ChatGPT esempi
+### Siti
+
+- [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai)
+
+### Glossario
+**AI** - Artificial Intelligence  
+**AGI** - Artificial General Intelligence  
+**LLM** - [Large Language Model](https://en.wikipedia.org/wiki/Large_language_model)  
+**GPT** - Generative Pre-trained Transformer  
+**NLP** - [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing)  
+**PaLM** - Pathways Language Model  
+
+### ChatGPT esempi
 
 👉🏼 [su chat.openai.com](https://chat.openai.com/?model=gpt-4)
 
-### Comporre musica
+#### Comporre musica
 ```
 > can you compose a music like Bach and write it in ABC music format ?
 > can you add a second voice?
@@ -405,15 +430,7 @@ Attenzione ai "gorilla nell'algoritmo":
 > and if you were Mozart?
 ```
 
+--- 
 
-## Glossario
-**AI** - Artificial Intelligence
-**AGI** - Artificial General Intelligence
-**LLM** - [Large Language Model](https://en.wikipedia.org/wiki/Large_language_model)
-**GPT** - Generative Pre-trained Transformer
-**NLP** - [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing)
-**PaLM** - Pathways Language Model
-
-## Risorse
-
-- [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai)
+**Soluzione al quiz iniziale**
+Do Androids dream of Electric Sheeps? e Il Piccolo Principe
