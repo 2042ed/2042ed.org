@@ -18,45 +18,61 @@ _Un'introduzione alla AI creativa_
     Il titolo cela due opere del XX secolo. Quali?
 
 ## Introduzione
-Un aspetto particolarmente interessante, e per qualcuno utile, per altri "disruptive" (ovvero che sta cambiando radicalmente la nostra società) dell'Intelligenza Artificiale è la sua capacità di creare nuovi contenuti. Tecnicamente si chiama _Generative AI_, o **GenAI**.  
-Per andare oltre l'effetto wow e comprenderne le potenzialità, i limiti ed eventuali preoccupazioni, è bene fare un accenno alla teoria e alla tecnologia che la sottende. _Dobbiamo studiare un po'_ :)
+Un aspetto particolarmente interessante, per qualcuno utile, per altri "disruptive" (ovvero che sta cambiando radicalmente la nostra società) dell'Intelligenza Artificiale è la sua capacità di creare nuovi contenuti. Tecnicamente si chiama _Generative AI_, o **GenAI**.  
+Per comprenderne le potenzialità, i limiti ed eventuali preoccupazioni, è bene fare un accenno alla teoria e alla tecnologia che la sottende. _Dobbiamo studiare un po'_ :)
 
 Iniziamo con una domanda: **Cosa è una pecora?**
 
-## L'idea, ovvero il modello
+## Come costruire il modello
 
 Nella nostra mente potremmo iniziare ad elencare tutte le caratteristiche che conosciamo di una pecora, costruendo un **modello simbolico**. Fossimo dei programmatori scriveremmo:
 
-- tipologa: animale
-- genere: mammifero
-- zampe: 4
+- genere: animale
+- classe: mammifero
+- arti: 4
 - superficie: pelosa
+- colore: chiaro
+- peso: medio
 - dimensioni: medie
 - ... e così via altre variabili che riteniamo utili alla calssificazione
 
-Oppure potremmo fare vedere 200 foto di animali, con il relativo nome, e dire: impara dalle foto con scritto "Pecora" tutto quello che puoi. memorizzane le caratteristiche.. i "patterns" che vedi. Questo è il **modello supervisionato**.
+Oppure potremmo osservare centinaia di foto di animali, con il relativo nome, e dire: deduciamo e memorizziamo le caratteristiche comuni, i "patterns" che vediamo nelle foto etichettate con "Pecora". Questo è il **modello supervisionato**.
 
-Oppure posso dirti: ecco tutta la conoscenza umana, testi e immagini. Vedi tu di trovare tutto quello che puoi sulla parola "pecora". Questo è il **modello GPT**
+Oppure possiamoo dire: ecco tutta la conoscenza umana, testi e immagini. Vediamo di trovare tutto quello che possiamo associare alla parola "pecora". Questo è il **modello non supervisionato**.
+
+_Spoiler: un misto delle tre sarà il **il modello GPT**._
 
 ## Machine Learning
 
 ![](img_ai/ai-vs-ml.webp)
 
-Il Machine Learning è un sottoinsieme dell'Intelligenza Artificiale, che si preoccupa di **come le macchine possano imparare da sole**, per la precisione Insegnare alle macchine a riconoscere dei **pattern** nei **dati** e fare **previsioni** e prendere buone **decisioni** a partire da essi.
+Il Machine Learning è un sottoinsieme dell'Intelligenza Artificiale, che si preoccupa di **come le macchine possano imparare da sole**, per la precisione come possano riconoscere dei **pattern** nei **dati** e fare **previsioni** e prendere buone **decisioni** a partire da essi.
 
-Non entreremo nei dettagli tecnici ma serve conoscere:
+Non entreremo ora nei dettagli tecnici ma è importante sapere:
 
 - come funziona? (rete neurale)
 - come impara? (training)
 - cosa può fare? (output)
 
-## Come funziona? Rete Neurale
+## Come funziona?
+
 
 ![](img_ai/ai-brain.webp)
 
+### Rete Neurale Artificiale (ANN)
 La Rete Neurale Artificiale si ispira alla struttura del nostro cervello, ed è composta da una rete di neuroni connessi tra loro che elaborano le informazioni in ingresso e restituiscono una risposta.
 
+![](../game-dev/ci/img/neurons.webp)
+
 Il nostro cervello ha circa 85 miliardi di neuroni che comunicano tra loro attraverso segnali elettrici e chimici (sinapsi), segnali che seguono milioni ci connessioni accendendo diverse sequenze di neuroni. Ma il cervello è in grado di modificare le proprie connessioni (plasticità).
+
+La versione artificiale parte dalla simlazione di un singolo neurone:
+
+![](img_ai/ai.neuron.webp)
+
+e li connette con unaserie di livelli (layers) verticali. C'è un primo livello di Input, dove entrano i dati, i segnali. Tutta una serie di n (potenzialmente tanti. tantissimi) livelli intermedi "nascosti", ed infine un livello di neuroni in uscita (output). Ogni Neurone ed ogni connessione tra neuroni ha dei parametri che determina come i segnali si muovono e si trasformano.
+
+In input potremmo avere un testo, un'immagine, i parametri di velocità della propria auto, tutto quello che vedo intorno a me.
 
 ![](img_ai/ai.nn-scheme.webp)
 
@@ -66,29 +82,42 @@ La configurazione della Rete Neurale, ovvero la definitizione di tutti i paramet
 ### Supervised learning
 ![](img_ai/ml-supervised.webp)
 
+La rete sa cosa le viene dato in input, e aggiorna il suo modello per avvicinarsi il più possibile alle risposte più corrette, con meno errori. Quando l'errore medio sarà inferiore ad una soglia che decidiamo noi, il modello sarà pronto per essere usato.
+
 #### Captcha
+
+![](img_ai/recaptcha-examples.webp)  
 ![](img_ai/recaptcha.webp)
+
+Sapete cosa abbiamo fatto negli ultimi 20 anni, rispondendo prima alla lettura di parole dei libri, poi numeri civici, poi insegne, targhe e poi semafori, idranti e tutto quanto?
 
 ![](img_ai/comic-captcha.webp)
 
 ### Unsupervised Learning
 ![](img/ml-unsupervised.webp)
 
+Il modello non supervisionato cerca di trovare caratteristiche comuni nei dati in ingresso. correlazioni, raggruppamenti. Non sa bene cosa significhino, però ad esempio potrebbe scoprire che dopo un "ciao" spesso segue un "come stai?", che una appartamento le cui coordinate sono centrali rispetto alla città, ha un costo per mq più alto, e così via.
+
+### Semi-Supervised Learning
+![](img_ai/ai.semi-supervised-learning.webp)
+
+Questo è un misto tra il Supervised e l'Unsupervised.
+
 #### Big Data
+
+Sebbene la teoria informatica avesse diversi decenni, tutto il Machine Learning ha iniziato a funzionare bene a partire dal 2010, dopo la grandissima disponibilità di dati digitalizzati e potenza di calcolo.
 
 ![](img_ai/books-library.webp)
 
 [book](https://books.google.com/)
-
-### Semi-Supervised Learning
-![](img_ai/ai.semi-supervised-learning.webp)
 
 ### Reinforced Learning
 > Ottimo lavoro!
 
 ![](img_ai/ml-reinforced.webp)
 
-Impara a tentativi, aggiornato dal feedback e premi o penalità
+Impara a tentativi, aggiornato dal feedback e premi o penalità.
+Prendiamo due "agenti" ovvero un'entità dotata di sensori e attuatori e lo mettiamo in un ambiente, ad esempio dentro diciamo: voi squadra rossa dovete acchiappare lasquadra blu per vincere. Voi blu non dovete farvi prendere da quelli rossi per vincere. Pronti?
 
 👉🏼 video [Multi-Agent Hide and Seek](https://youtu.be/kopoLzvh5jY?t=5)
 
@@ -107,14 +136,18 @@ l'AI osserva e memorizza il comportamento umano, ne deduce i pattern e lo memori
 ![](img_ai/ai-history.webp)
 
 ![](img_ai/deeplearning-prismer.webp)
+Si mettono diversi livelli di reti neurali, specializzate magari per analizzare diverse caratteristiche di un'immagine, per poi essere combinate.
 
 ![](img_ai/Papers-Per-Month-scaled.webp)
+
+La velocità di ricerca e scoperta di nuove soluzioni è impressionante.
 
 ## Cosa può fare?
 
 ### Predizione
-Uber: predice il traffico  
-Ambito medico: anticipare problemi di salute, potenziali tumori
+
+- Uber: predice il traffico  
+- Ambito medico: anticipare problemi di salute, potenziali tumori
 
 ### Classificazione
 ![](img_ai/do-image-classification.webp)
@@ -274,21 +307,19 @@ vedi esempio 👉🏼 [Gen-2](https://research.runwayml.com/gen2)
 - metaverso
 
 Esempi:
+
 - [Synthesia](https://www.synthesia.io) Avatars (125), Voices (120), Video Templates ([mio esempio](https://share.synthesia.io/3ce08f85-4ee2-4bc1-a0e8-560458bdea8d))
 - [Rephrase](https://www.rephrase.ai) Text-to-video
 - [Deepswap](https://www.deepswap.ai) swap faces in video
 
 ![](img_ai/example.synthesia.ai.webp)
 
-
-
-![](img_ai/face-fakes.webp)
-vedi https://www.youtube.com/watch?v=9D5ulvdg0jM
-
+![](img_ai/face-fakes.webp)  
+vedi [video MegaPortraits](https://www.youtube.com/watch?v=9D5ulvdg0jM)
 
 #### Deep Fake video
-- https://youtu.be/cQ54GDm1eL0?t=32
-- https://deepfakesweb.com/
+- 👉🏼 [video Obama](https://youtu.be/cQ54GDm1eL0?t=32)
+- [deepfakesweb](https://deepfakesweb.com/)
 
 ### Voce
 
@@ -323,15 +354,16 @@ crea musica a partire da una descrizione testuale
 composizione di colonne sonore
 
 ### Modelli 3D
+
 - Videogiochi: creare personaggi, paesaggi e ambienti realistici
 - Architettura e design del prodotto:  modelli 3D di città, edifici, prodotti e prototipi.
 - Applicazioni mediche: modelli 3D dell'anatomia umana per la ricerca, l'istruzione e la pianificazione chirurgica. anche per creare impianti e protesi personalizzati per i pazienti.
-
 
 Esempi:
 
 **Blender + StabilityAI**
 ![](img_ai/tool.blender-texture.webp)
+genera automaticamente i materiali e le textures
 
 
 - [Artomatix](https://rb.gy/fhsj7) : ArtEngine in Unity
@@ -385,6 +417,10 @@ crea un'app web completa in pochi secondi
 ![](img_ai/example.science.jpg)
 
 AlphaFold e Mata AI hanno costruito dei modelli da 15 miliardi di parametri per l'analisi e il sequenziamento della proteine. Migliorando ed accelerando i processi fino a 60 volte. Impatto sulla medicina, chimica, energie rinnovabili. ([fonte](https://www.science.org/doi/10.1126/science.ade2574))
+
+### Robot autonomi
+
+👉🏼 [Vedi come imparano a giocare a calcio](https://youtu.be/efw8xuex4uI?t=13) con il Reinforced Learning
 
 ## Conclusione
 
