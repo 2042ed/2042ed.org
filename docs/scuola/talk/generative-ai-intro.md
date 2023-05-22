@@ -46,6 +46,8 @@ _Spoiler: un misto delle tre sarà il **il modello GPT**._
 
 ## Machine Learning
 
+![](img/comic-ml.webp)
+
 ![](img_ai/ai-vs-ml.webp)
 
 Il Machine Learning è un sottoinsieme dell'Intelligenza Artificiale, che si preoccupa di **come le macchine possano imparare da sole**, per la precisione come possano riconoscere dei **pattern** nei **dati** e fare **previsioni** e prendere buone **decisioni** a partire da essi.
