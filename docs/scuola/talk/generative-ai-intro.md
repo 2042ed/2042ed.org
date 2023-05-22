@@ -23,6 +23,8 @@ Per comprenderne le potenzialità, i limiti ed eventuali preoccupazioni, è bene
 
 Iniziamo con una domanda: **Cosa è una pecora?**
 
+![](img_ai/sheep.webp)
+
 ## Come costruire il modello
 
 Nella nostra mente potremmo iniziare ad elencare tutte le caratteristiche che conosciamo di una pecora, costruendo un **modello simbolico**. Fossimo dei programmatori scriveremmo:
@@ -56,8 +58,7 @@ Non entreremo ora nei dettagli tecnici ma è importante sapere:
 
 ## Come funziona?
 
-
-![](img_ai/ai-brain.webp)
+![](img_ai/ai-brain.webp){: style="height:400px"}
 
 ### Rete Neurale Artificiale (ANN)
 La Rete Neurale Artificiale si ispira alla struttura del nostro cervello, ed è composta da una rete di neuroni connessi tra loro che elaborano le informazioni in ingresso e restituiscono una risposta.
@@ -66,7 +67,7 @@ La Rete Neurale Artificiale si ispira alla struttura del nostro cervello, ed è 
 
 Il nostro cervello ha circa 85 miliardi di neuroni che comunicano tra loro attraverso segnali elettrici e chimici (sinapsi), segnali che seguono milioni ci connessioni accendendo diverse sequenze di neuroni. Ma il cervello è in grado di modificare le proprie connessioni (plasticità).
 
-La versione artificiale parte dalla simlazione di un singolo neurone:
+La versione artificiale parte dalla simulazione di un singolo neurone:
 
 ![](img_ai/ai.neuron.webp)
 
@@ -125,7 +126,7 @@ Caso speciale: **RLHF** (reinforcement learning with human feedback) dove gli um
 
 ### Imitation Learning
 
-![](img/ml-imitation.webp)
+![](img/ml-imitation.webp){: style="height:400px"}
 
 l'AI osserva e memorizza il comportamento umano, ne deduce i pattern e lo memorizza nelle ANN.
 
@@ -365,7 +366,6 @@ Esempi:
 ![](img_ai/tool.blender-texture.webp)
 genera automaticamente i materiali e le textures
 
-
 - [Artomatix](https://rb.gy/fhsj7) : ArtEngine in Unity
 - [Skyboxes](https://skybox.blockadelabs.com/)
 
@@ -414,7 +414,7 @@ crea un'app web completa in pochi secondi
 ![](img_ai/tool.debuild.webp)
 
 ### Scienza
-![](img_ai/example.science.jpg)
+![](img_ai/example.science.jpg){: style="height:400px"}
 
 AlphaFold e Mata AI hanno costruito dei modelli da 15 miliardi di parametri per l'analisi e il sequenziamento della proteine. Migliorando ed accelerando i processi fino a 60 volte. Impatto sulla medicina, chimica, energie rinnovabili. ([fonte](https://www.science.org/doi/10.1126/science.ade2574))
 
@@ -426,8 +426,8 @@ AlphaFold e Mata AI hanno costruito dei modelli da 15 miliardi di parametri per 
 
 > L'ultimo decennio è stato definito da User Generated Content (UGC). Il prossimo sarà costruito su AI Generated Content (AIGC)
 
-![](img_ai/comic-statistics.webp)
-![](img_ai/comic.turn-it-off.webp)
+![](img_ai/comic-statistics.webp){: style="height:400px"}
+![](img_ai/comic.turn-it-off.webp){: style="height:400px"}
 
 Attenzione ai "gorilla nell'algoritmo":
 ![](img_ai/problem.gorillas_google.webp)
@@ -441,6 +441,13 @@ Attenzione ai "gorilla nell'algoritmo":
 Se vuoi continuare a saperne di più, puoi iscriverti alla mia **newsletter** [2042](https://2042.substack.com/) o esplorare tutti i link e materiali di questo sito.
 
 ## Appendici
+
+### Goat Simulator
+
+![](../../assets/img/played/videogame/goat-simulator.webp)
+
+si, il gioco che simula una capra (non una pecora ma ok) l'hanno fatto ed è un successo!  
+[vedi qui](https://www.goatsimulator3.com/)
 
 ### Siti
 
