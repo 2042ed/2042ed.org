@@ -1,38 +1,38 @@
 ---
-title: Possono gli androidi creare una pecora?
+title: Introduzione alla GenAI - Intelligenza Artificiale creativa
 date: 2023-05-21
 updated: 2023-05-22
-tags: AI
+tags: [AI]
 ---
-# Possono gli androidi creare una pecora?
+# Androide: sai sognare e disegnare una pecora?
 _Un'introduzione all'AI creativa_
 
 > **Durata**: 15 min  
 > **Pubblico**: tutti  
 > **Interesse**:  
-> - cosa c'è alla base della capacità creativa delle AI?
+> - cosa c'è alla base della capacità creativa delle AI?  
 > - cosa possono creare oggi (maggio 2023) le AI?
 
+!!! question "QUIZ"
+
+    Il titolo cela ben due importanti opere del XX secolo. Chi le identifica?
+
 ## Introduzione
-Un aspetto particolarmente interessante, e per qualcuno utile, dell'Intelligenza Artificiale è la sua capacità di creare contenuti. Tecnicamente si chiama _Generative AI_.
-Per andare oltre l'effetto meraviglia e comprenderne le potenzialità, i limiti ed eventuali preoccupazioni, è bene fare un accenno alla teoria e alla tecnologia che le da fondamenta. Dobbiamo studiare un po' :)
+Un aspetto particolarmente interessante, e per qualcuno utile, per altri "disruptive" (ovvero che sta cambiando radicalmente la nostra società) dell'Intelligenza Artificiale è la sua capacità di creare nuovi contenuti. Tecnicamente si chiama _Generative AI_.  
+Per andare oltre l'effetto wow e comprenderne le potenzialità, i limiti ed eventuali preoccupazioni, è bene fare un accenno alla teoria e alla tecnologia che la sottende. _Dobbiamo studiare un po'_ :)
 
-> Oggi è più un problema di immaginazione e curiosità, che non di tecnologia e risorse.
-
-Iniziamo ponendoci una domanda: **Cosa è una pecora?**
+Iniziamo con una domanda: **Cosa è una pecora?**
 
 ## L'idea, ovvero il modello
 
-Nella nostra mente potremmo  iniziare ad elencare tutte le caratteristiche che conosciamo di una pecora, costruendo un **modello simbolico**:
+Nella nostra mente potremmo iniziare ad elencare tutte le caratteristiche che conosciamo di una pecora, costruendo un **modello simbolico**. Fossimo dei programmatori scriveremmo:
 
-- animale
-- mammifero
-- 4 zampe
-- peloso
-- medie dimensioni
-- ...
-
-TODO img
+- tipologa: animale
+- genere: mammifero
+- zampe: 4
+- superficie: pelosa
+- dimensioni: medie
+- ... e così via altre variabili che riteniamo utili alla calssificazione
 
 Oppure potremmo fare vedere 200 foto di animali, con il relativo nome, e dire: impara dalle foto con scritto "Pecora" tutto quello che puoi. memorizzane le caratteristiche.. i "patterns" che vedi. Questo è il **modello supervisionato**
 
@@ -44,6 +44,8 @@ TODO img
 
 ## Machine Learning
 
+![](img_ai/ai-vs-ml.webp)
+
 Il Machine Learning è un sottoinsieme dell'Intelligenza Artificiale, che si preoccupa di **come le macchine possano imparare da sole**, per la precisione Insegnare alle macchine a riconoscere dei **pattern** nei **dati** e fare **previsioni** e prendere buone **decisioni** a partire da essi.
 
 Non entreremo nei dettagli ma serve conoscere 3 cose:
@@ -52,7 +54,6 @@ Non entreremo nei dettagli ma serve conoscere 3 cose:
 - come funziona (rete neurale)
 - cosa può fare (output e modelli)
 
-![](img_ai/diagramma-AI.webp)
 
 ## Come impara? Training
 analizzando grandi quantità di dati, usando questi metodi:
@@ -68,9 +69,11 @@ analizzando grandi quantità di dati, usando questi metodi:
 
 
 ### Reinforced Learning
-Ottimo lavoro!
+> Ottimo lavoro!
 
 Impara a tentativi, aggiornato dal feedback e premi o penalità
+
+👉🏼 video [Multi-Agent Hide and Seek](https://youtu.be/kopoLzvh5jY?t=5)
 
 Caso speciale: RLHF: reinforcement learning with human feedback
 
@@ -105,13 +108,12 @@ Il nostro cervello ha circa 85 miliardi di neuroni che comunicano tra loro attra
 
 ![](img_ai/books-library.webp)
 
-https://books.google.com/
-
+[book](https://books.google.com/)
 
 ## Cosa può fare?
 
 ### Predizione
-Uber: predice il traffico
+Uber: predice il traffico  
 Ambito medico: anticipare problemi di salute, potenziali tumori
 
 ### Classificazione
@@ -121,15 +123,33 @@ Analisi del "**sentimento**"
 ![](img_ai/sentiment-indicator.webp)
 
 
+### Creazione: Generative AI
+
+![](img_ai/genai.whereis.webp)
+
+
+![](img_ai/deeplearning.modeltypes.webp)
+
 
 ### Natural Language Processing
-Comprendere il linguaggio umano
+Comprendere il linguaggio umano.  
+Large Language Models, sempre più Large.
 
-### Creazione
-- GAN
-- Diffusione
+| LLM                                                         | Year   | By     | Size        |
+| ----------------------------------------------------------- | ------ | ------ | ----------- |
+| [BERT](https://en.wikipedia.org/wiki/BERT_(language_model)) | 2018   | Google | 340 million |
+| [GPT-2](https://en.wikipedia.org/wiki/GPT-2)                | 2019   | OpenAI | 1.5 billion |
+| [GPT-3](https://en.wikipedia.org/wiki/GPT-3)                | 2020   | OpenAI | 175 billion |
+| [PaLM](https://en.wikipedia.org/wiki/PaLM)                  | 2022   | Google | 540 billion |
+| [LLaMA](https://en.wikipedia.org/wiki/LLaMA "LLaMA")        | 2023.2 | Meta   | 65 billion  |
+| [GPT-4](https://en.wikipedia.org/wiki/GPT-4)                | 2023.3 | OpenAI | 1 trillion  |
+| [PaLM 2](https://en.wikipedia.org/wiki/PaLM "PaLM")         | 2023.5 | Google | 340 billion            |
 
 ## Cosa creano?
+
+![](img_ai/genai.what.webp)
+
+**Contesti applicativi**  
 
 ![](img_ai/ai.tools.club.jpg)
 Ci sono già centinaia di strumenti disponibili, ogni settimana ne esce qualcuno. Rimandiamo a questo sito: [Generative AI Landscape](https://ai-collection.org/) o  [AI Tools Club](https://www.aitoolsclub.com)
@@ -148,7 +168,25 @@ Ci sono già centinaia di strumenti disponibili, ogni settimana ne esce qualcuno
 
 Esempi:
 
-- [ChatGPT – 4.0](https://openai.com/product/gpt-4) by OpenAI (con [i plugin](https://www.marktechpost.com/2023/05/21/how-to-use-third-party-plugins-in-chatgpt-80-plugins-just-added-by-chatgpt-for-public/) fa praticamente tutti)
+[ChatGPT – 4.0](https://openai.com/product/gpt-4)  
+by OpenAI (con [i plugin](https://www.marktechpost.com/2023/05/21/how-to-use-third-party-plugins-in-chatgpt-80-plugins-just-added-by-chatgpt-for-public/) fa praticamente tutto). Ha superato tutti i test di ammissione alle università americane senza un training preliminare.
+
+**Creatività**  
+può generare, modificare e iterare con gli utenti su attività di scrittura creativa e tecnica, come comporre canzoni, scrivere sceneggiature o apprendere lo stile di scrittura di un utente.
+
+**Multimodale**  
+accetta immagini come input e genera didascalie, classificazioni e analisi.
+
+**Input**  
+Accetta fino a 32k token, ovvero circa 43.000 parole (circa la metà di 120 pagine di un libro)
+
+**Output**  
+è in grado di gestire oltre 25.000 parole di testo (circa 60 pagine di un libro)
+
+![](img_ai/chatgpt-cheatsheet.webp)  
+👉🏼 [prompt examples](https://github.com/f/awesome-chatgpt-prompts/)
+
+Alternative equivalenti:  
 - [Bing Chat](https://www.bing.com/chat) by Microsoft
 - [Bard](https://bard.google.com) - by Google
 
@@ -343,8 +381,30 @@ Attenzione ai "gorilla nell'algoritmo":
 
 ## Finale
 
+> Oggi è più un problema di immaginazione e curiosità, che non di tecnologia e risorse.
+> 
 > Dobbiamo imparare a descrivere bene quello che vogliamo...
 > e fare attenzione a quello che desideriamo.
+
+## Problemi
+
+- Mercato del lavoro
+- Consumo energentico
+- Bias nei dati di training
+- Inganno
+
+## ChatGPT esempi
+
+👉🏼 [su chat.openai.com](https://chat.openai.com/?model=gpt-4)
+
+### Comporre musica
+```
+> can you compose a music like Bach and write it in ABC music format ?
+> can you add a second voice?
+> can you add a bass line?
+> and if you were Mozart?
+```
+
 
 ## Glossario
 **AI** - Artificial Intelligence
