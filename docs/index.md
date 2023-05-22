@@ -12,11 +12,9 @@ _Benvenuti in questo spazio opensource e un po' familiare nell'intersezione tra 
 
 ## Novità
 
-[![banner](scuola/talk/img_dentro_vg/banner_talk.webp)](scuola/talk/creare-un-videogioco.md)
-[2023-04-25: Presentazione sul Creare un Videogioco](scuola/talk/creare-un-videogioco.md)
-
-[![ARKombat title](assets/img/project/arkombat/arkombat-title.webp)](2042/jam/arkombat.md)  
-[2023-02-05: Leggete la storia del gioco di carte creato dai ragazzi](2042/jam/arkombat.md)
+- [2023-05-22: Introduzione alla AI creativa](scuola/talk/generative-ai-intro.md)
+- [2023-04-25: Presentazione sul Creare un Videogioco](scuola/talk/creare-un-videogioco.md)
+- [2023-02-05: Leggete la storia del gioco di carte creato dai ragazzi](2042/jam/arkombat.md)
 
 ## PLAY: per educatori, genitori e giocatori
 
@@ -49,11 +47,6 @@ _Benvenuti in questo spazio opensource e un po' familiare nell'intersezione tra 
 *Games 4 Change e Business oltre l’Entertainment*  
 
 </div>
-
-## Uno spazio speciale
-
-In questo sito parliamo dell'intersezione tra gioco, tecnologia, educazione. Se non conosci termini quali _Game Based Learning_, _Didattica Ludica_, _Educazione Diffusa_, _Gamification_, _Atteggiamento Ludico_, _Genitori 2.0_, _STEAM_, _Maker_, _GameJam_, se non sai come funzionano le A.I. o il Metaverso, come si progetta un Librogame o un'Avventura Grafica... Che tu sia una game designer o un genitore, un'educatrice o un giocatore. Se ami la filosofia, l'ingegneria ludica, l'ozio creativo, lo sviluppo dell'intelligenza e il futuro della scuola...  
-_Benvenut*_.
 
 ## Changelog (ultimi aggiornamenti)
 

@@ -13,12 +13,12 @@ Qui alcuni studi e lavori di approfondimento su temi vari, dalla tecnologia alla
 <div class="grid cards" markdown>
 
 - :fontawesome-solid-book: [Ludosofia](ludosofia/index.md)  
-_manuale al giocare bene insieme_
-- :fontawesome-solid-book: [GameDev](game-dev/index.md)  
-_da Git all'Immortalità_
+_il nostro manuale al giocare bene insieme_
+- :fontawesome-solid-book: [Game Tech](game-dev/index.md)  
+_AI, XR, Sviluppo Distribuito, Giochi educativi... come usarli per creare giochi?_
 - :fontawesome-solid-book: [Talk](talk/index.md)  
-_Talk e Presentazioni varie_
+_Presentazioni su temi vari_
 - :fontawesome-solid-book: [Mediateca](mediateca/tabella-periodica-fumetti.md)  
-_Ricerche e materiali nel campo della pedagogia e dell'educazione_ 
+_Ricerche e materiali nel campo della pedagogia e dell'educazione_
 
 </div>

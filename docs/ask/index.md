@@ -2,6 +2,13 @@
 title: Chiedimi qualunque cosa...
 ---
 
+## Uno spazio speciale
+
+In questo sito parliamo dell'intersezione tra gioco, tecnologia, educazione. Se non conosci termini quali _Game Based Learning_, _Didattica Ludica_, _Educazione Diffusa_, _Gamification_, _Atteggiamento Ludico_, _Genitori 2.0_, _STEAM_, _Maker_, _GameJam_, se non sai come funzionano le A.I. o il Metaverso, come si progetta un Librogame o un'Avventura Grafica... Che tu sia una game designer o un genitore, un'educatrice o un giocatore. Se ami la filosofia, l'ingegneria ludica, l'ozio creativo, lo sviluppo dell'intelligenza e il futuro della scuola...  
+_Benvenut*_.
+
+## Chiedi
+
 Chiedi cosa vorresti sapere. se hai nuove domande, [mandamele qui](../about/contact.md) e risponderò (anche) qui per condividere con altri:
 
 - Imparare a creare videogiochi
