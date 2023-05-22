@@ -2,9 +2,10 @@
 title: Possono gli androidi creare una pecora?
 date: 2023-05-21
 updated: 2023-05-22
+tags: AI
 ---
 # Possono gli androidi creare una pecora?
-*Un'introduzione all'AI creativa*
+_Un'introduzione all'AI creativa_
 
 > **Durata**: 15 min  
 > **Pubblico**: tutti  
@@ -13,7 +14,7 @@ updated: 2023-05-22
 > - cosa possono creare oggi (maggio 2023) le AI?
 
 ## Introduzione
-Un aspetto particolarmente interessante, e per qualcuno utile, dell'Intelligenza Artificiale è la sua capacità di creare contenuti. Tecnicamente si chiama *Generative AI*.
+Un aspetto particolarmente interessante, e per qualcuno utile, dell'Intelligenza Artificiale è la sua capacità di creare contenuti. Tecnicamente si chiama _Generative AI_.
 Per andare oltre l'effetto meraviglia e comprenderne le potenzialità, i limiti ed eventuali preoccupazioni, è bene fare un accenno alla teoria e alla tecnologia che le da fondamenta. Dobbiamo studiare un po' :)
 
 > Oggi è più un problema di immaginazione e curiosità, che non di tecnologia e risorse.
@@ -43,7 +44,7 @@ TODO img
 
 ## Machine Learning
 
-Il Machine Learning è un sottoinsieme dell'Intelligenza Artificiale, che si preoccupa di *come le macchine possano imparare da sole*, per la precisione Insegnare alle macchine a riconoscere dei **pattern** nei **dati** e fare **previsioni** e prendere buone **decisioni** a partire da essi.
+Il Machine Learning è un sottoinsieme dell'Intelligenza Artificiale, che si preoccupa di **come le macchine possano imparare da sole**, per la precisione Insegnare alle macchine a riconoscere dei **pattern** nei **dati** e fare **previsioni** e prendere buone **decisioni** a partire da essi.
 
 Non entreremo nei dettagli ma serve conoscere 3 cose:
 
@@ -51,11 +52,7 @@ Non entreremo nei dettagli ma serve conoscere 3 cose:
 - come funziona (rete neurale)
 - cosa può fare (output e modelli)
 
-
-
 ![](img_ai/diagramma-AI.webp)
-
-
 
 ## Come impara? Training
 analizzando grandi quantità di dati, usando questi metodi:
@@ -70,7 +67,7 @@ analizzando grandi quantità di dati, usando questi metodi:
 ### Semi-Supervised Learning
 
 
-### Reinforced Learning 
+### Reinforced Learning
 Ottimo lavoro!
 
 Impara a tentativi, aggiornato dal feedback e premi o penalità
@@ -90,19 +87,13 @@ Caso speciale: RLHF: reinforcement learning with human feedback
 
 ![](img_ai/Papers-Per-Month-scaled.webp)
 
-
-
-
-
-
-
 ## Come funziona? Rete Neurale
 
 ![](img_ai/ai-brain.webp)
 
 La Rete Neurale Artificiale si ispira alla struttura del nostro cervello, ed è composta da una rete di neuroni connessi tra loro che elaborano le informazioni in ingresso e restituiscono una risposta.
 
-Il nostro cervello ha circa 85 miliardi di neuroni che comunicano tra loro attraverso segnali elettrici e chimici (sinapsi), segnali che seguono milioni ci connessioni accendendo diverse sequenze di neuroni. Ma il cervello è in grado di modificare le proprie connessioni (plasticità) 
+Il nostro cervello ha circa 85 miliardi di neuroni che comunicano tra loro attraverso segnali elettrici e chimici (sinapsi), segnali che seguono milioni ci connessioni accendendo diverse sequenze di neuroni. Ma il cervello è in grado di modificare le proprie connessioni (plasticità).
 
 ![](img_ai/ai.nn-scheme.webp)
 
@@ -126,8 +117,8 @@ Ambito medico: anticipare problemi di salute, potenziali tumori
 ### Classificazione
 ![](img_ai/do-image-classification.webp)
 
-Analisi del "**sentimento**"
-![](img_ai/ai-reinforced%20indicator.webp)
+Analisi del "**sentimento**"  
+![](img_ai/sentiment-indicator.webp)
 
 
 
@@ -161,28 +152,28 @@ Esempi:
 - [Bing Chat](https://www.bing.com/chat) by Microsoft
 - [Bard](https://bard.google.com) - by Google
 
-### Documenti
-
 #### Knowledge Management
-- https://www.notion.so/
+- [Notion](https://www.notion.so/)
 
 #### Presentazioni
 
-[TOME](https://tome.app/)
+[TOME](https://tome.app/)  
 generative storytelling
 
 ![](img_ai/example.beautiful.ai.webp)
 
-- https://www.beautiful.ai/
-- https://slidesgpt.com/
+- [Beautiful AI](https://www.beautiful.ai/)
+- [SlideGPT](https://slidesgpt.com/)
 
 #### Materiale didattico
-https://aidemia.co
+[Aidemia](https://aidemia.co)
+
 ![](img_ai/example.aidema.webp)
 
 #### Contenuti social
-[Jasper](https://www.jasper.ai/)
+[Jasper](https://www.jasper.ai/)  
 crea contenuti social
+
 ![](img_ai/example.jasper.webp)
 
 ### Immagini
@@ -211,13 +202,17 @@ Adobe Firefly
 - Pubblicità: video personalizzati per indirizzare dati demografici specifici o preferenze individuali, aumentando l'efficacia e il coinvolgimento degli annunci.
 
 Esempi:  
-[Runway ML](https://runwayml.com)
-dai creatori di Stable Diffusione, [Gen-2](https://research.runwayml.com/gen2)
+[Runway ML](https://runwayml.com)  
+dai creatori di Stable Diffusione, 
 
 ![](img_ai/tool.gen1.webp)
+vedi esempio 👉🏼[Gen-1](https://research.runwayml.com/gen1)
 
+![](img_ai/tool.video-gen2.webp)
+vedi esempio 👉🏼 [Gen-2](https://research.runwayml.com/gen2)
 
 #### Avatar
+
 - videochiamate
 - videogiochi
 - viaggi didattici / storici
@@ -247,19 +242,30 @@ vedi https://www.youtube.com/watch?v=9D5ulvdg0jM
 - Audiolibri
 - Clonazione vocale: creazione di voci personalizzate da utilizzare nelle animazioni, giochi o applicazioni personalizzate.
 
-Esempi: 
-- VALL-E analizza 3 secondi della tua voce e poi potrà dire qualsiasi cosa
+Esempi:  
+**VALL-E** 
+analizza 3 secondi della tua voce e poi potrà dire qualsiasi cosa
+
+[SuperTone AI](https://supertone.ai/)  
+👉🏼 ascoltiamo uan demo di Freddie Mercury che canta in koreano 
+
+![](img_ai/tool.supertone.webp)
 
 ### Musica
 
-[MusicLM](https://google-research.github.io): crea musica a partire da una descrizione testuale
+![](img_ai/music-technologies.webp)
 
-[SoundDraw](https://soundraw.io)
-[example](https://soundraw.io/edit_music?length=10&tempo=normal,high,low&mood=Elegant)
+[MusicLM](https://google-research.github.io)  
+crea musica a partire da una descrizione testuale  
 
+👉🏼 esempio di MuseNet[A Little Bach AI Music](https://www.youtube.com/watch?v=jMe9X9rJjyE)
+
+[SoundDraw](https://soundraw.io)  
+👉🏼 [example](https://soundraw.io/edit_music?length=10&tempo=normal,high,low&mood=Elegant)
 
 ![](img_ai/example.aiva.ai.webp)
-- https://aiva.ai/ composizione di colonne sonore
+[AIVA](https://aiva.ai/)  
+composizione di colonne sonore
 
 ### Modelli 3D
 - Videogiochi: creare personaggi, paesaggi e ambienti realistici
@@ -283,30 +289,41 @@ i videogiochi sono i medium più complessi e multimediali, in tempo reale e inte
 con [https://blackshark.ai/](https://blackshark.ai/) hanno ricostruito in 3D tutta la Terra.
 ![](img_ai/game-flight-simulator.webp)
 
-
-[Nyric by Lovelace Studio](https://lovelacestudio.com/)
+**[Nyric by Lovelace Studio](https://lovelacestudio.com/)**  
 GENERATIVE AI PLATFORM FOR VR
 ![](img_ai/tool.nyric.jpg)
 
-- https://ludo.ai/
+**Agenti / Giocatori (Unity ML-Agents)**  
+![](img_ai/unity-mlagents-soccer.webp)
+
+!!! LABORATORIO
+
+    [GameLab_AI_Unity](https://github.com/StefanoCecere/GameLab_AI_Unity/)
+
+Altri esempi:  
+
+- [ludo.ai](https://ludo.ai/)
 - [AI Dungeon](https://aidungeon.io/)
 
 ### Task (azioni)
-Project JARVIS. un assistente personale in grado di creare sequenze di comandi selezionando e integrando diversi sistemi.
-https://github.com/microsoft/JARVIS
+**Project JARVIS**.  
+un assistente personale in grado di creare sequenze di comandi selezionando e integrando diversi sistemi.  
+[github.com/microsoft/JARVIS](https://github.com/microsoft/JARVIS)
 
 ![](img_ai/jarvis-scheme.webp)
 
-- Bardeen https://www.bardeen.ai/ Automatizzazione di procedure online
+Altri esempi:  
+- [Bardeen](https://www.bardeen.ai) Automatizzazione di procedure online
 
 ### Codice di programmazione
 
-[GitHub Copilot](https://github.com/features/copilot)
+[GitHub Copilot](https://github.com/features/copilot)  
 Il tuo assistente alla programmazione: scrivi cosa vuoi che faccia e lui scrive il codice, praticamente in ogni linguaggio.
 
 ![](img_ai/tool.copilot.webp)
 
-[Debuild](https://debuild.app) - crea un'app web completa in pochi secondi
+[Debuild](https://debuild.app)  
+crea un'app web completa in pochi secondi
 ![](img_ai/tool.debuild.webp)
 
 ### Scienza
@@ -324,13 +341,18 @@ AlphaFold e Mata AI hanno costruito dei modelli da 15 miliardi di parametri per 
 Attenzione ai "gorilla nell'algoritmo":
 ![](img_ai/problem.gorillas_google.webp)
 
+## Finale
+
+> Dobbiamo imparare a descrivere bene quello che vogliamo...
+> e fare attenzione a quello che desideriamo.
+
 ## Glossario
-AI - Artificial Intelligence
-AGI - Artificial General Intelligence
-LLM - [Large Language Model](https://en.wikipedia.org/wiki/Large_language_model)
-GPT - Generative Pre-trained Transformer
-NLP - [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing)
-PaLM - Pathways Language Model
+**AI** - Artificial Intelligence
+**AGI** - Artificial General Intelligence
+**LLM** - [Large Language Model](https://en.wikipedia.org/wiki/Large_language_model)
+**GPT** - Generative Pre-trained Transformer
+**NLP** - [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing)
+**PaLM** - Pathways Language Model
 
 ## Risorse
 
