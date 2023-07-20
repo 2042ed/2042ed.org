@@ -11,7 +11,7 @@ hide:
 _Benvenuti in questo spazio opensource e un po' familiare nell'intersezione tra il gioco, l'educazione e il futuro. Per genitori, educatori, sviluppatori, giocatori._
 
 ## Novità
-
+- [2023-06-21: Guida DGBL](scuola/dgbl/index.md)
 - [2023-05-22: Introduzione alla AI creativa](scuola/talk/generative-ai-intro.md)
 - [2023-04-25: Presentazione sul Creare un Videogioco](scuola/talk/creare-un-videogioco.md)
 - [2023-02-05: Leggete la storia del gioco di carte creato dai ragazzi](2042/jam/arkombat.md)
@@ -26,6 +26,8 @@ _Benvenuti in questo spazio opensource e un po' familiare nell'intersezione tra 
 *guida ai giochi e cose intelligenti*  
 - :fontawesome-solid-book: [Ludosofia](scuola/ludosofia/index.md)  
 *manuale al giocare bene insieme*  
+- :fontawesome-solid-book: [DGBL](scuola/dgbl/index.md)  
+*guida al Digital Game Based Learning*  
 - :fontawesome-solid-book: [Laboratori e Attività](2042/index.md)  
 *laboratori per imparare creando*  
 - :fontawesome-solid-book: [Ricerca per Tag](played/tags.md)  

@@ -73,7 +73,7 @@ plugins:
   - tags:
       tags_file: played/tags.md
   - git-revision-date-localized:
-      enabled: !ENV [CI, false]
+      enabled: false
       type: date
       locale: it
       enable_creation_date: true
