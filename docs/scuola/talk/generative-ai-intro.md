@@ -1,7 +1,7 @@
 ---
-title: GenAI - introduzione alla AI creativa
+title: Gli androidi sanno disegnare una pecora?
 date: 2023-05-21
-updated: 2023-05-22
+updated: 2023-06-19
 tags: [AI]
 ---
 # Gli androidi sanno disegnare una pecora?
@@ -358,7 +358,7 @@ composizione di colonne sonore
 
 ### Modelli 3D
 
-- Videogiochi: creare personaggi, paesaggi e ambienti realistici
+- Videogiochi: creare personaggi, paesaggi e ambienti realistici - vedi [Ziva FX](https://youtu.be/lk3THQfxwuc) 
 - Architettura e design del prodotto:  modelli 3D di città, edifici, prodotti e prototipi.
 - Applicazioni mediche: modelli 3D dell'anatomia umana per la ricerca, l'istruzione e la pianificazione chirurgica. anche per creare impianti e protesi personalizzati per i pazienti.
 
