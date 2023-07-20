@@ -14,7 +14,9 @@ Dal 2013 ha iniziato a organizzare eventi di didattica ludica e creativa prima c
 E questo è un suo primo risultato.  
 Speriamo vi possa tornare utile e nel caso [lasciate un messaggio](contact.md)!
 
-PS: Oltre a questo sito, Stefano lavora come sviluppatore di videogiochi educativi ed impatto sociale con [Videogames Without Borders](https://vgwb.org), è vicepresidente di una bella [Casa del Popolo](https://cdp.settignano.org) sulle colline di Firenze, ed è da sempre un attivista umanista per il tema della nonviolenza e la cittadinanza attiva. Studia **Scienze della Formazione con INDIRE** e partecipa al [GAME Science Research Center](https://gamescience.imtlucca.it/). Ed è stato musicista professionista per 15 anni! Eventualmente questo il suo sito [cecere.xyz](https://cecere.xyz).
+PS: Oltre a questo sito, Stefano sviluppa videogiochi educativi ed impatto sociale con [Videogames Without Borders](https://vgwb.org), è vicepresidente di una bella [Casa del Popolo](https://cdp.settignano.org) sulle colline di Firenze, ed è da sempre un attivista umanista per il tema della nonviolenza e la cittadinanza attiva. Studia **Scienze della Formazione con INDIRE** e partecipa al [GAME Science Research Center](https://gamescience.imtlucca.it/). Ed è stato musicista professionista per 15 anni e dal 2023 lavora con [FEM - Future Education Modena](https://fem.digital) per portare il Game Based Learning e la didattica ludica nelle scuole di tutta Italia.
+
+Eventualmente questo il suo sito [cecere.xyz](https://cecere.xyz).
 
 ## Perché 2042?
 Cosa sta succendendo? Come sta cambiando il mondo? Cosa faremo nei prossimi (2042 - anno di oggi) anni?  
