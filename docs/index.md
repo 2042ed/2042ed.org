@@ -11,7 +11,6 @@ hide:
 _Benvenuti in questo spazio opensource e un po' familiare nell'intersezione tra il gioco, l'educazione e il futuro. Per genitori, educatori, sviluppatori, giocatori._
 
 ## Novità
-- [2023-06-21: Guida DGBL](scuola/dgbl/index.md)
 - [2023-05-22: Introduzione alla AI creativa](scuola/talk/generative-ai-intro.md)
 - [2023-04-25: Presentazione sul Creare un Videogioco](scuola/talk/creare-un-videogioco.md)
 - [2023-02-05: Leggete la storia del gioco di carte creato dai ragazzi](2042/jam/arkombat.md)
