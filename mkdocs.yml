@@ -2,7 +2,7 @@ site_name: 2042ed | play well, die happy
 site_url: https://2042ed.org
 site_author: Stefano Cecere
 site_description: Giochi, Scuola, Futuro, OpenSource,. laboratori, creatività, STEM, filosofia. Per educatori, genitori, sviluppatori, giocatori. Game Based Learning, Didattica Ludica, Educazione Diffusa.
-copyright: <a href="/about">© Stefano Cecere + ❤️🧠🦾 | CC BY-NC-SA</a> | <a href="/about#play-well-die-happy">▶️👍🎲😊</a>
+copyright: <a href="/about">© Stefano Cecere + ❤️🧠🦾 | CC BY-NC-SA</a> | <a href="/about#play-well-die-happy">▶️👍🎲😊</a> - <a href="https://2050x.org">associato a 2050x</a>
 
 theme:
   name: material
