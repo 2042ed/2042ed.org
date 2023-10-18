@@ -8,7 +8,7 @@ hide:
 ---
 ![2042 logo](assets/img/logo/header_2042ed.webp)
 
-_Benvenuti in questo spazio opensource e un po' familiare nell'intersezione tra il gioco, l'educazione e il futuro. Per genitori, educatori, sviluppatori, giocatori._
+_Benvenuti in questo spazio opensource e un po' familiare nell'intersezione tra il gioco, l'educazione e la tecnologia. Per genitori, educatori, sviluppatori, giocatori._
 
 ## Novità
 - [2023-05-22: Introduzione alla AI creativa](scuola/talk/generative-ai-intro.md)
