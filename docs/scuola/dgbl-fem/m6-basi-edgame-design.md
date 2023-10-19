@@ -14,10 +14,6 @@ publish: false
 
 > useremo come base Design-Pack-Games-And-Learning dell Intitute of Play
 
-vedere andh [TheNextEducation](../../../_draft/notes/edu/EdTech/TheNextEducation.md)
----
-
-
 **Cos'è il Game Design?** Il game design è il processo di creazione e pianificazione di giochi. Coinvolge la progettazione delle regole, dell'interazione e dell'esperienza globale che i giocatori avranno mentre giocano al tuo videogioco.
 
 ## I Principi Fondamentali

@@ -6,7 +6,7 @@ authors:
 ---
 # Ruota delle App iPad per bisogni educativi speciali
 
-![Ruota delle App iPad per bisogni educativi speciali](../assets/img/post/ipad-apps-for-learners-with-complex-additional-support-needs.webp)
+![Ruota delle App iPad per bisogni educativi speciali](../../assets/img/post/ipad-apps-for-learners-with-complex-additional-support-needs.webp)
 
 In questa "ruota" sono raggruppate una selezione di app particolarmente adatte a gestire bisogni educativi speciali.
 
