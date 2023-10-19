@@ -20,7 +20,7 @@ _AI, XR, Sviluppo Distribuito, Giochi educativi... come usarli per creare giochi
 _Digital Game Based Learning_
 - :fontawesome-solid-book: [Talk](talk/index.md)  
 _Presentazioni su temi vari_
-- :fontawesome-solid-book: [Mediateca](mediateca/tabella-periodica-fumetti.md)  
+- :fontawesome-solid-book: [Studio](../studio/tabella-periodica-fumetti.md)  
 _Ricerche e materiali nel campo della pedagogia e dell'educazione_
 
 </div>

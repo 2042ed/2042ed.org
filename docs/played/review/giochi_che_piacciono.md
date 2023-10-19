@@ -28,4 +28,4 @@ in **Saboteur** siamo tutti nani, ma alcuni sono "sabotatori" segreti che devono
 
 in sintesi: i giochi da tavolo stanno tornando sulle nostre tavole permettendoci di divertirsi in modo nuovo, imparare molte nuove "soft skills" (comunicazione, cooperazione, pensiero logico e critico...), stare insieme
 
-sapete che ormai noi da 6 mesi abbiamo l'appuntamento fisso del [PlayFriday](../../2042/lab/play-friday.md), dove appunto ci si trova a giocare con gli amici del quartiere (per fortuna abbiamo una bella Casa del Popolo), ma questi nuovi giochi vanno molto più in là... e spero di avervi solleticato la curiosità!
+sapete che ormai noi da 6 mesi abbiamo l'appuntamento fisso del [PlayFriday](../../lab/lab/play-friday.md), dove appunto ci si trova a giocare con gli amici del quartiere (per fortuna abbiamo una bella Casa del Popolo), ma questi nuovi giochi vanno molto più in là... e spero di avervi solleticato la curiosità!

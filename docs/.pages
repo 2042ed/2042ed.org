@@ -1,9 +1,8 @@
 nav:
   - index.md
-  - ask
   - blog
-  - "2042"
   - played
-  - scuola
+  - learn
+  - lab
+  - studio
   - about
-  - newsletter.md

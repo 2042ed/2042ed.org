@@ -3,7 +3,7 @@ title: Chi siamo
 ---
 ## Chi
 
-![](../scuola/ludosofia/_img/foto_autori.webp)
+![](../learn/ludosofia/_img/foto_autori.webp)
 
 Questo progetto nasce molto tempo fa, quando fin da ragazzo [Stefano Cecere](https://cecere.xyz) pensava quanto i media interattivi (sviluppava videogiochi e cd-rom multimediali agli inizi del agli '90) avessero il potere di veicolare esperienze interessanti, per imparare a pensare e fare meglio.  
 
@@ -41,8 +41,8 @@ Questo progetto non sarebbe nato e non avrebbe sostanza senza la collaborazione,
 - Antonella Prunecchi
 - Fabio e Bruno Cecere
 - Alessandro Mancini
-- [i 7 Frames](../2042/jam/7-frames.md)
-- la banda del [PlayFriday](../2042/lab/play-friday.md)
+- [i 7 Frames](../lab/jam/7-frames.md)
+- la banda del [PlayFriday](../lab/lab/play-friday.md)
 - Annabella Coiro con [Edumana](https://www.edumana.it/) e [Centro di Nonviolenza Attiva](http://www.centrononviolenzattiva.org)
 - [Rita Greta Rombolotti](https://www.studiohelda.it)
 - [Christian "CH" Costanza](https://www.facebook.com/profile.php?id=100085391032077)
