@@ -109,7 +109,7 @@ E' un'eticatta che si applica ad un commit per identificarlo in modo speciale.
 Esempi di tags: `v0.1.2`, `release_1`. In questo modo è facile vedere nello storico le versioni particolari. Un tag può essere solo locale oppure condiviso anche nel remote e quindi con gli altri.  
 E' poi facile ripristinare il progetto ad una versione taggata, o scaricare tutto il progetto completo di uno specifico tag.
 
-![Commit graph](img/git-commit_graph.webp)
+![Commit graph](../../../assets/img/gamedev/img-ci/git-commit_graph.webp)
 
 ### Stash
 E' una memoria temporanea, dove poter registrare tutte le modifiche in corso senza voler creare un commit ad hoc. Uno stash si può nominare e riapplicare quando si vuole.

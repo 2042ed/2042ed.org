@@ -38,8 +38,8 @@ played_url_play:
 
 L'unico gioco dove **è necessario barare** ma senza essere beccato e più sei bravo a farlo e più vinci! Divertentissimo!
 
-> *Fabio:*
+> [!tip] Fabio
 > Barare è divertente!
 
-> *Stefano:*
+> [!info] Stefano
 > Cercavo un gioco che premiasse i comportamenti scorretti che a volte si vedono nei giocatori. E anzichè condannarli, sopresa, li valorizziamo, così li conosciamo meglio :)

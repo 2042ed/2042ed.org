@@ -6,7 +6,7 @@ type: PlayED
 categories:
   - videogame
 tags:
-  - Kids
+  - kids
 date: 2020-12-14
 lastmod: 2022-12-18
 
@@ -35,4 +35,4 @@ played_url_play:
 played_vg_platforms: []
 ---
 
-![](img/super_cane_magic_zero.webp)
+![](../../assets/img/played/videogame/super_cane_magic_zero.webp)

@@ -6,9 +6,9 @@ type: PlayED
 categories:
   - videogame
 tags:
-  - Storia
+  - storia
   - Strategia
-  - Award
+  - award
 date: 2020-12-14
 lastmod: 2022-12-18
 
@@ -38,7 +38,7 @@ played_vg_platforms:
   - all
 ---
 
-![](img/civilization.webp)
+![](../../assets/img/played/videogame/civilization_2.webp)
 
 E' un gioco doppiamente storico:
 1) ci giocavo già 30 anni fa e si è evoluto in 6 edizioni sempre più belle

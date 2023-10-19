@@ -6,9 +6,9 @@ type: PlayED
 categories:
   - steam
 tags:
-  - Kids
+  - kids
   - Free
-  - Award
+  - award
 date: 2020-12-14
 lastmod: 2022-12-18
 
@@ -36,7 +36,7 @@ played_url_details:
 played_url_play: 
 ---
 
-![](img/tabella_elementi.webp)
+![](../../assets/img/played/steam/tabella_elementi.webp)
 
 Qusta tabella è liberamente scaricabile come PDF e rappresenta tutti gli elementi chimici con dei chiarissimi riferimenti agli oggetti di uso quotidiano che li contengono.
 

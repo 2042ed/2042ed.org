@@ -6,7 +6,7 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Kids
+  - kids
   - Carte
   - Classico
 date: 2020-12-14
@@ -39,10 +39,10 @@ played_url_play:
 Alcuni giochi di carte possono essere introdotti fin da giovanissimi... come rubamazzetto, scopa e briscola.
 Esistono edizioni di carte fatte apposta per i bambini piccoli.
 
-> *Fabio:*
+> [!tip] Fabio
 > Briscola è un gioco che piace molto anche ai miei amici. E queste carte semplificate sono ottime per giocarci con io fratellino
 
-> *Stefano:*
+> [!info] Stefano
 > Saper giocare i classici è fondamentale, anche perché molti giochi contemporanei riprendono gli stessi meccanismi di base!
 
 

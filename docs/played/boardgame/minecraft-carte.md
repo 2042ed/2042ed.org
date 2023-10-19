@@ -7,7 +7,7 @@ categories:
   - boardgame
 tags:
   - Carte
-  - English
+  - english
   - Compatto
 date: 2020-12-14
 lastmod: 2022-12-18
@@ -36,6 +36,6 @@ played_url_details: https://www.boardgamegeek.com/boardgame/186265/minecraft-car
 played_url_play: 
 ---
 
-![](img/minecraft_carte.webp)
+![](../../assets/img/played/boardgame/minecraft_carte.webp)
 
 gioco abbastanza semplice e che si lascia giocare velocemente

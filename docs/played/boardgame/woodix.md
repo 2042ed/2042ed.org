@@ -6,7 +6,7 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Kids
+  - kids
   - Puzzle
 date: 2021-04-07T15:48:58+02:00
 lastmod: 2022-12-18
@@ -36,14 +36,12 @@ played_year:
 played_url_details: 
 played_url_play: 
 ---
-![](img/woodix_featured.webp)
+![](../../assets/img/played/boardgame/woodix_featured.webp)
 
 6 rompicapo in legno dalla Djeco
 
-> *Fabio:* sono diversi, ed è bello farli insieme ad altri, aiutarsi (per alcuni non bastano due mani!)
-{.boxFabio}
+> [!tip] Fabio sono diversi, ed è bello farli insieme ad altri, aiutarsi (per alcuni non bastano due mani!)
 
-> *Stefano:* non me l'aspettavo che piacessero tantissimo anche al piccolo Bruno, che li chiede.
-{.boxStefano}
+> [!info] Stefano non me l'aspettavo che piacessero tantissimo anche al piccolo Bruno, che li chiede.
 
-![](img/woodix.webp)
+![](../../assets/img/played/boardgame/woodix.webp)

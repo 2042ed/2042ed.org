@@ -6,9 +6,9 @@ type: PlayED
 categories:
   - media
 tags:
-  - TV
-  - Award
-  - Kids
+  - tv
+  - award
+  - kids
 date: 2020-12-14
 updated: 2022-03-22
 
@@ -47,9 +47,9 @@ E' una delle serie di cartoni animati che più amiamo perché:
 6. il "cattivo" è il genio del male più divertente al mondo
 7. si capiscono bene anche in inglese
 
-> *Fabio:*
+> [!tip] Fabio
 > in ogni puntata costruiscono qualcosa di nuovo
 
 
-![](../../scuola/ludosofia/_img/media_paf.webp)
+![](../../ludosofia/_img/media_paf.webp)
 

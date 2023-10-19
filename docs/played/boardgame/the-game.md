@@ -8,10 +8,10 @@ categories:
 tags:
   - Family
   - Carte
-  - Matematica
+  - matematica
   - Solo
   - Collaborativo
-  - Award
+  - award
 date: 2020-12-14
 lastmod: 2022-12-18
 
@@ -39,12 +39,12 @@ played_url_details: https://boardgamegeek.com/boardgame/182453/game-fire-compila
 played_url_play: 
 ---
 
-![](img/the_game_faccia_a_faccia.webp)
+![](../../assets/img/played/boardgame/the_game_faccia_a_faccia.webp)
 
 Un semplice mazzo di carte che vi farà collaborare per finire questo "solitario multigiocatore", il capostipite di molti altri giochi della serie.
 
-> *Fabio:*
+> [!tip] Fabio
 > Devi solo saper contare fino a 100 e fare le addizioni e sottrazioni.
 
-> *Stefano:*
+> [!info] Stefano
 > Adoro i giochi estremamente semplici ma geniali.

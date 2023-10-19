@@ -9,8 +9,8 @@ type: PlayED
 categories:
   - videogame
 tags:
-  - Linguaggio
-  - Kids
+  - linguaggio
+  - kids
 
 template: played.html
 played_category: videogame

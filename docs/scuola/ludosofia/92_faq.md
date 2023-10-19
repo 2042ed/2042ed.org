@@ -1,12 +1,13 @@
 ---
 title: Domande e Risposte
 date: 2021-04-01
+updated: 2023-08-09
 slug: faq
-summary: 
+description: 
 type: book
-tags: [FAQ]
 weight: 500
-updated: 2022-12-16
+tags:
+  - FAQ
 ---
 # Domande e Risposte
 ecco alcune delle domande più freqenti e una sintetica risposta.

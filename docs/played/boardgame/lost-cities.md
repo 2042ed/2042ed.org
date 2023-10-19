@@ -8,7 +8,7 @@ categories:
 tags:
   - Family
   - 2Giocatori
-  - Award
+  - award
 date: 2020-12-14
 lastmod: 2022-12-18
 
@@ -39,7 +39,7 @@ played_url_play:
 semplice gioco di carte e matematica. dal maestro Reiner Kniza.
 veloce ma non banale.
 
-> *Fabio:*
+> [!tip] Fabio
 > bello decidere quale percorso iniziare e le carte sono bellissime
 
 

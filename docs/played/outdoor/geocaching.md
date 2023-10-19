@@ -1,5 +1,7 @@
 ---
 title: Geocaching
+date: 2020-12-14
+updated: 2023-07-30
 slug: 
 description: ""
 type: PlayED
@@ -7,7 +9,6 @@ categories:
   - outdoor
 tags:
   - Avventura
-date: 2020-12-14
 lastmod: 2022-12-18
 
 template: played.html
@@ -34,9 +35,9 @@ played_url_details:
 played_url_play: 
 ---
 
-![](img/geocaching.webp){: style="height:200px"}
-![](img/geocaching_2.webp){: style="height:200px"}
-![](img/geocaching_3.webp){: style="height:200px"}
+![](../../assets/img/played/outdoor/geocaching.webp)
+![](../../assets/img/played/outdoor/geocaching_2.webp)
+![](../../assets/img/played/outdoor/geocaching_3.webp)
 
 - ho un pò paura ad infilare la mano lì dentro
 - "la paura uccide la mente". non aver paura. (e tranquillo ho già verificato che non ci siano vipere 🐍

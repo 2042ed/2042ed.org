@@ -4,7 +4,7 @@ title: LibroGame Lab
 url: https://www.facebook.com/JAMURR.org/posts/pfbid02MetAZWqPuYjDkfb2X6o69rKfXpNYbHdrEdUPBtzgDWYC5To12eamezv5HGCGPbgGl
 ---
 
-![](img/laboratorio_librogame.webp)
+![](../../assets/img/labs/laboratorio_librogame.webp)
 
 ## LABORATORIO: CREA UN VIDEOGIOCO (MA SU CARTA): LIBROGAME
 Per imparare a creare un videogioco, è importante capire come si costruisce una storia dove il lettore/giocatore possa interagire e fare delle scelte.
@@ -17,7 +17,7 @@ Lunedì 17 giugno 2019 al Centro Estivo della Casa del Popolo di Settignano (Fir
 
 ## Racconto
 
-![](img/laboratorio_librogame_giornata.webp)
+![](../../assets/img/labs/laboratorio_librogame_giornata.webp)
 
 23 bambini, un assistente, 3 ore di lavoro per creare più di 12 libri games.
 

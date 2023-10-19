@@ -41,5 +41,5 @@ Un serie di avventure nel mondo di Arkham (Lovecraft) come indagatori di misteri
 Si gioca da soli o in due (fino in quattro con due scatole ma non è consigliato) con l'avventura che si spiega carta dopo carta.
 Un gioco LCG, dove finiti i primi episodi si può andare avanti con il proprio mazzo di carte personaggio ad avventurarsi in espansioni
 
-> *Stefano:*
+> [!info] Stefano
 > Da ragazzo avevo letto tutto Lovecraft, ed almeno un gioco a tema è doveroso. Ah: ormai ci sono giochi su qualsiasi ambientazione e autore.. basta cercare

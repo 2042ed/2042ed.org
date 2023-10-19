@@ -6,7 +6,7 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Kids
+  - kids
   - Narrativo
   - Fantasia
 date: 2020-12-14
@@ -36,14 +36,14 @@ played_url_details: https://www.boardgamegeek.com/boardgame/20545/rorys-story-cu
 played_url_play: 
 ---
 
-![](img/story_cubes.webp)
+![](../../assets/img/played/boardgame/story_cubes.webp)
 
 I dadi hanno diversi disegni e icone. Li tiri e devi inventare una storia che li contenga.
 Oppure in successione ogni giocatore aggiunge un dato, proseguendo la storia.
 Serve altro?
 
-> *Fabio:*
+> [!tip] Fabio
 > incredibile inventare storie a partire da disegni anche stranissimi.. e più ne hai meglio è!
 
-> *Stefano:*
+> [!info] Stefano
 > Quando lo scoprii ormai 10 anni fa capii che era iniziata una nuova era per la creatività

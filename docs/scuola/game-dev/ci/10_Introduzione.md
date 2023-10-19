@@ -9,7 +9,7 @@ toc: true
 
 # Introduzione
 
-![future proof](img/future_proof.webp)
+![future proof](../../../assets/img/gamedev/img-ci/future_proof.webp)
 
 ## Il passato
 Ho sviluppato il primo videogioco 30 anni fa, nel 1989. su un **computer e con un linguaggio che non esistono più**. Magari c'era uno sprite o una procedura che oggi mi farebbero comodo rivederli.

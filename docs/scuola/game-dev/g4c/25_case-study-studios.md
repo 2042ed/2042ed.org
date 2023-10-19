@@ -2,7 +2,7 @@
 title: "Case studies: Studi e Aziende"
 date: 2022-05-05
 updated: 2023-04-20
-summary: "case studies di videogiochi e giochi applicati"
+description: "case studies di videogiochi e giochi applicati"
 type: book
 weight: 20
 toc: true

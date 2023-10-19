@@ -7,7 +7,7 @@ categories:
   - videogame
 tags:
   - Maker
-  - Kids
+  - kids
   - KidsMakeGames
 date: 2020-12-14
 lastmod: 2022-12-18
@@ -38,7 +38,7 @@ played_vg_platforms:
   - Nintendo Switch
 ---
 
-![](img/super_mario_maker_2.webp)
+![](../../assets/img/played/videogame/super_mario_maker_2.webp)
 
 Vedere un bambino di 4 anni creare nuovi livelli di videogiochi, posizionando trappole, ostacoli, mostri e monete da raccogliere.. e poi presentartelo sfidandoti a risolverlo, non ha prezzo.
 
@@ -46,7 +46,7 @@ O meglio si, in prezzo ce l'ha, il costo di una Nintendo Switch e schedina.
 
 Ci sono sempre più giochi che permettono di creare i propri livelli, ma questo Mario Maker ha raggiunto il migliore compromesso tra facilità e potenza e divertimento
 
-> *Fabio:*
+> [!tip] Fabio
 > mi piace costruire nuovi livelli con i tanti blocchi, e poi farli giocare agli amici e parenti
 
 

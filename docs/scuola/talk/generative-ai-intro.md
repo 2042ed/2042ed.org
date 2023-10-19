@@ -1,8 +1,9 @@
 ---
 title: Gli androidi sanno disegnare una pecora?
 date: 2023-05-21
-updated: 2023-06-19
-tags: [AI]
+updated: 2023-08-09
+tags:
+  - AI
 ---
 # Gli androidi sanno disegnare una pecora?
 _Un'introduzione alla AI creativa_
@@ -23,7 +24,7 @@ Per comprenderne le potenzialità, i limiti ed eventuali preoccupazioni, è bene
 
 Iniziamo con una domanda: **Cosa è una pecora?**
 
-![](img_ai/sheep.webp){: style="height:300px"}
+![](../../assets/img/gamedev/img-ai2/sheep.webp)
 
 ## Come costruire il modello
 
@@ -46,9 +47,9 @@ _Spoiler: un misto delle tre sarà il **il modello GPT**._
 
 ## Machine Learning
 
-![](img/comic-ml.webp)
+![](../../assets/img/talk/comic-ml.webp)
 
-![](img_ai/ai-vs-ml.webp)
+![](../../assets/img/dgbl/human-vs-machine.jpg)
 
 Il Machine Learning è un sottoinsieme dell'Intelligenza Artificiale, che si preoccupa di **come le macchine possano imparare da sole**, per la precisione come possano riconoscere dei **pattern** nei **dati** e fare **previsioni** e prendere buone **decisioni** a partire da essi.
 
@@ -60,49 +61,50 @@ Non entreremo ora nei dettagli tecnici ma è importante sapere:
 
 ## Come funziona?
 
-![](img_ai/ai-brain.webp){: style="height:400px"}
+![](../../assets/img/talk/ai-brain.webp)
 
 ### Rete Neurale Artificiale (ANN)
 La Rete Neurale Artificiale si ispira alla struttura del nostro cervello, ed è composta da una rete di neuroni connessi tra loro che elaborano le informazioni in ingresso e restituiscono una risposta.
 
-![](../game-dev/ci/img/neurons.webp){: style="height:300px"}
+![](../../assets/img/gamedev/img-ci/neurons.webp)
 
 Il nostro cervello ha circa 85 miliardi di neuroni che comunicano tra loro attraverso segnali elettrici e chimici (sinapsi), segnali che seguono milioni ci connessioni accendendo diverse sequenze di neuroni. Ma il cervello è in grado di modificare le proprie connessioni (plasticità).
 
 La versione artificiale parte dalla simulazione di un singolo neurone:
 
-![](img_ai/ai.neuron.webp)
+![](../../assets/img/gamedev/img-ai2/ai.neuron.webp)
 
 e li connette con una serie di livelli (layers) verticali. C'è un primo livello di Input, dove entrano i dati, i segnali. Tutta una serie di n (potenzialmente tanti. tantissimi) livelli intermedi "nascosti", ed infine un livello di neuroni in uscita (output). Ogni Neurone ed ogni connessione tra neuroni ha dei parametri che determina come i segnali si muovono e si trasformano.
 
 In input potremmo avere un testo, un'immagine, i parametri di velocità della propria auto, tutto quello che vedo intorno a me.
 
-![](img_ai/ai.nn-scheme.webp)
+![](../../assets/img/gamedev/img-ai2/ai.nn-scheme.webp)
 
 ## Come impara?
 La configurazione della Rete Neurale, ovvero la definizione di tutti i parametri, i pesi, dei nodi e delle connessioni, si chiama **Training** ed avviene analizzando grandi quantità di dati con diverse tecniche e metodi:
 
 ### Supervised learning
-![](img_ai/ml-supervised.webp)
+![](../../assets/img/gamedev/img-ai2/ml-supervised.webp)
 
 La rete sa cosa le viene dato in input, e aggiorna il suo modello per avvicinarsi il più possibile alle risposte più corrette, con meno errori. Quando l'errore medio sarà inferiore ad una soglia che decidiamo noi, il modello sarà pronto per essere usato.
 
 #### Captcha
 
-![](img_ai/recaptcha-examples.webp)  
-![](img_ai/recaptcha.webp){: style="height:300px"}
+![](../../assets/img/gamedev/img-ai2/recaptcha-examples.webp)  
+![](../../assets/img/gamedev/img-ai2/recaptcha.webp)
 
 Sapete cosa abbiamo fatto negli ultimi 20 anni, rispondendo prima alla lettura di parole dei libri, poi numeri civici, poi insegne, targhe e poi semafori, idranti e tutto quanto?
 
-![](img_ai/comic-captcha.webp){: style="height:300px"}
+![](../../assets/img/gamedev/img-ai2/comic-captcha.webp)
 
 ### Unsupervised Learning
-![](img/ml-unsupervised.webp)
+
+![](../../assets/img/gamedev/img-ai2/ml-unsupervised.webp)
 
 Il modello non supervisionato cerca di trovare caratteristiche comuni nei dati in ingresso. correlazioni, raggruppamenti. Non sa bene cosa significhino, però ad esempio potrebbe scoprire che alcune immagini sono diverse da altre (tipo cani e gatti), che dopo un "ciao" spesso segue un "come stai?", che una appartamento le cui coordinate sono centrali rispetto alla città, ha un costo per mq più alto, e così via.
 
 ### Semi-Supervised Learning
-![](img_ai/ai.semi-supervised-learning.webp)
+![](../../assets/img/gamedev/img-ai2/ai.semi-supervised-learning.webp)
 
 Questo è un misto tra il Supervised e l'Unsupervised.
 
@@ -110,14 +112,14 @@ Questo è un misto tra il Supervised e l'Unsupervised.
 
 Sebbene la teoria informatica avesse diversi decenni, tutto il Machine Learning ha iniziato a funzionare bene a partire dal 2010, dopo la grandissima disponibilità di dati digitalizzati e potenza di calcolo.
 
-![](img_ai/books-library.webp)
+![](../../assets/img/gamedev/img-ai2/books-library.webp)
 
 [book](https://books.google.com/)
 
 ### Reinforced Learning
 > Ottimo lavoro!
 
-![](img_ai/ml-reinforced.webp)
+![](../../assets/img/gamedev/img-ai2/ml-reinforced.webp)
 
 Impara a tentativi, aggiornato dal feedback e premi o penalità.
 Prendiamo due "agenti" ovvero un'entità dotata di sensori e attuatori e lo mettiamo in un ambiente e diciamo: voi squadra rossa dovete acchiappare la squadra blu per vincere. Voi blu non dovete farvi prendere da quelli rossi per vincere. Pronti?
@@ -128,20 +130,20 @@ Caso speciale: **RLHF** (reinforcement learning with human feedback) dove gli um
 
 ### Imitation Learning
 
-![](img/ml-imitation.webp){: style="height:400px"}
+![](../../assets/img/talk/ml-imitation.webp)
 
 l'AI osserva e memorizza il comportamento umano, ne deduce i pattern e lo memorizza nelle ANN.
 
-![](img_ai/comic-ai-copies-human.jpg)
+![](../../assets/img/gamedev/img-ai2/comic-ai-copies-human.jpg)
 
 
 ### Deep Learning
-![](img_ai/ai-history.webp)
+![](../../assets/img/gamedev/img-ai2/ai-history.webp)
 
-![](img_ai/deeplearning-prismer.webp)
+![](../../assets/img/gamedev/img-ai2/deeplearning-prismer.webp)
 Si mettono diversi livelli di reti neurali, specializzate magari per analizzare diverse caratteristiche di un'immagine, per poi essere combinate.
 
-![](img_ai/Papers-Per-Month-scaled.webp)
+![](../../assets/img/gamedev/img-ai2/Papers-Per-Month-scaled.webp)
 
 La velocità di ricerca e scoperta di nuove soluzioni è impressionante.
 
@@ -153,16 +155,16 @@ La velocità di ricerca e scoperta di nuove soluzioni è impressionante.
 - Ambito medico: anticipare problemi di salute, potenziali tumori
 
 ### Classificazione
-![](img_ai/do-image-classification.webp)
+![](../../assets/img/gamedev/img-ai2/do-image-classification.webp)
 
 Analisi del "**sentimento**"  
-![](img_ai/sentiment-indicator.webp)
+![](../../assets/img/gamedev/img-ai2/sentiment-indicator.webp)
 
 ### Creazione: Generative AI
 
-![](img_ai/genai.whereis.webp)
+![](../../assets/img/gamedev/img-ai2/genai.whereis.webp)
 
-![](img_ai/deeplearning.modeltypes.webp)
+![](../../assets/img/gamedev/img-ai2/deeplearning.modeltypes.webp)
 
 In pratica il modello di Deep Learning generativo:
 
@@ -177,11 +179,11 @@ Le tecniche più usate sono la
 - **GAN** (Generative Adversial Network)  
 Dove un modello crea degli esempi di immagini e un discriminatore vede se riesce a capire se sono reali o no
 
-![](img_ai/gan-scheme.webp)
+![](../../assets/img/gamedev/img-ai2/gan-scheme.webp)
 
 - **Diffusion**
 
-![](img_ai/diffusion-cat.webp)
+![](../../assets/img/gamedev/img-ai2/diffusion-cat.webp)
 
 #### testo
 
@@ -200,11 +202,11 @@ Large Language Models, sempre più grandi.
 
 ## Cosa creano?
 
-![](img_ai/genai.what.webp)
+![](../../assets/img/gamedev/img-ai2/genai.what.webp)
 
 **Contesti applicativi**  
 
-![](img_ai/ai.tools.club.jpg)
+![](../../assets/img/gamedev/img-ai2/ai.tools.club.jpg)
 Ci sono già centinaia di strumenti disponibili, ogni settimana ne esce qualcuno. Rimandiamo a questo sito: [Generative AI Landscape](https://ai-collection.org/) o  [AI Tools Club](https://www.aitoolsclub.com)
 
 ### Testo
@@ -236,7 +238,7 @@ Accetta fino a 32k token, ovvero circa 43.000 parole (circa la metà di 120 pagi
 **Output**  
 è in grado di gestire oltre 25.000 parole di testo (circa 60 pagine di un libro)
 
-![](img_ai/chatgpt-cheatsheet.webp)  
+![](../../assets/img/gamedev/img-ai2/chatgpt-cheatsheet.webp)  
 👉🏼 [prompt examples](https://github.com/f/awesome-chatgpt-prompts/)
 
 Alternative equivalenti:  
@@ -251,7 +253,7 @@ Alternative equivalenti:
 [TOME](https://tome.app/)  
 generative storytelling
 
-![](img_ai/example.beautiful.ai.webp)
+![](../../assets/img/gamedev/img-ai2/example.beautiful.ai.webp)
 
 - [Beautiful AI](https://www.beautiful.ai/)
 - [SlideGPT](https://slidesgpt.com/)
@@ -259,13 +261,13 @@ generative storytelling
 #### Materiale didattico
 [Aidemia](https://aidemia.co)
 
-![](img_ai/example.aidema.webp)
+![](../../assets/img/gamedev/img-ai2/example.aidema.webp)
 
 #### Contenuti social
 [Jasper](https://www.jasper.ai/)  
 crea contenuti social
 
-![](img_ai/example.jasper.webp)
+![](../../assets/img/gamedev/img-ai2/example.jasper.webp)
 
 ### Immagini
 
@@ -277,11 +279,11 @@ crea contenuti social
 
 Esempi:  
 [Midjourney](https://midjourney.com/)
-![](img_ai/tool.midjourney.webp)
+![](../../assets/img/gamedev/img-ai2/tool.midjourney.webp)
 
 [DALL-E](https://openai.com/product/dall-e-2)
 
-![](img_ai/example.dalle.teddybear.jpg)
+![](../../assets/img/gamedev/img-ai2/example.dalle.teddybear.jpg)
 
 Adobe Firefly
 
@@ -296,10 +298,10 @@ Esempi:
 [Runway ML](https://runwayml.com)  
 dai creatori di Stable Diffusione, 
 
-![](img_ai/tool.gen1.webp)
+![](../../assets/img/gamedev/img-ai2/tool.gen1.webp)
 vedi esempio 👉🏼[Gen-1](https://research.runwayml.com/gen1)
 
-![](img_ai/tool.video-gen2.webp)
+![](../../assets/img/gamedev/img-ai2/tool.video-gen2.webp)
 vedi esempio 👉🏼 [Gen-2](https://research.runwayml.com/gen2)
 
 #### Avatar
@@ -315,9 +317,9 @@ Esempi:
 - [Rephrase](https://www.rephrase.ai) Text-to-video
 - [Deepswap](https://www.deepswap.ai) swap faces in video
 
-![](img_ai/example.synthesia.ai.webp){: style="height:400px"}
+![](../../assets/img/gamedev/img-ai2/example.synthesia.ai.webp)
 
-![](img_ai/face-fakes.webp){: style="height:400px"}  
+![](../../assets/img/gamedev/img-ai2/face-fakes.webp)  
 vedi [video MegaPortraits](https://www.youtube.com/watch?v=9D5ulvdg0jM)
 
 #### Deep Fake video
@@ -338,11 +340,11 @@ analizza 3 secondi della tua voce e poi potrà dire qualsiasi cosa
 [SuperTone AI](https://supertone.ai/)  
 👉🏼 [ascoltiamo una demo](https://supertone.ai/) di Freddie Mercury che canta in coreano.  
 
-![](img_ai/tool.supertone.webp)
+![](../../assets/img/gamedev/img-ai2/tool.supertone.webp)
 
 ### Musica
 
-![](img_ai/music-technologies.webp)
+![](../../assets/img/gamedev/img-ai2/music-technologies.webp)
 
 [MusicLM](https://google-research.github.io)  
 crea musica a partire da una descrizione testuale  
@@ -352,7 +354,7 @@ crea musica a partire da una descrizione testuale
 [SoundDraw](https://soundraw.io)  
 👉🏼 [example](https://soundraw.io/edit_music?length=10&tempo=normal,high,low&mood=Elegant)
 
-![](img_ai/example.aiva.ai.webp)
+![](../../assets/img/gamedev/img-ai2/example.aiva.ai.webp)
 [AIVA](https://aiva.ai/)  
 composizione di colonne sonore
 
@@ -365,7 +367,7 @@ composizione di colonne sonore
 Esempi:
 
 **Blender + StabilityAI**
-![](img_ai/tool.blender-texture.webp)
+![](../../assets/img/gamedev/img-ai2/tool.blender-texture.webp)
 genera automaticamente i materiali e le textures
 
 - [Artomatix](https://rb.gy/fhsj7) : ArtEngine in Unity
@@ -376,14 +378,14 @@ i videogiochi sono i medium più complessi e multimediali, in tempo reale e inte
 
 **Flight Simulator**  
 con [https://blackshark.ai/](https://blackshark.ai/) hanno ricostruito in 3D tutta la Terra.
-![](img_ai/game-flight-simulator.webp)
+![](../../assets/img/gamedev/img-ai2/game-flight-simulator.webp)
 
 **[Nyric by Lovelace Studio](https://lovelacestudio.com/)**  
 GENERATIVE AI PLATFORM FOR VR
-![](img_ai/tool.nyric.jpg)
+![](../../assets/img/gamedev/img-ai2/tool.nyric.jpg)
 
 **Agenti / Giocatori (Unity ML-Agents)**  
-![](img_ai/unity-mlagents-soccer.webp)
+![](../../assets/img/gamedev/img-ai2/unity-mlagents-soccer.webp)
 
 !!! LABORATORIO
 
@@ -399,7 +401,7 @@ Altri esempi:
 un assistente personale in grado di creare sequenze di comandi selezionando e integrando diversi sistemi.  
 [github.com/microsoft/JARVIS](https://github.com/microsoft/JARVIS)
 
-![](img_ai/jarvis-scheme.webp){: style="height:400px"}
+![](../../assets/img/gamedev/img-ai2/jarvis-scheme.webp)
 
 Altri esempi:  
 - [Bardeen](https://www.bardeen.ai) Automatizzazione di procedure online
@@ -409,14 +411,14 @@ Altri esempi:
 [GitHub Copilot](https://github.com/features/copilot)  
 Il tuo assistente alla programmazione: scrivi cosa vuoi che faccia e lui scrive il codice, praticamente in ogni linguaggio.
 
-![](img_ai/tool.copilot.webp){: style="height:400px"}
+![](../../assets/img/gamedev/img-ai2/tool.copilot.webp)
 
 [Debuild](https://debuild.app)  
 crea un'app web completa in pochi secondi
-![](img_ai/tool.debuild.webp){: style="height:400px"}
+![](../../assets/img/gamedev/img-ai2/tool.debuild.webp)
 
 ### Scienza
-![](img_ai/example.science.jpg){: style="height:400px"}
+![](../../assets/img/gamedev/img-ai2/example.science.jpg)
 
 AlphaFold e Meta AI hanno costruito dei modelli da 15 miliardi di parametri per l'analisi e il sequenziamento della proteine. Migliorando ed accelerando i processi fino a 60 volte. Impatto sulla medicina, chimica, energie rinnovabili. ([fonte](https://www.science.org/doi/10.1126/science.ade2574))
 
@@ -428,12 +430,12 @@ AlphaFold e Meta AI hanno costruito dei modelli da 15 miliardi di parametri per 
 
 > L'ultimo decennio è stato definito da User Generated Content (UGC). Il prossimo sarà costruito su AI Generated Content (AIGC)
 
-![](img_ai/comic-statistics.webp){: style="height:400px"}
+![](../../assets/img/gamedev/img-ai2/comic-statistics.webp)
 
-![](img_ai/comic.turn-it-off.webp){: style="height:400px"}
+![](../../assets/img/gamedev/img-ai2/comic.turn-it-off.webp)
 
 Attenzione ai "gorilla nell'algoritmo":
-![](img_ai/problem.gorillas_google.webp){: style="height:400px"}
+![](../../assets/img/gamedev/img-ai2/problem.gorillas_google.webp)
 
 > Gli output della GenAI sono il frutto dell'elaborazione della produzione della nostra umanità, magari riconnesso in modo originale e imprevedibile
 

@@ -37,6 +37,6 @@ played_url_play:
 
 TODO/scrivere 
 
-![](img/steam_braccio_robot.webp)
+![](../../assets/img/played/steam/steam_braccio_robot.webp)
 
 

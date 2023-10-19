@@ -1,11 +1,12 @@
 ---
-title: Ludosofia - giocare bene, imparare insieme
-summary: 
+title: Ludosofia2 - giocare bene, imparare insieme
 date: 2020-12-14
+updated: 2023-08-09
+description: 
 type: book
 weight: 0
-updated: 2022-03-22
 ---
+# Ludosofia
 
 ![](_img/cover_ludosofia_featured.webp)
 

@@ -6,9 +6,9 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Kids
+  - kids
   - Carte
-  - Award
+  - award
 date: 2020-12-14
 lastmod: 2022-12-18
 
@@ -36,12 +36,12 @@ played_url_details: https://boardgamegeek.com/boardgame/268620/similo
 played_url_play: 
 ---
 
-![](img/similo.webp)
+![](../../assets/img/played/boardgame/similo.webp)
 
 16 carte di personaggi di fantasia e bisogna individuare il personaggio segreto grazie a due tipi di indizi: è simile o non è simile ad altri personaggi. semplicissimo. bellissimo.
 
-> *Fabio:*
+> [!tip] Fabio
 > Facilissimo, bellissimo, e si approfondiscono molti personaggi di fantasia o storici o mitici (noi li abbiamo tutti e tre)
 
-> *Stefano:*
+> [!info] Stefano
 > Imprescindibile. Sopratutto l'edizione Stora o Miti.

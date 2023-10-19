@@ -1,12 +1,13 @@
 ---
 title: Video e Youtube
 date: 2021-04-01
+updated: 2023-08-09
 slug: multimedia
-summary: che sono assolutamente da vedere
+description: che sono assolutamente da vedere
 type: book
-tags: [Doc]
 weight: 62
-updated: 2022-12-16
+tags:
+  - Doc
 ---
 # Video e Youtube
 

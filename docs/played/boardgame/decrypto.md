@@ -7,7 +7,7 @@ categories:
   - boardgame
 tags:
   - Party
-  - Linguaggio
+  - linguaggio
   - Team
 date: 2020-12-14
 lastmod: 2022-12-18

@@ -5,7 +5,7 @@ description: ""
 type: PlayED
 categories:
   - steam
-tags: []
+tags:
 date: 2020-12-14
 lastmod: 2022-12-18
 
@@ -35,6 +35,6 @@ played_url_play:
 
 Davvero un gioco intelligente, da passarci le ore tutti insieme.
 
-![](img/kaleido_gears.webp)
+![](../../assets/img/played/steam/kaleido_gears.webp)
 
 

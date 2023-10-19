@@ -6,7 +6,7 @@ type: PlayED
 categories:
   - book
 tags:
-  - Award
+  - award
 date: 2021-05-05
 lastmod: 2022-12-18
 
@@ -34,7 +34,7 @@ played_url_details:
 played_url_play: 
 ---
 
-![](img/guida_galattica_autostoppisti.webp)
+![](../../assets/img/played/book/guida_galattica_autostoppisti.webp)
 
 di Douglas Adams.
 

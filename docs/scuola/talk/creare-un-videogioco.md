@@ -1,11 +1,13 @@
 ---
 title: Creare un videogioco
 date: 2023-04-24
-updated: 2023-04-25
-summary: "arti, tecnologie, scienze, psicologia, economia, strumenti e idee per chi volesse guardare dietro lo schermo di un videogioco e provare a creare"
-tags: [videogiochi]
-categories: [talk]
-
+updated: 2023-08-09
+description: arti, tecnologie, scienze, psicologia, economia, strumenti e idee
+  per chi volesse guardare dietro lo schermo di un videogioco e provare a creare
+categories:
+  - talk
+tags:
+  - videogiochi
 width: 1920
 height: 1080
 maxScale: 0.8
@@ -16,7 +18,7 @@ _arti, tecnologie, scienze, psicologia, economia,
 strumenti e idee per chi volesse guardare 
 dietro lo schermo e provare a creare._
 
-![banner](img_dentro_vg/banner_talk.webp)
+![banner](../../assets/img/gamedev/img-dentro_vg/banner_talk.webp)
 
 ---
 
@@ -24,6 +26,7 @@ dietro lo schermo e provare a creare._
 
 ### Stefano Cecere
 _ozio creativo, educazione, tecnologia_  
+
 ![Stefano Cecere](../../assets/img/stefano/stefanocecere_pixel.webp)
 
 - Iniziato ad hackerare i computer a 10 anni, primo VG in terza Liceo[^giochi-liceo].
@@ -49,7 +52,7 @@ _ozio creativo, educazione, tecnologia_
 
 ### Creatività multimediale
 
-![multimedialità](../game-dev/g4c/img/creative_multimedia.webp){: style="height:400px"}
+![multimedialità](../../assets/img/gamedev/img-g4c/creative_multimedia.webp)
 
 I videogiochi sono medium multimediali e multidisciplinari.
 
@@ -62,20 +65,20 @@ Nel 2022 ci sono stati 203 miliardi di ricavi. E' un'industria in crescita costa
 
 Potrebbe essere interessante lavorare con i videogiochi.
 
-![](img_dentro_vg/GTA5-image.webp)
+![](../../assets/img/gamedev/img-dentro_vg/GTA5-image.webp)
 _GTA 5 è costato 137 milioni per svilupparlo, e altri 128 per commercializzarlo._
 
 ---
 
 ### Ikigai
 L'invito è sapere che esiste una strada che porta all'Ikigai, concetto giapponese che rappresenta:  
-![IKIGAI](../game-dev/g4c/img/ikigai.webp)
+![IKIGAI](../../assets/img/gamedev/img-g4c/ikigai.webp)
 
 ---
 
 ## Il Digitale
 
-![dig|700](img_dentro_vg/digi_love.webp){: style="height:300px"}
+![dig|700](../../assets/img/gamedev/img-dentro_vg/digi_love.webp)
 
 Non si può parlare di videogiochi se prima non diciamo due parole sul mondo digitale.
 
@@ -87,7 +90,7 @@ Non si può parlare di videogiochi se prima non diciamo due parole sul mondo dig
 
 ### Codice Binario
 
-![](img_dentro_vg/digi_binario.webp)
+![](../../assets/img/gamedev/img-dentro_vg/digi_binario.webp)
 
 Usiamo i numeri binari, a base 2, con i **Bit** che possono essere intesi come interruttori spenti o accesi, dal valore 0 o 1.
 
@@ -95,7 +98,7 @@ Usiamo i numeri binari, a base 2, con i **Bit** che possono essere intesi come i
 
 E' facile costruire qualsiasi numero decimale con una sequenza di bit.
 
-![](img_dentro_vg/digi_conversione.webp)
+![](../../assets/img/gamedev/img-dentro_vg/digi_conversione.webp)
 
 ---
 
@@ -109,13 +112,13 @@ _Ogni_ tipo di informazione può essere codificata in numeri:
 
 - **Testo**
 
-![](img_dentro_vg/digi_binary_text.webp)
+![](../../assets/img/gamedev/img-dentro_vg/digi_binary_text.webp)
 
 ---
 
 - **Immagini**
 
-![](img_dentro_vg/digi_binary_image.webp)
+![](../../assets/img/gamedev/img-dentro_vg/digi_binary_image.webp)
 
 ---
 
@@ -126,7 +129,7 @@ _Ogni_ tipo di informazione può essere codificata in numeri:
 
 - **Suoni** (campionamento)
 
-![](img_dentro_vg/digi_binary_audio.webp)
+![](../../assets/img/gamedev/img-dentro_vg/digi_binary_audio.webp)
 
 - **Procedure logiche** (codice di programmazione)
 - Tutto ciò che è misurabile e riconducibile ad un numero (temperatura, pressione, forze...)
@@ -135,7 +138,7 @@ _Ogni_ tipo di informazione può essere codificata in numeri:
 
 ### CPU
 
-![](img_dentro_vg/digi_cpu_board.webp)
+![](../../assets/img/gamedev/img-dentro_vg/digi_cpu_board.webp)
 
 Dentro ogni dispositivo digitale c'è un "cuore" che elabora i dati: la CPU (Central Processing Unit).
 
@@ -143,14 +146,14 @@ Dentro ogni dispositivo digitale c'è un "cuore" che elabora i dati: la CPU (Cen
 
 Riceve dati in ingresso, li elabora seguendo delle istruzioni date (il programma, il software), li memorizza e li restituisce.
 
-![CPU](img_dentro_vg/digi_cpu.webp)
+![CPU](../../assets/img/gamedev/img-dentro_vg/digi_cpu.webp)
 
 ---
 
 ### Codice
 Le istruzioni delle procedure da seguire sono codificate in codice macchina, oggi scritto con linguaggi simili all'inglese, o rappresentanti da diagrammi di flusso logico.
 
-![](img_dentro_vg/code_if_then.webp)
+![](../../assets/img/gamedev/img-dentro_vg/code_if_then.webp)
 
 ---
 
@@ -163,13 +166,13 @@ un veicolatore di esperienze multimediali dove il giocatore è il protagonista c
 --
 E' un sistema complesso
 
-![Game Design Scheme](../game-dev/g4c/img/playgamedesign.webp)
+![Game Design Scheme](../../assets/img/gamedev/img-g4c/playgamedesign.webp)
 
 ---
 
 ### Hardware e Software
 
-![](img_dentro_vg/digi_hardware-software.webp)
+![](../../assets/img/gamedev/img-dentro_vg/digi_hardware-software.webp)
 
 Un videogioco è il software, il codice di programmazione che gestisce gli elementi multimediali, che viene eseguito da un Hardware specifico.  
 A volte un videogioco è la combinazione indissolubile di HW (Hardware) e SW (Software)
@@ -197,14 +200,14 @@ Nuova frontiera dell'immersività e spazialità
 ---
 
 ### Interattività
-![](../game-dev/g4c/img/interactive.webp){: style="height:400px"}
+![](../../assets/img/gamedev/img-g4c/interactive.webp)
 E' la virtù principale dei videogiochi, ed è permessa dalla CPU che elabora le azioni del giocatore in tempo reale e reagisce in modo autonomo, preprogrammato o imprevedibile, permettendo esperienze non-lineari.
 
 ---
 
 ### Un medium umano-centrico
 
-![humanist_player](../game-dev/g4c/img/humanist_player.webp){: style="height:400px"}
+![humanist_player](../../assets/img/gamedev/img-g4c/humanist_player.webp)
 
 Il Videogioco è pensato, confezionato ed eseguito intorno al giocatore e alle sue azioni.  
 Il giocatore è al centro. Si può considerarlo un *medium umanista*.
@@ -213,7 +216,7 @@ Il giocatore è al centro. Si può considerarlo un *medium umanista*.
 
 ### Il circuito
 
-![Circuito dei Videogiochi](img/vg-circuit.webp){: style="height:400px"}
+![Circuito dei Videogiochi](../../assets/img/talk/vg-circuit.webp)
 
 ---
 
@@ -229,7 +232,7 @@ Per _cucire_ al meglio le esperienze intorno ai giocatori, come fossero dei sart
 
 ---
 
-![](img_dentro_vg/game_human-hw-sw-circuit.webp)
+![](../../assets/img/gamedev/img-dentro_vg/game_human-hw-sw-circuit.webp)
 
 ---
 
@@ -283,7 +286,7 @@ Solitamente si inizia con un semplice **prototipo** per capire se le meccaniche 
 ---
 
 ### Flusso di produzione
-![](img_dentro_vg/gamedev-fasi.webp)
+![](../../assets/img/gamedev/img-dentro_vg/gamedev-fasi.webp)
 
 ---
 
@@ -390,11 +393,11 @@ Definiscono l'aspetto grafico e la personalità, del mondo e dei personaggi
 
 ---
 
-![](https://miro.medium.com/v2/resize:fit:1400/0*dLPbkVsId7CIDBzG){: style="height:400px"}
+![](https://miro.medium.com/v2/resize:fit:1400/0*dLPbkVsId7CIDBzG)
 
 ---
 
-![](https://www.cgspectrum.com/hs-fs/hubfs/CGSpectrum_November2019%20Theme/images/vfx-pipeline-3d-modeling-interview-victoria-passariello-image-02-1-768x746.jpg){: style="height:400px"}
+![](https://www.cgspectrum.com/hs-fs/hubfs/CGSpectrum_November2019%20Theme/images/vfx-pipeline-3d-modeling-interview-victoria-passariello-image-02-1-768x746.jpg)
 
 ---
 
@@ -437,7 +440,7 @@ Ci si diverte!
 
 ### Programmazione
 
-![](img_dentro_vg/game_programming.webp)
+![](../../assets/img/gamedev/img-dentro_vg/game_programming.webp)
 
 Tutta la tecnologia digitale, la logica, l'interfacciamento tra hardware e software.
 Il programmatore è la figura più ingegneristica con le maggiori competenze tecnologiche. Deve trovare le soluzioni conoscendo bene l'hardware e il software.
@@ -446,11 +449,11 @@ SOno necessarie passione per la logica, matematica, la fisica, il pensare bene, 
 
 ---
 
-![](img_dentro_vg/visual-scripting2.webp)
+![](../../assets/img/gamedev/img-dentro_vg/visual-scripting2.webp)
 
 ---
 
-![](img_dentro_vg/visual-scripting.webp)
+![](../../assets/img/gamedev/img-dentro_vg/visual-scripting.webp)
 
 ---
 
@@ -573,7 +576,7 @@ Quando l'interazione con il gioco è con il movimento fisico, dal semplice cammi
 ---
 
 #### Ring Fit Adventure
-![](../../played/videogame/img/ringfit_adventure.webp)
+![](../../assets/img/played/videogame/ringfit_adventure.webp)
 
 ---
 
@@ -612,7 +615,7 @@ E qualche videogioco ha fatto della musica la componente principale, facendo gio
 ### Platform
 
 #### Super Mario Odyssey
-![](../../played/videogame/img/super_mario_odyssey2.webp)
+![](../../assets/img/played/videogame/super_mario_odyssey2.webp)
 
 ---
 
@@ -761,7 +764,7 @@ Strumento estremamante professionale, ma molto accessibile, e gratuito per crear
 
 ## Approfondimenti
 
-![2042ed](../../assets/img/logo/header_2042ed.webp)
+![2042ed](../../assets/logo/header_2042ed.webp)
 
 Nel mio sito [2042ed.org](https://2042ed.org/) ci sono diverse risorse per approfondire il mondo dei giochi e dei videogiochi, sia da giocatori che da sviluppatori.
 

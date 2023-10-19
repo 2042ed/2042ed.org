@@ -7,9 +7,9 @@ categories:
   - boardgame
 tags:
   - Family
-  - Empatia
+  - empatia
   - Collaborativo
-  - Award
+  - award
 date: 2020-12-14
 lastmod: 2022-12-18
 
@@ -37,7 +37,7 @@ played_url_details: https://www.boardgamegeek.com/boardgame/209778/magic-maze
 played_url_play: 
 ---
 
-![](img/magicmaze.webp)
+![](../../assets/img/played/boardgame/magicmaze.webp)
 
 Qui si raggiungono vette di tensione contro il tempo e di muta collaborazione. Nel **senso che non si può parlare** ma si gioca tutti insieme muovendo tutti i pezzi in tempo reale ognuno con le proprie regole.
 Non è un gioco per tutti (provarlo prima di comprarlo) ma ha questa originalità nelle meccaniche di gioco a squadra che potrebbe benissimo essere (e lo è infatti) usato per migliorare le capacità di muoversi insieme.

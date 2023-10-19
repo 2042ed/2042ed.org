@@ -4,7 +4,7 @@ slug: digital-boardgames
 description: ""
 type: PlayED
 categories: []
-tags: []
+tags:
 date: 2020-12-14
 updated: 2022-03-22
 
@@ -34,7 +34,7 @@ played_vg_platforms: []
 lastmod: 2022-12-18
 ---
 
-![](img/digital_boardgames.webp)
+![](../../assets/img/played/videogame/digital_boardgames.webp)
 
 Sono sempre di più i giochi da tavolo in versione app, che hanno il grandissimo vantaggio di poter giocare contro il computer, e quindi di allenarsi in qualsiasi momento. Costano molto meno della scatola e se siete in dubbio o volete fare una prova, è un'opportunità!
 
@@ -44,9 +44,9 @@ potete iniziare a cercare [www.asmodee-digital.com](https://www.asmodee-digital.
 
 oppure direttamente giocabili via browser ci sono centinaia di titolo gratuiti su [boardgamearena.com](https://boardgamearena.com/).. da 7 Wonders Duel a Colt Express, da Kingdomino agli scacchi! e il bello è che si può giocare anche in asincrono una mossa alla volta, con un amico lontano!
 
-> *Fabio:*
+> [!tip] Fabio
 > belli perché qui sei sicuro di non sbagliare le regole
 
-![giochi_da_tavolo_digitali](../../scuola/ludosofia/_img/giochi_da_tavolo_digitali.webp)
+![giochi_da_tavolo_digitali](../../ludosofia/_img/giochi_da_tavolo_digitali.webp)
 
 

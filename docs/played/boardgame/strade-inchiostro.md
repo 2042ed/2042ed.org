@@ -35,10 +35,10 @@ played_url_details: https://www.boardgamegeek.com/boardgame/251678/railroad-ink-
 played_url_play: 
 ---
 
-![](img/stradeinchiostro.webp)
+![](../../assets/img/played/boardgame/stradeinchiostro.webp)
 
 costruire labirinti di rotaie da comporre nel modo ottimale per massimizzare i punti.
 penna e matita e creatività tattica.
 
-> *Fabio:*
+> [!tip] Fabio
 > bello disegnare le tue strade

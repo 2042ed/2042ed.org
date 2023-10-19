@@ -6,8 +6,8 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Kids
-  - Award
+  - kids
+  - award
 date: 2020-12-14
 lastmod: 2022-12-18
 

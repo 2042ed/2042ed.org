@@ -117,7 +117,7 @@ Portal 2 (Valve Corporation, 2011) is a sequel to the original Portal both of wh
 > **Curricular connections:** Physics, geometry, English language arts; social and emotional learning
 > **Possible skills taught:** Communication skills; teamwork; problem-solving; critical thinking; logical thinking; spatial analysis; employment/career skills
 
-{: .highlight }
+> [!note]
 > How to use Portal 2 in a STEM / Physics classroom: [read here](https://www.foundry10.org/programs/games-and-learning/portal-2)
 
 ## Role Play

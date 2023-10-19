@@ -7,8 +7,8 @@ categories:
   - boardgame
 tags:
   - Family
-  - Sport
-  - Award
+  - sport
+  - award
 date: 2020-12-14
 lastmod: 2022-12-18
 

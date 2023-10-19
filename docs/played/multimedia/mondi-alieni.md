@@ -6,8 +6,8 @@ type: PlayED
 categories:
   - media
 tags:
-  - TV
-  - Spazio
+  - tv
+  - spazio
 date: 2020-12-14
 lastmod: 2022-12-18
 
@@ -35,7 +35,7 @@ played_url_details:
 played_url_play: 
 ---
 
-> **#Edu #STEAM**
+> **#Edu #steam**
 
 Un documentario in 4 episodi sulle ipotesi di vita extraterrestre. nel senso che non è che si ipotizza il SE, ma il COME potrebbe evolvere la vita sui miliardi di esopianeti.
 

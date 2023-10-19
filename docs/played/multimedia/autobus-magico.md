@@ -6,9 +6,9 @@ type: PlayED
 categories:
   - media
 tags:
-  - Award
-  - TV
-  - STEAM
+  - award
+  - tv
+  - steam
 date: 2020-12-14
 lastmod: 2022-12-18
 
@@ -42,7 +42,7 @@ played_url_play: null
 In ogni puntata la maestra porta la sua classe in un viaggio speciale in giro per l'Universo per il tempo e lo spazio, affrontando un po' tutti i temi, con la caratteristica speciale di lasciare ai ragazzi il compito di capire i problemi e trovarne la soluzione.  
 Bello e divertente.
 
-> *Fabio:*
+> [!tip] Fabio
 > è simpatico e impari sempre qualcosa di nuovo e utile
 
 

@@ -5,7 +5,7 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Award
+  - award
   - Family
   - Collaborativo
 date: 2020-12-14

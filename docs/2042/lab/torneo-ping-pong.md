@@ -1,6 +1,6 @@
 # Tornei di Ping Pong
 
-![](../../played/outdoor/img/pingpong_torneo.webp)
+![](../../assets/img/played/outdoor/pingpong_torneo.webp)
 
 Primo Torneo Settignano 2019
 

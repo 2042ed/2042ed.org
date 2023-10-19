@@ -1,5 +1,7 @@
 ---
 title: Fluxx
+date: 2020-12-14
+updated: 2023-07-30
 slug: 
 description: ""
 type: PlayED
@@ -8,7 +10,6 @@ categories:
 tags:
   - Carte
   - Compatto
-date: 2020-12-14
 lastmod: 2022-12-18
 
 template: played.html
@@ -35,11 +36,19 @@ played_url_details: https://boardgamegeek.com/boardgamefamily/8/game-fluxx
 played_url_play: 
 ---
 
-![](img/fluxx.webp)
+![](../../assets/img/played/boardgame/fluxx.webp)
 
-un gioco di carte dove le regole del gioco e l'obiettivo per vincere cambia in continuazione!
-geniale. ci sono molte ambientazioni (in inglese una dozzina) alcune addirittura tematiche su chimica o matematica!
-in italiano abbiamo questa edizione Chtulu
+il gioco inizia senza regole, se non con l'unica: *prendi una carta, gioca una carta*.
+poi tutto succederà giocando: regole, scopo del gioco, imprevisti, azioni.
 
-> *Fabio:*
+davvero semplice quanto geniale!
+
+Ho preso l'edizione Cthulhu solo perché era l'unica rimasta in negozio.. ma ne siamo contenti... a cercarne ci sono almeno 20 temi: dai Monty Python a Star Trek, dalla matematica alla chimica..
+Potrebbe anche essere un ottimo gioco "educativo" per esplorare alcune tematiche.
+tutto quello che c'è da fare o sapere è infatti scritto nelle carte.
+
+ci è piaciuto assai e lo consigliamo!
+costa pochissimo, partite veloci, da 2 a 6 giocatori. cercare FLUXX ecco qui tutti i titoli: <https://www.fluxxgames.com/>
+
+> [!tip] Fabio
 > carte molto strane e l'unico in cui le regole del gioco cambiano mentre giochi

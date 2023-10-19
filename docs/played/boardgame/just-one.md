@@ -8,8 +8,8 @@ categories:
 tags:
   - Family
   - Party
-  - Linguaggio
-  - Award
+  - linguaggio
+  - award
 date: 2020-12-14
 lastmod: 2022-12-18
 
@@ -41,7 +41,5 @@ Un party game che impari in 10 secondi e divertirà tutti: bisogna indovinare un
 
 Perfetto per sviluppare le capacità di comunicazione verbale
 
-> *Fabio:*
+> [!tip] Fabio
 > è bello cercare di trovare aggettivi diversi dagli altri
-
-

@@ -6,7 +6,7 @@ type: PlayED
 categories:
   - videogame
 tags:
-  - Award
+  - award
   - Party
   - Impostore
 date: 2020-12-14
@@ -37,7 +37,7 @@ played_vg_platforms:
   - all
 ---
 
-![](img/amongus.webp)
+![](../../assets/img/played/videogame/amongus.webp)
 
 il videogioco dell'anno: si gioca in 10 e si deve tutti riparare un'astronave.
 ma attenzione: uno dei 10 è un traditore che vi ostacolerà e ucciderà.
@@ -45,6 +45,5 @@ partite brevi, super divertente!
 lo giochi da qualunque device.
 CONSIGLIATISSIMO
 
-> *Fabio:*
+> [!tip] Fabio
 > ci gioco tutti i giorni con tantissimi amici ed è davvero divertente perché non sai più di chi fidarti o no
-{.boxFabio}

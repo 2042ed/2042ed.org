@@ -1,13 +1,15 @@
 ---
 title: Vademecum del giocatore
 date: 2021-04-01
+updated: 2023-08-09
 slug: vademecum
-summary: su come imparare a giocare il proprio gioco velocemente
+description: su come imparare a giocare il proprio gioco velocemente
 type: book
-categories: [PlayED]
-tags: [Guida]
 weight: 80
-updated: 2022-12-16
+categories:
+  - played
+tags:
+  - Guida
 ---
 # Vademecum del giocatore
 ## Scegliere il proprio gioco

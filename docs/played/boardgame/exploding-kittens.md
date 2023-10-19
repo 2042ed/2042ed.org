@@ -6,10 +6,10 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Award
+  - award
   - Compatto
   - Party
-  - Fun
+  - fun
   - Family
 date: 2020-12-14
 lastmod: 2022-12-18
@@ -44,10 +44,10 @@ non si può non averlo! divertente, veloce.
 
 c'è anche una versione VM18 un po' più dissacrante (e divertente ;)
 
-> *Fabio:*
+> [!tip] Fabio
 > immagini divertentissime e fantastico il non dover aiutare gli amici, ma farli esplodere
 
-> *Stefano:*
+> [!info] Stefano
 > Questo gioco è stato uno dei più grandi successi di Kickstarter.. un caso che ha fatto storia e ha iniziato una nuova era dei giochi "indie" che diventano planetari 
 
 

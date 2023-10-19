@@ -6,9 +6,9 @@ type: PlayED
 categories:
   - videogame
 tags:
-  - Kids
+  - kids
   - Edu
-  - Nature
+  - nature
 date: 2021-04-12
 lastmod: 2022-12-18
 

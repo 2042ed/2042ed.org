@@ -8,7 +8,7 @@ categories:
 tags:
   - Build
   - Maker
-  - Award
+  - award
 date: 2020-12-14
 lastmod: 2022-12-18
 
@@ -38,8 +38,8 @@ played_vg_platforms:
   - Mobile
 ---
 
-![](img/bad_piggies.webp){: style="height:200px"}
-![](img/bad_piggies_2.webp){: style="height:200px"}
-![](img/bad_piggies_3.webp){: style="height:200px"}
+![](../../assets/img/played/videogame/bad_piggies.webp)
+![](../../assets/img/played/videogame/bad_piggies_2.webp)
+![](../../assets/img/played/videogame/bad_piggies_3.webp)
 
 Progetti e costruisci mezzi terrestri e volanti per finire il livello. Gradi di libertà ingegneristica davvero notevoli

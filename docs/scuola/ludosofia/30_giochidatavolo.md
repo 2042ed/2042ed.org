@@ -1,12 +1,13 @@
 ---
 title: Giochi da Tavolo
 date: 2021-04-01
+updated: 2023-08-09
 slug: giochidatavolo
-summary: scopriamo il mondo contemporaneo di cosa si può fare intorno ad un tavolo
+description: scopriamo il mondo contemporaneo di cosa si può fare intorno ad un tavolo
 type: book
-tags: [Doc]
 weight: 30
-updated: 2022-12-16
+tags:
+  - Doc
 ---
 # Giochi da Tavolo
 
@@ -33,7 +34,7 @@ Diverso discorso è per i classici giochi da tavola.. che a mio avviso possono b
 Accenno solo due esempi: durata delle partite troppo lunghe e se un giocatore parte male o muore presto viene escluso dal gioco. Questa cosa NON deve succedere, sopratutto se si gioca in famiglia e si cerca più il buon divertimento allo sterminio dei propri avversari.
 
 ## Regole e Facilitatori
-> *Fabio:*
+> [!tip] Fabio
 > Il mio consiglio è di leggere bene le istruzioni, oppure prendete tutto quello che trovate dentro la scatola, osservatelo e inventatevi delle regole per giocarci.
 
 
@@ -133,7 +134,7 @@ oppure le regole prevedono già queste regole per un eventuale gioco in solitari
 ## Tipologie e Parole chiave
 ![](_img/panoramica_gdt.webp)
 
-In qualsiasi negozio o sito di giochi da tavolo è prassi organizzarli per tipologia principale. Eccone una dozzina che bene conoscere, ma rimandiamo al [Glossario GdT]({{< relref "800_glossario)) in fondo al libro dove le descriviamo tutte.
+In qualsiasi negozio o sito di giochi da tavolo è prassi organizzarli per tipologia principale. Eccone una dozzina che bene conoscere, ma rimandiamo al [Glossario GdT](95_glossario.md)  in fondo al libro dove le descriviamo tutte.
 
 - 2 Giocatori
 - Astratti
@@ -252,4 +253,4 @@ Così giusto per iniziare, se non li avete, con questi si va sul sicuro e costan
 3. quali sono le azioni che un giocatore può fare?
 4. spiegare i casi particolari
 5. simulare un turno di gioco
-6. 
+

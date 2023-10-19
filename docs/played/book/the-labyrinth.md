@@ -6,7 +6,7 @@ type: PlayED
 categories:
   - book
 tags:
-  - Librogame
+  - librogame
   - GdR
 date: 2020-12-27
 lastmod: 2022-12-18
@@ -35,7 +35,7 @@ played_url_details:
 played_url_play: 
 ---
 
-![](img/the-labyrinth.webp)
+![](../../assets/img/played/book/the-labyrinth.webp)
 
 The Labyrinth il libro avventura è davvero un gioiellino.
 E' praticamente un gioco di ruolo per un gruppo di giocatori ambientato nel mondo di The Labyrinth (il famoso film) ed è il primo libro che vedo avere un compartimento segreto per i dadi 🙂

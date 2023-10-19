@@ -7,7 +7,7 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Award
+  - award
   - Family
 
 template: played.html

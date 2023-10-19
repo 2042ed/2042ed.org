@@ -6,7 +6,7 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Kids
+  - kids
 date: 2021-04-07T15:54:02+02:00
 lastmod: 2022-12-18
 featured: false
@@ -36,10 +36,8 @@ played_url_details:
 played_url_play: 
 ---
 
-![](img/ratzzia_featured.webp)
+![](../../assets/img/played/boardgame/ratzzia_featured.webp)
 
 > *Bruno:* per prendere le salsicce devi contare i dadi.. e poi le metti tutte nel sacchettino!
-{.boxFabio}
 
-> *Stefano:* in versione semplificata è ottimo anche dai 5 anni per contare i dadi. 
-{.boxStefano}
+> [!info] Stefano in versione semplificata è ottimo anche dai 5 anni per contare i dadi. 

@@ -36,7 +36,7 @@ played_url_play:
 
 Uno dei pochi giochi storici.. nel senso che ha.. *migliaia di anni!* che ci piace giocare ogni tanto. E' relativamente semplice e una volta capito il meccanismo base permette di far lavorare un po' tutto: strategia, matematica, probabilità.
 
-> *Stefano:*
+> [!info] Stefano
 > Questo gioco lo studiai io da ragazzo e sono stato felicissimo nello spiegarlo a Fabio e giocarci ogni tanto
 
 

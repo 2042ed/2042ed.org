@@ -1,12 +1,15 @@
 ---
 title: Videogiochi e Didattica
 date: 2021-04-01
+updated: 2023-08-09
 lastmod: 2021-10-28
-updated: 2022-12-17
 slug: videogiochi-didattica
-summary: 
 type: book
-tags: [Doc, Presentazione, DidatticaLudica, GameBasedLearning]
+description: 
+tags:
+  - Doc
+  - presentazione
+  - GBL
 weight: 1000
 slides:
   theme: white
@@ -94,8 +97,9 @@ Gli effetti dipendono dal tipo di videogioco in uso. Si possono verificare conse
 
 ### Come impariamo con i giochi?
 #### Player flow
+
 ![](../ludosofia/_img/graph_flow.webp)
-<!-- slide -->
+
 #### Competitività
 ma non pericolosi
 
@@ -314,7 +318,7 @@ gli insegnanti devono essere informati non solo sulle potenzialità, le caratter
 - imparare attraverso i giochi e il giocare
 - imparare creando giochi
 - imparare dai giochi come insegnare
-<!-- slide -->
+
 ![](../ludosofia/_img/vg_mercato.webp)
 
 ### PEGI e Parental Control

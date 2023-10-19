@@ -6,7 +6,7 @@ type: PlayED
 categories:
   - steam
 tags:
-  - GameDev
+  - gamedev
   - Tool
   - KidsMakeGames
 date: 2020-12-14
@@ -38,7 +38,7 @@ played_vg_platforms:
   - Desktop
 ---
 
-![](img/unity.webp)
+![](../../assets/img/played/steam/unity.webp)
 
 fate un regalo ai vostri figli: Unity
 è pure gratuito!

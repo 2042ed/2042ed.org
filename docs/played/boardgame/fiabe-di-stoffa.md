@@ -6,9 +6,9 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Award
-  - Kids
-  - Librogame
+  - award
+  - kids
+  - librogame
   - Collaborativo
   - Episodi
 date: 2020-12-14
@@ -47,13 +47,16 @@ il bello è che si gioca benissimo in 2 (controllando due omini a testa) che in 
 
 non dico che lo consiglio a tutti, perché non è semplicissimo... ma se piacciono le belle storie, stare almeno un'ora con i propri figli a giocare, è una bellissima possibilità!
 
-> Bruno: papà andiamo avanti di una pagina a Fiabe di Stoffa?
+> [!tip] Bruno
+> papà andiamo avanti di una pagina a Fiabe di Stoffa?
 
-> FAbio: dipingere le miniature è stato bello
+> [!tip] Fabio
+> dipingere le miniature è stato bello
 
-> Stefano: un po' complesso da intavolare la prima volta se non si è un po' esperti, ma si ripaga con almeno 60 ore di gioco!
+> [!info] Stefano
+> un po' complesso da intavolare la prima volta se non si è un po' esperti, ma si ripaga con almeno 60 ore di gioco!
 
 ![](../../assets/img/played/boardgame/fiabe-di-stoffa-3.webp)
-![](img/fiabe_di_stoffa.webp)
-![](img/fiabe_di_stoffa_miniature.webp)
-![](img/fiabe_di_stoffa_pittura.webp)
+![](../../assets/img/played/boardgame/fiabe_di_stoffa.webp)
+![](../../assets/img/played/boardgame/fiabe_di_stoffa_miniature.webp)
+![](../../assets/img/played/boardgame/fiabe_di_stoffa_pittura.webp)

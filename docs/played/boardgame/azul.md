@@ -6,7 +6,7 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Award
+  - award
   - Family
 date: 2022-01-02T23:51:55+01:00
 lastmod: 2022-12-18
@@ -35,8 +35,6 @@ played_url_details: https://boardgamegeek.com/boardgame/230802/azul
 played_url_play: https://boardgamearena.com/gamepanel?game=azul
 ---
 
-> *Fabio:* 
-{.boxFabio}
+> [!tip] Fabio 
 
-> *Stefano:* 
-{.boxStefano}
+> [!info] Stefano 

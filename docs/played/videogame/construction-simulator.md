@@ -8,8 +8,8 @@ categories:
 tags:
   - Build
   - Simulazione
-  - Kids
-  - Award
+  - kids
+  - award
 date: 2020-12-14
 lastmod: 2022-12-18
 
@@ -39,14 +39,14 @@ played_vg_platforms:
   - all
 ---
 
-![](img/construction_simulator.webp){: style="height:200px"}
-![](img/construction_simulator2.webp){: style="height:200px"}
-![](img/construction_simulator3.webp){: style="height:200px"}
+![](../../assets/img/played/videogame/construction_simulator.webp)
+![](../../assets/img/played/videogame/construction_simulator2.webp)
+![](../../assets/img/played/videogame/construction_simulator3.webp)
 
 A chi non piacciono ruspe, escavatori e camion?
 In questo "simulatore" apri una azienda edile, e lavoro dopo lavoro, con crescente difficoltà e avanzamento nei mezzi e tecniche, si impara a guidare camion, ruspe, escavatori, rulli.. sostituire tubi delle fognature o impiantare alberi, aggiustare tetti e costruire strade.
 
 NO-TE-VO-LIS-SI-MO
 
-> *Fabio:*
+> [!tip] Fabio
 > è fatto benissimo con tutte i mezzi da lavoro e tantissimi lavori da eseguire

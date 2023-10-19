@@ -6,7 +6,7 @@ description: ""
 categories:
   - boardgame
 tags:
-  - Kids
+  - kids
   - Strategia
 date: 2020-12-14
 lastmod: 2022-12-18
@@ -35,16 +35,16 @@ played_url_details: https://www.boardgamegeek.com/boardgame/41010/carcassonne-ju
 played_url_play: 
 ---
 
-![](img/carcassonne_jr.webp)
+![](../../assets/img/played/boardgame/carcassonne_jr.webp)
 
 Il gioco in scatola regalato per i 5 anni di Bruno è PERFETTO.
 Si impara in 30 secondi, si gioca in 20 minuti ed ha il giusto livello di fortuna tattica per i piccoli e di analisi e arguzia per i più grandi.
 Che altro dire... le tessere e i personaggi, tutti bambini, sono ben fatte e "catturano" il giusto. un ottima alternativa alla tv.
 
-> *Fabio:*
+> [!tip] Fabio
 > è semplice e bello da fare in famiglia. a me e Bruno piace trovare le pecore nere e le mucche dopo la partita.
 
-> *Stefano:*
+> [!info] Stefano
 > Se poi piace il genere, fra un anno prendete Carcassonne il gioco completo!
 
-
+![carcassonne_jr_featured](../../assets/img/played/boardgame/carcassonne_jr_featured.jpg)

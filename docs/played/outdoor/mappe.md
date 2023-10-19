@@ -34,7 +34,7 @@ played_url_details:
 played_url_play: 
 ---
 
-![](img/mappe.webp){: style="height:200px"}
+![](../../assets/img/played/outdoor/mappe.webp)
 
 Non pretendiamo di diventare tutti cartografi, ma la pratica di "mappare" l'ambiente che ci circonda può aiutarci a ricordarci il dove siamo e il contesto. Le distanze, gli ostacoli, la memoria.
 

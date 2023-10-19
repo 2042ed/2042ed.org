@@ -6,7 +6,7 @@ type: PlayED
 categories:
   - videogame
 tags:
-  - Award
+  - award
   - Puzzle
 date: 2020-12-14
 lastmod: 2022-12-18
@@ -37,16 +37,14 @@ played_vg_platforms:
   - all
 ---
 
-![](img/the_witness.webp){: style="height:200px"}
-![](img/the_witness_1.webp){: style="height:200px"}
-![](img/the_witness_2.webp){: style="height:200px"}
+![](../../assets/img/played/videogame/the_witness.webp)
+![](../../assets/img/played/videogame/the_witness_1.webp)
+![](../../assets/img/played/videogame/the_witness_2.webp)
 
 un'avventura tranquillissima, senza una parola scritta.
 dove cercare di risolvere i 200 enigmi con la sola forza della mente e della deduzione. e un dito.
 
-> *Fabio:* bellissimo. un po' difficile verso la fine
-{.boxFabio}
+> [!tip] Fabio bellissimo. un po' difficile verso la fine
 
-> *Stefano:* capolavoro. non facilissimo, ma stimola davvero il pensiero laterale, logico, deduttivo
-{.boxStefano}
+> [!info] Stefano capolavoro. non facilissimo, ma stimola davvero il pensiero laterale, logico, deduttivo
 

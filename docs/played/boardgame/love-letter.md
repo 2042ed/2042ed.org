@@ -5,7 +5,7 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Award
+  - award
   - Family
   - Compatto
 date: 2020-12-14

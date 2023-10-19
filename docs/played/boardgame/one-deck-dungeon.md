@@ -40,7 +40,7 @@ played_url_play:
 Amanti dei dungeons, carte, dadi  e avventure dinamiche?
 Ecco qui un gioco davvero notevole da portarsi in vacanza!
 
-> *Fabio:*
+> [!tip] Fabio
 > bello decidere cosa fare una volta sconfitto un mostro e ci sono molte trappole
 
 

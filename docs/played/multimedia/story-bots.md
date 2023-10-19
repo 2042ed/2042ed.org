@@ -6,10 +6,10 @@ type: PlayED
 categories:
   - media
 tags:
-  - TV
-  - Award
-  - Kids
-  - STEAM
+  - tv
+  - award
+  - kids
+  - steam
 date: 2020-12-14
 lastmod: 2022-12-18
 
@@ -37,13 +37,13 @@ played_url_details:
 played_url_play: 
 ---
 
-#STEAM  
+#steam  
 
 Join Beep, Boop, Bing, Bang and Bo as they help answer kids’ biggest questions, like “how do computers work?” and “why can’t I eat dessert all the time?”.
 
 <https://www.storybots.com/>
 
-> *Fabio:*
+> [!tip] Fabio
 > fanno ridere e fanno capire davvero molte cose
 
 

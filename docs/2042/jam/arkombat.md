@@ -33,30 +33,30 @@ Venerdì (3 febbraio) pomeriggio ne parlo subito con Bruno:
 - si. potrebbe essere un gioco con le carte, che dici? ce la possiamo fare?
 
 (ercco cosa ci immaginavamo...)   
-![Alt text](../../assets/img/project/arkombat/arkombat-teaser.webp){: style="height:300px"}
+![Alt text](../../assets/img/project/arkombat/arkombat-teaser.webp)
 
 ## Produzione
 
 .... e così via per mezz'ora. e arriviamo ad un'immagine:
 
-![Alt text](../../assets/img/project/arkombat/piante-vs-robots.webp){: style="height:300px"}
+![Alt text](../../assets/img/project/arkombat/piante-vs-robots.webp)
 
 ed una bozza della  meccanica di gioco base:
 
 Bruno propone la meccanica del "sasso, carta, forbice" che i bambini conoscono benissimo. OTTIMA! sopratutto se traslate sugli elementi tipici dei robots e delle piante.. tipo l'acqua, il fuoco e ... uhmmm.. il LEGNO!
 
-![Alt text](../../assets/img/project/arkombat/gameplay-base.webp){: style="height:300px"}
+![Alt text](../../assets/img/project/arkombat/gameplay-base.webp)
 
 Ci servono subito delle carte di prova per vedere se il gioco funziona.
 Prende quindi penna e pennarelli, io gli fornisco le carte bianche (bisogna sempre avere una scatola di carte bianche a disposizione!)
 
 Si iniziano i lavori disegnando le prima carte
 
-![Alt text](../../assets/img/project/arkombat/inizio-lavori.webp){: style="height:300px"}
+![Alt text](../../assets/img/project/arkombat/inizio-lavori.webp)
 
 e si fa subito una partita di prova
 
-![Alt text](../../assets/img/project/arkombat/primo-playtest.webp){: style="height:300px"}
+![Alt text](../../assets/img/project/arkombat/primo-playtest.webp)
 
 FUNZIONA! facile e divertente.
 Intanto arriva il fratellone, lo aggiorniamo sul progetto, gli piace e ha già l'idea di integrare agli elementi base una carta speciale: l'uccidi tutti, che chiamiamo la **Morte**. Però serve qualcosa per controbilanciare... e arriva il **Jolly** (nella versione finale saranno rinominati in **Guerra** e **Pace**).
@@ -77,15 +77,15 @@ Nel pomeriggio i ragazzi si mettono al lavoro a disegnare per bene tutti i perso
 
 il tutto per due generi: Piante e Robots.
 
-![Alt text](../../assets/img/project/arkombat/fabio-bruno.webp){: style="height:300px"}
+![Alt text](../../assets/img/project/arkombat/fabio-bruno.webp)
 
-![Alt text](../../assets/img/project/arkombat/disegni-prototipi.webp){: style="height:300px"}
+![Alt text](../../assets/img/project/arkombat/disegni-prototipi.webp)
 
-![Alt text](../../assets/img/project/arkombat/lavori.webp){: style="height:300px"}
+![Alt text](../../assets/img/project/arkombat/lavori.webp)
 
 Fabio è un mago di [MagicaVoxel](../../played/steam/magicavoxel.md) (il celebre modellatore 3D a "cubetti"), e inizia a tradurre i disegni in modelli 3D
 
-![Alt text](../../assets/img/project/arkombat/magica-voxel.webp){: style="height:300px"}
+![Alt text](../../assets/img/project/arkombat/magica-voxel.webp)
 
 Dopo qualche ora abbiamo i disegni e già qualche modello buono.
 Io intanto impagino il PDF che andremo a stampare con tutte le carte..
@@ -94,33 +94,33 @@ e giocando, divagando e facendo merenda affiniamo le meccaniche e le regole del 
 EHI: però che tipo di attacco fanno? non bisogna avere i nomi delle mosse?
 E così si mettono a inventare una serie di improbabili (o probabili) attacchi.. 2 o 3 per per ogni carta. Che scriviamo subito nelle carte (però nel gioco finale uno dovrà inventarne di nuove e urlarle! NB)
 
-![Alt text](../../assets/img/project/arkombat/cards-examples.webp){: style="height:300px"}
+![Alt text](../../assets/img/project/arkombat/cards-examples.webp)
 
 Mentre lavoro all'App in Realtà Aumentata, i ragazzi scrivono bene il regolamento e lo controllano!
 
-![Alt text](../../assets/img/project/arkombat/correzioni-regolamento.webp){: style="height:300px"}
+![Alt text](../../assets/img/project/arkombat/correzioni-regolamento.webp)
 
 quello definitivo ad oggi:
 
-![regolamento](../../assets/img/project/arkombat/arkombat-rules.webp){: style="height:300px"}
+![regolamento](../../assets/img/project/arkombat/arkombat-rules.webp)
 
 Poi stampiamo due cartoncini A4 con le carte, le tagliamo et voilà!
 
-![Alt text](../../assets/img/project/arkombat/prova-di-stampe.webp){: style="height:300px"}
+![Alt text](../../assets/img/project/arkombat/prova-di-stampe.webp)
 
 Verifichiamo bene tutto.. si leggono i QR code? funziona la Realtà Aumentata?
 
-![Alt text](../../assets/img/project/arkombat/check_ar.webp){: style="height:300px"}
+![Alt text](../../assets/img/project/arkombat/check_ar.webp)
 
-![Alt text](../../assets/img/project/arkombat/check_ar_modelli.webp){: style="height:300px"}
+![Alt text](../../assets/img/project/arkombat/check_ar_modelli.webp)
 
 Ecco un po' di carte della prima versione:
 
-![Alt text](../../assets/img/project/arkombat/carte.webp){: style="height:300px"}
+![Alt text](../../assets/img/project/arkombat/carte.webp)
 
 Sistemiamo un po' di informazioni, pubblichiamo sul [repository pubblico](https://github.com/2042ed/JAM.ARKombat) e inviamo al sito della [Global Game Jam](https://globalgamejam.org/2023/games/arkombat-card-game-5).
 
-![Alt text](../../assets/img/project/arkombat/playtest.webp){: style="height:300px"}
+![Alt text](../../assets/img/project/arkombat/playtest.webp)
 
 Vi è piaciuto?  
 Partecipereste con noi alla prossima?

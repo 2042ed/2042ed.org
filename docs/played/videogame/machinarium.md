@@ -8,7 +8,7 @@ categories:
 tags:
   - Puzzle
   - Tablet
-  - Award
+  - award
   - Family
 date: 2019-12-14
 lastmod: 2023-12-18

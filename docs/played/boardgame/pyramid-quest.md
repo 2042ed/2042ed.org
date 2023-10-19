@@ -36,10 +36,10 @@ played_url_details:
 played_url_play: 
 ---
 
-![](img/pyramidquest_1.webp){: style="height:200px"}
-![](img/pyramidquest_2.webp){: style="height:200px"}
-![](img/pyramidquest_3.webp){: style="height:200px"}
-![](img/pyramidquest_4.webp){: style="height:200px"}
+![](../../assets/img/played/boardgame/pyramidquest_1.webp)
+![](../../assets/img/played/boardgame/pyramidquest_2.webp)
+![](../../assets/img/played/boardgame/pyramidquest_3.webp)
+![](../../assets/img/played/boardgame/pyramidquest_4.webp)
 
 quest’oggetto è davvero unico nel suo genere: una piramide in legno piena di enigmi e meccanismi meccanici da risolvere per svelare il mistero degli antichi Egizi
 dopo tante escape room digitali o ambientali, ecco mettere alla prova lo spirito di osservazione e la logica deduttiva con qualcosa di manuale. 
@@ -53,8 +53,6 @@ alcuni enigmi si possono cercare di risolverli con il piccolo ma non è in grado
 
 DOVE ACQUISTARLA: cercare Escape Welt / Quest Pyramide io l'ho trovata solo sul loro sito, a mio avviso si può acquistarne una per quartiere e poi la si condivide 🙂
 
-> *Fabio:* bellissima. avrei solo voluto più enigmi magari più facili. in ogni caso davvero un ottimo lavoro
-{.boxFabio}
+> [!tip] Fabio bellissima. avrei solo voluto più enigmi magari più facili. in ogni caso davvero un ottimo lavoro
 
-> *Stefano:* risolverla insieme, in due è meglio, magari la sera, con la pila, e immedesimarsi nei tunnel dentro la piramide!
-{.boxStefano}
+> [!info] Stefano risolverla insieme, in due è meglio, magari la sera, con la pila, e immedesimarsi nei tunnel dentro la piramide!

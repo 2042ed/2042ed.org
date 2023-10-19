@@ -6,7 +6,7 @@ type: PlayED
 categories:
   - videogame
 tags:
-  - Music
+  - music
   - Family
   - Exergame
 date: 2020-12-14
@@ -38,7 +38,7 @@ played_vg_platforms:
   - Wii
 ---
 
-![](img/beatthebeat_1.webp)
+![](../../assets/img/played/videogame/beatthebeat_1.webp)
 
 E' un gioco ritmico musicale che purtroppo non hanno rinnovato sulle nuove console (maledizione a queste evoluzioni tecnologiche che rendono facilmente ingiocabili i vecchi giochi!)
 Ma ce ne saranno altri equivalenti.

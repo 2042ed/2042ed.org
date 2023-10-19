@@ -1,5 +1,12 @@
 ---
-title: Risorse 
+title: Risorse
+date: 2023-01-31
+updated: 2023-08-22
+type: 
+categories: 
+tags: 
+description: 
+permalink: 
 has_children: true
 nav_order: 100
 ---
@@ -10,6 +17,7 @@ nav_order: 100
 Earl Aguilera and Roberto de Roock
 [# Digital Game-Based Learning: Foundations, Applications, and Critical Issues](https://oxfordre.com/education/view/10.1093/acrefore/9780190264093.001.0001/acrefore-9780190264093-e-1438#acrefore-9780190264093-e-1438-div2-16)
 
+A Serious Look at Game-Based Learning
 [A Serious Look at Game-Based Learning](https://www.edsurge.com/news/2022-10-25-a-serious-look-at-game-based-learning)
 
 Carol Rawlings Miller  
@@ -50,6 +58,10 @@ Amy Jo Kim
 - [Quest to Learn](https://www.q2l.org) - a public 6–12 school with an innovative educational philosophy developed by top educators and game theorists at The Institute of Play
 
 ## Courses
+
+**Games in Schools** 
+https://www.europeanschoolnetacademy.eu/courses/course-v1:GiS+GamesCourse+2023/course/
+
 **EdX: Leading Change: Go Beyond Gamification with Gameful Learning**  
 [Link](https://courses.edx.org/courses/course-v1:MichiganX+GL101x+3T2018/course/)
 

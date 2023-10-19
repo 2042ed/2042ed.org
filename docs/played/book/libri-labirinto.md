@@ -7,8 +7,8 @@ categories:
   - book
 tags:
   - Puzzle
-  - Kids
-  - Award
+  - kids
+  - award
 date: 2020-12-14
 lastmod: 2022-12-18
 
@@ -35,10 +35,10 @@ played_url_details:
 played_url_play: 
 ---
 
-![](img/libro_labirinto.webp)
+![](../../assets/img/played/book/libro_labirinto.webp)
 
 Ce ne sono molti.. basta cercare "libro labirinto"
 I miei figli hanno sviluppato un senso creativo spropositato risolvendo centinaia di tipi di versi di labirinti col dito.
 
-> *Fabio:*
+> [!tip] Fabio
 > che soddisfazione trovare le uscite dai mille labirinti tutti diversi

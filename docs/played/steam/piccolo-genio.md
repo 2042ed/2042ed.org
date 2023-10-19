@@ -5,7 +5,7 @@ description: ""
 type: PlayED
 categories:
   - steam
-tags: []
+tags:
 date: 2020-12-14
 lastmod: 2022-12-18
 
@@ -45,6 +45,6 @@ Meglio giochi mirati su un tema.
 
 Lisciani, Clementoni, Quercetti, KidzLab sono ottime marche.
 
-![](img/steam_labs.webp)
+![](../../assets/img/played/steam/steam_labs.webp)
 
-![](img/steam_magnete.webp)
+![](../../assets/img/played/steam/steam_magnete.webp)

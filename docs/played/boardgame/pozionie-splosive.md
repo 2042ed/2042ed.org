@@ -5,7 +5,7 @@ description: ""
 type: PlayED
 categories:
   - boardgame
-tags: []
+tags:
 date: 2020-12-14
 lastmod: 2022-12-18
 
@@ -33,7 +33,7 @@ played_url_details:
 played_url_play: 
 ---
 
-> **#Family #Visuale #Award**  
+> **#Family #Visuale #award**  
 > 2-4g | 8+ | 45m | medio | [scheda](https://www.boardgamegeek.com/boardgame/180974/potion-explosion)  
 
 In questo gioco le componenti fanno la loro parte: dozzine di "palline" da selezionare con cura per far esplodere determinate combinazioni.
@@ -43,7 +43,7 @@ ai ragazzi piace molto.
 
 c'è anche una versione digitale se prima lo si vuole provare
 
-> *Fabio:*
+> [!tip] Fabio
 > molto strategico decidere quale pozione produrre e come farlo scegliendo le palline giuste
 
 

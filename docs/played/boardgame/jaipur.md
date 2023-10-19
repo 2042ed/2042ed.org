@@ -38,7 +38,7 @@ played_url_play:
 vendi o compra tutti i cammelli per negoziare merci preziose e ripulire il mercato prima dell'avversario.
 semplice ma con una buona profondità tattica
 
-> *Fabio:*
+> [!tip] Fabio
 > è semplice mi piace pensare alla tattica migliore di compra vendita delle merci
 
 

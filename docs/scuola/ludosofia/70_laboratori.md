@@ -1,12 +1,14 @@
 ---
 title: Laboratori e progetti
 date: 2021-04-01
+updated: 2023-08-09
 slug: laboratori
-summary: ludici che abbiamo fatto e che potrebbero ispirare altri
+description: ludici che abbiamo fatto e che potrebbero ispirare altri
 type: book
-tags: [Doc, Workshop]
 weight: 70
-updated: 2022-12-16
+tags:
+  - Doc
+  - Workshop
 ---
 # Laboratori e progetti
 > Giocare ad un gioco è bello. ma *crearlo* è meglio!
@@ -113,7 +115,7 @@ Il progetto è relativamente semplice, e in un video abbiamo spiegato come l'abb
 
 > Come ritrovarsi tra ragazzi una volta alla settimana a giocare sui tavoli
 
-> *Fabio:*
+> [!tip] Fabio
 > vengono i miei amici a giocare ai giochi che più mi piacciono
 
 ![](_img/progetto_playfriday.webp)

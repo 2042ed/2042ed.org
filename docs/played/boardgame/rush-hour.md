@@ -6,9 +6,9 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Kids
+  - kids
   - Strategia
-  - Logica
+  - logica
   - Puzzle
 date: 2020-12-14
 lastmod: 2022-12-18

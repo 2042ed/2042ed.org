@@ -2,7 +2,7 @@
 title: "Oltre l'Entertainment"
 date: 2022-05-05
 updated: 2023-04-21
-summary: "panoramica sui media e l'impatto sociale e caratteristiche dei giochi come strumenti di educazione, persuasione e trasformazione"
+description: "panoramica sui media e l'impatto sociale e caratteristiche dei giochi come strumenti di educazione, persuasione e trasformazione"
 type: book
 weight: 10
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
 ## Where in the world is Carmen Sandiego?
 Nel 1985 veniva pubblicato questo videogioco [link](https://en.wikipedia.org/wiki/Where_in_the_World_Is_Carmen_Sandiego%3F_(1985_video_game))
-![](img/where-carmen.webp)
+![](../../../assets/img/gamedev/img-g4c/where-carmen.webp)
 Perché inizio con questa citazione "storica"? perché si scoprì che molti giocatori americani non sapevano individuare le più importanti capitali e nazioni nel mondo. Questo videogioco ha contribuito significativamente, e senza volerlo, alla conoscenza geografica del mondo.
 
 ## Cosa è l’Entertainment
@@ -33,12 +33,12 @@ Perché inizio con questa citazione "storica"? perché si scoprì che molti gioc
 
 ### Diagramma della stupidità
 
-![](img/diagramma-di-cipolla-stupidita_featured.webp)
+![](../../../assets/img/gamedev/img-g4c/diagramma-di-cipolla-stupidita_featured.webp)
 
 ### IKIGAI
 Parola e concetto giapponese.
 Il diagramma dovrebbe essere abbastanza auto-esplicativo:
-![](img/ikigai.webp)
+![](../../../assets/img/gamedev/img-g4c/ikigai.webp)
 
 ## Media e impatto sociale
 
@@ -67,7 +67,7 @@ quando è una conseguenza secondaria, o inaspettata. ogni lavoro creato ha un im
 Una super sintesi di cosa sono e loro virtù
 
 ### Medium Multimediali & Multidisciplinari
-![](img/creative_multimedia.webp)
+![](../../../assets/img/gamedev/img-g4c/creative_multimedia.webp)
 
 ### Immersività
 
@@ -85,14 +85,14 @@ L'immersività permette:
 - coinvolgimento in complicate situazioni morali ed etiche
 
 ### Interattività
-![](img/interactive.webp)
+![](../../../assets/img/gamedev/img-g4c/interactive.webp)
 E' la virtù principale permessa dalla CPU (la componente pre-programmata / automatica) che differenzia il videogioco dai giochi non digitali.
 
 - esperienze non-lineari
 
 
 ### Feedback loop
-![loop](img/loop.webp)
+![loop](../../../assets/img/gamedev/img-g4c/loop.webp)
 
 Il feedback automatizzato / programmato sul giocatore permette di 
 - migliorare le capacità di pensiero critico e di lettura e insegnano nuove capacità tecniche.
@@ -104,15 +104,15 @@ Tutto è pensato, confezionato e valutato intorno al giocatore e alle sue azioni
 Creato prima ed elaborato in tempo reale.
 Si può considerare il videogioco un *medium umanista*.
 
-![humanist_player](img/humanist_player.webp)
+![humanist_player](../../../assets/img/gamedev/img-g4c/humanist_player.webp)
 
 ### Strutturano un'esperienze
 
 Da elementi destrutturati
-![](img/destructured.webp)
+![](../../../assets/img/gamedev/img-g4c/destructured.webp)
 
 un buon game designer porta ad un'esperienza.
-![](img/experience.webp)
+![](../../../assets/img/gamedev/img-g4c/experience.webp)
 
 > ci interessa far vivere esperienze formative o con effetti oltre il puro divertimento
 
@@ -142,7 +142,7 @@ un buon game designer porta ad un'esperienza.
 
 ### Games for Good
 
-![maestro](img/maestro.webp)
+![maestro](../../../assets/img/gamedev/img-g4c/maestro.webp)
 
 Chiamati anche **Games for good**, hanno come pilastro il trattare temi di rilevanza sociale pubblica, quali
 
@@ -165,7 +165,7 @@ Non necessitano di formazione preliminare, perché si può imparare direttamente
 
 ### Serious Games
 
-![serious game book](img/abt-serious-games-book.webp)
+![serious game book](../../../assets/img/gamedev/img-g4c/abt-serious-games-book.webp)
 _Libro "Serious Games" di Clark C. Abt, 1970_
 
 Giochi progettati per obiettivi che non sia il puro intrattenimento.
@@ -203,16 +203,16 @@ In particolare si usano i concetti e/o elementi dei giochi per “giochificare�
 - Streaks
 - Levels
 
-![](img/gamification_elements.webp)
+![](../../../assets/img/gamedev/img-g4c/gamification_elements.webp)
 
 ### Classificazione
 
-![types-of-game-thinking-and-primary-design-goal](img/types-of-game-thinking-and-primary-design-goal.webp)
+![types-of-game-thinking-and-primary-design-goal](../../../assets/img/gamedev/img-g4c/types-of-game-thinking-and-primary-design-goal.webp)
 
-![serious-games-areas](img/serious-games-areas.webp)
+![serious-games-areas](../../../assets/img/gamedev/img-g4c/serious-games-areas.webp)
 
 ## GBL: Game Based Learning
-![](img/gbl_mario.webp)
+![](../../../assets/img/gamedev/img-g4c/gbl_mario.webp)
 
 Il **Game Based Learning** invece è un approccio che usa dei giochi completi, e non solo alcune meccaniche, per ottenere dei risultati predefiniti.
 Possono essere giochi specificatamente progettati oppure giochi esistenti adatti a rinforzare qualche concetto particolare.
@@ -339,6 +339,6 @@ Ricordarci appunto che non c’è solo l’Entertainment per l’Entertainment, 
 
 ## Chi sono io? Perché sono qui?
 
-![chi sono](img/chi_sono.webp)
+![chi sono](../../../assets/img/gamedev/img-g4c/chi_sono.webp)
 
 ## ✍️ 🟧 RIPONDERE

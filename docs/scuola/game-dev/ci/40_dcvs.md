@@ -29,4 +29,4 @@ Solitamente sono sistemi _centralizzati_ con un server che ospita tutto il proge
 
 I **Distributed** Version Control System (DVCS) permettono a tutti gli sviluppatori di avere una copia completa e autonoma sul proprio computer di _tutto_ il repository del progetto. Gli sviluppatori possono lavorare ovunque, anche offline, e collaborare in modo asincrono. Esempi sono Git, Mercurial, Plastic SCM, Perforce.
 
-![](img/DVCS.webp)
+![](../../../assets/img/gamedev/img-ci/DVCS.webp)

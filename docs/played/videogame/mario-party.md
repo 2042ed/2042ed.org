@@ -37,10 +37,10 @@ played_vg_platforms:
   - Nintendo Switch
 ---
 
-![](img/mario_party.webp)
+![](../../assets/img/played/videogame/mario_party.webp)
 
 Lo so, molto #Kids e molto #Family ma sopratutto tantissimo #Party. 
 Ma i capolavori sono tali perché coinvolgono tutti con dozzine di giochini semplicissimi che stimoleranno ogni senso e area del cervello.
 
-> *Fabio:*
+> [!tip] Fabio
 > è bello da giocare in famiglia perché è facile ma ha tantissimi minigiochi

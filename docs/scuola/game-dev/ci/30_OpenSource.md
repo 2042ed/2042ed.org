@@ -7,7 +7,7 @@ weight: 30
 toc: true
 ---
 # Open Source e Inner Source
-![logo_opensource](img/logo_opensource.webp)
+![logo_opensource](../../../assets/img/gamedev/img-ci/logo_opensource.webp)
 
 ## Si può forse brevettare il sole?
 

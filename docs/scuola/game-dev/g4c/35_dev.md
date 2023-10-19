@@ -2,7 +2,7 @@
 title: Development
 date: 2021-04-18
 updated: 2023-04-20
-summary: "sviluppo: suggerimenti e problematiche"
+description: "sviluppo: suggerimenti e problematiche"
 type: book
 weight: 30
 toc: true
@@ -47,22 +47,22 @@ Cicli settimanali, fast feedback, impostazione progetto
 ### SCRUM
 most software projects are far too complex to rely on the perfect plan
 
-![](img/scrum.webp)
+![](../../../assets/img/gamedev/img-g4c/scrum.webp)
 
 ## Framework di Sviluppo
-![](img/frameworkdisviluppo.webp)
+![](../../../assets/img/gamedev/img-g4c/frameworkdisviluppo.webp)
 
 ## Player Modeling
 Per avere un impatto, può essere molto utili creare un modello del giocatore
 
-![](img/player_model.webp)
+![](../../../assets/img/gamedev/img-g4c/player_model.webp)
 
 ### Cosa possiamo misurare?
 
-![](img/game_measure_performance.webp)
+![](../../../assets/img/gamedev/img-g4c/game_measure_performance.webp)
 
 
-![](img/player_experience.webp)
+![](../../../assets/img/gamedev/img-g4c/player_experience.webp)
 
 - Game metrics behavior assessment: Logging of every action the player takes while playing, for future analysis.
 - Player modeling: AI-based models that react to player behavior and adapt the player experience accordingly.
@@ -81,16 +81,16 @@ Per avere un impatto, può essere molto utili creare un modello del giocatore
 - cosa altro dobbiamo sapere dei giocatori?
 
 ## Adaptive Storytelling
-![](img/game_storytelling.webp)
+![](../../../assets/img/gamedev/img-g4c/game_storytelling.webp)
 
-![](img/game_storytelling_2.webp)
+![](../../../assets/img/gamedev/img-g4c/game_storytelling_2.webp)
 
 vedi <http://www.storytec.de/index.php?id=22&L=1>
 
 ## Adattamento del gioco
-![](img/game_adattamento.webp)
+![](../../../assets/img/gamedev/img-g4c/game_adattamento.webp)
 
-![](img/player_preferences.webp)
+![](../../../assets/img/gamedev/img-g4c/player_preferences.webp)
 
 ## Tecnologie
 Alcune tecnologie e metodologie sono particolarmente interessanti
@@ -112,7 +112,7 @@ molti frameworks e soluzioni esistenti.
 
 Leggere il percorso dedicato al [Open Source e Sviluppo Distribuito](../ci/index.md)
 
-![](img/open_everything.webp)
+![](../../../assets/img/gamedev/img-g4c/open_everything.webp)
 
 ### Cloud Services
 - analytics

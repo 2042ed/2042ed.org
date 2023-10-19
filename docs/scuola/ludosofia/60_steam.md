@@ -1,12 +1,13 @@
 ---
 title: STEAM & Hacking
 date: 2021-04-01
+updated: 2023-08-09
 slug: steam-hacking
-summary: Scienza, Arte e Tecnologia non sono mai stati così divertenti e accessibili
+description: Scienza, Arte e Tecnologia non sono mai stati così divertenti e accessibili
 type: book
-tags: [Doc]
 weight: 60
-updated: 2022-12-16
+tags:
+  - Doc
 ---
 # STEAM & Hacking
 

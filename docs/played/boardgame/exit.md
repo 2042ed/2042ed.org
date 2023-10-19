@@ -38,7 +38,7 @@ played_url_play:
 
 è una serie di escape rooms portatili. non banali. con enigmi a volte facili a volte difficili. attenzione che una volta giocata non la potete rigiocare più. ma è un ottimo impegno per una serata a tema.
 
-> *Fabio:*
+> [!tip] Fabio
 > è molto difficile e mi piace, però non puoi regalarlo ad un amico per rigiocarlo perché i materiali aperti non sono riutilizzabili
 
 

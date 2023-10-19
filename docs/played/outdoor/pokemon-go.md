@@ -9,7 +9,7 @@ tags:
   - Geo
   - Exergame
   - Geografia
-  - Award
+  - award
   - Outdoor
 date: 2020-12-14
 lastmod: 2022-12-18
@@ -43,5 +43,5 @@ Un gioco che ti porta fuori casa ad esplorare a piedi o in bicicletta, magari co
 Le attività pretestuose, ovvero senza obiettivi, non sempre sono coinvolgenti.. tipo dai andiamo a fare un giro... a volte funzionano, ma se sei a casa a fare qualcosa che ti piace (metti un videogioco) il giretto fine a se stesso non è invitante.
 Se invece andare in giro è per trovare animaletti virtuali dislocati nel tuo quartiere.. beh allora il videogioco si miscela alla realtà ed è bellissimo.
 
-> *Fabio:*
+> [!tip] Fabio
 > ti va davvero venire voglia di andare in giro!

@@ -6,8 +6,8 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Award
-  - Logica
+  - award
+  - logica
   - Coding
   - Family
   - Party
@@ -38,11 +38,11 @@ played_url_details: https://www.boardgamegeek.com/boardgame/51/ricochet-robots
 played_url_play: 
 ---
 
-![](img/rockrollrobot.webp)
+![](../../assets/img/played/boardgame/rockrollrobot.webp)
 
 si può giocare da 1 a.. 90!
 non ci sono limiti di giocatori né di età per questo gioco unico.
 di fatto si gioca tutti nella propria mente
 
-> *Fabio:*
+> [!tip] Fabio
 > mi piace il cercare con la mente di trovare il percorso migliore nel minor tempo possibile.

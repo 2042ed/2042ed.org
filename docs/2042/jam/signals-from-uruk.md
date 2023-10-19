@@ -1,13 +1,13 @@
 ---
 title: Signals from URUK
-summary: un videogioco in AR per scoprire la storia
+description: un videogioco in AR per scoprire la storia
 tags: [GlobalGameJam, KidsMakeGames, AR]
 categories: ["jamurr"]
 date: 2018-01-30
 url_code: https://github.com/StefanoCecere/SignalsFromUruk/
 ---
 
-![](img/signalsfromuruk_featured.webp)
+![](../../assets/img/jam/signalsfromuruk_featured.webp)
 
 questo il gioco che abbiamo ideato e prodotto nel finesettimana durante la Global Game Jam 2018, il cui tema era TRANSMISSION
 
@@ -36,10 +36,10 @@ con Pietro Polsinelli e un grazie estremamente pieno di complimenti a Michele M.
 
 PS: grazie anche a Stratagemma per esistere verremo presto a far provare il gioco
 
-![](img/signalsfromuruk_photo_1.webp){: style="height:150px"}
-![](img/signalsfromuruk_photo_2.webp){: style="height:150px"}
-![](img/signalsfromuruk_photo_3.webp){: style="height:150px"}
-![](img/signalsfromuruk_photo_4.webp){: style="height:150px"}
-![](img/signalsfromuruk_photo_5.webp){: style="height:150px"}
-![](img/signalsfromuruk_photo_6.webp){: style="height:150px"}
+![](../../assets/img/jam/signalsfromuruk_photo_1.webp)
+![](../../assets/img/jam/signalsfromuruk_photo_2.webp)
+![](../../assets/img/jam/signalsfromuruk_photo_3.webp)
+![](../../assets/img/jam/signalsfromuruk_photo_4.webp)
+![](../../assets/img/jam/signalsfromuruk_photo_5.webp)
+![](../../assets/img/jam/signalsfromuruk_photo_6.webp)
 

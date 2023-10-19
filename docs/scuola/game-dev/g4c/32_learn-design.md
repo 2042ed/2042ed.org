@@ -9,7 +9,7 @@ Appunti per progettare un'esperienza didattica
 
 ## Framework
 
-![GBL Framework](img/dgbl/gbl-framework.webp)
+![GBL Framework](../../../assets/img/gamedev/img-g4c/dgbl/gbl-framework.webp)
 
 ## Design Learning Experiences
 
@@ -53,7 +53,7 @@ I videogiochi presentano tutte e tre le forme.
 
 ### Motivazioni per imparare
 
-![](img/maslow.webp)
+![](../../../assets/img/gamedev/img-g4c/maslow.webp)
 
 motivazione **instrinseca**
 
@@ -92,7 +92,7 @@ Riuscireste a vivere bene senza conoscenza?
 - Obiettivi, regole, risultati misurabili e ricompense chiari e realizzabili
 
 ### Come si impara
-![](img/dgbl/cognitive_approach.webp)
+![](../../../assets/img/gamedev/img-g4c/dgbl/cognitive_approach.webp)
 
 ### DGBL approach
 
@@ -115,11 +115,11 @@ Assessment happens around a game more often than it happens inside the game, and
 - Create games (Antura)
 
 ### Modello di gioco
-![](img/dgbl/GBLModel.webp)
+![](../../../assets/img/gamedev/img-g4c/dgbl/GBLModel.webp)
 
 ### Objectives of learning analytics
 
-![](img/dgbl/game_learning_analytics.webp)
+![](../../../assets/img/gamedev/img-g4c/dgbl/game_learning_analytics.webp)
 
 ### GBL challenges
 **Curriculum**: identify how a certain game can connect to the curriculum. 

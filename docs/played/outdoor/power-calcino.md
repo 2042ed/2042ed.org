@@ -6,7 +6,7 @@ type: PlayED
 categories:
   - outdoor
 tags:
-  - Sport
+  - sport
 date: 2020-12-14
 lastmod: 2022-12-18
 
@@ -34,7 +34,7 @@ played_url_details:
 played_url_play: 
 ---
 
-![](img/powercalcino.webp)
+![](../../assets/img/played/outdoor/powercalcino.webp)
 
 Tutti giochiamo a calcino (o calcio balilla) con le regole, semplici e di pubblico dominio.
 Ma è mai capitato di essere dispari? oppure un giocatore molto più forte degli altri? Oppure si è in tanti e ci si improvvisa sempre qualche regola aggiuntiva?

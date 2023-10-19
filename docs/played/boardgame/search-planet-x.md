@@ -6,7 +6,7 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Space
+  - space
   - Puzzle
   - App
 date: 2023-01-06

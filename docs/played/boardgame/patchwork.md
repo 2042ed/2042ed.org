@@ -39,7 +39,7 @@ played_url_play:
 Un gioco di incastri, per cucire al meglio la propria tela con i pezzi scelti in modo tattico dal tavolo.
 Ricorda un po' KingDomino e ROAM.
 
-> *Fabio:*
+> [!tip] Fabio
 > molto Tetris e mi piace combinare e incastrare i pezzi
 
 

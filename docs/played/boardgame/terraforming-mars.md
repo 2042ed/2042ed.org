@@ -6,8 +6,8 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Award
-  - Spazio
+  - award
+  - spazio
   - Strategia
 date: 2020-12-14
 lastmod: 2022-12-18
@@ -36,7 +36,7 @@ played_url_details: https://www.boardgamegeek.com/boardgame/167791/terraforming-
 played_url_play: 
 ---
 
-![](img/terraformingmars.webp)
+![](../../assets/img/played/boardgame/terraformingmars.webp)
 
 Il secondo *peso medio*, ovvero "giocone", della nostra ludoteca.
 È un capostipite del genere strategico / gestionale e acclamato titolo sul tema spazio e Marte. Non è semplice (diciamo che devi essere un 11enne abbastanza nerd per goderlo) ma è proprio questo il suo bello

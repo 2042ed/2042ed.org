@@ -9,7 +9,7 @@ draft: false
 ---
 # Markdown
 
-![](img/markdown_logo.webp)
+![](../../../assets/img/gamedev/img-ci/markdown_logo.webp)
 
 Il formato Markdown è stato creato in contrapposizione al _markup_ dell'HTML.
 Qui la base è testo semplice con pochissime convenzioni che permettono al contenuto di essere poi convertito nei formati più utili (html, doc, pdf, ePub) garantendo un versioning perfetto e una preservazione e portabilità ottimali
@@ -110,7 +110,7 @@ Note that this line is separate, but within the same paragraph.
 
 Save your image (jpg or png format only) to `img/` and insert it like this:
 
-![Figure 1 caption text](img/image.webp)
+![Figure 1 caption text](../../../assets/img/gamedev/img-ci/image.webp)
 
 ### Tables
 

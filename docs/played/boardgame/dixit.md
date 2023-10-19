@@ -6,10 +6,10 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Award
+  - award
   - Family
   - Party
-  - Linguaggio
+  - linguaggio
 date: 2020-12-14
 lastmod: 2022-12-18
 
@@ -41,10 +41,10 @@ Famosissimo, facilissimo, divertente e "immaginifico", piace a grandi e piccoli.
 Particolarmente adatto per imparare ad esprimersi e immaginare, creando empatia comunicativa con gli altri giocatori.
 Ha molte espansioni con nuove carte, ma il bello è disegnarne noi!
 
-> *Fabio:*
+> [!tip] Fabio
 > bello pensare una parola che meglio rappresenta un disegno, ma che sia originale
 
-> *Stefano:*
+> [!info] Stefano
 > È uno dei pochi giochi che qualsiasi persona abbiate intorno al tavolo, dai bambini ai nonni, non sfigura mai.
 
 

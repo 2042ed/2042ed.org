@@ -1,5 +1,13 @@
 ---
-titolo: 1 - Cos'è il DGBL
+title: 1. Che cos'è il DGBL
+date: 2023-01-31
+updated: 2023-08-29
+type: docs
+categories: []
+tags:
+  - DGBL
+description: 
+permalink: 
 nav_order: 10
 ---
 # 1. Che cos'è il DGBL
@@ -42,7 +50,7 @@ La progettazione di programmi di studio più coinvolgenti deve includere tecnich
 
 Il **gioco è intrinsecamente motivante**, il che può consentire agli studenti di acquisire competenze e conoscenze, sfruttando il divertimento e intrecciandolo con gli ambienti di apprendimento. Studi di ricerca indicano che i videogiochi, in particolare, hanno grandi benefici in termini di coinvolgimento e di istruzione. 
 
-📽 #VIDEO [I giochi e il futuro dell'istruzione](https://www.youtube.com/watch?v=BiK2MPeg8k4)
+📽 [I giochi e il futuro dell'istruzione](https://www.youtube.com/watch?v=BiK2MPeg8k4)
 <iframe width="740" height="450" src="https://www.youtube.com/embed/BiK2MPeg8k4" title="Giochi e il futuro dell'educazione | ABUNDANCE" frameborder="0" allowfullscreen></iframe>
 
 ## Diversi tipi di GBL
@@ -50,14 +58,14 @@ Il **gioco è intrinsecamente motivante**, il che può consentire agli studenti 
 Per comprendere meglio il GBL, si possono esaminare i suoi diversi tipi e prendere in considerazione i seguenti aspetti: il **luogo** in cui si svolge il gioco e l'**ambiente** in cui gli studenti giocano. I tre tipi di GBL sono:
 
 ### Giochi da tavolo
-![gbl_boardgames](img/gbl_boardgames.webp)
+![gbl_boardgames](../../assets/img/dgbl/gbl_boardgames.webp)
 
 I giochi da tavolo sono solitamente giocati da uno o più giocatori attorno a un tavolo (sono anche chiamati giochi da tavolo).
 Il Monopoli può essere considerato un gioco educativo. Ha tutti gli elementi necessari: una storia, personaggi, punti, competizione e molti altri aspetti. Esistono molti esempi di giochi simili al Monopoly per le scuole con regole modificate per le diverse materie, come il Monopoly di storia o il Monopoly di matematica. I giochi da tavolo sono utilizzati con grande successo per esplorare e insegnare. Ma non è l'obiettivo di questo corso. 
 
 ### Giochi della vita reale
 
-![gbl_reallife](img/gbl_reallife.webp)
+![gbl_reallife](../../assets/img/dgbl/gbl_reallife.webp)
 
 L'ambiente è il **mondo reale**. Questo è probabilmente il tipo di gioco più motivante, ma anche il più stressante. In questo tipo, gli studenti devono muoversi, agire, usare il corpo e la mente per giocare. È il tipo più coinvolgente e provoca gli studenti in quasi tutti gli aspetti del loro apprendimento. Poiché c'è la possibilità di muoversi in un certo spazio, il gioco della vita reale è spesso collegato al **teatro**. È facile trovare attività di **gioco di ruolo**, così come simulazioni o drammi in questo tipo di apprendimento ludico. Gli studenti agiscono "come se fossero" un personaggio del gioco, prendono decisioni in base ai loro obiettivi, all'ambiente e alle regole (Living Role Playing Game). Vedremo che la tecnologia della Realtà Aumentata permette di giocare ai giochi digitali nel mondo reale.
 
@@ -77,7 +85,6 @@ L'apprendimento basato sul gioco digitale si riferisce all'apprendimento attrave
 
 Alcuni studi hanno analizzato il DGBL in diverse materie, come alfabetizzazione, matematica, scienze e STEAM. I risultati indicano che il DGBL può migliorare la motivazione all'apprendimento e le prestazioni degli studenti, riducendo il loro carico cognitivo e l'ansia.
 
-{: .highlight }
 > L'apprendimento basato sul gioco (**GBL**) è un tipo di _gioco_ che ha _risultati di apprendimento definiti_.  
 > Il **Digital** game based learning (**DGBL**) si riferisce all'utilizzo di videogiochi digitali come strumenti di apprendimento.
 
@@ -96,7 +103,7 @@ Coinvolgere gli studenti nei contenuti della classe è sempre un compito diffici
 
 Inoltre, un **impegno costante** è molto importante per garantire che lo studente tragga il massimo dall'esperienza di apprendimento e che le sue **abilità cognitive siano sempre stimolate**. Il coinvolgimento attraverso videogiochi educativi costruiti su contenuti didattici si è rivelato un ottimo modo non solo per mantenere gli studenti impegnati, ma anche per **fornire teorie/argomenti complessi in modo interattivo** permettendo agli studenti di avere una **comprensione più profonda dei contenuti**.
 
-![engagement](img/games-engagement.webp)
+![engagement](../../assets/img/dgbl/games-engagement.webp)
 
 ## Motivazione
 La motivazione è la forza che sta alla base delle prestazioni umane. Può derivare da bisogni fisiologici o psicologici, da pensieri o emozioni. I bisogni fisiologici ci aiutano a preservare un funzionamento fisico ottimale, mentre quelli psicologici ci aiutano a prosperare.

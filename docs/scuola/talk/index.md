@@ -1,7 +1,7 @@
 ---
 title: Talk vari
 date: 2020-12-14
-updated: 2022-03-22
+updated: 2023-08-09
 ---
 
 # Talk vari su giochi e videogiochi

@@ -1,5 +1,7 @@
 ---
-titolo: 3 - Giochi in classe
+title: 3. Giochi in classe
+date: 2023-01-31
+updated: 2023-07-29
 has_children: true
 has_toc: false
 nav_order: 30
@@ -14,7 +16,7 @@ nav_order: 30
 
 ## Impatti positivi del gioco per gli studenti
 
-![](img/vg_positive_impact.webp)
+![](../../assets/img/dgbl/vg_positive_impact.webp)
 
 
 Abbiamo fatto ricerche e scoperto quanto i giochi e i videogiochi abbiano un impatto positivo sia nella vita che nell'istruzione. 
@@ -46,10 +48,10 @@ I giochi riuniscono una combinazione di elementi motivanti che non si trovano in
 ## Flusso di apprendimento
 I giochi educativi hanno un "flusso" speciale, che è
 
-![](img/cognitive_approach.png)
+![](../../assets/img/dgbl/cognitive_approach.png)
 
 
-![](img/GBLModel.webp)
+![](../../assets/img/dgbl/GBLModel.webp)
 
 ## Videogiochi e nuovi metodi didattici
 
@@ -63,7 +65,7 @@ L'introduzione dei videogiochi in classe **potenzia molte abilità di apprendime
 
 
 ## Quanto sono efficaci i videogiochi in classe?
-![](img/vg_pro-cons.webp)
+![](../../assets/img/dgbl/vg_pro-cons.webp)
 Vediamo alcuni pro e contro dei videogiochi
 
 ### Pro
@@ -125,16 +127,16 @@ La capacità di rispondere in modo flessibile e adattivo per stare al passo con 
 
 ### Memoria
 
-**Memoria a breve termine  
+**Memoria a breve termine**  
 La capacità di mantenere una piccola quantità di informazioni in uno stato prontamente disponibile per un breve periodo di tempo.
 
 **Nome**  
 La capacità di recuperare una parola dal nostro lessico semantico ed è considerata un'abilità di base.
 
-**Memoria di lavoro  
+**Memoria di lavoro**  
 Si riferisce alla memorizzazione e alla manipolazione temporanea delle informazioni necessarie per svolgere compiti cognitivi complessi.
 
-**Memoria contestuale  
+**Memoria contestuale**  
 Richiamo consapevole della fonte e delle circostanze di uno specifico ricordo.
 
 **Memoria visiva a breve termine  

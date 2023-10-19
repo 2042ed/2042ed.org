@@ -6,9 +6,9 @@ type: PlayED
 categories:
   - book
 tags:
-  - Librogame
+  - librogame
   - Collaborativo
-  - English
+  - english
 date: 2020-12-14
 lastmod: 2022-12-18
 
@@ -36,7 +36,7 @@ played_url_details: https://www.boardgamegeek.com/boardgame/244274/crusoe-crew
 played_url_play: 
 ---
 
-![](img/libro_crusoe_crew.webp)
+![](../../assets/img/played/book/libro_crusoe_crew.webp)
 
 può esistere un fumetto da leggere in 4 ognuno il suo personaggio che si intreccia le storie con gli altri?
 

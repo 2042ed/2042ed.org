@@ -1,12 +1,20 @@
 ---
-titolo: 2 - Videogiochi educativi
+title: 2. Videogiochi didattici
+date: 2023-01-31
+updated: 2023-08-29
+type: 
+categories: 
+tags:
+  - VIDEO
+description: 
+permalink: 
 has_children: true
 has_toc: false
 nav_order: 20
 ---
 # 2. Videogiochi didattici
 
-**Obiettivi di apprendimento
+**Obiettivi di apprendimento**
 
 - Che cos'è un videogioco?
 - Tipi e categorie di VG
@@ -17,14 +25,14 @@ nav_order: 20
 
 ## Cos'è un videogioco
 
-![game-design](img/game-design.jpg)
+![game-design](../../assets/img/dgbl/game-design.jpg)
 
 Un videogioco è un gioco per computer progettato principalmente a scopo di intrattenimento. Una console per videogiochi è la macchina elettronica progettata per giocare ai **giochi** e un display **video**, come il monitor di un computer o il televisore, è il dispositivo di feedback principale. 
 Il principale **dispositivo di input** è un controller. Un controller può essere una tastiera, un mouse, un game pad, un joystick, un paddle, le nostre dita, la voce o qualsiasi altro dispositivo non ancora inventato. Possono essere utilizzati anche dispositivi speciali, come volanti per i **giochi di guida**, pistole leggere per i **giochi di tiro** e tamburi per i **giochi musicali**.
 
 Ecco il diagramma del Videogioco visto come sistema e flusso progettato.
 
-![vg-circuit](img/vg-circuit.png)
+![vg-circuit](../../assets/img/dgbl/vg-circuit.png)
 
 ## Generi
 ### Avventura
@@ -164,14 +172,14 @@ Sappiamo che i giochi possono essere profondamente coinvolgenti e che nessun tip
 Le attività strutturate - giochi, sport, lavoro d'ufficio - di solito ruotano intorno allo sviluppo e all'utilizzo di una **abilità**. E se il **livello di sfida** dell'attività aumenta fino a corrispondere alla nuova abilità, si ottiene una configurazione per il **flusso**, l'obiettivo finale di ogni progettista di giochi e prodotti.
 
 ### Impostare le condizioni per il flusso
-![](img/flow_changes.jpg)  
+![](../../assets/img/dgbl/flow_changes.jpg)  
 Il flusso richiede uno sforzo. Senza apprendimento, pratica e sfida, non c'è flusso.
 
 I giochi sono motori di apprendimento piacevoli che offrono un'esperienza profondamente e intrinsecamente motivante. Con il tempo assorbite le regole, costruite le vostre abilità, affrontate sfide sempre più grandi e nel frattempo vi trasformate in un modo che è significativo per VOI.
 
 ### Dimenticare i punti - Pensare alla trasformazione del personaggio
 
-![humanist_player](img/humanist_player.jpg)
+![humanist_player](../../assets/img/dgbl/humanist_player.jpg)
 
 Proprio come la trasformazione del personaggio è la spina dorsale di un grande dramma, la **trasformazione personale è la spina dorsale di un grande gameplay**.
 Nei giochi, *noi* siamo il protagonista, la persona dotata di potere, che affronta una serie di scelte e sfide lungo un viaggio verso la padronanza. Le metriche di progresso (punti, badge, livelli, classifiche, sistemi di reputazione) sono la ciliegina sulla torta dell'apprendimento/masterizzazione. Questi indicatori aiutano a valutare la propria posizione e i progressi compiuti, ma non hanno senso come sistema a sé stante senza qualcosa in cui migliorare, qualche abilità da sviluppare.
@@ -182,7 +190,7 @@ Nei giochi, *noi* siamo il protagonista, la persona dotata di potere, che affron
 
 Cercare di ottenere un impegno a lungo termine con ricompense estrinseche è una follia. I marcatori di status e i programmi di ricompensa variabili non sono ciò che rende un'esperienza veramente coinvolgente.
 
-![magic_circle](img/magic_circle.jpg)
+![magic_circle](../../assets/img/dgbl/magic_circle.jpg)
 
 I giochi sono costruiti da sistemi e regole che vi coinvolgono in un micro-mondo, un "cerchio magico" condiviso da tutti coloro che giocano. Questo è il potere e il piacere di un gioco: ci si prende una piccola pausa dalla vita quotidiana e si trascorre del tempo (insieme) in una realtà alternativa e semplificata.
 
@@ -204,14 +212,14 @@ Qual è la soluzione? Per quanto possibile, progettate il vostro sistema di feed
 
 ### Autonomia: Autodeterminazione e scelte significative
 
-![autonomia](img/autonomy.jpg)
+![autonomia](../../assets/img/dgbl/autonomy.jpg)
 L'autonomia è la sensazione di controllare il proprio destino. In un gioco, un'applicazione o un servizio, questo si riduce a come e quando si offrono le scelte.
 
 I grandi giochi offrono scelte significative con vincoli interessanti. Pensate a I coloni di Catan, World of Warcraft, Minecraft, persino Kickstarter: tutti sistemi che possono essere esplorati e padroneggiati seguendo i propri interessi e facendo una serie di scelte sempre più interessanti.
 
 ### Mastery: costruzione di abilità, feedback e sfide
 
-![mastery](img/mastery.jpg)
+![mastery](../../assets/img/dgbl/mastery.jpg)
 
 La maestria si basa sulla sensazione di migliorare in qualcosa. I giochi offrono al giocatore una serie di azioni e scelte all'interno di un ambiente vincolato e basato su regole.
 
@@ -219,7 +227,7 @@ In un grande gioco, padroneggiare il set di regole è profondamente piacevole. L
 
 ### Scopo: connettersi con/qualcosa di più grande di se stessi
 
-![purpouse](img/purpouse.jpg)
+![purpouse](../../assets/img/dgbl/purpouse.jpg)
 
 Lo scopo è una questione di connessione e di relazione: con altre persone, con una causa condivisa, con qualcosa di più grande di voi. E
 
@@ -254,10 +262,10 @@ Oltre a soddisfare questi bisogni psicologici di base, la motivazione intrinseca
 
 Quando si è motivati in modo estrinseco, si fa qualcosa per ottenere una ricompensa esterna. Ciò può significare ottenere qualcosa in cambio, come il denaro, o evitare di finire nei guai, come la perdita del lavoro.
 
-| Motivazione e obiettivi
+| | motivazione | obiettivi |
 |---|---|---|
-|Intrinseco: si fa un'attività perché è internamente gratificante. Gli obiettivi vengono da dentro e i risultati soddisfano i bisogni psicologici fondamentali di autonomia, competenza e relazione.
-|Estrinseco: si fa un'attività per ottenere in cambio una ricompensa esterna. Gli obiettivi si concentrano su un risultato e non soddisfano i bisogni psicologici di base.
+|Intrinseca | si fa un'attività perché è internamente gratificante. Perché è divertente, soddisfacente. | Gli obiettivi vengono da dentro e i risultati soddisfano i bisogni psicologici fondamentali di autonomia, competenza e relazione. |
+|Estrinseca | si fa un'attività per ottenere in cambio una ricompensa esterna. la priorità è ottenere quel risultato.  | Gli obiettivi si concentrano su un risultato e non soddisfano i bisogni psicologici di base. |
 
 ### Esempi di motivazione intrinseca
 
@@ -309,9 +317,9 @@ Alcuni esempi di meccaniche di gioco utilizzate nella gamification sono:
 - **Obiettivi** - Completare il compito e ottenere una ricompensa, come un **badge** o dei punti.
 - Status** - Gli utenti aumentano il loro livello o grado completando le attività.
 - I **Leaderboard** mostrano chi sta "vincendo" e stimolano gli utenti a lavorare di più per competere.
-- Comunità** - Gli utenti vengono accoppiati o messi in gruppo per risolvere problemi, completare attività o raggiungere un obiettivo.
-- Istruzione** - Suggerimenti, trucchi e quiz vengono forniti all'utente durante il processo.
-- Ricompense** - Come già detto, i punti e i badge sono ricompense comuni e utili. Altri premi possono essere sconti, coupon o carte regalo. Questo alimenta la motivazione dell'utente e mantiene alto il coinvolgimento.
+- **Comunità** - Gli utenti vengono accoppiati o messi in gruppo per risolvere problemi, completare attività o raggiungere un obiettivo.
+- **Istruzione** - Suggerimenti, trucchi e quiz vengono forniti all'utente durante il processo.
+- **Ricompense** - Come già detto, i punti e i badge sono ricompense comuni e utili. Altri premi possono essere sconti, coupon o carte regalo. Questo alimenta la motivazione dell'utente e mantiene alto il coinvolgimento.
 
 La gamification prende un elemento dell'istruzione e lo sostituisce con un elemento basato sul gioco. Per esempio, un insegnante può sostituire i voti con livelli o punti esperienza.
 
@@ -321,7 +329,7 @@ I sostenitori della gamification citano spesso ricerche che dimostrano l'impatto
 Lo stato di flusso in un'esperienza è il punto di equilibrio tra sfida e abilità. Se la sfida è superiore all'abilità, il risultato sarà una persona frustrata e con una sensazione di ansia, mentre se l'abilità della persona è superiore alla sfida presentata, sperimenterà la noia.
 I giochi dovrebbero essere progettati e calibrati in modo da garantire che il giocatore massimizzi la sua permanenza all'interno del *canale di flusso*.
 
-![](img/flow-1.png)
+![](../../assets/img/dgbl/flow-1.png)
 
 
 ## Selezione dei giochi
@@ -340,8 +348,8 @@ Quando scegliamo un EVG abbiamo diverse possibilità di scelta. Possiamo:
 - Creare giochi originali**. Se è necessario un requisito speciale, si può sviluppare o chiedere di sviluppare un gioco personalizzato (Antura)
 - **Lasciare che siano gli studenti a creare i giochi**, per progettare un gioco è necessario studiare e gestire i contenuti didattici in modo molto approfondito.
 
-## Giochi per il bene
-I **giochi per il bene** hanno la missione di contribuire a migliorare il mondo, con un impatto sociale positivo, una migliore conoscenza delle questioni sociali, con un'esperienza diretta dei problemi umani.
+## Games for good
+I **giochi per il benessere (games fo good)** hanno la missione di contribuire a migliorare il mondo, con un impatto sociale positivo, una migliore conoscenza delle questioni sociali, con un'esperienza diretta dei problemi umani.
 
 - Educazione
 - Salute
@@ -369,7 +377,7 @@ Oltre a migliorare le capacità di apprendimento, ecco altri benefici dei giochi
 - migliorare il **pensiero critico**: con basi etiche, filosofiche e sociali sottostanti e la loro capacità di far riflettere i giocatori.
 
 ## Sfidanti
-![umano-vs-macchina](img/human-vs-machine.jpg)
+![umano-vs-macchina](../../assets/img/dgbl/human-vs-machine.jpg)
 
 I videogiochi permettono a un giocatore di sfidare qualcuno sullo stesso schermo, o nella stessa stanza (ognuno con il suo dispositivo collegato in rete), o in qualsiasi parte del mondo via Internet (in tempo reale o a turni).
 I giocatori possono anche sfidare avversari registrati o persino se stessi!

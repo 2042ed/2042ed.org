@@ -1,13 +1,14 @@
 ---
 title: Corda
+date: 2021-09-09
+updated: 2023-07-30
 slug: corda
 description: ""
 type: PlayED
 categories:
   - outdoor
 tags:
-  - ExerGame
-date: 2021-09-09
+  - Exergame
 lastmod: 2022-12-18
 
 template: played.html
@@ -34,7 +35,7 @@ played_url_details:
 played_url_play: 
 ---
 
-![](img/corda.webp)
+![](../../assets/img/played/outdoor/corda.webp)
 
 Una semplice **corda** di 6 metri.
 

@@ -6,7 +6,7 @@ type: PlayED
 categories:
   - videogame
 tags:
-  - Award
+  - award
   - Puzzle
 date: 2020-12-14
 lastmod: 2022-12-18
@@ -38,7 +38,7 @@ played_vg_platforms:
 ---
  
 
-![](img/portal_2.webp)
+![](../../assets/img/played/videogame/portal_2.webp)
 
 Un gioco di 10 anni fa ma che è ancora attualissimo e davvero educativo:
 avanzare nella storia (bellissima, tra l'altro, con grafica e musica capolavoro) creando dei "portali" tra pareti e pavimenti.
@@ -47,7 +47,7 @@ I ragazzi svilupperanno un senso della spazialità impressionante.
 
 E l'editor di livelli originali potrebbe essere il primo ingresso nel mondo dell'architettura 3D e invenzione di enigmi logici e di percezione
 
-> *Fabio:*
+> [!tip] Fabio
 > puoi costruire mondi e giocarli. la grafica è bellissima e vorrei tanto avere davvero una pistola a portali
 
 

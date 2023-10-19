@@ -1,12 +1,13 @@
 ---
 title: Libri Gioco
 date: 2021-04-01
+updated: 2023-08-09
 slug: gamebooks
-summary: ovvero tutto ciò che non è un semplice libro ma neanche un mero gioco
+description: ovvero tutto ciò che non è un semplice libro ma neanche un mero gioco
 type: book
-tags: [Doc]
 weight: 40
-updated: 2022-12-16
+tags:
+  - Doc
 ---
 # Libri Gioco
 

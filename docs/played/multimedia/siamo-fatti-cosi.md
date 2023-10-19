@@ -6,7 +6,7 @@ type: PlayED
 categories:
   - media
 tags:
-  - TV
+  - tv
 date: 2020-12-14
 lastmod: 2022-12-18
 
@@ -34,7 +34,7 @@ played_url_details:
 played_url_play: 
 ---
 
-> *Fabio:*
+> [!tip] Fabio
 > è simpatico e ti insegna davvero tante cose sul corpo umano
 
 

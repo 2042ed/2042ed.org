@@ -6,9 +6,9 @@ type: PlayED
 categories:
   - videogame
 tags:
-  - Award
+  - award
   - Tablet
-  - Kids
+  - kids
 date: 2020-12-14
 lastmod: 2022-12-18
 
@@ -46,16 +46,16 @@ Ci sono studi che sono specializzati in questo genere di app (consiglio ad esemp
 TODO/fix
 sul mio sito avevamo iniziato a recensire qualche gioco, potete vedere su [stefanocecere.com/ludosofia/videogiochi/tablet-kids/](https://stefanocecere.com/ludosofia/videogiochi/tablet-kids/)  
 
-> *Fabio:*
+> [!tip] Fabio
 > ho imparato a lavare i piatti.  
 
-![](img/tocaboca_games.webp){: style="height:300px"}
+![](../../assets/img/played/videogame/tocaboca_games.webp)
 
-![](img/tablet_code_the_robot_save_the_cat.webp){: style="height:300px"}
+![](../../assets/img/played/videogame/tablet_code_the_robot_save_the_cat.webp)
 Code the Robot - Save the Cat (Learny Land)
 
-![](img/tablet_think_learn_code_a_pillar.webp){: style="height:300px"}
+![](../../assets/img/played/videogame/tablet_think_learn_code_a_pillar.webp)
 ThinkLearn - Code a Pillar (Fischer Prize)
 
-![](img/tablet_how_does_the_human_body_work.webp){: style="height:300px"}
+![](../../assets/img/played/videogame/tablet_how_does_the_human_body_work.webp)
 How does the Human Body work?

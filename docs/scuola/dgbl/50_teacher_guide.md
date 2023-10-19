@@ -1,5 +1,7 @@
 ---
-titolo: 5 - Guida per l'insegnante
+title: "5. Guida per l'insegnante"
+date: 2023-01-31
+updated: 2023-07-29
 has_children: true
 has_toc: false
 nav_order: 50
@@ -33,7 +35,7 @@ Questo nuovo ruolo comporta l'emozione di presentare agli studenti un apprendime
 
 
 
-![dgbl_flowchart](img/dgbl_flowchart.webp)
+![dgbl_flowchart](../../assets/img/dgbl/dgbl_flowchart.webp)
 
 ## Approccio
 L'approccio all'apprendimento basato sul gioco digitale deve essere ben pianificato e organizzato per coinvolgere nell'apprendimento e produrre i risultati appropriati.
@@ -47,7 +49,7 @@ Devono acquisire familiarità con i fondamenti teorici del DGBL, conoscere i gio
 
 
 ## Suggerimenti per l'utilizzo dei VG in classe
-![](img/tips_vg_classroom.webp)
+![](../../assets/img/dgbl/tips_vg_classroom.webp)
 
 ### Deve
 1. Non è necessario che gli insegnanti siano giocatori accaniti, ma dovrebbero almeno essere interessati al gioco**.
@@ -157,7 +159,7 @@ Ci sono sette aspetti che dovrebbero essere esaminati per determinare l'efficaci
 ### Strumenti di valutazione: Analisi
 La parte analitica è la più importante 
 
-![](img/game_learning_analytics.webp)
+![](../../assets/img/dgbl/game_learning_analytics.webp)
 
 ### Sondaggio sul coinvolgimento
 Questo questionario può essere utilizzato dopo il completamento di un'attività per valutare il livello di coinvolgimento rispetto a un'altra attività. Per analizzare i risultati e confrontare i livelli di coinvolgimento tra due attività diverse, occorre procedere come segue.

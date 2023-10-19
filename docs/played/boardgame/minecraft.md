@@ -5,7 +5,7 @@ description: ""
 type: PlayED
 categories:
   - boardgame
-tags: []
+tags:
 date: 2020-12-14
 lastmod: 2022-12-18
 
@@ -33,7 +33,7 @@ played_url_details: https://www.boardgamegeek.com/boardgame/269603/minecraft-bui
 played_url_play: 
 ---
 
-![](img/minecraft-biolders-biomes.webp)
+![](../../assets/img/played/boardgame/minecraft-biolders-biomes.webp)
 
 il regalo di fine scuola e il sospettai che fosse interessante perché ha fatto notte sotto le coperte a leggere le istruzioni (ricordo io in seconda media lo stesso con i manuali di D&D). il tema del gioco è sicuramente coinvolgente. 
 ma fatta una partita di prova abbiamo scoperto che è da un lato semplice da capire e spiegare, dall’altro molto ampio come possibilità di scelte ed entusiasmante. 
@@ -44,5 +44,5 @@ partita in 4 e gira bene. si spiega facile e in 10 minuti si è già capito tutt
 
 > se in casa ci sono dei fan di Minecraft, è comunque un ottimo modo per coinvolgerli ad uscire dal digitale e sedersi intorno ad un tavolo
 
-> *Fabio:*
+> [!tip] Fabio
 > bello craftare nuovi oggetti e fare loot

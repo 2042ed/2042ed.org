@@ -6,7 +6,7 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Spazio
+  - spazio
   - Compatto
 date: 2020-12-14
 lastmod: 2022-12-18
@@ -35,9 +35,9 @@ played_url_details: https://www.boardgamegeek.com/boardgame/285826/ultra-tiny-ep
 played_url_play: 
 ---
 
-![](img/tiny_epic_galaxies.webp)
+![](../../assets/img/played/boardgame/tiny_epic_galaxies.webp)
 
 sempre alla ricerca dei giochi ultra compatti, questo li batte tutti in termini di regole non banali e tema spaziale!
 
-> *Fabio:*
+> [!tip] Fabio
 > belli i pianeti!

@@ -34,4 +34,4 @@ played_url_details:
 played_url_play: 
 ---
 
-![](img/steam_braccio_robot.webp)
+![](../../assets/img/played/steam/steam_braccio_robot.webp)

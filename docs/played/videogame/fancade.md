@@ -6,8 +6,8 @@ type: PlayED
 categories:
   - videogame
 tags:
-  - Award
-  - Kids
+  - award
+  - kids
   - Puzzle
 date: 2020-12-14
 lastmod: 2022-12-18
@@ -39,7 +39,7 @@ played_vg_platforms:
   - web
 ---
 
-![](img/fancade.webp)
+![](../../assets/img/played/videogame/fancade_2.webp)
 
 Migliaia di mini-giochi. divertenti, originali, incredibili
 e il bello è che si possono creare nuovi giochi da dentro l'app!

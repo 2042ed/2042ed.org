@@ -1,5 +1,7 @@
 ---
 title: Google Maps
+date: 2020-12-14
+updated: 2023-07-30
 slug: 
 description: ""
 type: PlayED
@@ -7,7 +9,6 @@ categories:
   - outdoor
 tags:
   - Geo
-date: 2020-12-14
 lastmod: 2022-12-18
 
 template: played.html
@@ -41,7 +42,7 @@ Google Earth e Google Maps sono strumenti rivoluzionari (citiamo loro perché so
 Vedere il mondo reale (e non una sua rappresentazione) nella sua totalità stando a casa. Scegliere un punto a caso del pianeta e vedere come si vive in una strada di un villaggio in India, o su quella micro isola nel Pacifico, vedere le insegne dei negozi davanti alla Porta di Kiev o cercare la strada dove hanno girato la scena della Storia Infinita a Vancouver... sono esperienze che cambiano e aprono la mente.
 
 
-> *Fabio:*
+> [!tip] Fabio
 > bello per andare a vedere i monumenti o i luoghi che sai che non vedrai mai
 
 

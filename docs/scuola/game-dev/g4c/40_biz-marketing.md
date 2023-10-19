@@ -2,7 +2,7 @@
 title: Business e Marketing
 date: 2022-05-05
 updated: 2023-04-20
-summary: "mercato e opportunità"
+description: "mercato e opportunità"
 type: book
 ---
 # Business e Marketing
@@ -53,10 +53,10 @@ Nel caso del puro entertainment le entrate derivano dalla vendita dei giochi, in
 ## Diversi modello di Business
 
 Modello **classico**  
-![](img/biz_classic.webp)
+![](../../../assets/img/gamedev/img-g4c/biz_classic.webp)
 
 Modello **applied**  
-![](img/biz_applied.webp)
+![](../../../assets/img/gamedev/img-g4c/biz_applied.webp)
 
 ## Temi legali
 Etnia, Gender, Data Protection e Privacy
@@ -82,7 +82,7 @@ E' importante avere una presenza web con i propri temi, interessi e capacità.  
 
 > Tranquilli, ti troviamo noi
 
-![](img/cv_openai.webp)
+![](../../../assets/img/gamedev/img-g4c/cv_openai.webp)
 
 ## Networking e Social Media
 - Imparare in pubblico

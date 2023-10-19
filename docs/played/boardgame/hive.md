@@ -6,7 +6,7 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Award
+  - award
   - 2Giocatori
   - Strategia
   - Compatto
@@ -40,10 +40,8 @@ played_url_play:
 Qualcuno lo aveva definito il nuovo "scacchi" che sta in un sacchettino senza tavola.
 L'abbiamo provato e in effetti è un gioiellino, semplice da imparare, infinito da padroneggiare.
 
-> *Fabio:*
+> [!tip] Fabio
 > Mi piace perché difficile e ogni insetto ha le sue mosse come gli scacchi, e devi pensare molto bene la tua strategia di gioco
 
-> *Stefano:*
+> [!info] Stefano
 > non posso dire che sia meglio degli scacchi, ma che lo portiamo in giro molto più spesso, sì
-
-

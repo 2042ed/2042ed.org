@@ -1,8 +1,8 @@
 ---
-title: Centri Estivi
+title: centri-estivi
 date: 2022-12-13
-updated: 2022-12-16
-tags: [CentriEstivi, STEAM]
+updated: 2023-10-19
+tags: [CentriEstivi, steam]
 ---
 
 Ogni tanto tengo dei centri estivi.
@@ -13,7 +13,7 @@ anno 2021
 
 ### giorno 1 - lunedì
 
-![](img/centro-estivo-2021-ludo-didattico-1.webp)
+![](../../assets/img/labs/centro-estivo-2021-ludo-didattico-1.webp)
 
 prima giornata di CentriEstivi: sopravvissuto.
 
@@ -23,7 +23,7 @@ NB: mentre io avevo un gruppo per matematica e digitale, in parallelo un altro g
 
 ### giorno 2 - martedì
 
-![](img/centro-estivo-2021-ludo-didattico-2.webp)
+![](../../assets/img/labs/centro-estivo-2021-ludo-didattico-2.webp)
 
 seconda giornata: meno stanchi e più soddisfatti.
 
@@ -38,17 +38,17 @@ a domani, dove giocheremo alle spie e codici segreti.
 
 ### giorno 3 - mercoledì
 
-![](img/centro-estivo-2021-ludo-didattico-3.webp)
+![](../../assets/img/labs/centro-estivo-2021-ludo-didattico-3.webp)
 
 Terza giornata: dalla codifica in numeri binari alla lettura del **codice braille** sulle medicine, dal codice morse a quanto “pesa” un minuto di video digitale fullHD a 30 fps (perché se il byte è l’unità di misura del digitale, cosa rappresenta una fotocamera a 5Mpixels? e che differenza c’è tra una ADSL e una fibra? e perché ci interessa saperlo?
 
-E poi tutti a scavare nelle profondità della terra con #Saboteur (un gioco dove siamo tutti nani più o meno sabotatori alla ricerca di pepite d’oro, si gioca fino in 10) e con #Minecraft il gioco da tavolo, che ha entusiasmato anche i più giovani nello scavare, costruire e sconfiggere Endermen. 
+E poi tutti a scavare nelle profondità della terra con [saboteur](../../played/boardgame/saboteur.md) (un gioco dove siamo tutti nani più o meno sabotatori alla ricerca di pepite d’oro, si gioca fino in 10) e con [minecraft](../../played/boardgame/minecraft.md) il gioco da tavolo, che ha entusiasmato anche i più giovani nello scavare, costruire e sconfiggere Endermen. 
 
 il pianoforte sempre al centro, insieme a volano e palloni.
 
 ### giorno 4 - giovedì
 
-![](img/centro-estivo-2021-ludo-didattico-4.webp)
+![](../../assets/img/labs/centro-estivo-2021-ludo-didattico-4.webp)
 
 Abbiamo parlato di hardware e software, “programmato” alcuni ragazzi per eseguire delle istruzioni per accendere le luci della stanza, c’è corrispondenza tra come la nostra mente esegue delle procedure e come le esegue un computer? e cosa è invece un’Intelligenza Artificiale? è vero che dovremo convivere con un mondo totalmente diverso e imparare come funzionano le macchine e internet è importante?
 
@@ -62,7 +62,7 @@ e niente: questo centro estivo è davvero bello.
 
 ### giorno 5 - venerdì
 
-![](img/centro-estivo-2021-ludo-didattico-5.webp)
+![](../../assets/img/labs/centro-estivo-2021-ludo-didattico-5.webp)
 
 Giornata finale con l’elettricità, principi di robotica e il costruire qualcosa che si muove. In pochissimi avevano già costruito da zero un circuito elettrico con pile, interruttori, motorino elettrici, pale e accessori vari per far muovere le creazioni. 
 
@@ -77,7 +77,7 @@ anno 2021
 
 ### giorno 1 - lunedì
 
-![](img/centro-estivo-2021-steam-1.webp)
+![](../../assets/img/labs/centro-estivo-2021-steam-1.webp)
 
 Iniziato oggi nuova settimana di centro estivo alla Casa del Popolo di Settignano con una decina di bambini di 6 anni.
 
@@ -97,7 +97,7 @@ Sebbene fossi inizialmente un po' terrorizzato dal gestire tutto il giorno una s
 
 ### giorno 2 - martedì
 
-![](img/centro-estivo-2021-steam-2.webp)
+![](../../assets/img/labs/centro-estivo-2021-steam-2.webp)
 
 Nella prima mezz'ora di gioco libero qualcuno si era già messo con il gioco delle Robot Turtles.. bene perché è uno dei temi della giornata: il nostro Paxi (la mascotte animata dell'ESA) ci porterà a scoprire il pianeta Marte, e così parliamo e ripassiamo il sistema solare, cosa sono i satelliti e come funzionano i vari robot tipo Curiosity che stanno esplorando il pianeta rosso (lo sapete vero perché sia chiama Marte?).
 
@@ -116,7 +116,7 @@ Con un bel ritmo hawaiano all'ukulele e un pianoforte che suona la colonna sonor
 
 ### giorno 3 - mercoledì
 
-![](img/centro-estivo-2021-steam-3.webp)
+![](../../assets/img/labs/centro-estivo-2021-steam-3.webp)
 
 Il gruppo si è consolidato, le poche ma buone regole assimilate, le diversità comprese e valorizzate, lo spirito ludico condiviso.
 
@@ -137,7 +137,7 @@ E per finire si rimette tutto a posto insieme.. anche il mocio al pavimento! ("m
 
 ### giorno 4 - giovedì
 
-![](img/centro-estivo-2021-steam-4.webp)
+![](../../assets/img/labs/centro-estivo-2021-steam-4.webp)
 
 La mattina inizia con un cartone animato molto speciale, per poi esplorare come non basta che esista l'acqua perché ci siano le condizioni per la vita, ma anche una temperatura adeguata, fondamentalmente tra gli 0 e i 40 gradi.. un intervallo risicatissimo nel mondo delle temperature spaziali!
 
@@ -157,7 +157,7 @@ Mi hanno augurato di divertirmi e di imparare tutto così da insegnare loro a fa
 
 ### giorno 5 - venerdì
 
-![](img/centro-estivo-2021-steam-5.webp)
+![](../../assets/img/labs/centro-estivo-2021-steam-5.webp)
 
 giusto per chiudere la prima settimana di questi centri estivi ludo-didattici con una sintesi e un commento, una delle cose che mi è piaciuta di più è che dei 22 ragazzi che vi hanno partecipato, la maggior parte arrivavano da situazioni sociali e familiari non proprio "facili".
 

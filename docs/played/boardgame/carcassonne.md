@@ -7,7 +7,7 @@ categories:
   - boardgame
 tags:
   - Strategia
-  - Award
+  - award
   - Family
 date: 2020-12-14
 lastmod: 2022-12-18
@@ -41,7 +41,7 @@ Carcassonne è ormai la pietra miliare del genere "tiles" ovvero tessere di terr
 
 Un gioco che non dovrebbe mancare in nessuna casa come una volta non mancava il Monopoli. E se poi piace ci sono dozzine di espansioni
 
-> *Stefano:*
+> [!info] Stefano
 > Se avete bambini piccoli consiglio la versione Carcassonne Jr per iniziare.
 
 

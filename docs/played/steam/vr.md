@@ -6,7 +6,7 @@ type: PlayED
 categories:
   - steam
 tags:
-  - VR
+  - vr
 date: 2020-12-14
 lastmod: 2022-12-18
 
@@ -34,7 +34,7 @@ played_url_details: https://www.oculus.com
 played_url_play: 
 ---
 
-![](img/vr.webp)
+![](../../assets/img/played/steam/vr.webp)
 
 > la soluzione attualmente migliore è l'Oculus Quest 2
 
@@ -47,9 +47,8 @@ E non ci sono solo giochi, ma anche strumenti creativi, dove ad esempio disegnar
 Il nuovo modello dell'Oculus, che è un visore indipendente (senza cavi al computer), permette anche la duplicazione dello schermo su un qualsiasi cellulare o tablet, così ad esempio un genitore può controllare o assistere i figli.
 
 > Fabio: è davvero incredibile. faccio arrampicata con The Climb e gioco a The Room.. sembra proprio di essere lì!
-{.boxFabio}
 
-![](img/vr_2.webp){: style="height:200px"}
-![](img/vr_3.webp){: style="height:200px"}
-![](img/vr_monitor.webp){: style="height:200px"}
+![](../../assets/img/played/steam/vr_2.webp)
+![](../../assets/img/played/steam/vr_3.webp)
+![](../../assets/img/played/steam/vr_monitor.webp)
 

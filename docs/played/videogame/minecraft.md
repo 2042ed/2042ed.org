@@ -6,7 +6,7 @@ type: PlayED
 categories:
   - videogame
 tags:
-  - Award
+  - award
   - Sandbox
   - Build
 date: 2020-12-14
@@ -38,8 +38,8 @@ played_vg_platforms:
   - all
 ---
 
-![](img/minecrat.webp)
-![](img/minecraft_2.webp)
+![](../../assets/img/played/videogame/minecrat.webp)
+![](../../assets/img/played/videogame/minecraft_2.webp)
 
 Giocare a Minecraft è esattamente l'equivalente del giocare al LEGO.
 
@@ -47,6 +47,6 @@ Oggi che i confini digitale / analogico, reale / virtuale, gioco / educazione so
 
 Per quanto mi riguarda: più ci giocano, meglio è. sia in creativa che in sopravvivenza, sopratutto se online con amici.
 
-> *Fabio:*
+> [!tip] Fabio
 > costruisci un sacco di cose, da solo o con gli amici, è estremamente creativo.
 

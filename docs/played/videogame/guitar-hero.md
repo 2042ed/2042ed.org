@@ -6,7 +6,7 @@ type: PlayED
 categories:
   - videogame
 tags:
-  - Music
+  - music
 date: 2020-12-14
 lastmod: 2022-12-18
 
@@ -36,7 +36,7 @@ played_vg_platforms:
   - all
 ---
 
-![](img/guitar_hero.webp)
+![](../../assets/img/played/videogame/guitar_hero.webp)
 
 Se siete tra i pochi a non conoscerlo, eccolo: prendi in mano una chitarra e suoni a tempo le più grandi canzoni rock (e non) della storia o del momento.
 E' uno dei giochi musicali più famosi e diffusi al mondo. Divertente e coinvolgente perché ti mette proprio su un palco.

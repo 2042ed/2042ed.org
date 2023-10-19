@@ -8,9 +8,9 @@ categories:
 tags:
   - Family
   - Party
-  - Linguaggio
+  - linguaggio
   - Team
-  - Award
+  - award
 date: 2020-12-14
 lastmod: 2022-12-18
 
@@ -38,6 +38,6 @@ played_url_details: https://boardgamegeek.com/boardgame/178900/codenames
 played_url_play: 
 ---
 
-![](img/nome_in_codice.webp)
+![](../../assets/img/played/boardgame/nome_in_codice.webp)
 
 gioco di parole a due squadre. divertente, concitante: devono indovinare i propri agenti segreti dal loro nome in codice, partendo da una parola "sinonimo o associata" proposta dal capo squadra. mi sorprende quanto piaccia!

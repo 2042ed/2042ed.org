@@ -7,7 +7,7 @@ categories:
   - videogame
 tags:
   - Maker
-  - Kids
+  - kids
   - Tool
 date: 2021-04-12
 lastmod: 2022-12-18

@@ -6,8 +6,8 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Kids
-  - Award
+  - kids
+  - award
   - Collaborativo
   - Legacy
 date: 2020-12-14
@@ -42,12 +42,12 @@ Per noi il gioco dell'anno e geniale perchè si parte con regole minime faciliss
 
 Grafica e personaggi eccellenti, meccaniche divertenti per grandi e piccoli, gratificante. Costa pure poco.
 
-> *Fabio:*
+> [!tip] Fabio
 > Sbloccare nuove regole e poteri dopo un po' che giochi e gli zombies a scuola piace sia a me che a mio fratello
 
 
-> *Stefano:*
+> [!info] Stefano
 > Capolavoro. Stimola davvero l'azione di squadra
 
-![](img/zombie_kidz.webp)
-![](img/zombie_kidz2.webp)
+![](../../assets/img/played/boardgame/zombie_kidz.webp)
+![](../../assets/img/played/boardgame/zombie_kidz2.webp)

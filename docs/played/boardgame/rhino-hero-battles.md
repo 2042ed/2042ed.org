@@ -6,8 +6,8 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Kids
-  - Award
+  - kids
+  - award
   - Destrezza
 date: 2020-12-14
 lastmod: 2022-12-18
@@ -36,15 +36,15 @@ played_url_details: https://www.boardgamegeek.com/boardgame/218333/rhino-hero-su
 played_url_play: 
 ---
 
-![](img/rhino_hero.webp)
+![](../../assets/img/played/boardgame/rhino_hero.webp)
 
 Ci mancava un gioco di equilibrio, di spazialità e di calcolo matematico, e Rhino Hero coinvolge tutti questi temi in modo divertente, facendo costruire "castelli di carte" e facendoci salire i propri personaggi a combattere con i dadi, stando attenti alle scimmiette in equilibrio
 
 Ricordiamoci che ci sono molte aree dell’intelligenza e a seconda dell’interesse si può trovare il gioco giusto per svilupparle!
 
-> *Fabio:*
+> [!tip] Fabio
 > Allena molto a non tremare e mettere le cose in equilibrio
 
-> *Stefano:*
+> [!info] Stefano
 > La costruzione di castelli di carta funziona anhce senza gioco, e la HABA produce sempre solo bellissimi giochi per bambini.
 

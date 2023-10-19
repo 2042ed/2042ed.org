@@ -7,7 +7,7 @@ categories:
   - videogame
 tags:
   - Sandbox
-  - Spazio
+  - spazio
 date: 2020-12-14
 lastmod: 2022-12-18
 
@@ -37,9 +37,9 @@ played_vg_platforms:
   - Desktop
 ---
 
-![](img/sandbox-universe.webp)
+![](../../assets/img/played/videogame/sandbox-universe.webp)
 
 Un simulatore di Universo, dove poter sperimentare con tutte le variabili che regolano l'astrofisica, e vedere cosa succede, ad esempio puoi aggiungere un pianeta, una seconda luna, far entrare in collisione corpi celesti.. addirittura galassie!
 
-> *Fabio:*
+> [!tip] Fabio
 > Ho allontanato la terra dal sole!

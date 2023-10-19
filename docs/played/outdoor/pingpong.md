@@ -6,7 +6,7 @@ type: PlayED
 categories:
   - outdoor
 tags:
-  - Sport
+  - sport
 date: 2020-12-14
 lastmod: 2022-12-18
 
@@ -34,8 +34,8 @@ played_url_details:
 played_url_play: 
 ---
 
-![](img/pingpong.webp){: style="height:200px"}
-![](img/pingpong_torneo.webp){: style="height:200px"}
+![](../../assets/img/played/outdoor/pingpong.webp)
+![](../../assets/img/played/outdoor/pingpong_torneo.webp)
 
 giocare a Ping Pong è bello e divertente.
 organizzare un torneo tra amici o nel quartiere è ancora meglio!

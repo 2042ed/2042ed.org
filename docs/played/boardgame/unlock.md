@@ -41,7 +41,7 @@ played_url_play:
 Ogni scatola di questa serie contiene  tre mazzi scenario per giocare avventure escape di medio livello con scenari davvero tra i più vari.
 E il bello è che sarà un'app a pilotare i giocatori nei vari enigmi!
 
-> *Stefano:*
+> [!info] Stefano
 > Gli Space Cowboys (Splendor, T.I.M.E. stories) non sbagliano mai. bravi.
 
 

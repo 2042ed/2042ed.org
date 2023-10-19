@@ -8,7 +8,7 @@ categories:
 tags:
   - Collaborativo
   - Strategia
-  - Award
+  - award
 date: 2020-12-14
 lastmod: 2022-12-18
 

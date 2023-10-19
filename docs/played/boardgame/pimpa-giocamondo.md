@@ -6,7 +6,7 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Kids
+  - kids
   - Geografia
 date: 2020-12-14
 lastmod: 2022-12-18
@@ -35,12 +35,11 @@ played_url_details:
 played_url_play: 
 ---
 
-![](img/pimpa.webp)
+![](../../assets/img/played/boardgame/pimpa.webp)
 
 Gioco molto semplice, con due livelli di difficoltà, dove si inizia a prendere dimestichezza con la mappa del mondo, perché bisogna andare in giro a cercare degli oggetti tipici, molto simpatico e poi almeno un gioco della Pimpa dobbiamo averlo!
 
-> *Fabio:*
+> [!tip] Fabio
 > Ogni tanto ci gioco con Bruno perché la Pimpa ci piace
-{.boxFabio}
 
-![](img/pimpa_2.webp)
+![](../../assets/img/played/boardgame/pimpa_2.webp)

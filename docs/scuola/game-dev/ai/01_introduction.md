@@ -5,13 +5,13 @@ updated: 2023-01-10
 ---
 # Introduzione
 
-![](../../talk/img/comic-ml.webp)
+![](../../../assets/img/talk/comic-ml.webp)
 
 L'Intelligenza Artificiale (Artificial Intelligence, A.I.) tenta di replicare e simulare l'intelligenza e il comportamento umano (*human behaviour*) imitando come il cervello umano elabora le informazioni (*reverse engineering*). Ad esempio, le **reti neurali artificiali** sono modellate sul modo in cui funziona il cervello umano.
 
 ## L'Apparato Umano
 
-![](../../talk/img/ai-brain.webp)
+![](../../../assets/img/talk/ai-brain.webp)
 
 Gli esseri umani hanno
   
@@ -51,7 +51,7 @@ Il connubio game-developer <> AI researcher è sempre più stretto..
 
 ## Cosa può fare?
 
-![](img/ai_content_intro.webp)
+![](../../../assets/img/gamedev/img-ai/ai_content_intro.webp)
 
 A grandi linee le tree aree di utilizzo della AI nei giochi sono:
 

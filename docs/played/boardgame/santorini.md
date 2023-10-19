@@ -7,7 +7,7 @@ categories:
   - boardgame
 tags:
   - Strategia
-  - Award
+  - award
   - 2Giocatori
 date: 2021-05-16T12:51:52+02:00
 lastmod: 2022-12-18
@@ -36,9 +36,9 @@ played_url_details:
 played_url_play: 
 ---
 
-![](img/santorini1.webp){: style="height:200px"}
-![](img/santorini2.webp){: style="height:200px"}
-![](img/santorini3.webp){: style="height:200px"}
+![](../../assets/img/played/boardgame/santorini1.webp)
+![](../../assets/img/played/boardgame/santorini2.webp)
+![](../../assets/img/played/boardgame/santorini3.webp)
 
 per festeggiare ottimi voti, abbiamo inaugurato quello che è entrato subito nella Top5 dei giochi preferiti: Santorini
 così semplice che anche il cinquenne ci gioca dopo 30 secondi di spiegazioni (si tratta di muovere di una casella e alzare torri e vince il primo che sale al terzo livello), ma con una strategia che si inserisce mossa dopo mossa, tra la dama e gli scacchi.
@@ -47,8 +47,6 @@ e non abbiamo usato le carte “dei” delle regole avanzate che danno super pot
 ottimo in due giocatori ma anche in 3 o 4.
 ovviamente ha vinto Fabio. ma con le partite che durano 10 minuti una tira l’altra. 
 
-> *Fabio:* bello perchè veloce ma ti fa pensare
-{.boxFabio}
+> [!tip] Fabio bello perchè veloce ma ti fa pensare
 
-> *Stefano:* gioco perfetto
-{.boxStefano}
+> [!info] Stefano gioco perfetto

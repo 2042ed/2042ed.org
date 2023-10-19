@@ -2,7 +2,7 @@
 title: Case studies
 date: 2022-05-05
 updated: 2023-04-21
-summary: "case studies di videogiochi e giochi applicati"
+description: "case studies di videogiochi e giochi applicati"
 type: book
 weight: 20
 toc: true
@@ -268,19 +268,19 @@ Target sia professionale che pubblico.
 - 🎥 [Combat Medic Trainer 3D Simulation Video Game](https://www.youtube.com/watch?v=1wQBUhqt7N0)
 
 **Simulazione in sala operatoria: la isterectomia laparoscopica**   
-![simulatore-chirurgia](img/videogames/simulatore-chirurgia.webp)
+![simulatore-chirurgia](../../../assets/img/gamedev/img-g4c/videogames/simulatore-chirurgia.webp)
 
 La fondazione policlinico Universitario A. Gemelli ha ideato un serious game sulla isterectomia laparoscopica. Questo gioco permette ai medici di esercitarsi sulla isterectomia laparoscopica in qualsiasi condizione del paziente. In poche ore i chirurgi possono quindi affrontare anche le complicanze rare che normalmente un chirurgo incontrerebbe poche volte durante la propria carriera. La simulazione ha quindi permesso di eliminare dei rischi per i pazienti, di simulare casi gravi e rari e complicazioni, riducendo le possibilità di errore.
 
 **XVR Simulation**
-![xvr-simulation](img/videogames/xvr-simulation.webp)
+![xvr-simulation](../../../assets/img/gamedev/img-g4c/videogames/xvr-simulation.webp)
 
 Piattaforma per simulare incidenti e formazione
 <https://www.xvrsim.com>
 
 **Simulazioni Industriali**
 
-![simulation-industries](img/videogames/simulation-industries.webp)
+![simulation-industries](../../../assets/img/gamedev/img-g4c/videogames/simulation-industries.webp)
 
 <https://www.seriousgames.net/en/interactive-3d-simulation-training/>
 

@@ -6,7 +6,7 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Award
+  - award
   - Carte
   - Party
 date: 2020-12-14
@@ -39,7 +39,5 @@ played_url_play: https://boardgamearena.com/gamepanel?game=sechsnimmt
 ## Obiettivo
 Evitare di prendere carte, cercando di farle prendere agli altri giocatori. Le carte della propria mano vanno disposte sul tavolo secondo semplici regole matematiche / logiche. Interessante che non c'è un primo giocatore: lo si definisce al primo round quando tutti hanno scelto la propria carta: chi ha quella più bassa inizia, e poi a salire.
 
-> Stefano: l'ho fatto gicare a gruppi di ragazzi dalla quinta elementare alla terza media, e piace moltissimo. Lo capisci al volo e poi ti diverti fino in 10 giocatori!
-
-
-
+> [!info] Stefano
+> l'ho fatto giocare a gruppi di ragazzi dalla quinta elementare alla terza media, e piace moltissimo. Lo capisci al volo e poi ti diverti fino in 10 giocatori!

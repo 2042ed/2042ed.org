@@ -6,8 +6,8 @@ type: PlayED
 categories:
   - videogame
 tags:
-  - Award
-  - Fun
+  - award
+  - fun
 date: 2020-12-14
 lastmod: 2022-12-18
 
@@ -37,10 +37,10 @@ played_vg_platforms:
   - all
 ---
 
-![](img/the_secret_of_monkey_island.webp)
+![](../../assets/img/played/videogame/the_secret_of_monkey_island.webp)
 
 il primo grande gioco avventura Punta e Clicca.  
 Celebre perché divertentissimo, sei un pirata che devi risolvere un grosso problema, sconfiggendo i nemici con duelli di.. insulti!  
 
-> *Fabio:*
+> [!tip] Fabio
 > è da giocare perché impari a insultare con stile

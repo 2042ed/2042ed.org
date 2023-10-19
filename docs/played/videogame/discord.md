@@ -37,10 +37,10 @@ played_vg_platforms:
   - all
 ---
 
-![](img/discord_logo.webp)
+![](../../assets/img/played/videogame/discord_logo.webp)
 
 la piattaforma di discussione indispensabile per tutti i videogiocatori e ragazzi. gratuita, semplice.
 Ognuno può creare un suo gruppo tra amici per discutere in audio, video, condividere schermo e files.
 Viene usata anche al di fuori dei soli videogiochi, ad esempio per fare compiti o lavoro.
 
-![](img/discord_fabio.webp)
+![](../../assets/img/played/videogame/discord_fabio.webp)

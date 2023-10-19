@@ -7,7 +7,7 @@ weight: 45
 ---
 # GitHub
 
-![](img/github_icon_192.webp)
+![](../../../assets/img/gamedev/img-ci/github_icon_192.webp)
 
 GitHub è la principale (ma non l'unica) piattaforma online che permette di ospitare gratuitamente progetti Git, offrendo opzioni di sviluppo molto avanzate e soluzioni commerciali quando si sono raggiunti i limiti delle offerte gratuite.  
 Nato nel 2008 è stato acquistato da Microsoft nel 2018 per 7 miliardi.

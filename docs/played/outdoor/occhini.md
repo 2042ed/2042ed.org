@@ -41,7 +41,7 @@ La soluzione può essere fatta subito, oppure con una fotografia, che sarà rico
 
 Noi abbiamo collezionato dozzine di foto occhini in tutto il mondo
 
-> *Fabio:*
+> [!tip] Fabio
 > mi piace trovare posti super dove nascondermi
 
 

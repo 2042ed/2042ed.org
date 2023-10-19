@@ -6,7 +6,7 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Award
+  - award
   - Family
   - Party
   - Dadi
@@ -41,10 +41,10 @@ played_url_play:
 Il gioco italiano più venduto al mondo, lo conoscono tutti (nella versione originale). Con i dadi è più veloce, concitante, divertente.
 Molti preferiscono la versione carte perché permette strategie più profonde, mentre qui il caso può fare il bello o cattivo tempo.. ma per i più giovani è un motivo per preferirlo
 
-> *Fabio:*
+> [!tip] Fabio
 > è bello tirare i dadi, che puoi cambiare se non ti piacciono. A volte non decidere tutto è bello!
 
-> *Stefano:*
+> [!info] Stefano
 > In tanti bambini è meglio questo a dadi perché ha i turni più veloci
 
 

@@ -6,8 +6,8 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Award
-  - Storia
+  - award
+  - storia
 date: 2020-12-14
 lastmod: 2022-12-18
 
@@ -39,10 +39,10 @@ played_url_play:
 Un gioco che è ormai un classico: evolvi la tua civiltà con progresso sociale, o militare o scientifico, il primo che arriva a svilupparsi pienamente vince.
 Abbastanza semplice e BELLO.
 
-> *Fabio:*
+> [!tip] Fabio
 > grafica bellissima e lo consiglio se siete in tre o più, altrimenti giocate a Duel
 
-> *Stefano:*
+> [!info] Stefano
 > È uscita ora tutta la nuova edizione! Per chi non si accontenta del gioco usa e getta.
 
-![](img/7wonders.webp)
+![](../../assets/img/played/boardgame/7wonders.webp)

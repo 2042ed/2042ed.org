@@ -6,7 +6,7 @@ type: PlayED
 categories:
   - steam
 tags:
-  - Music
+  - music
 date: 2020-12-14
 lastmod: 2022-12-18
 
@@ -36,7 +36,7 @@ played_vg_platforms:
   - iOS
 ---
 
-![](img/garageband.webp)
+![](../../assets/img/played/steam/garageband.webp)
 
 Non è un gioco.. ma ricordiamo che in inglese il verbo Play indica tanto il **giocare** quanto il **suonare** (uno strumento).
 

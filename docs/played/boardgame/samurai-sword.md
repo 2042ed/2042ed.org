@@ -38,7 +38,7 @@ played_url_play:
 versione ninja di Bang. giocato dai ragazzi sopratutto inventando nuove regole.
 a volte lo preferiscono.
 
-> *Fabio:*
+> [!tip] Fabio
 > mi piacciono le tanti armi diverse, per questo motivo e per il fatto che è ambientato in Giappone con i Ninja lo preferisco a Bang
 
 

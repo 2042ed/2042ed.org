@@ -9,7 +9,7 @@ tags:
   - Family
   - Collaborativo
   - Party
-  - Award
+  - award
   - Compatto
 date: 2020-12-14
 lastmod: 2022-12-18
@@ -42,10 +42,10 @@ Pronti? qui **il giocatore non vede le proprie carte!** incredibile ma funziona 
 Si deve collaborare dando indizi agli altri affinchè si arrivi tutti insieme a costruire tutti i fuochi d'artificio.
 Geniale,facile da imparare, molto divertente.
 
-> *Fabio:*
+> [!tip] Fabio
 > molto cooperativo e ti devi fidare degli altri cercando di capire cosa sanno
 
-> *Stefano:*
+> [!info] Stefano
 > si muore dal ridere quando uno cerca di suggerire qualcosa ma non sa come farlo ahha.. una scatolina da avere e regalare
 
 

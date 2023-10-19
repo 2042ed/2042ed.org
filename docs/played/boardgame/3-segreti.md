@@ -1,8 +1,9 @@
 ---
 title: 3 Segreti
+date: 2020-12-14
+updated: 2023-08-09
 slug: 3-segreti
 description: Ogni carta è un mistero da risolvere
-type: PlayED
 type: PlayED
 categories:
   - boardgame
@@ -10,9 +11,6 @@ tags:
   - Family
   - Deduzione
   - Collaborativo
-date: 2020-12-14
-lastmod: 2022-12-18
-
 template: played.html
 played_category: boardgame
 played_skills: []
@@ -37,16 +35,14 @@ played_url_details: https://www.boardgamegeek.com/boardgame/218314/3-secrets
 played_url_play: 
 ---
 
-![](img/3segreti.webp)
+![](../../assets/img/played/boardgame/3segreti.webp)
 
 Ogni carta è un mistero da risolvere.
 Un giocatore conosce la storia e può aiutare gli altri giocatori che devono dedurre cosa è successo e perché, con semplici domande a risposta si, no, non rilevante.
 Diversi livelli di difficoltà che impegneranno dai 5 minuti alla mezz'ora.
 
-> *Fabio:*
+> [!tip] Fabio
 > mi piace perché è molto facile e lo puoi giocare ovunque in tre secondi. 
-{.boxFabio}
 
-> *Stefano:*
+> [!info] Stefano
 > Una volta assimilato è ancora più divertente inventare noi nuove carte! ed esiste anche una versione app digitale
-{.boxStefano}

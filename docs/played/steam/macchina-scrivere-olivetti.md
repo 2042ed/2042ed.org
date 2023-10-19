@@ -6,7 +6,7 @@ type: PlayED
 categories:
   - steam
 tags:
-  - Award
+  - award
 date: 2020-12-14
 lastmod: 2022-12-18
 
@@ -38,6 +38,6 @@ Sarà perché è meccanica con gli ingranaggi a vista, sarà la soddisfazione di
 
 fatto sta che ci si passa ore.
 
-![](img/macchina_olivetti.webp)
-![](img/macchina_olivetti2.webp)
+![](../../assets/img/played/steam/macchina_olivetti.webp)
+![](../../assets/img/played/steam/macchina_olivetti2.webp)
 

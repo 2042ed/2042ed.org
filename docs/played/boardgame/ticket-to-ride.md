@@ -9,7 +9,7 @@ tags:
   - Family
   - Strategia
   - Geografia
-  - Award
+  - award
 date: 2020-12-14
 lastmod: 2022-12-18
 
@@ -37,14 +37,14 @@ played_url_details: https://boardgamegeek.com/boardgame/14996/ticket-ride-europe
 played_url_play: 
 ---
 
-![](img/ticket_to_ride.webp)
+![](../../assets/img/played/boardgame/ticket_to_ride.webp)
 
 È probabilmente uno dei *nuovi classici*, perché ce l'hanno tutti e tutti lo giocano. Forse un motivo ci sarà!
 
 Un gioco strategico molto semplice, quindi adatto a tutti, che vi farà girare per le capitali d'Europa, o del mondo.. dipende dall'edizione che si compra.
 
-> *Fabio:*
+> [!tip] Fabio
 > è bello ripassare la geografia così
 
-> *Stefano:*
+> [!info] Stefano
 > C'è anche una versione kids e molte edizioni con geografie diverse. Nel dubbio sceglierei l'Europa.

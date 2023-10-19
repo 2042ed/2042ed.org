@@ -2,7 +2,7 @@
 title: Appendici
 date: 2022-12-23
 updated: 2023-04-20
-summary: "eventi e risorse per approfondire"
+description: "eventi e risorse per approfondire"
 type: book
 weight: 90
 toc: true

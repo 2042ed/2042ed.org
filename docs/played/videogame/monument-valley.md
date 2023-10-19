@@ -6,7 +6,7 @@ type: PlayED
 categories:
   - videogame
 tags:
-  - Award
+  - award
   - Tablet
   - Puzzle
   - Visuale
@@ -39,13 +39,13 @@ played_vg_platforms:
   - iOS
 ---
 
-![](img/monument_valley.webp){: style="height:200px"}
-![](img/monument_valley2.webp){: style="height:200px"}
+![](../../assets/img/played/videogame/monument_valley.webp)
+![](../../assets/img/played/videogame/monument_valley2.webp)
 
 Un'estetica visiva e sonora capolavoro per un videogioco di enigmi visuali che sembrano usciti dai disegni di Escher.  
 Una bambina in cerca della sua storia in un mondo affascinante e davvero godibile anche per i più piccoli
 
 (il gioco l'ha finito Bruno a 4 anni (con l'aiuto del fratellone)
 
-> *Fabio:*
+> [!tip] Fabio
 > rompe le leggi della fisica ed è difficile

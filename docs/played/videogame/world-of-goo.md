@@ -6,8 +6,8 @@ type: PlayED
 categories:
   - videogame
 tags:
-  - Award
-  - Kids
+  - award
+  - kids
   - Build
 date: 2020-12-14
 lastmod: 2022-12-18
@@ -39,14 +39,13 @@ played_vg_platforms:
   - Desktop
 ---
 
-![](img/world_of_goo.webp)
+![](../../assets/img/played/videogame/world_of_goo.webp)
 
 grafica, musica, animazioni, ambientazione e sopratutto livelli crescenti perfetti.
 
 devi inventare il modo di connettere i "goo" per costruire strutture e risolvere i livelli.
 
-> *Stefano:* ci giocai io, poi Fabio, poi Bruno
-{.boxStefano}
+> [!info] Stefano ci giocai io, poi Fabio, poi Bruno
 
-![](img/world_of_goo2.webp)
+![](../../assets/img/played/videogame/world_of_goo2.webp)
 

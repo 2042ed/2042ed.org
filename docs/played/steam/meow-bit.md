@@ -39,7 +39,7 @@ Una microconsole portatile, a forma di gattino ;) con dentro un micro-bit ottimi
 
 noi ci abbiamo programmato il gioco del dinosauro che salta di Chrome.. bello, costa poco.
 
-> *Fabio:*
+> [!tip] Fabio
 > è come un GameBoy ma ci carico i giochi che faccio io
 
 

@@ -10,7 +10,7 @@ tags:
   - Carte
   - Strategia
   - Nonni
-  - Award
+  - award
 date: 2020-12-14
 lastmod: 2022-12-18
 
@@ -38,7 +38,7 @@ played_url_details: https://www.boardgamegeek.com/boardgame/148228/splendor
 played_url_play: https://boardgamearena.com/gamepanel?game=splendor
 ---
 
-![](img/splendor.webp)
+![](../../assets/img/played/boardgame/splendor.webp)
 
 Dateci retta: compratelo senza indugio.
 Le componenti sono splendide, è facile da imparare, è profondo.
@@ -47,8 +47,8 @@ Le componenti sono splendide, è facile da imparare, è profondo.
 
 Noi l'abbiamo giocato tanto anche sul tablet perché ci sono le missioni avanzate (acquistabili separatamente anche in scatola ndr)
 
-> *Fabio:*
+> [!tip] Fabio
 > è innanzitutto bello e abbastanza semplice ma non banale
 
-> *Stefano:*
+> [!info] Stefano
 > Adoro gli Space Cowboys (game designers francesi)

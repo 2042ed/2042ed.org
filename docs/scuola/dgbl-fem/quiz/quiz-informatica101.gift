@@ -1,0 +1,272 @@
+$CATEGORY: DGBL/INIT
+
+::101::
+Cerco di giocare almeno qualche ora ogni settimana
+{#0..5}
+
+::102::
+Ho una buona conoscenza del mondo dei giochi
+{#0..5}
+
+::103::
+Conosco le principali metodologie pedagogiche che usano il gioco come strumento
+{#0..5}
+
+::104::
+Ho familiarità con i computer e le sue componenti
+{#0..5}
+
+::105::
+Spesso sperimento con software e ambienti interattivi online
+{#0..5}
+
+::111::
+Quale delle seguenti non è un sistema operativo?
+{
+  =Microsoft Office
+  ~Linux
+  ~Windows
+  ~Mac OS
+}
+
+::112::
+In quale applicazione si possono creare presentazioni con diapositive?
+{
+  =PowerPoint
+  ~Word
+  ~Excel
+  ~Paint
+}
+
+::113::
+Qual è la funzione principale di un browser?
+{
+  =Navigare su Internet
+  ~Elaborazione di testi
+  ~Creare grafici
+  ~Gestire e-mail
+}
+
+::114::
+Come si chiama il processo di proteggere i dati da accessi non autorizzati?
+{
+  =Crittografia
+  ~Comprimere
+  ~Bookmarking
+  ~Sincronizzazione
+}
+
+::115::
+Quale delle seguenti non è una pratica consigliata per la sicurezza delle password?
+{
+  ~Usare una combinazione di lettere, numeri e simboli
+  ~Cambiare le password regolarmente
+  =Utilizzare la stessa password per tutti gli account
+  ~Evitare password ovvie come "password123"
+}
+
+::116::
+Che cosa è il phishing?
+{
+  =Un tentativo di frode in cui si cerca di ottenere informazioni personali attraverso e-mail o siti web falsi
+  ~Un tipo di software per la progettazione grafica
+  ~La pratica di cercare informazioni su Internet
+  ~Un servizio di messaggistica online
+}
+
+::117::
+Che cos'è un LMS (Learning Management System)?
+{
+  =Una piattaforma online per gestire e organizzare contenuti didattici
+  ~Un sistema operativo per computer
+  ~Un'applicazione per il design grafico
+  ~Un tipo di database
+}
+
+::118::
+Qual è l'importanza della licenza Creative Commons in ambito educativo?
+{
+  =Permette di utilizzare, condividere e adattare risorse mantenendo alcuni diritti
+  ~Offre software gratuito per le scuole
+  ~Protegge contro virus e malware
+  ~Fornisce strumenti di analisi dei dati
+}
+
+::119::
+Quale strumento online si utilizza principalmente per lavori di collaborazione in tempo reale su documenti?
+{
+  =Google Docs
+  ~Skype
+  ~Windows Media Player
+  ~Photoshop
+}
+
+::120::
+Come si chiama l'atto di copiare il lavoro di qualcun altro e presentarlo come proprio?
+{
+  =Plagio
+  ~Bookmarking
+  ~Streaming
+  ~Networking
+}
+
+::121::
+Che cos'è il "cloud computing"?
+{
+  =L'uso di risorse informatiche (come server, storage e applicazioni) su Internet, invece che localmente sul proprio computer
+  ~Un nuovo tipo di computer portatile
+  ~Un software di design grafico
+  ~Un tipo di database
+}
+
+::122::
+Qual è l'importanza dell'educazione alla cittadinanza digitale nelle scuole?
+{
+  =Insegnare agli studenti come comportarsi in modo responsabile e sicuro online
+  ~Imparare a programmare e sviluppare software
+  ~Studiare la storia dei computer
+  ~Imparare a utilizzare dispositivi touch screen
+}
+
+::123::
+Quale componente del computer è considerato il "cervello" del sistema?
+{
+  =CPU (Central Processing Unit)
+  ~RAM (Random Access Memory)
+  ~HDD (Hard Disk Drive)
+  ~GPU (Graphics Processing Unit)
+}
+
+::124::Quale strumento è utilizzato per memorizzare dati in modo permanente?
+{
+  =Hard Disk
+  ~RAM
+  ~CPU
+  ~Cache
+}
+
+::125::
+Quale delle seguenti è una rete di computer che copre un'area geografica limitata, come un edificio o un campus?
+{
+  =LAN (Local Area Network)
+  ~WAN (Wide Area Network)
+  ~MAN (Metropolitan Area Network)
+  ~PAN (Personal Area Network)
+}
+
+::126::
+In termini di sviluppo web, cosa significa HTML?
+{
+  =HyperText Markup Language
+  ~High Tech Machine Language
+  ~Hyper Transfer Management Language
+  ~Hyperlinking Text Management Language
+}
+
+::130::
+Qual è il principale obiettivo della gamification in ambiente educativo?
+{
+  =Migliorare l'apprendimento e la motivazione degli studenti attraverso dinamiche ludiche
+  ~Giochire in classe
+  ~Promuovere competizioni tra studenti
+  ~Sostituire completamente i libri di testo con videogiochi
+}
+
+::131::
+Quale elemento tipico dei videogiochi può essere utilizzato per mostrare il progresso di uno studente in un percorso di apprendimento gamificato?
+{
+  =Barra di avanzamento (o "progress bar")
+  ~Livelli di potenza (o "power levels")
+  ~Numero di vite rimaste
+  ~Elenco dei nemici sconfitti
+}
+
+::135::
+Qual è uno dei principali benefici della didattica ludica in classe?
+{
+  =Rende l'apprendimento più coinvolgente e motivante
+  ~Elimina la necessità di compiti a casa
+  ~Garantisce che tutti gli studenti ottengano voti alti
+  ~Riduce il bisogno di interazione tra insegnante e studente
+}
+
+::132::
+Nella gamification, cosa rappresentano le "badges" (medaglie)?
+{
+  =Riconoscimenti per specifiche realizzazioni o traguardi raggiunti
+  ~Elementi obbligatori che tutti gli studenti devono ottenere
+  ~Premi che possono essere scambiati per voti più alti
+  ~Un sistema di punizione per comportamenti indesiderati
+}
+
+::133::
+In che modo la "gamification" differisce dai "serious games"?
+{
+  =La gamification applica elementi ludici a contesti non di gioco, mentre i serious games sono giochi progettati con obiettivi educativi o formativi primari
+  ~La gamification è solo per l'istruzione, mentre i serious games sono per il divertimento
+  ~I serious games sono un tipo di gamification
+  ~La gamification e i serious games sono la stessa cosa
+}
+
+::147::
+Per cosa sta l’acronimo “URL” usato nella navigazione web?
+{
+  =Uniform Resources Locator
+  ~Uniform Retrieval Language
+  ~User Repository Link
+  ~Unified Resource Link
+}
+
+::148::
+8. Quale termine si usa per indicare il processo di testare un videogioco per individuarne e risolverne i problemi?
+{
+  ~Coding
+  ~Rendering
+  =Debugging
+  ~Design
+}
+
+::149::
+9. Quale tra questi non è un gioco?
+{
+  ~Briscola
+  =LEGO
+  ~D&D
+  ~Portal
+}
+
+::150::
+10. Cosa indica la sigla MDA nel Game-Based Learning?
+{
+  ~Un ciclo che favorisce il consolidarsi dell’apprendimento
+  =Un framework che indica le componenti di un gioco
+  ~Una triade di tipologie ludiche utili per favorire un apprendimento efficace
+  ~Nessuna delle precedenti
+}
+
+::151::
+11. Quale tra questi termini indica l’impiego di elementi di game design in contesti non ludici?
+{
+  ~Game-Based Learning
+  =Gamification
+  ~Game development
+  ~Tutte le precedenti
+}
+
+::152::
+12. Con cosa si può creare un videogioco?
+{
+  ~%25%Excel
+  ~%25%Google Slides
+  ~%25%Unity
+  ~%25%Unreal
+}
+
+::153::
+13. Quale tra questi compiti è di competenza del game designer?
+{
+  ~Scrivere il codice di un videogioco
+  ~Assicurarsi che un hardware abbia tutte le caratteristiche per far girare un gioco
+  =Definire meccaniche e dinamiche del gioco
+  ~Pubblicizzare e vendere il gioco
+}

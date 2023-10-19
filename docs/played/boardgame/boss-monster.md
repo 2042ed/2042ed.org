@@ -5,7 +5,7 @@ description: ""
 type: PlayED
 categories:
   - boardgame
-tags: []
+tags:
 date: 2020-12-14
 lastmod: 2022-12-18
 
@@ -37,10 +37,10 @@ Qui i giocatori sono i boss finali dei videogiochi fantasy e devono impedire ai 
 
 Geniale, semplice e divertente.
 
-> *Fabio:*
+> [!tip] Fabio
 > Mi piace perché ci sono tantissime stanze con cui costruire il dungeon e perchè TU sei il cattivo una volta tanto
 
-> *Stefano:*
+> [!info] Stefano
 > Fosse anche solo per l'inversione dei ruoli classici, vale la pena farlo giocare!
 
 

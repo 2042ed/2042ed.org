@@ -1,5 +1,7 @@
 ---
 title: Casa delle Bambole Maledetta
+date: 2020-12-14
+updated: 2023-08-01
 slug: casa-bambole-maledetta
 description: ""
 type: PlayED
@@ -7,11 +9,8 @@ categories:
   - boardgame
 tags:
   - Escape
-  - Award
+  - award
   - Family
-date: 2020-12-14
-lastmod: 2022-12-18
-
 template: played.html
 played_category: boardgame
 played_skills: []
@@ -35,12 +34,20 @@ played_year:
 played_url_details: https://www.boardgamegeek.com/boardgame/311686/escape-room-cursed-dollhouse
 played_url_play: 
 ---
-![](img/casa_bambole.webp)
+![](../../assets/img/played/boardgame/casa_bambole.webp)
 
-Una casa dentro casa vostra che vi terrà svegli per almeno 3 ore con enigmi davvero difficili quanto sorprendenti e vari.  
+una escape the room ricorsiva!  
+credo che a casa nostra abbiamo giocato TUTTE le escape rooms possibili. e non potevano a mancare questa dove la scatola si trasforma nella casa fisica da cui bisogna scappare. 
 
-> *Fabio:*
+insomma: chiusi in casa, evadiamo da una micro casa delle bambole 🙂
+
+gli enigmi sono difficili. ma mettendo una colonna sonora paurosa (consigliata da ThinkFun nel loro sito) la serata passa veloce.
+
+> [!tip] Fabio
 > è molto immersivo e mi piace perché è difficile
 
-> *Stefano:*
+> [!info] Stefano
+> Una casa dentro casa vostra che vi terrà svegli per almeno 3 ore con enigmi davvero difficili quanto sorprendenti e vari.  
 > Montare la casa aprendo la scatola del gioco e indagare ogni angolino con gli infrarossi,, beh.. è stato un gaudio anche per il piccolo Bruno
+
+![casa_bambole_2](../../assets/img/played/boardgame/casa_bambole_2.jpg)

@@ -9,7 +9,7 @@ tags:
   - Collaborativo
   - Solo
   - Avventura
-  - English
+  - english
 date: 2020-12-14
 
 template: played.html
@@ -42,5 +42,5 @@ Un'avventura in un continente misterioso dove  wha .. sembra un videogioco ma cr
 
 È solo in inglese ma ne vale la pena.. decine di ore di avventura!
 
-> *Fabio:*
+> [!tip] Fabio
 > mi piace perché si combinano un sacco di oggetti e craftare nuove cose

@@ -8,7 +8,7 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Award
+  - award
   - Family
   - Livelli
 
@@ -36,11 +36,11 @@ played_url_details:
 played_url_play: 
 ---
 
-![](img/micromacro.webp)
+![](../../assets/img/played/boardgame/micromacro.webp)
 
 > Fabio: davvero geniale
 
-![](img/micromacro_1.webp)
-![](img/micromacro_2.webp)
+![](../../assets/img/played/boardgame/micromacro_1.webp)
+![](../../assets/img/played/boardgame/micromacro_2.webp)
 
 ![](../../assets/img/played/boardgame/micro-macro-lens.webp)

@@ -18,9 +18,9 @@ conoscere la teoria e le basi della XR, per essere pronti al futuro e cogliere l
 - tecnologie MR Mixed Reality
 - Unity AR Foundations: conosciamolo
 
-![](img/xr-scheme.webp)
+![](../../../assets/img/gamedev/img-xr/xr-scheme.webp)
 
-![](img/ar-vr-mr.webp)
+![](../../../assets/img/gamedev/img-xr/ar-vr-mr.webp)
 
 ## Human Centered Design
 

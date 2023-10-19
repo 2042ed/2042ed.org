@@ -8,7 +8,7 @@ categories:
 tags:
   - GdR
   - Narrativo
-  - Award
+  - award
 date: 2020-12-14
 lastmod: 2022-12-18
 
@@ -36,11 +36,11 @@ played_url_details: https://boardgamegeek.com/boardgame/94902/dungeons-dragons-s
 played_url_play: 
 ---
 
-![](img/dnd.webp)
+![](../../assets/img/played/boardgame/dnd.webp)
 
 beh.. qui si entra nel mito: il Gioco di Ruolo per antonomasia. il capostipite che da fine anni '70 ha fatto crescere molte generazioni di giocatori, ma sopratutto creatori
 
-> *Fabio:*
+> [!tip] Fabio
 > mi piace immergermi in un personaggio ma è molto difficile fare il Master e ci sono tantissime regole quindi non puoi giocarlo al volo con uno che non lo conosce. Spero che altri lo studino per giocarci insieme!
 
 

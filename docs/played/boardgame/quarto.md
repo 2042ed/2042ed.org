@@ -5,7 +5,7 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Award
+  - award
   - 2Giocatori
   - Compatto
 date: 2020-12-14

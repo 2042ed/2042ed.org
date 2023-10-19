@@ -6,8 +6,8 @@ type: PlayED
 categories:
   - media
 tags:
-  - TV
-  - Storia
+  - tv
+  - storia
 date: 2020-12-14
 lastmod: 2022-12-18
 
@@ -42,7 +42,7 @@ I ragazzi di questa serie/documentario sono simpaticissimi, fanno davvero ridere
 Si, perché la Storia ha per protagonisti gli Esseri Umani con pregi e difetti, sogni e incubi, e questo "show" è un divertente modo per ricordarcelo.  
 NB: moltissime le canzoni memorabili.. la nostra preferita è quella di Gandhi e le verdure, un vero inno al vegetarianesimo!
 
-> *Fabio:*
+> [!tip] Fabio
 > è divertente e imparo la storia dei personaggi famosi
 
 

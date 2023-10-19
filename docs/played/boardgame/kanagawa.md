@@ -5,7 +5,7 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Award
+  - award
   - Family
   - Compatto
 date: 2020-12-14
@@ -35,7 +35,7 @@ played_url_details: https://boardgamegeek.com/boardgame/200147/kanagawa
 played_url_play: 
 ---
 
-![](img/kanagawa.webp)
+![](../../assets/img/played/boardgame/kanagawa.webp)
 
 finalmente giochiamo a Kanagawa
 

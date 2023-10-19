@@ -3,11 +3,10 @@ title: El Dorado
 description: un altro capolavoro di Reiner Kniza
 slug: el-dorado
 type: playED
-type: PlayED
 categories:
   - boardgame
 tags:
-  - Award
+  - award
   - Family
 date: 2020-12-14
 lastmod: 2022-12-17T07:46:00
@@ -36,7 +35,7 @@ played_url_details: https://boardgamegeek.com/boardgame/217372/quest-el-dorado
 played_url_play: 
 ---
 
-![](img/el-dorado.webp)
+![](../../assets/img/played/boardgame/el-dorado.webp)
 
 siamo entrati nella foresta amazzonica, attraversando deserti e fiumi, chiamando nella nostra squadra nuovi amici con le diverse capacità per arrivare primi a El Dorado.
 

@@ -7,8 +7,8 @@ categories:
   - boardgame
 tags:
   - Simulazione
-  - Empatia
-  - Storia
+  - empatia
+  - storia
   - Strategia
 date: 2020-12-14
 lastmod: 2022-12-18

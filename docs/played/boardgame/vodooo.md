@@ -36,7 +36,7 @@ played_url_play:
 
 I giocatori devono creare e passarsi "maledizioni" tipo "da ora parli in falsetto"... divertente ovviamente se si è disposti a mettersi in gioco, oppure si è una mandria di ragazzini ilari :)
 
-> *Stefano:*
+> [!info] Stefano
 > Uno dei tanti giochi italiani di successo.
 
 

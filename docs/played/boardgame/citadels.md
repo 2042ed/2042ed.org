@@ -8,7 +8,7 @@ categories:
 tags:
   - Family
   - Party
-  - Award
+  - award
 date: 2020-12-14
 lastmod: 2022-12-18
 
@@ -39,7 +39,7 @@ played_url_play:
 
 I giocatori hanno ognuno un personaggio (mago, ladro, guerriero, assassino) con delle abilità peculiari e vince il primo che costruisce otto palazzi sfruttando al meglio la gestione delle carte.
 
-> *Stefano:*
+> [!info] Stefano
 > Un altro gioco preso sulla fiducia perché sempre ben recensito, e sopratutto si gioca in tanti. Per un dopo cena perfetto a chiacchierare e farsi la guerra ludica :)
 
 

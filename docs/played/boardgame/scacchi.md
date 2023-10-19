@@ -8,7 +8,7 @@ categories:
 tags:
   - Strategia
   - Classico
-  - Award
+  - award
   - 2Giocatori
 date: 2020-12-14
 lastmod: 2022-12-18
@@ -47,4 +47,4 @@ Non dovrebbe necessitare presentazioni se non accennare a delle buone motivazion
 5. ai ragazzi piace
 6. esistono centinaia di versioni.. anche in digitale dove i pezzi combattono sanguinosamente! :) (cercate BattleChess)
 
-![](img/scacchi.webp)
+![](../../assets/img/played/boardgame/scacchi2.webp)

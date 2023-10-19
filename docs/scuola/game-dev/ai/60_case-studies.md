@@ -68,7 +68,7 @@ Starcraft II è un gioco di strategia in tempo reale (RTS) in cui i giocatori pr
 
 L'AI di Starcraft è in grado di imbrogliare per sconfiggere i giocatori umani elaborando informazioni sulle basi dei giocatori umani. Starcraft II come gioco è diventato anche un ambiente popolare per la ricerca sull'AIA. In una spinta congiunta, Blizzard e DeepMind hanno rilasciato un ambiente pubblico di Starcraft II in cui scienziati e appassionati possono testare vari algoritmi di AI.
 
-![](img/strategy-starcraft.jpg)
+![](../../../assets/img/gamedev/img-ai/strategy-starcraft.jpg)
 
 - [sito gioco](https://starcraft2.com/)
 - [studio di come DeepMind gioca a StarCraft](https://www.saagie.com/en/blog/artificial-intelligence-in-video-games/#elementor-toc__heading-anchor-72)

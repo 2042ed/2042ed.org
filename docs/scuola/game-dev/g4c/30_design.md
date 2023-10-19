@@ -2,7 +2,7 @@
 title: Design
 date: 2021-01-07
 updated: 2023-04-21
-summary: "come progettare serious games e Game Based Learning"
+description: "come progettare serious games e Game Based Learning"
 type: book
 weight: 30
 toc: true
@@ -42,12 +42,12 @@ Alcuni punti e passi su come iniziare:
 ### Purpouse
 Cosa voglio ottenere?
 
-![](img/playgamedesign.webp)
+![](../../../assets/img/gamedev/img-g4c/playgamedesign.webp)
 
 #### Tematiche e Obiettivi
 Le Nazioni Unite hanno definito lo Sviluppo Sostenibile quello che è richiesto oggi ma senza compromettere le generazioni future.
 
-![](img/2030_goals.webp)
+![](../../../assets/img/gamedev/img-g4c/2030_goals.webp)
 
 > Domanda: che tipo di esperienza vorresti far vivere al tuo giocatore? C'è qualche valore particolare che ti interessa promuovere?
 
@@ -76,7 +76,7 @@ Da non confondere con il ROI (Return of Investment)
 
 ### Domain Expert
 che aiuti ad allineare i goal didattici ai livelli di gioco
-![](img/domain_expert.webp)
+![](../../../assets/img/gamedev/img-g4c/domain_expert.webp)
 
 ### Factbook
 Studiare e fare molta ricerca.  
@@ -89,7 +89,7 @@ Vedi [libro](https://www.amazon.it/Factfulness-ragioni-capiamo-mondo-pensiamo/dp
 ### Sviluppo Iterativo
 **Iterative Development**: The framework proposes an iterative and incremental approach to game design and development, consisting of three main phases: concept design, game design, and game development.
 
-![](img/dev_iterative.webp)
+![](../../../assets/img/gamedev/img-g4c/dev_iterative.webp)
 
 **Interdisciplinary Teamwork**: The framework suggests an interdisciplinary approach in which all team members, not just the designers, participate in every aspect of the development process and learn from each others field of expertise
 
@@ -118,7 +118,7 @@ non bloccare l'avanzamento del gioco se il giocatore non accetta il tuo punto di
 	- esagerare le reazioni, non è la vita vera, altrimenti è una simulazione
 
 ## Flow
-![](img/flow.webp)
+![](../../../assets/img/gamedev/img-g4c/flow.webp)
 
 ## Sfide & Difficulty
 

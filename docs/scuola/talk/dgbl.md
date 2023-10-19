@@ -1,11 +1,12 @@
 ---
 title: Digital Game Based Learning
 date: 2022-05-05
-updated: 2023-04-20
-summary: "Digital Game Based Learning slides"
+updated: 2023-08-09
+description: Digital Game Based Learning slides
 authors: []
-tags: []
-categories: [talk]
+categories:
+  - talk
+tags:
 draft: true
 type: slides
 slides:
@@ -144,11 +145,11 @@ Games bring together combination of motivating elements not found together in an
 
 ---
 
-![](../game-dev/g4c/img/dgbl/games.webp)
+![](../../assets/img/gamedev/img-g4c/dgbl/games.webp)
 
 ---
 # Learning
-![](../game-dev/g4c/img/dgbl/cognitive_approach.webp)
+![](../../assets/img/gamedev/img-g4c/dgbl/cognitive_approach.webp)
 
 ---
 
@@ -188,16 +189,16 @@ Assessment happens around a game more often than it happens inside the game, and
 ---
 
 # Domain Expert
-![](../game-dev/g4c/img/domain_expert.webp)
+![](../../assets/img/gamedev/img-g4c/domain_expert.webp)
 
 ---
 # Game Model
-![](../game-dev/g4c/img/dgbl/GBLModel.webp)
+![](../../assets/img/gamedev/img-g4c/dgbl/GBLModel.webp)
 
 ---
 # Objectives of learning analytics
 
-![](../game-dev/g4c/img/dgbl/game_learning_analytics.webp)
+![](../../assets/img/gamedev/img-g4c/dgbl/game_learning_analytics.webp)
 
 ---
 

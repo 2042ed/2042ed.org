@@ -6,8 +6,8 @@ type: PlayED
 categories:
   - videogame
 tags:
-  - Award
-  - Kids
+  - award
+  - kids
   - Family
   - Puzzle
 date: 2020-12-14
@@ -39,7 +39,7 @@ played_vg_platforms:
   - Nintendo Switch
 ---
 
-![](img/super_mario_odyssey2.webp)
+![](../../assets/img/played/videogame/super_mario_odyssey2.webp)
 
 Uno dei giochi "perfetti". Non piacerà a tutti, ma ai bambini sì, e stare con loro mentre risolvono i vari livelli, è davvero divertente. Eventualmente si gioca anche in due (il genitore può controllare il cappello di Mario) e godersi una sana mezz'ora di interazione ludica.
 
@@ -47,5 +47,5 @@ I livelli / mondi sono molto vari, le musiche davvero belle, e le difficoltà ad
 
 In più c'è la modalità "assistita" ottima per i bambini più piccoli, e molti sottolivelli opzionali.
 
-> *Fabio:*
+> [!tip] Fabio
 > è un'avventura estesa su tantissimi mondo, la storia è bella, e una volta finita la missione principale vai a caccia di lune.

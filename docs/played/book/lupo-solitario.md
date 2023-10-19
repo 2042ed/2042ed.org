@@ -6,7 +6,7 @@ type: PlayED
 categories:
   - book
 tags:
-  - Librogame
+  - librogame
 date: 2020-12-14
 lastmod: 2022-12-18
 

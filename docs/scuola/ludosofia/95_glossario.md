@@ -1,12 +1,13 @@
 ---
 title: Glossario
 date: 2021-04-01
+updated: 2023-08-09
 slug: glossario
-summary: per capirsi
+description: per capirsi
 type: book
-tags: [Doc]
 weight: 800
-updated: 2022-12-16
+tags:
+  - Doc
 ---
 # Glossario
 Alcuni termini tecnici e pop (ovvero che usano i gamers e probabilmente non conosciamo) del mondo dei giochi, dei videogiochi e di quant'altro dovremmo avere almeno sentito una volta.

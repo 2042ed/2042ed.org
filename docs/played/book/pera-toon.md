@@ -6,8 +6,8 @@ type: PlayED
 categories:
   - book
 tags:
-  - Kids
-  - Award
+  - kids
+  - award
 date: 2020-12-14
 lastmod: 2023-03-02
 

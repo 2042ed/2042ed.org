@@ -6,8 +6,8 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Kids
-  - Award
+  - kids
+  - award
   - Collaborativo
 date: 2020-12-14
 lastmod: 2022-12-18
@@ -36,10 +36,10 @@ played_url_details: https://www.boardgamegeek.com/boardgame/146312/ghost-fightin
 played_url_play: 
 ---
 
-![](img/ghost_fighting.webp)
+![](../../assets/img/played/boardgame/ghost_fighting.webp)
 
 Un gioco collaborativo semplice e accessibile anche ai bambini: cacciare i fantasmi è un bel lavoro, e farlo insieme è divertente.
 
-> *Stefano:* L'avevo scelto perché vincitore del premio *Kinderspiel des Jahres*, ovvero miglior gioco per bambini, e confermiamo che sono sininimi di qualità. Nel dubbio, andate sul sicuro!
-{.boxStefano}
+> [!info] Stefano
+> L'avevo scelto perché vincitore del premio *Kinderspiel des Jahres*, ovvero miglior gioco per bambini, e confermiamo che sono sininimi di qualità. Nel dubbio, andate sul sicuro!
 

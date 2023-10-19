@@ -1,13 +1,13 @@
 ---
 title: Convenzione sui diritti dell'infanzia
 slug: diritti-infanzia
-summary: ""
+description: ""
 date: 2021-04-08
 lastmod: 2021-04-08
 weight: 1
 type: book
 categories: [docs]
-tags: []
+tags:
 ---
 
 La Convenzione ONU sui diritti dell'infanzia e dell'adolescenza (Convention on the Rigths of the Child - CRC) è stata approvata dall’Assemblea Generale delle Nazioni Unite il 20 novembre 1989, e ratificata dall'Italia il 27 maggio 1991 con la legge n. 176.

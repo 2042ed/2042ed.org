@@ -8,10 +8,10 @@ categories:
 tags:
   - Family
   - Carte
-  - Empatia
+  - empatia
   - Mentale
   - Collaborativo
-  - Award
+  - award
 date: 2020-12-14
 lastmod: 2022-12-18
 
@@ -47,10 +47,10 @@ Da avere assolutamente.
 
 Non diciamo altro.
 
-> *Fabio:*
+> [!tip] Fabio
 > È bello non parlare, ogni tanto
 
-> *Stefano:*
+> [!info] Stefano
 > Avevo detto che non avrei detto niente a riguardo. Risparmiate 10 euro e poi ci ringrazierete.
 
 

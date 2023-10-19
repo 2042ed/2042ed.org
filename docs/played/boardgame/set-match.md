@@ -6,7 +6,7 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Sport
+  - sport
   - 2Giocatori
 date: 2021-02-17
 lastmod: 2022-12-18
@@ -35,8 +35,8 @@ played_url_details:
 played_url_play: 
 ---
 
-![](img/set_match_featured.webp)
+![](../../assets/img/played/boardgame/set_match_featured.webp)
 
 > Fabio: gioco a tennis in casa con mio fratello
 
-![](img/set_match_2.webp)
+![](../../assets/img/played/boardgame/set_match_2.webp)

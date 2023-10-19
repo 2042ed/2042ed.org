@@ -8,7 +8,7 @@ categories:
 tags:
   - Escape
   - Family
-  - Award
+  - award
   - Compatto
 date: 2020-12-14
 lastmod: 2022-12-18
@@ -37,14 +37,14 @@ played_url_details: https://boardgamegeek.com/boardgamefamily/48410/deckscape
 played_url_play: 
 ---
 
-![](img/deckscape.webp)
+![](../../assets/img/played/boardgame/deckscape.webp)
 
 Avventure piene di enigmi non banali da risolvere tutti insieme girando carta dopo carta. Noi li abbiamo giocati tutti e 6 e ci piacciono sempre.
 
-> *Fabio:*
+> [!tip] Fabio
 > Mi piace molto quando il mazzo di divide in molte storie separate e gli enigmi sono davvero inaspettati
 
-> *Stefano:*
+> [!info] Stefano
 > Per noi è un gioco importante perché ha "aperto" la fase di esplorazione dei giochi compatti in famiglia
 
 

@@ -5,9 +5,9 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Award
+  - award
   - Collaborativo
-  - English
+  - english
   - Legacy
 date: 2020-12-15
 

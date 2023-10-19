@@ -6,10 +6,10 @@ type: PlayED
 categories:
   - videogame
 tags:
-  - Award
+  - award
   - Exergame
   - Family
-  - Sport
+  - sport
 date: 2020-12-14
 lastmod: 2022-12-18
 
@@ -39,9 +39,9 @@ played_vg_platforms:
   - Nintendo Switch
 ---
 
-![](img/ringfit_adventure.webp)
+![](../../assets/img/played/videogame/ringfit_adventure.webp)
 
 Nintendo ha creato un capolavoro di ExerGame: un videogioco che ti fa esercitare con centinaia di esercizi ginnici.
 
-> *Fabio:*
+> [!tip] Fabio
 > mi ha aiutato a fare moltissimi esercizi di ginnastica in casa.. ed essendo un videogiochi è davvero divertente

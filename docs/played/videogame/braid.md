@@ -6,7 +6,7 @@ type: PlayED
 categories:
   - videogame
 tags:
-  - Award
+  - award
 date: 2020-12-14
 lastmod: 2022-12-18
 
@@ -36,6 +36,8 @@ played_vg_platforms:
   - all
 ---
 
-![](img/braid.webp)
+![](../../assets/img/played/videogame/braid2.webp)
 
 In questo videogioco indie di qualche anno fa, all'apparanza banale per la meccanica platform, si nasconde un goiello: la possibilità di tornare indietro nel tempo
+
+![](../../assets/img/dgbl/games/braid.webp)

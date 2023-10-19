@@ -6,8 +6,8 @@ type: PlayED
 categories:
   - videogame
 tags:
-  - Award
-  - Spazio
+  - award
+  - spazio
   - Simulazione
 date: 2020-12-14
 lastmod: 2022-12-18
@@ -38,7 +38,7 @@ played_vg_platforms:
   - Desktop
 ---
 
-![](img/kerbal-space-academy.webp)
+![](../../assets/img/played/videogame/kerbal-space-academy.webp)
 
 il più grande simulatore di Agenzia Spaziale.
 progetti, costruisci, collaudi ogni mezzo volante e astronautico.
@@ -49,7 +49,7 @@ inizi con poco e arrivi a ricreare la Space-X.
 doveroso installarlo sui computer dei ragazzi
 anzi: un motivo in più per dare loro un PC e non una consolle.
 
-> *Fabio:*
+> [!tip] Fabio
 > i personaggi sono simpatici, è fatto benissimo con tutti i possibili pezzi di costruzione ed è abbastanza difficile
 
 

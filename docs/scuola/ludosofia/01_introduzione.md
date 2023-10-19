@@ -1,12 +1,12 @@
 ---
 title: Introduzione
 date: 2021-04-01
+updated: 2023-08-09
 slug: introduzione
-summary: introduzione
+description: introduzione
 type: book
-tags: []
+tags:
 weight: 1
-updated: 2022-12-16
 ---
 # Introduzione
 

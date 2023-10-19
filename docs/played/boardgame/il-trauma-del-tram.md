@@ -7,7 +7,7 @@ categories:
   - boardgame
 tags:
   - Party
-  - Etica
+  - etica
 date: 2020-12-14
 lastmod: 2022-12-18
 
@@ -35,6 +35,6 @@ played_url_details: https://www.boardgamegeek.com/boardgame/282171/trial-trolley
 played_url_play: 
 ---
 
-![](img/trauma_tram.webp)
+![](../../assets/img/played/boardgame/trauma_tram.webp)
 
-> *Fabio:* ci ho giocato più volte con gli amici e ci divertiamo molto anche se è un po' cattivo
+> [!tip] Fabio ci ho giocato più volte con gli amici e ci divertiamo molto anche se è un po' cattivo

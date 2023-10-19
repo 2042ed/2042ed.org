@@ -8,7 +8,7 @@ categories:
 tags:
   - Party
   - Collaborativo
-  - Logica
+  - logica
 date: 2020-12-14
 lastmod: 2022-12-18
 
@@ -36,10 +36,10 @@ played_url_details: https://www.boardgamegeek.com/boardgame/127024/room-25
 played_url_play: 
 ---
 
-![](img/room25.webp)
+![](../../assets/img/played/boardgame/room25.webp)
 
 siamo prigionieri nel futuro e dobbiamo scappare.. mappa della prigione dinamica.. possiamo modificarla.. piena di trappole! riusciremo?
 bella ambientazione.. abbastanza facile.. con modalità di gioco collaborativa o competitiva, con o senza sabotatori.. bello!
 
-> *Fabio:*
+> [!tip] Fabio
 > mi piacciono le tante stanze con gli effetti diversi e non sai mai cosa ti capita

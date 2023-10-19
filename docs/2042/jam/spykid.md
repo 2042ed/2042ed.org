@@ -1,13 +1,13 @@
 ---
 title: SpyKid
-summary: per diventare agenti segreti
+description: per diventare agenti segreti
 categories: jamurr
 tags: [KidsMakeGames, Progetto]
 date: 2016-05-01
 url_code: "https://github.com/jamurr/JAM.SpyKid"
 ---
 
-![](img/spykid_featured.webp)
+![](../../assets/img/jam/spykid_featured.webp)
 
 **-.-. .. .- ---**!!!!!!
 
@@ -30,7 +30,7 @@ per ora abbiamo studiato e implementato:
 - scarica app **Android**: [Google Play](https://play.google.com/store/apps/details?id=com.jamurr.spykid)
 - progetto Open Source: <https://github.com/jamurr/JAM.SpyKid>
 
-![](img/spykid_screenshot1.webp)
-![](img/spykid_screenshot2.webp)
-![](img/spykid_screenshot3.webp)
-![](img/spykid_works.webp)
+![](../../assets/img/jam/spykid_screenshot1.webp)
+![](../../assets/img/jam/spykid_screenshot2.webp)
+![](../../assets/img/jam/spykid_screenshot3.webp)
+![](../../assets/img/jam/spykid_works.webp)

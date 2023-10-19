@@ -20,7 +20,7 @@ E' bene scegliere con cura il formato dei files
 
 ## Preservazione e Immortalità
 
-![](img/future_proof_approved.webp)
+![](../../../assets/img/gamedev/img-ci/future_proof_approved.webp)
 
 - Progetti Self Contained: dal repo Git vorrei avere tutto il minimo per riprodurlo, modificarlo, comunicarlo
 - Ultima versione di _ogni_ risorsa da preservare.

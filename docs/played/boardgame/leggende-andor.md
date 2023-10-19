@@ -6,7 +6,7 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Award
+  - award
   - Collaborativo
   - Narrativo
 date: 2020-12-14
@@ -39,10 +39,10 @@ played_url_play:
 Un bellissimo Gioco di Ruolo semplificato che si gioca senza che che nessuno debba fare il Master, perché sostituito dalle carte. Si può iniziare a giocare velocemente senza troppa preparazione perché l'avventura introduttiva introduce le regole base e poi via via quelle più avanzate
 Ci vuole un po' di tempo (almeno 2 ore e mezza a ascenario) ma è completo, avvincente, e sopratutto un collaborativo vero. Non dimenticando le miniature in cartone, che permettono di giocare avventure libere.
 
-> *Fabio:*
+> [!tip] Fabio
 > è divertente giocarci in 4 amici e sconfiggere i mostri tutti insieme e ha una mappa bellissima!
 
-![](img/andor.webp)
-![](img/andor2.webp)
+![](../../assets/img/played/boardgame/andor.webp)
+![](../../assets/img/played/boardgame/andor2.webp)
 
 

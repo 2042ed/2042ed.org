@@ -5,7 +5,7 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Award
+  - award
   - Family
 date: 2020-12-14
 lastmod: 2022-12-18

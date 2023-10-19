@@ -6,8 +6,8 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Kids
-  - Award
+  - kids
+  - award
   - 2Giocatori
   - Visuale
 date: 2020-12-14
@@ -39,9 +39,9 @@ played_url_play:
 
 Uno dei pochi classici davvero immortali e che dovrebbe imperare in ogni cameretta appena compiuti i 3 anni.
 
-> *Fabio:*
+> [!tip] Fabio
 > Mi piace il trovare la tecnica tutta mia per vincere
 
-> *Stefano:*
+> [!info] Stefano
 > Sviluppa automaticamente, senza troppe spiegazioni, il pensiero strategico e il contare
 

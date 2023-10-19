@@ -1,6 +1,6 @@
 ---
 title: Bed in da House
-summary: gioco creato dai ragazzi alla GGJ 2019
+description: gioco creato dai ragazzi alla GGJ 2019
 tags: [GlobalGameJam, KidsMakeGames, Progetto]
 categories: [jamurr]
 date: 2019-01-31
@@ -9,7 +9,7 @@ url_video: https://www.youtube.com/watch?v=s28Vm8gWLDg
 
 ---
 
-![](img/bedindahouse_featured.webp)
+![](../../assets/img/jam/bedindahouse_featured.webp)
 
 A game **designed and developed by kids and teens** at the [Global Game Jam 2019](https://globalgamejam.org/2019/games/bed-da-house), with the theme _"What home means to you"_.
 
@@ -29,10 +29,10 @@ To showcase the game at the jam we recorded this short video:
 <https://www.youtube.com/watch?v=s28Vm8gWLDg>
 
 ## Some Photos
-![](img/bedindahouse_screenshot.webp){: style="height:200px"}
-![](img/bedindahouse_screenshot2.webp){: style="height:200px"}
-![](img/bedindahouse_team_at_work.webp){: style="height:200px"}
-![](img/bedindahouse_team42.webp){: style="height:200px"}
+![](../../assets/img/jam/bedindahouse_screenshot.webp)
+![](../../assets/img/jam/bedindahouse_screenshot2.webp)
+![](../../assets/img/jam/bedindahouse_team_at_work.webp)
+![](../../assets/img/jam/bedindahouse_team42.webp)
 
 ## Requirements
 The game runs almost everywhere, it's a simple Unity 2018.3 project.  

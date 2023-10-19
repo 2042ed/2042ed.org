@@ -1,43 +1,38 @@
 ---
 title: King of Tokyo
 slug: king-of-tokyo
-description: "combattimento tra mostri giganti tra dadi e superpoteri. veloce e divertente"
+description: combattimento tra mostri giganti tra dadi e superpoteri. veloce e divertente
 type: PlayED
 categories:
   - boardgame
-  - videogame
 tags:
-  - Award
-  - Kids
+  - award
+  - kids
   - Combattimento
   - Dadi
 date: 2021-05-04T23:45:05+02:00
 lastmod: 2022-12-18
 featured: false
 draft: false
-
 template: played.html
 played_category: boardgame
 played_skills: []
 played_gameplay_complex: 2
 played_gameplay_strategy: 2
-played_gameplay_luck:
+played_gameplay_luck: 
 played_gameplay_interaction: 3
-
 played_preferred: 1
 played_rank_dad: 8
 played_rank_edu: 2
 played_rank_dev: 6
 played_rank_kid: 8
-
 played_players: 2-6
 played_age: 6
 played_duration: 20
-
 played_publisher: IELLO
 played_year: 2011
 played_url_details: https://www.boardgamegeek.com/boardgame/70323/king-tokyo
-played_url_play: 
+played_url_play:
 ---
 
 ![](../../assets/img/played/boardgame/king-of-tokyo.webp)
@@ -52,7 +47,8 @@ provato in 3 con il 5enne e funziona benissimo! facile da capire e divertentissi
 
 NB: c'è anche una versione New York e Dark Tokyo.. prendete quella che più vi piace!
 
-> *Fabio:* davvero facile, bellissimi disegni e attacchi diversi da comprare prima degli altri dal mazzo delle carte speciali
-{.boxFabio}
+> [!tip] Fabio davvero facile, bellissimi disegni e attacchi diversi da comprare prima degli altri dal mazzo delle carte speciali
 
-> *Stefano:* divertente anche per me giocare con i ragazzi. e quasi quasi ci possiamo creare nuovi personaggi. NB: l'autore di questo gioco è Richard Garfield (Magic).. una garanzia di qualità!
+> [!info] Stefano divertente anche per me giocare con i ragazzi. e quasi quasi ci possiamo creare nuovi personaggi. NB: l'autore di questo gioco è Richard Garfield (Magic).. una garanzia di qualità!
+
+![king-tokyo-featured](../../assets/img/played/boardgame-new/king-tokyo-featured.webp)

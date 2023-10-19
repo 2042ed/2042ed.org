@@ -6,7 +6,7 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Kids
+  - kids
   - Compatto
 date: 2020-12-14
 lastmod: 2022-12-18
@@ -35,14 +35,14 @@ played_url_details:
 played_url_play: 
 ---
 
-![](img/djeco.webp){: style="height:300px"}
+![](../../assets/img/played/boardgame/djeco.webp)
 
 Sono tantissimi i giochi della Djeco. Noi ne abbiamo un po': scatole piccole e semplici con regole perfette per bambini dai 4 anni. Qualunque prendiate è un diertimento valido.
 
-> *Fabio:*
+> [!tip] Fabio
 > i disegni sono perfetti per i bambini piccoli e ci gioco volentieri con mio fratellino
 
-> *Stefano:*
+> [!info] Stefano
 > La Djeco è una di quelle marche che garantisce una costante qualità in tutti i suoi prodotti. Bisogna imparare a riconoscerle e poi fidarsi.
 
 

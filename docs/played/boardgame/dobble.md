@@ -6,9 +6,9 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Kids
+  - kids
   - Visuale
-  - Award
+  - award
   - Compatto
 date: 2020-12-14
 lastmod: 2022-12-18
@@ -37,14 +37,14 @@ played_url_details: https://boardgamegeek.com/boardgame/63268/spot-it
 played_url_play: 
 ---
 
-![](img/dobble.webp){: style="height:300px"}
+![](../../assets/img/played/boardgame/dobble.webp)
 
 Un mazzo di 50 carte rotonde dove tra una carte e l'altra c'è *un solo* elemento in comune e che permette diverse modalità di gioco. Perfetto per bambini (per i più piccoli c'è una versione speciale con disegni più semplici).  
 
-> *Fabio:*
+> [!tip] Fabio
 > È molto eccitante e allena davvero la vista
 
-> *Stefano:*
+> [!info] Stefano
 > Io ho studiato la matematica che ci sta dietro a questo gioco ed è davvero meravigliosa
 
 

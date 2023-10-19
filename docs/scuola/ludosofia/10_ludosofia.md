@@ -1,12 +1,13 @@
 ---
 title: Ludus e Sofia
 date: 2021-04-01
+updated: 2023-08-09
 slug: ludosofia
-summary: "introduzione al gioco e all'atteggiamento ludico come strumenti positivi"
-type: book
-tags: [Doc]
+description: introduzione al gioco e all'atteggiamento ludico come strumenti positivi
 weight: 10
-updated: 2022-12-16
+type: book
+tags:
+  - Doc
 ---
 # Ludus e Sofia
 
@@ -252,7 +253,7 @@ Sono molte le attività che si possono fare nel tempo libero, e vedremo come il 
 
 ## Giocare in famiglia
 
-> *Fabio:*
+> [!tip] Fabio
 > Il mio consiglio è di leggere bene le istruzioni, oppure prendete tutto quello che trovate dentro la scatola, osservatelo e inventatevi delle regole per giocarci.
 
 

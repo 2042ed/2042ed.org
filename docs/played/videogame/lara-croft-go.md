@@ -38,7 +38,7 @@ played_vg_platforms:
 ---
  
 
-![](img/lara_croft_go.webp)
+![](../../assets/img/played/videogame/lara_croft_go.webp)
 
 E' un gioco strategico a turni, dove in ogni mossa ti puoi spostare in una delle quattro direzioni.
 Non mette fretta e si ha tutto il tempo per capire quale sarà la sequenza giusta per uscire dai livelli sempre più difficili.

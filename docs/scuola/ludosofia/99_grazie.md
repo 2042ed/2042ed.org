@@ -1,12 +1,12 @@
 ---
 title: Ringraziamenti e Regalo
 date: 2021-04-01
+updated: 2023-08-09
 slug: grazie
-summary: 
+description: 
 type: book
-tags: []
 weight: 990
-updated: 2022-12-16
+tags:
 ---
 # Ringraziamenti e Regalo
 Innanzitutto i creatori, produttori e distributori di tutti i giochi e progetti qui raccontati.. senza il pane non si mangia ne si pensa.

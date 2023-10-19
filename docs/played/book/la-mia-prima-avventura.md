@@ -6,8 +6,8 @@ type: PlayED
 categories:
   - book
 tags:
-  - Librogame
-  - Kids
+  - librogame
+  - kids
   - Avventura
 date: 2020-12-14
 lastmod: 2022-12-18
@@ -36,7 +36,7 @@ played_url_details: https://www.dvgiochi.com/catalogo/la-mia-prima-avventura-il-
 played_url_play: 
 ---
 
-![](img/librogioco_avventura.webp)
+![](../../assets/img/played/book/librogioco_avventura.webp)
 
 Ci sono già diversi libri di questa serie (noi abbiamo *Il Tesoro di Atlantide* e *Missione nello spazio*) che ha un meccanismo davvero originale per scegliere il percorso, con le pagine tagliate in 3 sezioni.
 La progressione è semplice, ma la grafica, la carta plastificata, il vedere tutto in una pagina, fa di questi libri una bella esperienza da laggere insieme ai più piccoli

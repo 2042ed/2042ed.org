@@ -6,8 +6,8 @@ type: PlayED
 categories:
   - book
 tags:
-  - Librogame
-  - Kids
+  - librogame
+  - kids
 date: 2020-12-14
 lastmod: 2022-12-18
 
@@ -35,9 +35,9 @@ played_url_details:
 played_url_play: 
 ---
 
-![](img/libro_shelby.webp)
+![](../../assets/img/played/book/libro_shelby.webp)
 
 I libri gioco / avventura di Shelby sono ideali per bambini piccoli, perché hanno solo immagini e frecce.
 
-> *Fabio:*
+> [!tip] Fabio
 > disegnato benissimo e li ho giocato con mio fratellino

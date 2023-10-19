@@ -1,7 +1,7 @@
 ---
 title: PlayFriday
-summary: "le nuove generazioni in gioco il venerdì sera"
-tags: [Kids, Party, Eventi]
+description: "le nuove generazioni in gioco il venerdì sera"
+tags: [kids, Party, eventi]
 categories: []
 date: 2019-10-21
 toc : true
@@ -9,10 +9,10 @@ toc : true
 
 > Come ritrovarsi tra ragazzi una volta alla settimana a giocare sui tavoli
 
-> *Fabio:*
+> [!tip] Fabio
 > vengono i miei amici a giocare ai giochi che più mi piacciono
 
-![](../../scuola/ludosofia/_img/progetto_playfriday.webp)
+![](../../ludosofia/_img/progetto_playfriday.webp)
 
 Il progetto PlayFriday nasce nel 2019 per dare uno spazio e un tempo ad un gruppo di ragazzi (età media 9-12) per giocare esclusivamente giochi da tavolo. Volevo uno spazio che non fosse una casa di qualcuno, non solo perché nessuno di noi ha una stanza/taverna adeguata e isolata, ma sopratutto per incentivare un'autonoma organizzazione e aggregazione intorno ai giochi in uno spazio pubblico.
 Abbiamo iniziato trovandoci io, mio figlio ed un suo amico che giocavano a Carte Pokemon, e in poche settimane si sono passati parola fino ad essere un gruppo fisso di circa 8 giovani.

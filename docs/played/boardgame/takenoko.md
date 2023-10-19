@@ -7,7 +7,7 @@ categories:
   - boardgame
 tags:
   - Family
-  - Award
+  - award
 date: 2020-12-14
 lastmod: 2022-12-18
 
@@ -35,11 +35,11 @@ played_url_details: https://www.boardgamegeek.com/boardgame/70919/takenoko
 played_url_play: 
 ---
 
-![](img/takenoko.webp)
+![](../../assets/img/played/boardgame/takenoko.webp)
 
 Coltiva il bambù e dai da mangiare al panda affamato.
 Esteticamente bellissimo con le miniature e la plancia di gioco sempre diversa.  
 Si impara facile e necessita quel minimo di strategia e di matematica per vincere.
 
-> *Stefano:*
+> [!info] Stefano
 > Ogni tanto i giochi con componenti belle da vedere e da toccare e con un'ambientazione pucciosa, può essere una chiave per coinvolgere i giocatori a sedersi al tavolo

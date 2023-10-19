@@ -6,7 +6,7 @@ type: PlayED
 categories:
   - videogame
 tags:
-  - Award
+  - award
   - Tablet
 date: 2020-12-14
 lastmod: 2022-12-18
@@ -36,15 +36,13 @@ played_url_play:
 played_vg_platforms: []
 ---
 
-![](img/piante_vs_zombies.webp){: style="height:200px"}
-![](img/piante_vs_zombies_2.webp){: style="height:200px"}
-![](img/piante_vs_zombies_3.webp){: style="height:200px"}
+![](../../assets/img/played/videogame/piante_vs_zombies.webp)
+![](../../assets/img/played/videogame/piante_vs_zombies_2.webp)
+![](../../assets/img/played/videogame/piante_vs_zombies_3.webp)
 
 Un gioco "classico" che tutti hanno provato, molto adatto ai giovanissimi (sopratutto l'1, il 2 è molto più complicato)
 
 > *Bruno:* so tutto delle piante e di tutti gli zombies
-{.boxFabio}
 
-> *Stefano:* pianificazione.
-{.boxStefano}
+> [!info] Stefano pianificazione.
 

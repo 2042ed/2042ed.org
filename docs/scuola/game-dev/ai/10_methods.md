@@ -11,15 +11,15 @@ weight: 10
 >  Knowing when to be complex and when to stay simple is the most difficult element of the game AI programmer’s art.
 
 ## AI Model
-![](img/AI-model.webp)
+![](../../../assets/img/gamedev/img-ai/AI-model.webp)
 
 ## Ad-Hoc Behavior Authoring
 Il metodo *classico*, e tutt'ora più usato per controllare gli NPC dei videogiochi: Finite state machines, behavior trees and utility-based AI.
 
 ### FSM
 
-![](img/fsm_scheme.webp)
-![](img/ai.fsm.pacman.webp)
+![](../../../assets/img/gamedev/img-ai/fsm_scheme.webp)
+![](../../../assets/img/gamedev/img-ai/ai.fsm.pacman.webp)
 
 3 componenti:
 1. **stati**: contiene la descrizione dello stato in cui si trova
@@ -41,8 +41,8 @@ SI possono costruire sistemi di decisione abbastanza complessi, però le transiz
 
 ### Behavior Trees
 
-![](img/ai.bt.webp)
-![](img/ai.bt.2.webp)
+![](../../../assets/img/gamedev/img-ai/ai.bt.webp)
+![](../../../assets/img/gamedev/img-ai/ai.bt.2.webp)
 
 Un Behavior Tree (BT) è un sistema simile al FSM ma le cui transizioni non solo collegate allo stato attuale, ma sono più generali.
 
@@ -109,7 +109,7 @@ Ogni istanza nel gioco viene dotata di una funziona Utility che ne restituisce l
 Una funzione può misurare qualsiasi cosa di osservabile (distanza, salute) o deducibile (emozioni / minaccia)
 
 Esempio di Behaviour Ms PacMan
-![](img/utility-based.webp)
+![](../../../assets/img/gamedev/img-ai/utility-based.webp)
 
 Esempio **scelta arma di un agente NPC**, si misurano: 
 
@@ -190,12 +190,12 @@ A* può essere usato anche per navigare negli spazi degli stti di gioco, non sol
 
 
 ### Decision Tree Learning
-![](img/ai.decision_tree.webp)
-![](img/ai.decision_tree_2.webp)
+![](../../../assets/img/gamedev/img-ai/ai.decision_tree.webp)
+![](../../../assets/img/gamedev/img-ai/ai.decision_tree_2.webp)
 
 ### Mini Max
 
-![](img/ai.minmax.webp)
+![](../../../assets/img/gamedev/img-ai/ai.minmax.webp)
 
 L'algoritmo minimax è un algoritmo per la ricerca della mossa migliore in un gioco a somma zero che si svolge tra due giocatori. L'algoritmo minimax è utilizzato nella teoria delle decisioni quando i giocatori si trovano in interazione strategica
 È finalizzato a minimizzare la massima perdita possibile di ciascun giocatore. L'algoritmo minimax consente di individuare le scelte migliori dei due giocatori nel corso del gioco, analizzando a ritroso l'albero di gioco a partire dai nodi terminali, ossia dalle possibili situazioni in cui può terminare il gioco ( fine gioco ), e risalendo progressivamente fino alla posizione corrente dei giocatori.
@@ -223,7 +223,7 @@ gli steps sono:
 3. Simulation (si gioca casualmente fino alla fine)
 4. Backpropagation (il reward viene propagato indietro)
 
-![](img/ai_treesearch_montecarlo.webp)
+![](../../../assets/img/gamedev/img-ai/ai_treesearch_montecarlo.webp)
 
 ## GOAP
 ![](https://data-science-blog.com/wp-content/uploads/2023/07/GOAP-2048x828.png)
@@ -248,8 +248,8 @@ si modifica costantemente la propria direzione per seguire dei punti di percorso
 
 ![](../../../assets/img/gamedev/ai-follow-graph.webp)
 
-![](img/locomotion_1.jpg)
-![](img/locomotion_2.jpg)
+![](../../../assets/img/gamedev/img-ai/locomotion_1.jpg)
+![](../../../assets/img/gamedev/img-ai/locomotion_2.jpg)
 
 <https://youtu.be/fQlQQSsC47g?t=279>
 
@@ -284,7 +284,7 @@ Si cerca di rappresentare una soluzione come un array di valori (es. le azioni p
 4. se s' è migliore, si tiene s'
 5. -> 2
 
-![](img/ai.local_search.webp)
+![](../../../assets/img/gamedev/img-ai/ai.local_search.webp)
 
 ### Evolutionary Algorithms
 cercano nello spazio _globale_, non soltanto nella adiacenze della attuale soluzione.
@@ -293,4 +293,4 @@ SI generano molte soluzione, si buttano via quelle minori e si tengono le miglio
 
 L'idea è che se troviamo due buon soluzioni, una soluzione che ne sia una combinazione o intermediazione potrebbe essere altrettanto buona se non migliore.
 
-![](img/ai.local_search_evo.webp)
+![](../../../assets/img/gamedev/img-ai/ai.local_search_evo.webp)

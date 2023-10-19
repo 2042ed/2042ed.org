@@ -6,7 +6,7 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Award
+  - award
   - Family
   - Carte
   - Party
@@ -42,10 +42,10 @@ Poi è uscita questa versione *Party* con il bello che l'obiettivo del gioco lo 
 
 È ancora più profondo e vario, e piace davvero anche ai neofiti. 
 
-> *Fabio:*
+> [!tip] Fabio
 > parla di Sushi e ogni tipo di sushi ha la sua combo di punti
 
-> *Stefano:*
+> [!info] Stefano
 > noi lo portiamo in vacanza. anche perché amiamo il Sushi ;)
 
 

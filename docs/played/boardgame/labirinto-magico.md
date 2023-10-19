@@ -6,7 +6,7 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Kids
+  - kids
 date: 2020-12-14
 lastmod: 2022-12-18
 
@@ -36,10 +36,10 @@ played_url_play:
 
 E' un altro classico che non può mancare in nessuna casa
 
-> *Fabio:*
+> [!tip] Fabio
 > È bello decidere come cambiare il labirinto per tasformarlo a tuo favore
 
-> *Stefano:*
+> [!info] Stefano
 > Un bel modo per far capire che niente è statico.. tutto cambia!
 
 

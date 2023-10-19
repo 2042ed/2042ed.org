@@ -7,8 +7,8 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Linguaggio
-  - Memoria
+  - linguaggio
+  - memoria
   - Puzzle
 date: 2021-04-07
 lastmod: 2022-12-18

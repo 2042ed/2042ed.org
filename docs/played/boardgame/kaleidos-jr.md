@@ -4,7 +4,7 @@ description: ""
 type: PlayED
 categories:
   - boardgame
-tags: []
+tags:
 date: 2021-12-14
 lastmod: 2022-12-18
 
@@ -32,7 +32,7 @@ played_url_details: https://boardgamegeek.com/boardgame/24209/kaleidos-junior
 played_url_play: 
 ---
 
-![](img/kaleidos-jr.webp)
+![](../../assets/img/played/boardgame/kaleidos-jr.webp)
 
 Il gioco che sta facendo impazzire figlio 2: Kaleidos Jr. 
 abbiamo tutti lo stesso tabellone strapieno di oggetti e cose di tutti i tipi e un minuto per trovare quante più corrispondenze con la categoria o la lettera sorteggiata.

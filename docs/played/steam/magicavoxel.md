@@ -39,11 +39,11 @@ played_vg_platforms:
   - Desktop
 ---
 
-![](img/magica_voxel.webp){: style="height:200px"}
-![](img/magica_voxel_2.webp){: style="height:200px"}
+![](../../assets/img/played/steam/magica_voxel.webp)
+![](../../assets/img/played/steam/magica_voxel_2.webp)
 
 E' l'unico non gioco della lista ma lo metto perché è un programmino notevolissimo, gratuito, multipiattaforma, per "disegnare" in 3D con i Voxels, i pixels tridimensionali, stile Minecraft per intenderci.
 I vostri figli ma anche voi vi divertirete come matti
 
-> *Fabio:*
+> [!tip] Fabio
 > con questo programma ho creato moltissime cose che poi sono entrate anche nei miei videogiochi

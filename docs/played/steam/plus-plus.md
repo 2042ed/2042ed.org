@@ -6,7 +6,7 @@ type: PlayED
 categories:
   - steam
 tags:
-  - Award
+  - award
   - Build
   - Creare
 date: 2020-12-14

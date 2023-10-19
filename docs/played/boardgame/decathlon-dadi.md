@@ -7,7 +7,7 @@ categories:
   - boardgame
 tags:
   - Dadi
-  - Sport
+  - sport
   - Free
   - Compatto
 date: 2020-12-14

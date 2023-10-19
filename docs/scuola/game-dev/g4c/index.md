@@ -8,6 +8,6 @@ updated: 2023-04-20
 *Videogiochi per l'Impatto Sociale e Business oltre l’entertainment*  
 di [Stefano Cecere](https://github.com/StefanoCecere)
 
-[![G4C](img/book_g4c_banner.webp)](02_introduzione.md)
+[![G4C](../../../assets/img/gamedev/img-g4c/book_g4c_banner.webp)](02_introduzione.md)
 
 👉🏼 [Inizia da qui](02_introduzione.md).

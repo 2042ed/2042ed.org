@@ -18,9 +18,9 @@ AI può giocare con due obiettivi:
 	a) debug e simulazione
 	b) credibilità e umanizzazione
 
-![](img/ai.playfor.webp)
+![](../../../assets/img/gamedev/img-ai/ai.playfor.webp)
 
-![](img/ai.game_characteristics.webp)
+![](../../../assets/img/gamedev/img-ai/ai.game_characteristics.webp)
 
 ##  1. NPCs (non-player characters)
 
@@ -37,7 +37,7 @@ Vantaggi:
 - Più furbi
 - Possono imitare i migliori giocatori (umani)
 
-![](../../talk/img/ml-imitation.webp)
+![](../../../assets/img/talk/ml-imitation.webp)
 
 Un buon giocatore AI:
 

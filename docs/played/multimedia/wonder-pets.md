@@ -6,8 +6,8 @@ type: PlayED
 categories:
   - media
 tags:
-  - TV
-  - Music
+  - tv
+  - music
 date: 2020-12-14
 lastmod: 2022-12-18
 
@@ -37,7 +37,7 @@ played_url_play:
 
 <https://en.wikipedia.org/wiki/Wonder_Pets>
 
-> *Fabio:*
+> [!tip] Fabio
 > belle le musiche e le canzoni. cantano sempre!
 
 
