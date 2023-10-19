@@ -3,6 +3,10 @@ title: Ruota delle App iPad per bisogni educativi speciali
 date: 2023-03-03
 authors: 
  - stefano
+tags:
+ - apps
+categories:
+  - EdTech
 ---
 # Ruota delle App iPad per bisogni educativi speciali
 
