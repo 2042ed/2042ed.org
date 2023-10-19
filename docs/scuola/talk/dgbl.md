@@ -6,7 +6,7 @@ description: Digital Game Based Learning slides
 authors: []
 categories:
   - talk
-tags:
+tags: []
 draft: true
 type: slides
 slides:

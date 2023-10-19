@@ -6,7 +6,7 @@ slug: grazie
 description: 
 type: book
 weight: 990
-tags:
+tags: []
 ---
 # Ringraziamenti e Regalo
 Innanzitutto i creatori, produttori e distributori di tutti i giochi e progetti qui raccontati.. senza il pane non si mangia ne si pensa.

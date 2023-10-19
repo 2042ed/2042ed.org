@@ -5,7 +5,7 @@ updated: 2023-10-19
 subtitle: ""
 category: giochiamo
 featured: false
-tags: 
+tags: []
 ---
 
 già.. a chi non piace giocare, direte?

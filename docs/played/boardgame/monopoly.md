@@ -5,7 +5,7 @@ updated: 2023-08-28
 type: PlayED
 categories:
   - boardgame
-tags: 
+tags: []
 description: ""
 permalink: 
 slug: monopoly
