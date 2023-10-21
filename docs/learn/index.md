@@ -24,5 +24,7 @@ _Ok, ma cosa fare nel mondo?_
 _Guide varie di Media Education e oltre_
 - :fontawesome-solid-book: [Ed 101](ed101/index.md)  
 _i minimi fondamentali_
+- :fontawesome-solid-book: [Talks](talk/index.md)  
+_alcune conferenze di approfondimento_
 
 </div>

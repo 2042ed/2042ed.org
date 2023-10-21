@@ -17,8 +17,8 @@ _Benvenuti in questo spazio opensource nell'intersezione tra il gioco, l'educazi
 
 ## Novità
 - [2023-06-21: Guida DGBL](learn/dgbl/index.md)
-- [2023-05-22: Introduzione alla AI creativa](wiki/talk/generative-ai-intro.md)
-- [2023-04-25: Presentazione sul Creare un Videogioco](wiki/talk/creare-un-videogioco.md)
+- [2023-05-22: Introduzione alla AI creativa](learn/talk/generative-ai-intro.md)
+- [2023-04-25: Presentazione sul Creare un Videogioco](learn/talk/creare-un-videogioco.md)
 - [2023-02-05: Leggete la storia del gioco di carte creato dai ragazzi](lab/jam/arkombat.md)
 
 ## PLAY: per educatori, genitori e giocatori
@@ -34,7 +34,7 @@ _Benvenuti in questo spazio opensource nell'intersezione tra il gioco, l'educazi
 *guida al Digital Game Based Learning*  
 - [Lab](lab/index.md)  
 *laboratori per imparare creando*  
-- [Talk](wiki/talk/index.md)  
+- [Talk](learn/talk/index.md)  
 _Presentazioni su temi vari_
 - 📖 [Wiki](wiki/index.md)  
 _Ricerche e materiali nel campo della pedagogia e dell'educazione_

@@ -10,7 +10,7 @@ tags:
 # World Café / Café de la Paz
 > un metodo per intavolare conversazioni informali vivaci e costruttive su temi importanti.
 
-![](../img/world-cafe.webp)
+![](../../assets/img/2050/world-cafe.webp)
 
 Viene ricreata l'ambientazione intima e accogliente di un caffè, con tavolini rotondi adatti ad ospitare ognuno dalle 4 alle 6 persone. I tavolini sono disposti in modo libero in una stanza e sono dotati di materiali per annotare, disegnare, scrivere, in altre parole, per fissare le idee.
 

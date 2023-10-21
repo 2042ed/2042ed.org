@@ -2,7 +2,7 @@
 title: Dizionario del Nuovo Umanesimo
 ---
 
-Questo dizionario è stato pubblicato da [Silo](../../spazio/riferimenti/personaggi/silo.md) nel 1994 con il titolo “Alcuni Termini di Uso Frequente nell’Umanismo”, e poi notevolmente ampliato nel 1997. I termini che troverete non provengono dagli ambiti della cultura generale bensì, per la maggior parte, da quelli più specifici della Politologia e della Sociologia. Secondo l’autore “in questo dizionario, cui hanno contribuito collaboratori scelti, non s’è riusciti ad armonizzare l’umanismo occidentale con le altre forme di umanismo, ugualmente ricche, presenti nelle diverse culture. Tale mancanza potrà essere superata nel momento in cui si riuscirà a realizzare una enciclopedia della portata richiesta dall’umanismo universalista.” 
+Questo dizionario è stato pubblicato da [Silo](../riferimenti/personaggi/silo.md) nel 1994 con il titolo “Alcuni Termini di Uso Frequente nell’Umanismo”, e poi notevolmente ampliato nel 1997. I termini che troverete non provengono dagli ambiti della cultura generale bensì, per la maggior parte, da quelli più specifici della Politologia e della Sociologia. Secondo l’autore “in questo dizionario, cui hanno contribuito collaboratori scelti, non s’è riusciti ad armonizzare l’umanismo occidentale con le altre forme di umanismo, ugualmente ricche, presenti nelle diverse culture. Tale mancanza potrà essere superata nel momento in cui si riuscirà a realizzare una enciclopedia della portata richiesta dall’umanismo universalista.” 
 
 ## A
 
