@@ -9,27 +9,27 @@ date: 2021-12-14
 lastmod: 2022-12-18
 
 template: played.html
-played_category: boardgame
-played_skills: []
-played_gameplay_complex: 1
-played_gameplay_strategy: 
-played_gameplay_luck: 
-played_gameplay_interaction: 1
+ed_category: boardgame
+ed_skills: []
+ed_gameplay_complex: 1
+ed_gameplay_strategy: 
+ed_gameplay_luck: 
+ed_gameplay_interaction: 1
 
-played_preferred: 1
-played_rank_dad: 
-played_rank_edu: 
-played_rank_dev: 
-played_rank_kid: 
+ed_preferred: 1
+ed_rank_dad: 
+ed_rank_edu: 
+ed_rank_dev: 
+ed_rank_kid: 
 
-played_players: 2-99
-played_age: 5
-played_duration: 20
+ed_players: 2-99
+ed_age: 5
+ed_duration: 20
 
-played_publisher: 
-played_year: 1997
-played_url_details: https://boardgamegeek.com/boardgame/24209/kaleidos-junior
-played_url_play: 
+ed_publisher: 
+ed_year: 1997
+ed_url_details: https://boardgamegeek.com/boardgame/24209/kaleidos-junior
+ed_url_play: 
 ---
 
 ![](../../assets/img/played/boardgame/kaleidos-jr.webp)

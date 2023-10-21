@@ -13,28 +13,28 @@ date: 2020-12-14
 lastmod: 2022-12-18
 
 template: played.html
-played_category: videogame
-played_skills: []
-played_gameplay_complex: 1
-played_gameplay_strategy: 1
-played_gameplay_luck: 1
-played_gameplay_interaction: 3
+ed_category: videogame
+ed_skills: []
+ed_gameplay_complex: 1
+ed_gameplay_strategy: 1
+ed_gameplay_luck: 1
+ed_gameplay_interaction: 3
 
-played_preferred: 10
-played_rank_dad: 10
-played_rank_edu: 10
-played_rank_dev: 10
-played_rank_kid: 10
+ed_preferred: 10
+ed_rank_dad: 10
+ed_rank_edu: 10
+ed_rank_dev: 10
+ed_rank_kid: 10
 
-played_players: 1
-played_age: 5
-played_duration: 
+ed_players: 1
+ed_age: 5
+ed_duration: 
 
-played_publisher: Microsoft
-played_year: 2008
-played_url_details: https://minecraft.net
-played_url_play: 
-played_vg_platforms:
+ed_publisher: Microsoft
+ed_year: 2008
+ed_url_details: https://minecraft.net
+ed_url_play: 
+ed_vg_platforms:
   - all
 ---
 

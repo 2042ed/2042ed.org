@@ -9,29 +9,31 @@ categories:
   - boardgame
 tags:
   - award
+  - g/carte
+  - s/strategy
   - Carte
   - 2Giocatori
   - storia
   - Compatto
 template: played.html
-played_category: boardgame
-played_skills: []
-played_gameplay_complex: 3
-played_gameplay_strategy: 
-played_gameplay_luck: 
-played_gameplay_interaction: 
-played_preferred: 1
-played_rank_dad: 
-played_rank_edu: 
-played_rank_dev: 
-played_rank_kid: 
-played_players: 2
-played_age: 9
-played_duration: 
-played_publisher: 
-played_year: 
-played_url_details: https://boardgamegeek.com/boardgame/173346/7-wonders-duel
-played_url_play:
+ed_category: boardgame
+ed_skills: []
+ed_gameplay_complex: 3
+ed_gameplay_strategy: 
+ed_gameplay_luck: 
+ed_gameplay_interaction: 
+ed_preferred: 1
+ed_rank_dad: 
+ed_rank_edu: 
+ed_rank_dev: 
+ed_rank_kid: 
+ed_players: 2
+ed_age: 9
+ed_duration: 
+ed_publisher: 
+ed_year: 
+ed_url_details: https://boardgamegeek.com/boardgame/173346/7-wonders-duel
+ed_url_play:
 ---
 
 ![duel|300](../../assets/img/played/boardgame/7wonders_duel_logo.webp)

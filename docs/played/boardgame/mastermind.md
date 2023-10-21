@@ -11,27 +11,27 @@ tags:
   - 2Giocatori
 
 template: played.html
-played_category: boardgame
-played_skills: []
-played_gameplay_complex: 1
-played_gameplay_strategy: 2
-played_gameplay_luck: 1
-played_gameplay_interaction: 1
+ed_category: boardgame
+ed_skills: []
+ed_gameplay_complex: 1
+ed_gameplay_strategy: 2
+ed_gameplay_luck: 1
+ed_gameplay_interaction: 1
 
-played_preferred: 1
-played_rank_dad: 5
-played_rank_edu: null
-played_rank_dev: null
-played_rank_kid: null
+ed_preferred: 1
+ed_rank_dad: 5
+ed_rank_edu: null
+ed_rank_dev: null
+ed_rank_kid: null
 
-played_players: 2
-played_age: 6
-played_duration: 20
+ed_players: 2
+ed_age: 6
+ed_duration: 20
 
-played_publisher: 
-played_year: 1971
-played_url_details: https://boardgamegeek.com/boardgame/2392/mastermind
-played_url_play: null
+ed_publisher: 
+ed_year: 1971
+ed_url_details: https://boardgamegeek.com/boardgame/2392/mastermind
+ed_url_play: null
 ---
 
 ![](../../assets/img/played/boardgame/master-mind.webp)

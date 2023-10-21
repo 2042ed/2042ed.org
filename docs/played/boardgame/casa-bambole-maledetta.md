@@ -12,27 +12,27 @@ tags:
   - award
   - Family
 template: played.html
-played_category: boardgame
-played_skills: []
-played_gameplay_complex: 3
-played_gameplay_strategy: 
-played_gameplay_luck: 
-played_gameplay_interaction: 
+ed_category: boardgame
+ed_skills: []
+ed_gameplay_complex: 3
+ed_gameplay_strategy: 
+ed_gameplay_luck: 
+ed_gameplay_interaction: 
 
-played_preferred: 1
-played_rank_dad: 
-played_rank_edu: 
-played_rank_dev: 
-played_rank_kid: 
+ed_preferred: 1
+ed_rank_dad: 
+ed_rank_edu: 
+ed_rank_dev: 
+ed_rank_kid: 
 
-played_players: 1-4
-played_age: 8
-played_duration: 60 /180
+ed_players: 1-4
+ed_age: 8
+ed_duration: 60 /180
 
-played_publisher: 
-played_year: 
-played_url_details: https://www.boardgamegeek.com/boardgame/311686/escape-room-cursed-dollhouse
-played_url_play: 
+ed_publisher: 
+ed_year: 
+ed_url_details: https://www.boardgamegeek.com/boardgame/311686/escape-room-cursed-dollhouse
+ed_url_play: 
 ---
 ![](../../assets/img/played/boardgame/casa_bambole.webp)
 

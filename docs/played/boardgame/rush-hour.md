@@ -14,27 +14,27 @@ date: 2020-12-14
 lastmod: 2022-12-18
 
 template: played.html
-played_category: boardgame
-played_skills: []
-played_gameplay_complex: 1
-played_gameplay_strategy: 3
-played_gameplay_luck: 0
-played_gameplay_interaction: 0
+ed_category: boardgame
+ed_skills: []
+ed_gameplay_complex: 1
+ed_gameplay_strategy: 3
+ed_gameplay_luck: 0
+ed_gameplay_interaction: 0
 
-played_preferred: 
-played_rank_dad: 
-played_rank_edu: 
-played_rank_dev: 
-played_rank_kid: 
+ed_preferred: 
+ed_rank_dad: 
+ed_rank_edu: 
+ed_rank_dev: 
+ed_rank_kid: 
 
-played_players: 1
-played_age: 5
-played_duration: 10
+ed_players: 1
+ed_age: 5
+ed_duration: 10
 
-played_publisher: ThinkFun
-played_year: 
-played_url_details: https://www.thinkfun.com/products/rush-hour/
-played_url_play: 
+ed_publisher: ThinkFun
+ed_year: 
+ed_url_details: https://www.thinkfun.com/products/rush-hour/
+ed_url_play: 
 ---
 
 Il gioco è un classico.. bisogna trovare la procedura per "sbloccare" il traffico.

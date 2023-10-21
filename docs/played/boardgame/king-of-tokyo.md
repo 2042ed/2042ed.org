@@ -15,24 +15,24 @@ lastmod: 2022-12-18
 featured: false
 draft: false
 template: played.html
-played_category: boardgame
-played_skills: []
-played_gameplay_complex: 2
-played_gameplay_strategy: 2
-played_gameplay_luck: 
-played_gameplay_interaction: 3
-played_preferred: 1
-played_rank_dad: 8
-played_rank_edu: 2
-played_rank_dev: 6
-played_rank_kid: 8
-played_players: 2-6
-played_age: 6
-played_duration: 20
-played_publisher: IELLO
-played_year: 2011
-played_url_details: https://www.boardgamegeek.com/boardgame/70323/king-tokyo
-played_url_play:
+ed_category: boardgame
+ed_skills: []
+ed_gameplay_complex: 2
+ed_gameplay_strategy: 2
+ed_gameplay_luck: 
+ed_gameplay_interaction: 3
+ed_preferred: 1
+ed_rank_dad: 8
+ed_rank_edu: 2
+ed_rank_dev: 6
+ed_rank_kid: 8
+ed_players: 2-6
+ed_age: 6
+ed_duration: 20
+ed_publisher: IELLO
+ed_year: 2011
+ed_url_details: https://www.boardgamegeek.com/boardgame/70323/king-tokyo
+ed_url_play:
 ---
 
 ![](../../assets/img/played/boardgame/king-of-tokyo.webp)

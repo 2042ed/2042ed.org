@@ -12,28 +12,28 @@ date: 2020-12-14
 lastmod: 2022-12-18
 
 template: played.html
-played_category: boardgame
-played_skills: []
+ed_category: boardgame
+ed_skills: []
 
-played_gameplay_complex: 2
-played_gameplay_strategy: 
-played_gameplay_luck: 
-played_gameplay_interaction: 
+ed_gameplay_complex: 2
+ed_gameplay_strategy: 
+ed_gameplay_luck: 
+ed_gameplay_interaction: 
 
-played_preferred: 1
-played_rank_dad: 
-played_rank_edu: 
-played_rank_dev: 
-played_rank_kid: 
+ed_preferred: 1
+ed_rank_dad: 
+ed_rank_edu: 
+ed_rank_dev: 
+ed_rank_kid: 
 
-played_players: 3-6
-played_age: 10
-played_duration: 30
+ed_players: 3-6
+ed_age: 10
+ed_duration: 30
 
-played_publisher: 
-played_year: 
-played_url_details: https://www.boardgamegeek.com/boardgame/68448/7-wonders
-played_url_play: 
+ed_publisher: 
+ed_year: 
+ed_url_details: https://www.boardgamegeek.com/boardgame/68448/7-wonders
+ed_url_play: 
 ---
 
 Un gioco che è ormai un classico: evolvi la tua civiltà con progresso sociale, o militare o scientifico, il primo che arriva a svilupparsi pienamente vince.

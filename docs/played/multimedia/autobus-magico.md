@@ -13,27 +13,27 @@ date: 2020-12-14
 lastmod: 2022-12-18
 
 template: played.html
-played_category: multimedia
-played_skills: []
-played_gameplay_complex: null
-played_gameplay_strategy: null
-played_gameplay_luck: null
-played_gameplay_interaction: null
+ed_category: multimedia
+ed_skills: []
+ed_gameplay_complex: null
+ed_gameplay_strategy: null
+ed_gameplay_luck: null
+ed_gameplay_interaction: null
 
-played_preferred: null
-played_rank_dad: null
-played_rank_edu: 10
-played_rank_dev: null
-played_rank_kid: null
+ed_preferred: null
+ed_rank_dad: null
+ed_rank_edu: 10
+ed_rank_dev: null
+ed_rank_kid: null
 
-played_players: null
-played_age: null
-played_duration: null
+ed_players: null
+ed_age: null
+ed_duration: null
 
-played_publisher: null
-played_year: null
-played_url_details: null
-played_url_play: null
+ed_publisher: null
+ed_year: null
+ed_url_details: null
+ed_url_play: null
 ---
 
 > **#STEAM #Edu**

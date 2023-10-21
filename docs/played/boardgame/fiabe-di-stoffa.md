@@ -15,27 +15,27 @@ date: 2020-12-14
 lastmod: 2022-12-18
 
 template: played.html
-played_category: boardgame
-played_skills: []
-played_gameplay_complex: 3
-played_gameplay_strategy: 2
-played_gameplay_luck: 1
-played_gameplay_interaction: 3ki
+ed_category: boardgame
+ed_skills: []
+ed_gameplay_complex: 3
+ed_gameplay_strategy: 2
+ed_gameplay_luck: 1
+ed_gameplay_interaction: 3ki
 
-played_preferred: 1
-played_rank_dad: 7
-played_rank_edu: 2
-played_rank_dev: 5
-played_rank_kid: 8
+ed_preferred: 1
+ed_rank_dad: 7
+ed_rank_edu: 2
+ed_rank_dev: 5
+ed_rank_kid: 8
 
-played_players: 2-4
-played_age: 7
-played_duration: 60
+ed_players: 2-4
+ed_age: 7
+ed_duration: 60
 
-played_publisher: Plaid Hat Games - Asmodee
-played_year: 2018
-played_url_details: https://boardgamegeek.com/boardgame/233312/stuffed-fables
-played_url_play: 
+ed_publisher: Plaid Hat Games - Asmodee
+ed_year: 2018
+ed_url_details: https://boardgamegeek.com/boardgame/233312/stuffed-fables
+ed_url_play: 
 ---
 
 che soddisfazione, quando dopo cena anziché andare alla tv, chiede di giocare a "Fiabe di stoffa", un libro avventura anche abbastanza complicato, dove ogni pagina è una missione, da leggere, fare scelte, combattere, scoprire la storia.

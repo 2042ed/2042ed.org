@@ -13,27 +13,27 @@ date: 2020-12-14
 lastmod: 2022-12-18
 
 template: played.html
-played_category: boardgame
-played_skills: []
-played_gameplay_complex: 1
-played_gameplay_strategy: 1
-played_gameplay_luck: 4
-played_gameplay_interaction: 2
+ed_category: boardgame
+ed_skills: []
+ed_gameplay_complex: 1
+ed_gameplay_strategy: 1
+ed_gameplay_luck: 4
+ed_gameplay_interaction: 2
 
-played_preferred: 1
-played_rank_dad: 
-played_rank_edu: 8
-played_rank_dev: 
-played_rank_kid: 8
+ed_preferred: 1
+ed_rank_dad: 
+ed_rank_edu: 8
+ed_rank_dev: 
+ed_rank_kid: 8
 
-played_players: 2-10
-played_age: 7
-played_duration: 20
+ed_players: 2-10
+ed_age: 7
+ed_duration: 20
 
-played_publisher: Amigo
-played_year: 1994
-played_url_details: 
-played_url_play: https://boardgamearena.com/gamepanel?game=sechsnimmt
+ed_publisher: Amigo
+ed_year: 1994
+ed_url_details: 
+ed_url_play: https://boardgamearena.com/gamepanel?game=sechsnimmt
 ---
 
 ## Obiettivo

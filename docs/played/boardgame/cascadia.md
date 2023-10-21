@@ -11,27 +11,27 @@ tags:
   - Family
 
 template: played.html
-played_category: boardgame
-played_skills: []
-played_gameplay_complex: 2
-played_gameplay_strategy: 3
-played_gameplay_luck: 1
-played_gameplay_interaction: 1
+ed_category: boardgame
+ed_skills: []
+ed_gameplay_complex: 2
+ed_gameplay_strategy: 3
+ed_gameplay_luck: 1
+ed_gameplay_interaction: 1
 
-played_preferred: 1
-played_rank_dad: 5
-played_rank_edu: 2
-played_rank_dev: 3
-played_rank_kid: 3
+ed_preferred: 1
+ed_rank_dad: 5
+ed_rank_edu: 2
+ed_rank_dev: 3
+ed_rank_kid: 3
 
-played_players: 2-4
-played_age: 8
-played_duration: 30
+ed_players: 2-4
+ed_age: 8
+ed_duration: 30
 
-played_publisher: 
-played_year: 2021
-played_url_details: https://boardgamegeek.com/boardgame/295947/cascadia
-played_url_play: 
+ed_publisher: 
+ed_year: 2021
+ed_url_details: https://boardgamegeek.com/boardgame/295947/cascadia
+ed_url_play: 
 ---
 
 ![](../../assets/img/played/boardgame/cascadia.webp)

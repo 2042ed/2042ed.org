@@ -15,27 +15,27 @@ date: 2020-12-14
 lastmod: 2022-12-18
 
 template: played.html
-played_category: boardgame
-played_skills: []
-played_gameplay_complex: 2
-played_gameplay_strategy: 3
-played_gameplay_luck: 3
-played_gameplay_interaction: 4
+ed_category: boardgame
+ed_skills: []
+ed_gameplay_complex: 2
+ed_gameplay_strategy: 3
+ed_gameplay_luck: 3
+ed_gameplay_interaction: 4
 
-played_preferred: 1
-played_rank_dad: 6
-played_rank_edu: 
-played_rank_dev: 8
-played_rank_kid: 5
+ed_preferred: 1
+ed_rank_dad: 6
+ed_rank_edu: 
+ed_rank_dev: 8
+ed_rank_kid: 5
 
-played_players: 2-5
-played_age: 6
-played_duration: 25
+ed_players: 2-5
+ed_age: 6
+ed_duration: 25
 
-played_publisher: 
-played_year: 2010
-played_url_details: https://boardgamegeek.com/boardgame/98778/hanabi
-played_url_play: https://boardgamearena.com/gamepanel?game=hanabi
+ed_publisher: 
+ed_year: 2010
+ed_url_details: https://boardgamegeek.com/boardgame/98778/hanabi
+ed_url_play: https://boardgamearena.com/gamepanel?game=hanabi
 ---
 
 Pronti? qui **il giocatore non vede le proprie carte!** incredibile ma funziona alla grande, perché si vedono solo le carte degli altri.

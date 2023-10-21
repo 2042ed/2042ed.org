@@ -14,27 +14,27 @@ date: 2020-12-14
 lastmod: 2022-12-18
 
 template: played.html
-played_category: boardgame
-played_skills: []
-played_gameplay_complex: 1
-played_gameplay_strategy: 
-played_gameplay_luck: 
-played_gameplay_interaction: 
+ed_category: boardgame
+ed_skills: []
+ed_gameplay_complex: 1
+ed_gameplay_strategy: 
+ed_gameplay_luck: 
+ed_gameplay_interaction: 
 
-played_preferred: 
-played_rank_dad: 
-played_rank_edu: 
-played_rank_dev: 
-played_rank_kid: 
+ed_preferred: 
+ed_rank_dad: 
+ed_rank_edu: 
+ed_rank_dev: 
+ed_rank_kid: 
 
-played_players: 4-10
-played_age: 6
-played_duration: 30
+ed_players: 4-10
+ed_age: 6
+ed_duration: 30
 
-played_publisher: 
-played_year: 
-played_url_details: https://boardgamegeek.com/boardgame/18723/aye-dark-overlord-red-box
-played_url_play: 
+ed_publisher: 
+ed_year: 
+ed_url_details: https://boardgamegeek.com/boardgame/18723/aye-dark-overlord-red-box
+ed_url_play: 
 ---
 
 Un giocatore fa l'Oscuro Signore, tutti gli altri i suoi servitori goblin, che devono inventarsi delle scuse plausibili o paradossali, ma comunque convincenti, per non farsi punire per aver disatteso gli ordini dando la colpa a qualcun altro che deve continuare le giustificazioni 

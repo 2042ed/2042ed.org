@@ -12,29 +12,29 @@ tags:
 date: 2020-12-15
 
 template: played.html
-played_category: boardgame
-played_skills:
+ed_category: boardgame
+ed_skills:
   - sk_logic
   - sk_communication
-played_gameplay_complex: 1
-played_gameplay_strategy: 3
-played_gameplay_luck: 2
-played_gameplay_interaction: 5
+ed_gameplay_complex: 1
+ed_gameplay_strategy: 3
+ed_gameplay_luck: 2
+ed_gameplay_interaction: 5
 
-played_preferred: 1
-played_rank_dad: 10
-played_rank_edu: 3
-played_rank_dev: 10
-played_rank_kid: 10
+ed_preferred: 1
+ed_rank_dad: 10
+ed_rank_edu: 3
+ed_rank_dev: 10
+ed_rank_kid: 10
 
-played_players: 1-4
-played_age: 6
-played_duration: 15
+ed_players: 1-4
+ed_age: 6
+ed_duration: 15
 
-played_publisher: Le Scorpion Masqué
-played_year: 2021
-played_url_details: https://boardgamegeek.com/boardgame/310448/zombie-teenz-evolution
-played_url_play: 
+ed_publisher: Le Scorpion Masqué
+ed_year: 2021
+ed_url_details: https://boardgamegeek.com/boardgame/310448/zombie-teenz-evolution
+ed_url_play: 
 lastmod: 2022-12-18
 ---
 

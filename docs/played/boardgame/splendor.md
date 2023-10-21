@@ -15,27 +15,27 @@ date: 2020-12-14
 lastmod: 2022-12-18
 
 template: played.html
-played_category: boardgame
-played_skills: []
-played_gameplay_complex: 2
-played_gameplay_strategy: 3
-played_gameplay_luck: 2
-played_gameplay_interaction: 2
+ed_category: boardgame
+ed_skills: []
+ed_gameplay_complex: 2
+ed_gameplay_strategy: 3
+ed_gameplay_luck: 2
+ed_gameplay_interaction: 2
 
-played_preferred: 1
-played_rank_dad: 7
-played_rank_edu: 3
-played_rank_dev: 7
-played_rank_kid: 3
+ed_preferred: 1
+ed_rank_dad: 7
+ed_rank_edu: 3
+ed_rank_dev: 7
+ed_rank_kid: 3
 
-played_players: 2-4
-played_age: 7
-played_duration: 30
+ed_players: 2-4
+ed_age: 7
+ed_duration: 30
 
-played_publisher: Space Cowboys
-played_year: 
-played_url_details: https://www.boardgamegeek.com/boardgame/148228/splendor
-played_url_play: https://boardgamearena.com/gamepanel?game=splendor
+ed_publisher: Space Cowboys
+ed_year: 
+ed_url_details: https://www.boardgamegeek.com/boardgame/148228/splendor
+ed_url_play: https://boardgamearena.com/gamepanel?game=splendor
 ---
 
 ![](../../assets/img/played/boardgame/splendor.webp)

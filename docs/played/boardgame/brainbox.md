@@ -16,28 +16,28 @@ featured: false
 draft: false
 
 template: played.html
-played_category: boardgame
-played_skills:
+ed_category: boardgame
+ed_skills:
   - sk_memory
-played_gameplay_complex: 1
-played_gameplay_strategy: 0
-played_gameplay_luck: 0
-played_gameplay_interaction: 0
+ed_gameplay_complex: 1
+ed_gameplay_strategy: 0
+ed_gameplay_luck: 0
+ed_gameplay_interaction: 0
 
-played_preferred: 6
-played_rank_dad: 
-played_rank_edu: 8
-played_rank_dev: 1
-played_rank_kid: 7
+ed_preferred: 6
+ed_rank_dad: 
+ed_rank_edu: 8
+ed_rank_dev: 1
+ed_rank_kid: 7
 
-played_players: 1-5
-played_age: 5
-played_duration: 10
+ed_players: 1-5
+ed_age: 5
+ed_duration: 10
 
-played_publisher: 
-played_year: 
-played_url_details: https://boardgamegeek.com/boardgame/256979/brainbox-english
-played_url_play: 
+ed_publisher: 
+ed_year: 
+ed_url_details: https://boardgamegeek.com/boardgame/256979/brainbox-english
+ed_url_play: 
 ---
 
 ![](../../assets/img/played/boardgame/brainbox-2.webp)

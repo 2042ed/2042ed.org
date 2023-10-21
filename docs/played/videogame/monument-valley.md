@@ -14,28 +14,28 @@ date: 2020-12-14
 lastmod: 2022-12-18
 
 template: played.html
-played_category: videogame
-played_skills: []
-played_gameplay_complex: 2
-played_gameplay_strategy: 
-played_gameplay_luck: 
-played_gameplay_interaction: 
+ed_category: videogame
+ed_skills: []
+ed_gameplay_complex: 2
+ed_gameplay_strategy: 
+ed_gameplay_luck: 
+ed_gameplay_interaction: 
 
-played_preferred: 1
-played_rank_dad: 
-played_rank_edu:
-played_rank_dev: 10
-played_rank_kid: 
+ed_preferred: 1
+ed_rank_dad: 
+ed_rank_edu:
+ed_rank_dev: 10
+ed_rank_kid: 
 
-played_players: 1
-played_age: 6
-played_duration: 
+ed_players: 1
+ed_age: 6
+ed_duration: 
 
-played_publisher: 
-played_year: 
-played_url_details: 
-played_url_play: 
-played_vg_platforms:
+ed_publisher: 
+ed_year: 
+ed_url_details: 
+ed_url_play: 
+ed_vg_platforms:
   - iOS
 ---
 

@@ -10,25 +10,25 @@ date: 2022-12-26
 lastmod: 2022-12-26
 
 template: played.html
-played_category: boardgame
-played_skills: []
-played_gameplay_complex: 1
-played_gameplay_strategy: 2
-played_gameplay_luck: 2
-played_gameplay_interaction: 1
+ed_category: boardgame
+ed_skills: []
+ed_gameplay_complex: 1
+ed_gameplay_strategy: 2
+ed_gameplay_luck: 2
+ed_gameplay_interaction: 1
 
-played_preferred: 1
-played_rank_dad: 8
-played_rank_edu: 3
-played_rank_dev: 4
-played_rank_kid: 7
+ed_preferred: 1
+ed_rank_dad: 8
+ed_rank_edu: 3
+ed_rank_dev: 4
+ed_rank_kid: 7
 
-played_players: 2-6
-played_age: 7
-played_duration: 20
+ed_players: 2-6
+ed_age: 7
+ed_duration: 20
 
-played_publisher: 
-played_year: 2022
-played_url_details: 
-played_url_play: 
+ed_publisher: 
+ed_year: 2022
+ed_url_details: 
+ed_url_play: 
 ---

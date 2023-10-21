@@ -13,28 +13,28 @@ tags:
 date: 2020-12-14
 
 template: played.html
-played_category: boardgame
-played_skills:
+ed_category: boardgame
+ed_skills:
   - sk_logic
-played_gameplay_complex: 3
-played_gameplay_strategy: 3
-played_gameplay_luck: 1
-played_gameplay_interaction: 2
+ed_gameplay_complex: 3
+ed_gameplay_strategy: 3
+ed_gameplay_luck: 1
+ed_gameplay_interaction: 2
 
-played_preferred: 1
-played_rank_dad: 
-played_rank_edu: 10
-played_rank_dev: 8
-played_rank_kid: 7
+ed_preferred: 1
+ed_rank_dad: 
+ed_rank_edu: 10
+ed_rank_dev: 8
+ed_rank_kid: 7
 
-played_players: 1-2
-played_age: 12
-played_duration: 60
+ed_players: 1-2
+ed_age: 12
+ed_duration: 60
 
-played_publisher: 
-played_year: 
-played_url_details: https://boardgamegeek.com/boardgame/180263/7th-continent
-played_url_play: 
+ed_publisher: 
+ed_year: 
+ed_url_details: https://boardgamegeek.com/boardgame/180263/7th-continent
+ed_url_play: 
 lastmod: 2022-12-18
 ---
 

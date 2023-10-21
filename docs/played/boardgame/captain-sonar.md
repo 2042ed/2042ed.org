@@ -9,31 +9,30 @@ tags:
   - Collaborativo
   - Simulazione
   - Team
+  - g/simulation
+  - s/collaboration
 date: 2020-12-14
 lastmod: 2022-12-18
-
 template: played.html
-played_category: boardgame
-played_skills: []
-played_gameplay_complex: 3
-played_gameplay_strategy: 
-played_gameplay_luck: 
-played_gameplay_interaction: 5
-
-played_preferred: 
-played_rank_dad: 
-played_rank_edu: 
-played_rank_dev: 
-played_rank_kid: 
-
-played_players: 4-8
-played_age: 11
-played_duration: 60
-
-played_publisher: 
-played_year: 
-played_url_details: https://boardgamegeek.com/boardgame/171131/captain-sonar
-played_url_play: 
+ed_category: boardgame
+ed_skills:
+  - sk
+ed_gameplay_complex: 3
+ed_gameplay_strategy: 
+ed_gameplay_luck: 
+ed_gameplay_interaction: 5
+ed_preferred: 
+ed_rank_dad: 
+ed_rank_edu: 
+ed_rank_dev: 
+ed_rank_kid: 
+ed_players: 4-8
+ed_age: 11
+ed_duration: 60
+ed_publisher: 
+ed_year: 
+ed_url_details: https://boardgamegeek.com/boardgame/171131/captain-sonar
+ed_url_play:
 ---
 
 In Captain Sonar ad esempio ci si divide in due squadre per una battaglia tra sommergibili dove i giocatori hanno 4 ruoli: il Capitano che decide gli spostamenti, il Primo Ufficiale che gestisce i Sistemi (droni, siluri, mine, stealth..), l'Ingegnere che mantiene in funzione il tutto e l'addetto al Sonar che cerca di mappare la posizione degli avversari.. il tutto in tempo reale!

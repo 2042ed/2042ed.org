@@ -12,25 +12,25 @@ tags:
   - award
   - kids
 template: played.html
-played_category: videogame
-played_skills: []
-played_gameplay_complex: 2
-played_gameplay_strategy: 
-played_gameplay_luck: 
-played_gameplay_interaction: 
-played_preferred: 
-played_rank_dad: 
-played_rank_edu: 5
-played_rank_dev: 
-played_rank_kid: 
-played_players: 1
-played_age: 5
-played_duration: 
-played_publisher: VGWB
-played_year: 2018
-played_url_details: https://antura.org
-played_url_play: 
-played_vg_platforms:
+ed_category: videogame
+ed_skills: []
+ed_gameplay_complex: 2
+ed_gameplay_strategy: 
+ed_gameplay_luck: 
+ed_gameplay_interaction: 
+ed_preferred: 
+ed_rank_dad: 
+ed_rank_edu: 5
+ed_rank_dev: 
+ed_rank_kid: 
+ed_players: 1
+ed_age: 5
+ed_duration: 
+ed_publisher: VGWB
+ed_year: 2018
+ed_url_details: https://antura.org
+ed_url_play: 
+ed_vg_platforms:
   - Mobile
 ---
 

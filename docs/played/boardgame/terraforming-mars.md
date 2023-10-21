@@ -13,27 +13,27 @@ date: 2020-12-14
 lastmod: 2022-12-18
 
 template: played.html
-played_category: videogame
-played_skills: []
-played_gameplay_complex: 4
-played_gameplay_strategy: 4
-played_gameplay_luck: 1
-played_gameplay_interaction: 1
+ed_category: videogame
+ed_skills: []
+ed_gameplay_complex: 4
+ed_gameplay_strategy: 4
+ed_gameplay_luck: 1
+ed_gameplay_interaction: 1
 
-played_preferred: 1
-played_rank_dad: 
-played_rank_edu: 
-played_rank_dev: 
-played_rank_kid: 
+ed_preferred: 1
+ed_rank_dad: 
+ed_rank_edu: 
+ed_rank_dev: 
+ed_rank_kid: 
 
-played_players: 1-4
-played_age: 12
-played_duration: 90
+ed_players: 1-4
+ed_age: 12
+ed_duration: 90
 
-played_publisher: 
-played_year: 
-played_url_details: https://www.boardgamegeek.com/boardgame/167791/terraforming-mars
-played_url_play: 
+ed_publisher: 
+ed_year: 
+ed_url_details: https://www.boardgamegeek.com/boardgame/167791/terraforming-mars
+ed_url_play: 
 ---
 
 ![](../../assets/img/played/boardgame/terraformingmars.webp)

@@ -12,27 +12,27 @@ date: 2023-01-06
 lastmod: 2023-01-06
 
 template: played.html
-played_category: boardgame
-played_skills: []
-played_gameplay_complex: 2
-played_gameplay_strategy: 0
-played_gameplay_luck: 0
-played_gameplay_interaction: 3
+ed_category: boardgame
+ed_skills: []
+ed_gameplay_complex: 2
+ed_gameplay_strategy: 0
+ed_gameplay_luck: 0
+ed_gameplay_interaction: 3
 
-played_preferred: 1
-played_rank_dad: 
-played_rank_edu: 3
-played_rank_dev: 
-played_rank_kid: 
+ed_preferred: 1
+ed_rank_dad: 
+ed_rank_edu: 3
+ed_rank_dev: 
+ed_rank_kid: 
 
-played_players: 1-5
-played_age: 12
-played_duration: 120
+ed_players: 1-5
+ed_age: 12
+ed_duration: 120
 
-played_publisher: 
-played_year: 2020
-played_url_details: https://boardgamegeek.com/boardgame/304847/hidden-games-crime-scene-new-haven-case
-played_url_play: 
+ed_publisher: 
+ed_year: 2020
+ed_url_details: https://boardgamegeek.com/boardgame/304847/hidden-games-crime-scene-new-haven-case
+ed_url_play: 
 ---
 
 ![](../../assets/img/played/boardgame/hidden-games.webp)

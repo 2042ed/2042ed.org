@@ -12,28 +12,28 @@ date: 2020-12-14
 lastmod: 2022-12-21
 
 template: played.html
-played_category: boardgame
-played_skills:
+ed_category: boardgame
+ed_skills:
   - sk_logic
-played_gameplay_complex: 1
-played_gameplay_strategy: 3
-played_gameplay_luck: 0
-played_gameplay_interaction: 5
+ed_gameplay_complex: 1
+ed_gameplay_strategy: 3
+ed_gameplay_luck: 0
+ed_gameplay_interaction: 5
 
-played_preferred: 1
-played_rank_dad: 5
-played_rank_edu: 1
-played_rank_dev: null
-played_rank_kid: 5
+ed_preferred: 1
+ed_rank_dad: 5
+ed_rank_edu: 1
+ed_rank_dev: null
+ed_rank_kid: 5
 
-played_players: 2
-played_age: 7
-played_duration: 15
+ed_players: 2
+ed_age: 7
+ed_duration: 15
 
-played_publisher: null
-played_year: 1991
-played_url_details: https://boardgamegeek.com/boardgame/681/quarto
-played_url_play: https://boardgamearena.com/gamepanel?game=quarto
+ed_publisher: null
+ed_year: 1991
+ed_url_details: https://boardgamegeek.com/boardgame/681/quarto
+ed_url_play: https://boardgamearena.com/gamepanel?game=quarto
 ---
 
 ![](../../assets/img/played/boardgame/quarto.webp)

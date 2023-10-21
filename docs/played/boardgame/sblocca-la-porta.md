@@ -13,27 +13,27 @@ date: 2020-12-14
 lastmod: 2022-12-18
 
 template: played.html
-played_category: boardgame
-played_skills: []
-played_gameplay_complex: 1
-played_gameplay_strategy: 
-played_gameplay_luck: 
-played_gameplay_interaction: 3
+ed_category: boardgame
+ed_skills: []
+ed_gameplay_complex: 1
+ed_gameplay_strategy: 
+ed_gameplay_luck: 
+ed_gameplay_interaction: 3
 
-played_preferred: 
-played_rank_dad: 
-played_rank_edu: 
-played_rank_dev: 
-played_rank_kid: 
+ed_preferred: 
+ed_rank_dad: 
+ed_rank_edu: 
+ed_rank_dev: 
+ed_rank_kid: 
 
-played_players: 2-8
-played_age: 6
-played_duration: 45
+ed_players: 2-8
+ed_age: 6
+ed_duration: 45
 
-played_publisher: 
-played_year: 
-played_url_details: https://boardgamegeek.com/boardgame/278012/sblocca-la-porta
-played_url_play: 
+ed_publisher: 
+ed_year: 
+ed_url_details: https://boardgamegeek.com/boardgame/278012/sblocca-la-porta
+ed_url_play: 
 ---
 
 Questa scatola è stata davvero nna bella sorpresa: costa pochissimo e presenta 3 avventure stile Escape the Room (enigmi da risolvere).

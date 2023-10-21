@@ -14,28 +14,28 @@ date: 2019-12-14
 lastmod: 2023-12-18
 
 template: played.html
-played_category: videogame
-played_skills: []
-played_gameplay_complex: 3
-played_gameplay_strategy: 1
-played_gameplay_luck: 0
-played_gameplay_interaction: 1
+ed_category: videogame
+ed_skills: []
+ed_gameplay_complex: 3
+ed_gameplay_strategy: 1
+ed_gameplay_luck: 0
+ed_gameplay_interaction: 1
 
-played_preferred: 1
-played_rank_dad: 5
-played_rank_edu: 2
-played_rank_dev: 3
-played_rank_kid: 4
+ed_preferred: 1
+ed_rank_dad: 5
+ed_rank_edu: 2
+ed_rank_dev: 3
+ed_rank_kid: 4
 
-played_players: 1
-played_age: 8
-played_duration: 240
+ed_players: 1
+ed_age: 8
+ed_duration: 240
 
-played_publisher: Amanita
-played_year: 2009
-played_url_details: https://amanita-design.net/games/machinarium.html
-played_url_play: 
-played_vg_platforms:
+ed_publisher: Amanita
+ed_year: 2009
+ed_url_details: https://amanita-design.net/games/machinarium.html
+ed_url_play: 
+ed_vg_platforms:
   - mobile
 ---
  
