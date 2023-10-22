@@ -11,7 +11,7 @@ tags:
   - Workshop
 ---
 # Laboratori e progetti
-> Giocare ad un gioco è bello. ma *crearlo* è meglio!
+> Giocare ad un gioco è bello. ma _crearlo_ è meglio!
 > Ecco un po' di attività che abbiamo inventato che potrebbero ispirarvi
 
 Mi è capitato più volte di spiegare ai ragazzi come funzionano le cose, perché sapere cosa c'è dietro agli oggetti e alle invenzioni, vedere come si sviluppa un'idea in un progetto e poi realizzarlo, è una delle chiavi per diventare soggetti attivi e non solo consumatori passivi della vita.
@@ -100,7 +100,6 @@ Sono state 48 ore molto divertenti, e per i ragazzi il primo gioco pubblicato su
 ## HackerKid
 Nel 2020, complice il LockDown prolungato, abbiamo sperimentato un po' di cose, tra cui il progetto HackerKid che consisteva in una "missione" che inviavo a Fabio tutte le mattine, con una situazione, degli elementi di teoria, dei dati e il problema vero e proprio che doveva risolvere entro sera.
 
-
 ## Librogioco "BuboLibro"
 > un libro avventura per bambini, creato da fratello per il fratellino.
 
@@ -108,8 +107,7 @@ Nel 2020, complice il LockDown prolungato, abbiamo sperimentato un po' di cose, 
 
 Mappando tutta casa nostra, Fabio ha creato un libro avventura dove ogni pagina è un luogo e si naviga saltando di pagina in pagina, trovando oggetti, affrontando situazioni pericolose, trovando sorprese nascoste fino a sbloccare il regalo finale, che sarà poi il regalo vero e proprio per il compleanno del fratello.
 
-Il progetto è relativamente semplice, e in un video abbiamo spiegato come l'abbiamo fatto:
-<https://stefanocecere.com/project/bubolibro/>
+Il progetto è relativamente semplice, e in un video abbiamo spiegato come l'abbiamo fatto: [progett](../../lab/jam/bubolibro.md)
 
 ## Attività PlayFriday
 
