@@ -38,14 +38,12 @@ ed_url_play:
 ---
 
 Per anni abbiamo giocato la versione base Sushi GO: entusiasmante.
-Poi è uscita questa versione *Party* con il bello che l'obiettivo del gioco lo si sceglie insieme all'inizio partita definendo il "menù" delle carte da poter giocare.
+Poi è uscita questa versione _Party_ con il bello che l'obiettivo del gioco lo si sceglie insieme all'inizio partita definendo il "menù" delle carte da poter giocare.
 
-È ancora più profondo e vario, e piace davvero anche ai neofiti. 
+È ancora più profondo e vario, e piace davvero anche ai neofiti.
 
 > [!tip] Fabio
 > parla di Sushi e ogni tipo di sushi ha la sua combo di punti
 
 > [!info] Stefano
 > noi lo portiamo in vacanza. anche perché amiamo il Sushi ;)
-
-

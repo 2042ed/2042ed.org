@@ -39,5 +39,3 @@ ed_url_play:
 
 > [!tip] Fabio
 > belle le musiche e le canzoni. cantano sempre!
-
-

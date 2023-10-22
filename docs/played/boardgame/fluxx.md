@@ -38,7 +38,7 @@ ed_url_play:
 
 ![](../../assets/img/played/boardgame/fluxx.webp)
 
-il gioco inizia senza regole, se non con l'unica: *prendi una carta, gioca una carta*.
+il gioco inizia senza regole, se non con l'unica: _prendi una carta, gioca una carta_.
 poi tutto succederà giocando: regole, scopo del gioco, imprevisti, azioni.
 
 davvero semplice quanto geniale!

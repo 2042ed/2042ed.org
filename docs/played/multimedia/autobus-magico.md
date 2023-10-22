@@ -44,5 +44,3 @@ Bello e divertente.
 
 > [!tip] Fabio
 > è simpatico e impari sempre qualcosa di nuovo e utile
-
-

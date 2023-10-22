@@ -45,5 +45,3 @@ c'è anche una versione digitale se prima lo si vuole provare
 
 > [!tip] Fabio
 > molto strategico decidere quale pozione produrre e come farlo scegliendo le palline giuste
-
-

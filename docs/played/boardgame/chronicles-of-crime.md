@@ -43,5 +43,3 @@ si passa nelle varie zone della città e si interrogano i vari personaggi in cer
 > mi piace molto la musica e che il gioco ha un suo orologio e cambia la storia a seconda dell'orario in cui vai ad indagare
 
 > Mamma: usare l'app per vedere le stanze in 3D è davvero originale
-
-

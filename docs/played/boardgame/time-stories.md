@@ -38,7 +38,6 @@ ed_url_play:
 
 ![](../../assets/img/played/boardgame/time_stories.webp)
 
-
 si collabora tutti nell'avventursi nel tempo per risolvere missioni. neessita una buona conversazione con i compagni di viaggio.
 
 Unico neo che finita un'avventura, le altre sono moduli opzionali da acquistare separatamente

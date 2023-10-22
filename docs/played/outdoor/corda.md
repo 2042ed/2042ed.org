@@ -44,4 +44,4 @@ Sono innumerevoli i giochi che si possono fare: il più divertente è l”OROLOG
 Il bello è che ha entusiasmato anche i più fanatici del calcio.
 Poi abbiamo fatto un bel ripasso dei nodi fondamentali perché ammettiamolo: è importante saper fare i nodi.
 
-Tutto con una corda. 
+Tutto con una corda.

@@ -41,5 +41,3 @@ Munchkin non è un gioco. è un brand, una famiglia di giochi caraterizzati dall
 
 > [!tip] Fabio
 > le armi sono stranissime e divertenti
-
-

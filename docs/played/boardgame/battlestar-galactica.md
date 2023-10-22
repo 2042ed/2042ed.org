@@ -42,7 +42,7 @@ Sul modello pluripremiato gioco Wings of Glory (cercarlo se vi piacciono gli sce
 > le astronavine sono bellissime ed è bello precalcolare una rotta per andare a sparare
 
 > [!info] Stefano
-> Lo ammetto: lo presi perché adoro BSG.. e se non avete visto la serie (quella del 2003) *fatelo!* poi volevamo un gioco di combattimenti tattici, e Andrea Angiolino, l'autore, ha fatto davvero un bel lavoro.
+> Lo ammetto: lo presi perché adoro BSG.. e se non avete visto la serie (quella del 2003) _fatelo!_ poi volevamo un gioco di combattimenti tattici, e Andrea Angiolino, l'autore, ha fatto davvero un bel lavoro.
 
 ![](../../assets/img/played/boardgame/bsg.webp)
 ![](../../assets/img/played/boardgame/bsg2.webp)

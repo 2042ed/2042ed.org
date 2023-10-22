@@ -38,5 +38,3 @@ ed_url_play:
 
 in Decrypto le due squadre devono passarsi dei codici segreti senza essere intercettate dagli avversari, il tutto trovando parole sinonimi o locuzioni sempre diverse... all'inizio sembra complicato ma appena si prende la mano.  
 geniale per stimolare la creatività letteraria! (è di fatto un gioco pluri premiato)
-
-

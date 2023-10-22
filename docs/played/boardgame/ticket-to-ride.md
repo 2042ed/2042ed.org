@@ -39,7 +39,7 @@ ed_url_play:
 
 ![](../../assets/img/played/boardgame/ticket_to_ride.webp)
 
-È probabilmente uno dei *nuovi classici*, perché ce l'hanno tutti e tutti lo giocano. Forse un motivo ci sarà!
+È probabilmente uno dei _nuovi classici_, perché ce l'hanno tutti e tutti lo giocano. Forse un motivo ci sarà!
 
 Un gioco strategico molto semplice, quindi adatto a tutti, che vi farà girare per le capitali d'Europa, o del mondo.. dipende dall'edizione che si compra.
 

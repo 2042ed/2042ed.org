@@ -43,5 +43,3 @@ Noi abbiamo collezionato dozzine di foto occhini in tutto il mondo
 
 > [!tip] Fabio
 > mi piace trovare posti super dove nascondermi
-
-

@@ -46,5 +46,3 @@ Ha molte espansioni con nuove carte, ma il bello è disegnarne noi!
 
 > [!info] Stefano
 > È uno dei pochi giochi che qualsiasi persona abbiate intorno al tavolo, dai bambini ai nonni, non sfigura mai.
-
-

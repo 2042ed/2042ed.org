@@ -45,7 +45,6 @@ La serie The Room sono 4 titoli, per tablet sopratutto, giocabili anche su smart
 Ci sono tanti giochi sul genere, ma questi sono eccellenti per qualità.
 magari non tutti gli enigmi sono adatti a tutti i bambini, ma lì è bello collaborare insieme.
 
-
 > [!tip] Fabio li ho finiti tutti e 4 e ora sto facendo il 5 in VR. bellissimi
 
 > [!info] Stefano imprescindibili a chiunque ami le Escape Rooms

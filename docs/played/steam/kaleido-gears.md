@@ -36,5 +36,3 @@ ed_url_play:
 Davvero un gioco intelligente, da passarci le ore tutti insieme.
 
 ![](../../assets/img/played/steam/kaleido_gears.webp)
-
-

@@ -43,6 +43,3 @@ I ragazzi, una volta capito il gioco e rotti gli indugi, si divertiranno come ma
 
 > [!info] Stefano
 > Abbiamo sentito di quelle scuse che voi umani non potete immaginare :) Portatelo in vacanza e organizzate bande di globlin. Però ci vuole un po' di teatralità.
-
-
-

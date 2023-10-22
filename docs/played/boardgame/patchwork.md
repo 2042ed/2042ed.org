@@ -41,5 +41,3 @@ Ricorda un po' KingDomino e ROAM.
 
 > [!tip] Fabio
 > molto Tetris e mi piace combinare e incastrare i pezzi
-
-

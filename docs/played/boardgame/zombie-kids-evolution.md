@@ -45,7 +45,6 @@ Grafica e personaggi eccellenti, meccaniche divertenti per grandi e piccoli, gra
 > [!tip] Fabio
 > Sbloccare nuove regole e poteri dopo un po' che giochi e gli zombies a scuola piace sia a me che a mio fratello
 
-
 > [!info] Stefano
 > Capolavoro. Stimola davvero l'azione di squadra
 

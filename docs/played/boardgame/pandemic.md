@@ -37,7 +37,7 @@ ed_url_play:
 
 ![](../../assets/img/played/boardgame/pandemic.webp)
 
-debellare una pandemia di 4 virus prima che sia troppo tardi 
+debellare una pandemia di 4 virus prima che sia troppo tardi.
 collaborativo, bello (dal creatore di Deserto Proibito), famoso.
 merita.
 

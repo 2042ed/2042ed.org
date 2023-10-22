@@ -38,4 +38,3 @@ ed_url_play:
 
 i Libri di Pera sono davvero uno spasso e molto sottili.
 piacciono moltissimo già dalla prima elementare se li leggono da soli!
-

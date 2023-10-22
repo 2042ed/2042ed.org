@@ -42,7 +42,7 @@ ed_url_play:
 ![](../../assets/img/played/boardgame/pyramidquest_4.webp)
 
 quest’oggetto è davvero unico nel suo genere: una piramide in legno piena di enigmi e meccanismi meccanici da risolvere per svelare il mistero degli antichi Egizi
-dopo tante escape room digitali o ambientali, ecco mettere alla prova lo spirito di osservazione e la logica deduttiva con qualcosa di manuale. 
+dopo tante escape room digitali o ambientali, ecco mettere alla prova lo spirito di osservazione e la logica deduttiva con qualcosa di manuale.
 tanto immersiva che dopo un po’ il piccolo Bruno ha avuto quasi paura di un rumore proveniente dall’interno!
 vi faremo sapere come va 🙂
 NB: il bello di questi giochi è che una volta svelati o risolti, si ricompongono e si possono regalare ad altri

@@ -42,5 +42,3 @@ uno dei giochi più difficili ma belli che abbiamo.
 volevamo proprio un gioco con regole un po' complesse.. perché a volte è bello mettersi alla prova
 
 **Giocone.**
-
-

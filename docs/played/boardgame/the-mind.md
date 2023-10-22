@@ -52,5 +52,3 @@ Non diciamo altro.
 
 > [!info] Stefano
 > Avevo detto che non avrei detto niente a riguardo. Risparmiate 10 euro e poi ci ringrazierete.
-
-

@@ -37,5 +37,3 @@ ed_url_play:
 ---
 
 il giocatore crea e combatte in un dungeon che si costruisce da solo progredendo nell'avventura.. veloce, facile.. divertente!
-
-

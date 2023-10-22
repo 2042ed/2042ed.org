@@ -42,5 +42,3 @@ Ecco qui un gioco davvero notevole da portarsi in vacanza!
 
 > [!tip] Fabio
 > bello decidere cosa fare una volta sconfitto un mostro e ci sono molte trappole
-
-

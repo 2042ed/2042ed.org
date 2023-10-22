@@ -40,4 +40,3 @@ fatto sta che ci si passa ore.
 
 ![](../../assets/img/played/steam/macchina_olivetti.webp)
 ![](../../assets/img/played/steam/macchina_olivetti2.webp)
-

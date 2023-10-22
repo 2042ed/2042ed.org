@@ -43,5 +43,3 @@ Gioco semplicissimo con principesse che dormono, cavalieri, draghi e incantesimi
 
 > [!info] Stefano
 > Se si supera lo stereotipo principesse e principi, è un bel giochino.. forse già godibile dai 4 anni.
-
-

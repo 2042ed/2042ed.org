@@ -48,7 +48,7 @@ Il bello è che mentre uno gioca, gli altri possono stare a vedere quasi fosse u
 E poi ci sono dozzine di libri che si possono leggere intorno.
 
 > [!tip] Fabio
-> mappe infinite, una grande storia (ho letto tutti i fumetti anche) e sopratutto nell'ultimo puoi davvero fare di tutto... anche cucinare! 
+> mappe infinite, una grande storia (ho letto tutti i fumetti anche) e sopratutto nell'ultimo puoi davvero fare di tutto... anche cucinare!
 
 > [!info] Stefano
 > da giocare insieme. è così ampio che c'è di tutto.

@@ -48,4 +48,3 @@ devi inventare il modo di connettere i "goo" per costruire strutture e risolvere
 > [!info] Stefano ci giocai io, poi Fabio, poi Bruno
 
 ![](../../assets/img/played/videogame/world_of_goo2.webp)
-

@@ -42,5 +42,3 @@ Geniale, semplice e divertente.
 
 > [!info] Stefano
 > Fosse anche solo per l'inversione dei ruoli classici, vale la pena farlo giocare!
-
-

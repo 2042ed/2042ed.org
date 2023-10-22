@@ -48,7 +48,7 @@ queste regole "progressive" (in gergo si chiamano giochi "legacy") sono un manna
 
 e poi ci sono gli zombies che con i loro salti ci mettono una bella ansia tanto che abbiamo perso due partite di seguito!
 
-non mi sembra ci sia ancora in italiano, il nostro è in inglese ma meglio così, tanto già in seconda elementare fanno più inglese di quanto ne facevo io in seconda media. 
+non mi sembra ci sia ancora in italiano, il nostro è in inglese ma meglio così, tanto già in seconda elementare fanno più inglese di quanto ne facevo io in seconda media.
 
 anzi sapete cosa: da oggi comprerò solo giochi in lingua originale (ops gli editori italiani mi malediranno ora 🙂
 

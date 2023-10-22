@@ -37,6 +37,5 @@ ed_url_play:
 
 un classico
 
-
 Approfondimento sulla matematica (utile per vincere ;) http://www.amnesta.net/monopoly/
 e qui altre analisi: https://www.businessinsider.com/math-monopoly-statistics-2013-6?IR=T#-12

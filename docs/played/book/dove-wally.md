@@ -35,8 +35,4 @@ ed_url_details:
 ed_url_play: 
 ---
 
-> **#Kids #Visuale** 
-
-
-
-
+> **#Kids #Visuale**

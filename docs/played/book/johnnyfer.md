@@ -39,5 +39,3 @@ Premessa: qualsiasi cosa crei Sio/Scottecs fa ridere ed è intelligente.
 Quindi più i ragazzi lo leggono / guardano / giocano, meglio è.
 
 Anche questi due fumetto-gioco sono molto simpatici.
-
-

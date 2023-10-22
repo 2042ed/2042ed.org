@@ -40,7 +40,3 @@ Loro si sono specializzati in giochi semplici, "piccoli" ma belli.
 E quando qualcuno ha un focus preciso, puoi star sicuro che qualsiasi prodotto nel loro catalogo rispetta quei canoni.
 E così ecco un gioco tanto semplice quanto intrigante.
 Le carte sono davvero belle
-
-
-
-

@@ -44,4 +44,3 @@ Uno dei pochi classici davvero immortali e che dovrebbe imperare in ogni cameret
 
 > [!info] Stefano
 > Sviluppa automaticamente, senza troppe spiegazioni, il pensiero strategico e il contare
-

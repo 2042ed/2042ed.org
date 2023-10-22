@@ -42,5 +42,3 @@ un vecchio gioco (anni '80' che è tornato in auge con molte edizioni ed espansi
 attenzione: c'è da leggere tantissimo nei vecchi giornali e mappe e indirizziari, in cerca di indizi
 
 per una lunga serata a lume di candela, thè rigorosamente inglese e scenari ottocenteschi
-
-

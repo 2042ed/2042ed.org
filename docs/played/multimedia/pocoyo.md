@@ -36,5 +36,3 @@ ed_url_play:
 
 > [!tip] Fabio
 > sono cresciuto con Pocoyo
-
-

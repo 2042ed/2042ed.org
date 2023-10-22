@@ -41,5 +41,3 @@ I giocatori hanno ognuno un personaggio (mago, ladro, guerriero, assassino) con 
 
 > [!info] Stefano
 > Un altro gioco preso sulla fiducia perché sempre ben recensito, e sopratutto si gioca in tanti. Per un dopo cena perfetto a chiacchierare e farsi la guerra ludica :)
-
-

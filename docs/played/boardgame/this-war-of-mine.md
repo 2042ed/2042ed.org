@@ -38,5 +38,3 @@ ed_url_play:
 ---
 
 Non ci ho ancora giocato (alla versione in scatola) ma lo segnalo perché è tratto da un videogioco molto famoso, che simula la vita dei civili intrappolati in un conflitto di guerra.
-
-

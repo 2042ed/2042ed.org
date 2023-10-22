@@ -37,6 +37,6 @@ ed_url_play:
 
 ![](../../assets/img/played/book/il-presidente-sei-tu.webp)
 
-Questo *LibroGioco* è stato creato nel 1987, lo conoscevo da tempo ma è stato appena ristampato. Alla passione ho aggiunto un ==DoverePolitico== perché mi sono un po' stufato di chi critica e basta senza fare neanche finta di mettersi nei panni degli altri, figuriamoci in posizioni estremamente complicate come quella che sta vivendo oggi Giuseppe Conte. 
+Questo _LibroGioco_ è stato creato nel 1987, lo conoscevo da tempo ma è stato appena ristampato. Alla passione ho aggiunto un ==DoverePolitico== perché mi sono un po' stufato di chi critica e basta senza fare neanche finta di mettersi nei panni degli altri, figuriamoci in posizioni estremamente complicate come quella che sta vivendo oggi Giuseppe Conte.
 
 Nel dare solidarietà a chi ritengo essere validi politici, nell'invitare a provare ad immedesimarsi negli altri, nello stimolare a coltivare le proprie passioni creative e culturali, nello spendersi per una sana economia, vobis salutem do.

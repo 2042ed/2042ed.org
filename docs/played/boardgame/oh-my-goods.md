@@ -51,6 +51,5 @@ potremo integrarla noi? intanto lo proveremo in 4 un prossimo venerdì.
 
 NB: questi giochi necessitano di memoria, attenzione, tattica, visione d'insieme, immaginazione.. sicuramente male non fa. ed è una scatolina da mettere in borsa
 
-
 > [!tip] Fabio
 > bello produrre e vendere merci e ci sono infinite possibilità di commercio

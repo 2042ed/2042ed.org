@@ -35,8 +35,4 @@ ed_url_details:
 ed_url_play: 
 ---
 
-> **#Escape #Kids** 
-
-
-
-
+> **#Escape #Kids**

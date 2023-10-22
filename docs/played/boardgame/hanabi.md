@@ -47,5 +47,3 @@ Geniale,facile da imparare, molto divertente.
 
 > [!info] Stefano
 > si muore dal ridere quando uno cerca di suggerire qualcosa ma non sa come farlo ahha.. una scatolina da avere e regalare
-
-

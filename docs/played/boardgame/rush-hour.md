@@ -43,7 +43,3 @@ Con centinaia di livelli sempre più difficili sviluppa il pensiero logico, visu
 Divertente da giocare insieme
 
 Ci sono anche molte varianti in digitale che consiglio (dai 4 anni)
-
-
-
-
