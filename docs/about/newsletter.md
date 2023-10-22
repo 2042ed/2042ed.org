@@ -1,7 +1,5 @@
 ---
 title: Newsletter
-hide:
-  - navigation
 ---
 
 Se vuoi ricevere la newsletter settimanale "2042" su Intelligenza Artificiale, Futuro, Educazione, Tecnologia, Giochi, Genitorialità, Nonviolenza, Umanesimo e Politica, inserisci tua email oppure [vai a questa pagina](https://2042.substack.com/)

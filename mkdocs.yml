@@ -1,4 +1,4 @@
-site_name: 2042 | Play, Learn & Robots
+site_name: 2042 | giochi molto seri
 site_url: https://2042ed.org
 site_author: Stefano Cecere
 site_description: Giochi, Scuola, Futuro, OpenSource, Ozio Creativo, STEM, filosofia. Per educatori, genitori, sviluppatori, giocatori. Game Based Learning, Didattica Ludica.
@@ -84,9 +84,9 @@ plugins:
       post_url_format: "{date}/{slug}"
       post_readtime: false
 
-#repo_url: https://github.com/2042ed/2042ed.org
-#edit_uri: "edit/main/docs/"
-#repo_name: GitHub/2042ed.org
+repo_url: https://github.com/2042ed/2042ed.org
+edit_uri: "edit/main/docs/"
+repo_name: GitHub/2042ed.org
 
 extra_css:
   - assets/stylesheets/extra.css
@@ -116,4 +116,4 @@ extra:
   consent:
     title: Accettazione Cookie
     description: >-
-      Questo sito usa alcuni cookies per garantire la migliore esperienza di navigazione. Niente di speciale.
+      Questo sito usa alcuni cookies giusto per un'analisi statistica delle pagine più visitate. Niente di speciale.

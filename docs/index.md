@@ -2,7 +2,7 @@
 title: Home
 date: 2022-12-22
 updated: 2023-08-14
-type: 
+type: simple
 categories: 
 description: 
 permalink: 
@@ -13,9 +13,13 @@ hide:
 ---
 ![2042 logo](assets/logo/header_2042ed.webp)
 
-_Benvenuti in questo spazio opensource nell'intersezione tra il gioco, l'educazione e il futuro. Per genitori, educatori, sviluppatori, giocatori._
+> _Uno spazio di ricerca, studio e condivisione nell'intersezione tra il gioco, l'educazione e il futuro. Per genitori, educatori, sviluppatori, giocatori._
+> _Qui parliamo di giochi e videogiochi educativi, esploriamo l'intelligenza artificiale e le nuove tecnologie generative, dialoghiamo di ozio creativo e genitorialità 2.0 perché nessuno deve rimanere indietro. Poi vedremo._
+> ▶️👍🎲😊
 
 ## Novità
+
+- [2023-09-01: Rilancio Newsletter](https://2042.substack.com)
 - [2023-06-21: Guida DGBL](learn/dgbl/index.md)
 - [2023-05-22: Introduzione alla AI creativa](learn/talk/generative-ai-intro.md)
 - [2023-04-25: Presentazione sul Creare un Videogioco](learn/talk/creare-un-videogioco.md)
@@ -30,7 +34,7 @@ _Benvenuti in questo spazio opensource nell'intersezione tra il gioco, l'educazi
 *guida ai giochi, videogiochi e attività intelligenti*  
 - 📖 [Ludosofia](learn/ludosofia/index.md)  
 *il nostro manuale al giocare bene insieme*  
-- [DGBL](learn/dgbl/index.md)  
+- [DGBL](learn/dgbl-old/index.md)  
 *guida al Digital Game Based Learning*  
 - [Lab](lab/index.md)  
 *laboratori per imparare creando*  
@@ -52,7 +56,7 @@ Le dispense dei miei corsi sono pubbliche, contattatemi se volete che vi organiz
 <div class="grid cards" markdown>
 
 - 📖 [Intelligenza Collettiva e Sviluppo Distribuito](learn/game-dev/ci/index.md)  
-*da Git all'Immortalità* 
+*da Git all'Immortalità*
 - 📖 [Extended Reality](learn/game-dev/xr/index.md)  
 *XR = AR + VR + MR: le nuove tecnologie immersive*  
 - 📖 [Game A.I.](learn/game-dev/ai/index.md)  
