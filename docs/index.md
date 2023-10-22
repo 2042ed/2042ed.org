@@ -34,7 +34,7 @@ hide:
 *guida ai giochi, videogiochi e attività intelligenti*  
 - 📖 [Ludosofia](learn/ludosofia/index.md)  
 *il nostro manuale al giocare bene insieme*  
-- [DGBL](learn/dgbl-old/index.md)  
+- [DGBL](learn/dgbl/index.md)  
 *guida al Digital Game Based Learning*  
 - [Lab](lab/index.md)  
 *laboratori per imparare creando*  

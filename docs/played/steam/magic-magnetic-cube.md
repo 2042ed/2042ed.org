@@ -1,5 +1,5 @@
 ---
-title: magic-magnetic-cube
+title: Magic Magnetic Cube
 date: 2022-12-14
 lastmod: 2023-10-18
 updated: 2023-10-22
@@ -34,7 +34,9 @@ ed_url_details: https://b2b.juegaconmigo.net/catalogo/FHM6/juegaconmigo/mmgc/mag
 ed_url_play: 
 ---
 
-![](https://youtu.be/9bFScs--ht0)
+![](https://www.youtube.com/watch?v=9bFScs--ht0)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9bFScs--ht0?si=ZoQNHIkNoFfhiRZX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Regalai questo Cubo Magico Magnetico a Bruno l’anno scorso, ma solo questa estate è entrato nelle sue corde dell’inseparabilità.
 

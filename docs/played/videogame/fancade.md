@@ -39,7 +39,8 @@ ed_vg_platforms:
   - web
 ---
 
-![](https://youtu.be/yp4WaatgIC8)
+![](https://www.youtube.com/watch?v=yp4WaatgIC8)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yp4WaatgIC8?si=CHCym9JtmFLgXTpC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ![](../../assets/img/played/videogame/fancade_2.webp)
 
