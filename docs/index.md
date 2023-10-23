@@ -13,8 +13,8 @@ hide:
 ---
 ![2042 logo](assets/logo/header_2042ed.webp)
 
-> _Uno spazio di ricerca, studio e condivisione nell'intersezione tra il gioco, l'educazione e il futuro. Per genitori, educatori, sviluppatori, giocatori._
-> _Qui parliamo di giochi e videogiochi educativi, esploriamo l'intelligenza artificiale e le nuove tecnologie generative, dialoghiamo di ozio creativo e genitorialità 2.0 perché nessuno deve rimanere indietro. Poi vedremo._
+> _Questo è il sito più serio e utile dell'universo, con giochi per imparare a passare il tempo, dialoghi con figli di altra generazione, smanettamenti con intelligenze artificiali obbedienti. Per ora._
+> _Meno seriamente: è uno spazio di ricerca, studio e condivisione nell'intersezione tra il gioco, l'educazione e il futuro. Per genitori, educatori, sviluppatori, giocatori._
 > ▶️👍🎲😊
 
 ## Novità
