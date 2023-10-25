@@ -20,7 +20,6 @@ hide:
 ## Novità
 
 - [2023-09-01: Rilancio Newsletter](https://2042.substack.com)
-- [2023-06-21: Guida DGBL](learn/dgbl/index.md)
 - [2023-05-22: Introduzione alla AI creativa](learn/talk/generative-ai-intro.md)
 - [2023-04-25: Presentazione sul Creare un Videogioco](learn/talk/creare-un-videogioco.md)
 - [2023-02-05: Leggete la storia del gioco di carte creato dai ragazzi](lab/jam/arkombat.md)
@@ -32,10 +31,6 @@ hide:
 *puoi chiedere qualsiasi cosa*  
 - [Giochi](played/index.md)  
 *guida ai giochi, videogiochi e attività intelligenti*  
-- 📖 [Ludosofia](learn/ludosofia/index.md)  
-*il nostro manuale al giocare bene insieme*  
-- [DGBL](learn/dgbl/index.md)  
-*guida al Digital Game Based Learning*  
 - [Lab](lab/index.md)  
 *laboratori per imparare creando*  
 - [Talk](learn/talk/index.md)  
