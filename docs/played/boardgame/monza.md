@@ -6,8 +6,8 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - kids
-  - Corsa
+  - target/kids
+  - g/corsa
 date: 2020-12-14
 lastmod: 2022-12-18
 

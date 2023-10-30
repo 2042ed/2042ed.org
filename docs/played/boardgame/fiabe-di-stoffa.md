@@ -7,9 +7,9 @@ categories:
   - boardgame
 tags:
   - award
-  - kids
-  - librogame
-  - Collaborativo
+  - target/kids
+  - g/cyoa
+  - g/collaborativo
   - Episodi
 date: 2020-12-14
 lastmod: 2022-12-18

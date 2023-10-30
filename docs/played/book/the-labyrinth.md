@@ -6,8 +6,8 @@ type: PlayED
 categories:
   - book
 tags:
-  - librogame
-  - GdR
+  - g/cyoa
+  - g/rpg
 date: 2020-12-27
 lastmod: 2022-12-18
 

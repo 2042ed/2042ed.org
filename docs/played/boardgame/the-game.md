@@ -6,11 +6,11 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Family
-  - Carte
-  - matematica
+  - g/family
+  - g/carte
+  - skill/matematica
   - Solo
-  - Collaborativo
+  - g/collaborativo
   - award
 date: 2020-12-14
 lastmod: 2022-12-18

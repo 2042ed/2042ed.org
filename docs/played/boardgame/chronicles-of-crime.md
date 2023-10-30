@@ -6,9 +6,9 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Deduzione
-  - Investigazione
-  - App
+  - skill/deduzione
+  - g/investigazione
+  - g/app
 date: 2020-12-14
 lastmod: 2022-12-18
 

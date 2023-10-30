@@ -6,9 +6,9 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Family
+  - g/family
   - empatia
-  - Collaborativo
+  - g/collaborativo
   - award
 date: 2020-12-14
 lastmod: 2022-12-18

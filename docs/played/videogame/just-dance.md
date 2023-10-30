@@ -6,10 +6,10 @@ type: PlayED
 categories:
   - videogame
 tags:
-  - Party
-  - Family
-  - music
-  - Exergame
+  - g/party
+  - g/family
+  - g/music
+  - g/exergame
 date: 2020-12-14
 lastmod: 2022-12-18
 

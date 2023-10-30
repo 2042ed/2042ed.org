@@ -6,11 +6,11 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Family
-  - Carte
-  - Party
-  - Impostore
-  - Compatto
+  - g/family
+  - g/carte
+  - g/party
+  - g/impostore
+  - g/compatto
   - award
 date: 2020-12-14
 lastmod: 2022-12-18

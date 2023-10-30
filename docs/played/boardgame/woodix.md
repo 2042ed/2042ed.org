@@ -6,8 +6,8 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - kids
-  - Puzzle
+  - target/kids
+  - g/puzzle
 date: 2021-04-07T15:48:58+02:00
 lastmod: 2022-12-18
 featured: false

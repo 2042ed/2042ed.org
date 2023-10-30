@@ -7,7 +7,7 @@ categories:
   - steam
 tags:
   - gamedev
-  - Tool
+  - g/tool
   - KidsMakeGames
 date: 2020-12-14
 lastmod: 2022-12-18

@@ -6,9 +6,9 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - kids
-  - Narrativo
-  - Fantasia
+  - target/kids
+  - g/narrativo
+  - skill/fantasy
 date: 2020-12-14
 lastmod: 2022-12-18
 

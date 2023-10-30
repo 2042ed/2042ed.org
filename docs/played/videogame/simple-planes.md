@@ -6,7 +6,7 @@ type: PlayED
 categories:
   - videogame
 tags:
-  - Simulazione
+  - g/simulazione
 date: 2020-12-14
 lastmod: 2022-12-18
 

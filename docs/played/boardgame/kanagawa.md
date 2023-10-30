@@ -6,8 +6,8 @@ categories:
   - boardgame
 tags:
   - award
-  - Family
-  - Compatto
+  - g/family
+  - g/compatto
 date: 2020-12-14
 lastmod: 2022-12-18
 

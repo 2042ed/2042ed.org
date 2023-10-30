@@ -6,7 +6,7 @@ type: PlayED
 categories:
   - book
 tags:
-  - kids
+  - target/kids
   - award
 date: 2020-12-14
 lastmod: 2023-03-02

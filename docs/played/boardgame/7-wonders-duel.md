@@ -1,20 +1,23 @@
 ---
 title: 7 Wonders Duel 🏆
 date: 2020-12-14
-updated: 2023-07-30
-slug: 7-wonders-duel
-description: ""
+updated: 2023-10-25
 type: PlayED
 categories:
   - boardgame
 tags:
   - award
   - g/carte
-  - s/strategy
-  - Carte
-  - 2Giocatori
-  - storia
-  - Compatto
+  - skill/strategy
+  - g/carte
+  - g/2Giocatori
+  - g/storia
+  - g/2giocatori
+description: ""
+permalink: 
+rating: 
+publish: 
+slug: 7-wonders-duel
 template: played.html
 ed_category: boardgame
 ed_skills: []

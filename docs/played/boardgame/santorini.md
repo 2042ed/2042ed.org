@@ -6,9 +6,9 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Strategia
+  - g/strategia
   - award
-  - 2Giocatori
+  - g/2giocatori
 date: 2021-05-16T12:51:52+02:00
 lastmod: 2022-12-18
 

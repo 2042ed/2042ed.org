@@ -6,9 +6,9 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Party
-  - Collaborativo
-  - logica
+  - g/party
+  - g/collaborativo
+  - skill/logica
 date: 2020-12-14
 lastmod: 2022-12-18
 

@@ -6,10 +6,10 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Family
-  - Party
+  - g/family
+  - g/party
   - fun
-  - linguaggio
+  - g/linguaggio
 date: 2020-12-14
 lastmod: 2022-12-18
 

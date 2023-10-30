@@ -7,8 +7,8 @@ categories:
   - videogame
 tags:
   - award
-  - kids
-  - Build
+  - target/kids
+  - g/build
 date: 2020-12-14
 lastmod: 2022-12-18
 
@@ -35,7 +35,7 @@ ed_year:
 ed_url_details: 
 ed_url_play: 
 ed_vg_platforms:
-  - Tablet
+  - g/tablet
   - Desktop
 ---
 

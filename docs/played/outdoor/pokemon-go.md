@@ -7,7 +7,7 @@ categories:
   - outdoor
 tags:
   - Geo
-  - Exergame
+  - g/exergame
   - Geografia
   - award
   - Outdoor

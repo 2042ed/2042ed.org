@@ -6,10 +6,10 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - kids
-  - Strategia
-  - logica
-  - Puzzle
+  - target/kids
+  - g/strategia
+  - skill/logica
+  - g/puzzle
 date: 2020-12-14
 lastmod: 2022-12-18
 

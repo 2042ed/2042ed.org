@@ -1,39 +1,35 @@
 ---
 title: The Search for Planet X
 slug: search-planet-x
-description: "una sfida astronomica di deduzione logica"
+description: una sfida astronomica di deduzione logica
 type: PlayED
 categories:
   - boardgame
 tags:
-  - space
-  - Puzzle
-  - App
+  - g/puzzle
+  - g/app
+  - g/spazio
 date: 2023-01-06
 lastmod: 2023-01-06
-
 template: played.html
 ed_category: boardgame
-ed_skills: []
+ed_skills: 
 ed_gameplay_complex: 1
 ed_gameplay_strategy: 2
 ed_gameplay_luck: 0
 ed_gameplay_interaction: 2
-
 ed_preferred: 1
 ed_rank_dad: 
 ed_rank_edu: 3
 ed_rank_dev: 
 ed_rank_kid: 
-
 ed_players: 2-4
 ed_age: 12
 ed_duration: 30
-
 ed_publisher: 
 ed_year: 2020
 ed_url_details: https://boardgamegeek.com/boardgame/279537/search-planet-x
-ed_url_play: 
+ed_url_play:
 ---
 
 ![](../../assets/img/played/boardgame/search-planet-x.webp)

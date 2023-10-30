@@ -6,8 +6,8 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - sport
-  - 2Giocatori
+  - g/sport
+  - g/2giocatori
 date: 2021-02-17
 lastmod: 2022-12-18
 

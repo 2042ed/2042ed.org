@@ -6,7 +6,7 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - kids
+  - target/kids
   - award
   - Destrezza
 date: 2020-12-14

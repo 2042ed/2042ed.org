@@ -6,10 +6,10 @@ type: PlayED
 categories:
   - steam
 tags:
-  - Creare
-  - Visuale
-  - Tool
-  - Free
+  - skill/creative
+  - g/visuale
+  - g/tool
+  - g/free
 date: 2020-12-14
 lastmod: 2022-12-18
 

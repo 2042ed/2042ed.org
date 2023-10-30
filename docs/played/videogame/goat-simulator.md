@@ -6,7 +6,7 @@ type: PlayED
 categories:
   - videogame
 tags:
-  - Sandbox
+  - g/sandbox
   - fun
 date: 2021-12-17T15:12:44.000Z
 lastmod: 2022-12-18

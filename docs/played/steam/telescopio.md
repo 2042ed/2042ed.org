@@ -6,8 +6,8 @@ type: PlayED
 categories:
   - steam
 tags:
-  - Tool
-  - spazio
+  - g/tool
+  - g/spazio
 date: 2020-12-14
 lastmod: 2022-12-18
 

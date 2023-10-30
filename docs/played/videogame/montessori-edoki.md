@@ -6,8 +6,8 @@ type: PlayED
 categories:
   - videogame
 tags:
-  - kids
-  - Edu
+  - target/kids
+  - g/edu
 date: 2021-04-12
 lastmod: 2022-12-18
 

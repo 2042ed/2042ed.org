@@ -6,8 +6,8 @@ type: PlayED
 categories:
   - videogame
 tags:
-  - spazio
-  - kids
+  - g/spazio
+  - target/kids
 date: 2021-04-12
 lastmod: 2022-12-18
 

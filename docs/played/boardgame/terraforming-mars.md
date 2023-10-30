@@ -7,8 +7,8 @@ categories:
   - boardgame
 tags:
   - award
-  - spazio
-  - Strategia
+  - g/spazio
+  - g/strategia
 date: 2020-12-14
 lastmod: 2022-12-18
 

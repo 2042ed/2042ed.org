@@ -6,7 +6,7 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Puzzle
+  - g/puzzle
 date: 2021-05-07T23:54:11+02:00
 lastmod: 2022-12-18
 featured: false

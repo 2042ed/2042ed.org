@@ -7,7 +7,7 @@ categories:
   - boardgame
 tags:
   - award
-  - Family
+  - g/family
 date: 2022-01-02T23:51:55+01:00
 lastmod: 2022-12-18
 

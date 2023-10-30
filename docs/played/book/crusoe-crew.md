@@ -6,9 +6,9 @@ type: PlayED
 categories:
   - book
 tags:
-  - librogame
-  - Collaborativo
-  - english
+  - g/cyoa
+  - g/collaborativo
+  - skill/english
 date: 2020-12-14
 lastmod: 2022-12-18
 

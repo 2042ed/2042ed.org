@@ -6,15 +6,15 @@ categories:
   - boardgame
 tags:
   - award
-  - 2Giocatori
-  - Compatto
+  - g/2giocatori
+  - g/compatto
 date: 2020-12-14
 lastmod: 2022-12-21
 
 template: played.html
 ed_category: boardgame
 ed_skills:
-  - sk_logic
+  - skill/logic
 ed_gameplay_complex: 1
 ed_gameplay_strategy: 3
 ed_gameplay_luck: 0

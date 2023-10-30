@@ -6,10 +6,10 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Carte
-  - Strategia
-  - Compatto
-  - 2Giocatori
+  - g/carte
+  - g/strategia
+  - g/compatto
+  - g/2giocatori
 date: 2020-12-14
 lastmod: 2022-12-18
 

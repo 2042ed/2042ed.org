@@ -6,10 +6,10 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - kids
-  - Visuale
+  - target/kids
+  - g/visuale
   - award
-  - Compatto
+  - g/compatto
 date: 2020-12-14
 lastmod: 2022-12-18
 

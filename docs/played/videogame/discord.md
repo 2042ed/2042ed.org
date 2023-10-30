@@ -4,10 +4,10 @@ slug: discord
 description: ""
 type: PlayED
 categories:
-  - tool
+  - g/tool
 tags:
-  - Tool
-  - Team
+  - g/tool
+  - g/team
 date: 2020-12-14
 lastmod: 2022-12-18
 

@@ -9,8 +9,8 @@ categories:
   - boardgame
 tags:
   - award
-  - Family
-  - Livelli
+  - g/family
+  - g/livelli
 
 template: played.html
 ed_category: boardgame

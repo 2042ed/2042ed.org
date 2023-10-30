@@ -6,16 +6,16 @@ categories:
   - boardgame
 tags:
   - award
-  - Collaborativo
-  - english
-  - Legacy
+  - g/collaborativo
+  - skill/english
+  - g/legacy
 date: 2020-12-15
 
 template: played.html
 ed_category: boardgame
 ed_skills:
-  - sk_logic
-  - sk_communication
+  - skill/logic
+  - skill/communication
 ed_gameplay_complex: 1
 ed_gameplay_strategy: 3
 ed_gameplay_luck: 2

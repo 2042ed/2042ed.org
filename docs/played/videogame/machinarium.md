@@ -6,10 +6,10 @@ type: PlayED
 categories:
   - videogame
 tags:
-  - Puzzle
-  - Tablet
+  - g/puzzle
+  - g/tablet
   - award
-  - Family
+  - g/family
 date: 2019-12-14
 lastmod: 2023-12-18
 

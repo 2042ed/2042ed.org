@@ -6,8 +6,8 @@ description: ""
 categories:
   - boardgame
 tags:
-  - kids
-  - Strategia
+  - target/kids
+  - g/strategia
 date: 2020-12-14
 lastmod: 2022-12-18
 

@@ -1,14 +1,14 @@
 ---
-title: Minecraft - Carte
+title: Minecraft (carte)
 slug: minecraft-carte
 description: ""
 type: PlayED
 categories:
   - boardgame
 tags:
-  - Carte
-  - english
-  - Compatto
+  - g/carte
+  - skill/english
+  - g/compatto
 date: 2020-12-14
 lastmod: 2022-12-18
 

@@ -9,10 +9,10 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Family
-  - Party
-  - Comunicazione
-  - Impostore
+  - g/family
+  - g/party
+  - skill/comunicazione
+  - g/impostore
 
 template: played.html
 ed_category: boardgame

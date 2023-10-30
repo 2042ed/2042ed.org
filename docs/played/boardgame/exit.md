@@ -6,9 +6,9 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Escape
-  - Collaborativo
-  - Serie
+  - g/escape
+  - g/collaborativo
+  - g/serie
 date: 2020-12-14
 lastmod: 2022-12-18
 

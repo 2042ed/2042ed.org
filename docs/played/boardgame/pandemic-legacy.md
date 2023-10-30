@@ -6,7 +6,7 @@ categories:
   - boardgame
 tags:
   - award
-  - Legacy
+  - g/legacy
 date: 2020-12-14
 lastmod: 2022-12-18
 

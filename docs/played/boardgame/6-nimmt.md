@@ -7,8 +7,8 @@ categories:
   - boardgame
 tags:
   - award
-  - Carte
-  - Party
+  - g/carte
+  - g/party
 date: 2020-12-14
 lastmod: 2022-12-18
 

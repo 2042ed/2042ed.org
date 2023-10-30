@@ -7,7 +7,7 @@ categories:
   - videogame
 tags:
   - ai
-  - coding
+  - g/coding
 description: ""
 permalink: 
 rating: 
@@ -38,7 +38,7 @@ ed_year: 2019
 ed_url_details: https://luden.io/wtl/
 ed_url_play: 
 ed_vg_platforms:
-  - Tablet
+  - g/tablet
   - Desktop
 ---
 rientra in quei giochi dove impari a programmare.

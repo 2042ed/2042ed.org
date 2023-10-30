@@ -7,8 +7,8 @@ categories:
   - videogame
 tags:
   - award
-  - storia
-  - Serie
+  - g/storia
+  - g/serie
 date: 2020-12-14
 lastmod: 2022-12-18
 

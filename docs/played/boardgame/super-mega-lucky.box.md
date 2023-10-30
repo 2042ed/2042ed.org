@@ -5,7 +5,7 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Party
+  - g/party
 date: 2022-12-26
 lastmod: 2022-12-26
 

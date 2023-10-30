@@ -8,7 +8,7 @@ categories:
 tags:
   - tv
   - award
-  - kids
+  - target/kids
 date: 2020-12-14
 updated: 2022-03-22
 

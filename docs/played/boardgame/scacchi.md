@@ -6,10 +6,10 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Strategia
-  - Classico
+  - g/strategia
+  - g/classic
   - award
-  - 2Giocatori
+  - g/2giocatori
 date: 2020-12-14
 lastmod: 2022-12-18
 

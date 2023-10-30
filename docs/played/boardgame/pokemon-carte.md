@@ -6,8 +6,8 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Carte
-  - 2Giocatori
+  - g/carte
+  - g/2giocatori
   - award
 date: 2020-12-14
 lastmod: 2022-12-18

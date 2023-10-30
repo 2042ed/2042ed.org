@@ -10,7 +10,7 @@ categories:
   - videogame
 tags:
   - award
-  - kids
+  - target/kids
 template: played.html
 ed_category: videogame
 ed_skills: []

@@ -9,8 +9,8 @@ categories:
   - videogame
 tags:
   - award
-  - kids
-  - Puzzle
+  - target/kids
+  - g/puzzle
 
 template: played.html
 ed_category: videogame

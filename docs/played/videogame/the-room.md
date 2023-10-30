@@ -7,8 +7,8 @@ categories:
   - videogame
 tags:
   - award
-  - Escape
-  - kids
+  - g/escape
+  - target/kids
 date: 2020-12-14
 lastmod: 2022-12-18
 

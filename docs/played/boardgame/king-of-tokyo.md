@@ -7,9 +7,9 @@ categories:
   - boardgame
 tags:
   - award
-  - kids
-  - Combattimento
-  - Dadi
+  - target/kids
+  - g/fight
+  - g/dadi
 date: 2021-05-04T23:45:05+02:00
 lastmod: 2022-12-18
 featured: false

@@ -8,7 +8,7 @@ type: PlayED
 categories:
   - outdoor
 tags:
-  - Exergame
+  - g/exergame
 lastmod: 2022-12-18
 
 template: played.html

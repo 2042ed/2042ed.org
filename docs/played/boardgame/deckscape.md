@@ -6,10 +6,10 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Escape
-  - Family
+  - g/escape
+  - g/family
   - award
-  - Compatto
+  - g/compatto
 date: 2020-12-14
 lastmod: 2022-12-18
 

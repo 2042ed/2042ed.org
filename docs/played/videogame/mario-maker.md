@@ -6,8 +6,8 @@ type: PlayED
 categories:
   - videogame
 tags:
-  - Maker
-  - kids
+  - g/maker
+  - target/kids
   - KidsMakeGames
 date: 2020-12-14
 lastmod: 2022-12-18

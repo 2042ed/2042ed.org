@@ -7,8 +7,8 @@ categories:
   - videogame
 tags:
   - award
-  - spazio
-  - Simulazione
+  - g/spazio
+  - g/simulazione
 date: 2020-12-14
 lastmod: 2022-12-18
 

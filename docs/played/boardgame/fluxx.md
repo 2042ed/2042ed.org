@@ -8,8 +8,8 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Carte
-  - Compatto
+  - g/carte
+  - g/compatto
 lastmod: 2022-12-18
 
 template: played.html

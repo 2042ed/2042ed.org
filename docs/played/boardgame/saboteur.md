@@ -6,9 +6,9 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Family
-  - Party
-  - Impostore
+  - g/family
+  - g/party
+  - g/impostore
 date: 2020-12-14
 lastmod: 2022-12-18
 

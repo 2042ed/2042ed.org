@@ -6,8 +6,8 @@ type: PlayED
 categories:
   - steam
 tags:
-  - kids
-  - Puzzle
+  - target/kids
+  - g/puzzle
 date: 2020-12-14
 lastmod: 2022-12-18
 

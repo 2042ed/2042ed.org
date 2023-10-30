@@ -7,9 +7,9 @@ categories:
   - videogame
 tags:
   - award
-  - Exergame
-  - Family
-  - sport
+  - g/exergame
+  - g/family
+  - g/sport
 date: 2020-12-14
 lastmod: 2022-12-18
 

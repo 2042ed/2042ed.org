@@ -6,7 +6,7 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - kids
+  - target/kids
 date: 2021-04-07T15:54:02+02:00
 lastmod: 2022-12-18
 featured: false

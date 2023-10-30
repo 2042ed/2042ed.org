@@ -6,8 +6,8 @@ type: PlayED
 categories:
   - videogame
 tags:
-  - Maker
-  - Build
+  - g/maker
+  - g/build
 date: 2020-12-14
 lastmod: 2022-12-18
 

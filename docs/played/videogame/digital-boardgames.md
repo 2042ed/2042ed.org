@@ -3,34 +3,31 @@ title: Giochi da Tavolo Digitali
 slug: digital-boardgames
 description: ""
 type: PlayED
-categories: []
-tags: []
+categories: 
+tags:
+  - g/tablet
 date: 2020-12-14
 updated: 2022-03-22
-
 template: played.html
 ed_category: videogame
-ed_skills: []
+ed_skills: 
 ed_gameplay_complex: 
 ed_gameplay_strategy: 
 ed_gameplay_luck: 
 ed_gameplay_interaction: 
-
 ed_preferred: 
 ed_rank_dad: 
 ed_rank_edu: 
 ed_rank_dev: 
 ed_rank_kid: 
-
 ed_players: 
 ed_age: 
 ed_duration: 
-
 ed_publisher: 
 ed_year: 
 ed_url_details: 
 ed_url_play: 
-ed_vg_platforms: []
+ed_vg_platforms: 
 lastmod: 2022-12-18
 ---
 
@@ -47,6 +44,6 @@ oppure direttamente giocabili via browser ci sono centinaia di titolo gratuiti s
 > [!tip] Fabio
 > belli perché qui sei sicuro di non sbagliare le regole
 
-![giochi_da_tavolo_digitali](../../learn/ludosofia/_img/giochi_da_tavolo_digitali.webp)
+![giochi_da_tavolo_digitali](../../../studio/ludosofia/_img/giochi_da_tavolo_digitali.webp)
 
 

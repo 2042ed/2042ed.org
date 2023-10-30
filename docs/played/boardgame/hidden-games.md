@@ -6,8 +6,8 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Investigazione
-  - App
+  - g/investigazione
+  - g/app
 date: 2023-01-06
 lastmod: 2023-01-06
 

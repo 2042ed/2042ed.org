@@ -6,9 +6,9 @@ type: PlayED
 categories:
   - steam
 tags:
-  - Robot
-  - Coding
-  - Maker
+  - g/robot
+  - g/coding
+  - g/maker
 date: 2020-12-14
 lastmod: 2022-12-18
 

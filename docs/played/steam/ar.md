@@ -6,7 +6,7 @@ type: PlayED
 categories:
   - steam
 tags:
-  - AR
+  - g/xr
 date: 2020-12-14
 lastmod: 2022-12-18
 

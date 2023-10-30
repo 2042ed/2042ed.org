@@ -6,10 +6,10 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Party
-  - Carte
-  - Compatto
-  - Serie
+  - g/party
+  - g/carte
+  - g/compatto
+  - g/serie
 date: 2020-12-14
 lastmod: 2022-12-18
 

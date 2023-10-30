@@ -6,8 +6,8 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Family
-  - sport
+  - g/family
+  - g/sport
   - award
 date: 2020-12-14
 lastmod: 2022-12-18

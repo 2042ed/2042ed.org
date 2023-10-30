@@ -6,9 +6,9 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - kids
+  - target/kids
   - Destrezza
-  - Compatto
+  - g/compatto
 date: 2020-12-14
 lastmod: 2022-12-18
 

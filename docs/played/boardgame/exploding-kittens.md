@@ -7,10 +7,10 @@ categories:
   - boardgame
 tags:
   - award
-  - Compatto
-  - Party
+  - g/compatto
+  - g/party
   - fun
-  - Family
+  - g/family
 date: 2020-12-14
 lastmod: 2022-12-18
 

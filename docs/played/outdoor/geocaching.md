@@ -8,7 +8,7 @@ type: PlayED
 categories:
   - outdoor
 tags:
-  - Avventura
+  - g/adventure
 lastmod: 2022-12-18
 
 template: played.html

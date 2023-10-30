@@ -7,7 +7,7 @@ categories:
   - media
 tags:
   - tv
-  - storia
+  - g/storia
 date: 2020-12-14
 lastmod: 2022-12-18
 

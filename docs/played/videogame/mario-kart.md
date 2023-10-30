@@ -7,10 +7,10 @@ categories:
   - videogame
 tags:
   - fun
-  - kids
-  - Party
-  - Family
-  - Corsa
+  - target/kids
+  - g/party
+  - g/family
+  - g/corsa
 date: 2020-12-14
 lastmod: 2022-12-18
 

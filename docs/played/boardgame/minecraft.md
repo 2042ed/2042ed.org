@@ -1,5 +1,5 @@
 ---
-title: Minecraft - Builders & Biomes
+title: Minecraft - g/builders & Biomes
 slug: minecraft-builders-biomes
 description: ""
 type: PlayED

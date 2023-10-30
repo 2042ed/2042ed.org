@@ -7,9 +7,9 @@ categories:
   - videogame
 tags:
   - award
-  - Tablet
-  - Puzzle
-  - Visuale
+  - g/tablet
+  - g/puzzle
+  - g/visuale
 date: 2020-12-14
 lastmod: 2022-12-18
 

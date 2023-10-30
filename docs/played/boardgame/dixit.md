@@ -7,9 +7,9 @@ categories:
   - boardgame
 tags:
   - award
-  - Family
-  - Party
-  - linguaggio
+  - g/family
+  - g/party
+  - g/linguaggio
 date: 2020-12-14
 lastmod: 2022-12-18
 

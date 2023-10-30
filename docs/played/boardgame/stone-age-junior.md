@@ -7,8 +7,8 @@ categories:
   - boardgame
 tags:
   - award
-  - kids
-  - Strategia
+  - target/kids
+  - g/strategia
 date: 2021-05-05
 lastmod: 2022-12-18
 

@@ -7,7 +7,7 @@ categories:
   - boardgame
 tags:
   - award
-  - Collaborativo
+  - g/collaborativo
 date: 2020-12-14
 lastmod: 2022-12-18
 

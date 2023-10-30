@@ -8,8 +8,8 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Family
-  - kids
+  - g/family
+  - target/kids
   - Mensa
 lastmod: 2022-12-18
 

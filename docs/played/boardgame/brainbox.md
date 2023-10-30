@@ -7,9 +7,9 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - linguaggio
-  - memoria
-  - Puzzle
+  - g/linguaggio
+  - skill/memoria
+  - g/puzzle
 date: 2021-04-07
 lastmod: 2022-12-18
 featured: false
@@ -18,7 +18,7 @@ draft: false
 template: played.html
 ed_category: boardgame
 ed_skills:
-  - sk_memory
+  - skill/memory
 ed_gameplay_complex: 1
 ed_gameplay_strategy: 0
 ed_gameplay_luck: 0

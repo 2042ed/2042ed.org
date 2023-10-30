@@ -6,8 +6,8 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Party
-  - etica
+  - g/party
+  - g/etica
 date: 2020-12-14
 lastmod: 2022-12-18
 

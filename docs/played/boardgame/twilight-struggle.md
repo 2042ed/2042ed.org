@@ -6,8 +6,8 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - storia
-  - 2Giocatori
+  - g/storia
+  - g/2giocatori
   - award
 date: 2023-01-18
 lastmod: 2023-01-18

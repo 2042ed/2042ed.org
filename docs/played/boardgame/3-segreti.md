@@ -8,9 +8,9 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Family
-  - Deduzione
-  - Collaborativo
+  - g/family
+  - skill/deduzione
+  - g/collaborativo
 template: played.html
 ed_category: boardgame
 ed_skills: []

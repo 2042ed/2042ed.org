@@ -6,9 +6,9 @@ type: PlayED
 categories:
   - videogame
 tags:
-  - Maker
-  - kids
-  - Tool
+  - g/maker
+  - target/kids
+  - g/tool
 date: 2021-04-12
 lastmod: 2022-12-18
 

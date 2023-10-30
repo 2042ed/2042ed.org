@@ -6,8 +6,8 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Family
-  - Strategia
+  - g/family
+  - g/strategia
   - Geografia
   - award
 date: 2020-12-14

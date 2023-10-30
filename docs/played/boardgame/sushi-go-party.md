@@ -7,9 +7,9 @@ categories:
   - boardgame
 tags:
   - award
-  - Family
-  - Carte
-  - Party
+  - g/family
+  - g/carte
+  - g/party
 date: 2020-12-14
 lastmod: 2022-12-18
 

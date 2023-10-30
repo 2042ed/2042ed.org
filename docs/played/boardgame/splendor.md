@@ -6,10 +6,10 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Family
-  - Carte
-  - Strategia
-  - Nonni
+  - g/family
+  - g/carte
+  - g/strategia
+  - target/nonni
   - award
 date: 2020-12-14
 lastmod: 2022-12-18

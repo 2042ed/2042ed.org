@@ -6,9 +6,9 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Narrativo
-  - Avventura
-  - Serie
+  - g/narrativo
+  - g/adventure
+  - g/serie
 date: 2020-12-14
 lastmod: 2022-12-18
 

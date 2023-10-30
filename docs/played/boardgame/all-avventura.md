@@ -6,9 +6,9 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - kids
-  - GdR
-  - Party
+  - target/kids
+  - g/rpg
+  - g/party
 date: 2020-12-14
 lastmod: 2022-12-18
 

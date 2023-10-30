@@ -6,8 +6,8 @@ type: PlayED
 categories:
   - steam
 tags:
-  - kids
-  - Free
+  - target/kids
+  - g/free
   - award
 date: 2020-12-14
 lastmod: 2022-12-18

@@ -6,10 +6,10 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - 2Giocatori
+  - g/2giocatori
   - Solo
-  - GdR
-  - Compatto
+  - g/rpg
+  - g/compatto
 date: 2020-12-14
 lastmod: 2022-12-18
 

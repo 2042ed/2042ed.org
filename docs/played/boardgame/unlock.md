@@ -6,11 +6,11 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Family
-  - Escape
-  - Collaborativo
-  - Serie
-  - App
+  - g/family
+  - g/escape
+  - g/collaborativo
+  - g/serie
+  - g/app
 date: 2020-12-14
 lastmod: 2022-12-18
 

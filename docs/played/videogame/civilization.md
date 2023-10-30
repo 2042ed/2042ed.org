@@ -6,8 +6,8 @@ type: PlayED
 categories:
   - videogame
 tags:
-  - storia
-  - Strategia
+  - g/storia
+  - g/strategia
   - award
 date: 2020-12-14
 lastmod: 2022-12-18

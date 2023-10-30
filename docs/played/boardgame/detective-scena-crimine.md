@@ -6,9 +6,9 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Investigazione
+  - g/investigazione
   - Collaborazione
-  - App
+  - g/app
 date: 2020-12-14
 lastmod: 2022-12-18
 

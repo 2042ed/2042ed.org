@@ -6,9 +6,9 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Family
-  - Party
-  - Compatto
+  - g/family
+  - g/party
+  - g/compatto
 date: 2020-12-14
 lastmod: 2022-12-18
 

@@ -7,8 +7,8 @@ categories:
   - steam
 tags:
   - award
-  - Build
-  - Creare
+  - g/build
+  - skill/creative
 date: 2020-12-14
 lastmod: 2022-12-18
 

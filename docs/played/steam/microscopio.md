@@ -6,7 +6,7 @@ type: PlayED
 categories:
   - steam
 tags:
-  - Tool
+  - g/tool
 date: 2021-04-03
 lastmod: 2022-12-18
 

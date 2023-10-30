@@ -1,13 +1,18 @@
 ---
 title: Lupo Solitario
-slug: 
-description: ""
+date: 2020-12-14
+updated: 2023-10-25
 type: PlayED
 categories:
   - book
 tags:
-  - librogame
-date: 2020-12-14
+  - g/cyoa
+  - g/serie
+description: ""
+permalink: 
+rating: 
+publish: 
+slug: 
 lastmod: 2022-12-18
 
 template: played.html
@@ -33,8 +38,6 @@ ed_year:
 ed_url_details: 
 ed_url_play: 
 ---
-
-> **#Serie**   
 
 il più vasto e forse famoso LibroGame della storia.
 recentemente ristampato. merita regalarne almeno uno ai ragazzi!

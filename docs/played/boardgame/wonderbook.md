@@ -6,8 +6,8 @@ categories:
   - boardgame
 tags:
   - award
-  - Family
-  - Collaborativo
+  - g/family
+  - g/collaborativo
 date: 2020-12-14
 lastmod: 2022-12-18
 

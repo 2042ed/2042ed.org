@@ -6,10 +6,10 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Simulazione
+  - g/simulazione
   - empatia
-  - storia
-  - Strategia
+  - g/storia
+  - g/strategia
 date: 2020-12-14
 lastmod: 2022-12-18
 

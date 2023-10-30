@@ -6,10 +6,10 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Deduzione
-  - Collaborativo
-  - Compatto
-  - Serie
+  - skill/deduzione
+  - g/collaborativo
+  - g/compatto
+  - g/serie
 date: 2020-12-14
 lastmod: 2022-12-18
 

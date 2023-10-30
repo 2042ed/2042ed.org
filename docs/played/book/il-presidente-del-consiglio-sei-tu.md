@@ -9,7 +9,7 @@ type: PlayED
 categories:
   - book
 tags:
-  - Politics
+  - g/politics
 
 template: played.html
 ed_category: book

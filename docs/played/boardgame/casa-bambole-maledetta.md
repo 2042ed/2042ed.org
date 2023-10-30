@@ -8,9 +8,9 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Escape
+  - g/escape
   - award
-  - Family
+  - g/family
 template: played.html
 ed_category: boardgame
 ed_skills: []

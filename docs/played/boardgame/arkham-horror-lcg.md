@@ -6,9 +6,9 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Carte
-  - Avventura
-  - 2Giocatori
+  - g/carte
+  - g/adventure
+  - g/2giocatori
   - Scenari
 date: 2020-12-14
 lastmod: 2022-12-18

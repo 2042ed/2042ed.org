@@ -7,8 +7,8 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Strategia
-  - 2Giocatori
+  - g/strategia
+  - g/2giocatori
 
 template: played.html
 ed_category: boardgame

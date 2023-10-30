@@ -6,16 +6,16 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Collaborativo
+  - g/collaborativo
   - Solo
-  - Avventura
-  - english
+  - g/adventure
+  - skill/english
 date: 2020-12-14
 
 template: played.html
 ed_category: boardgame
 ed_skills:
-  - sk_logic
+  - skill/logic
 ed_gameplay_complex: 3
 ed_gameplay_strategy: 3
 ed_gameplay_luck: 1

@@ -6,9 +6,9 @@ type: PlayED
 categories:
   - videogame
 tags:
-  - Build
-  - Simulazione
-  - kids
+  - g/build
+  - g/simulazione
+  - target/kids
   - award
 date: 2020-12-14
 lastmod: 2022-12-18

@@ -8,7 +8,7 @@ categories:
   - boardgame
 tags:
   - award
-  - Family
+  - g/family
 
 template: played.html
 ed_category: boardgame

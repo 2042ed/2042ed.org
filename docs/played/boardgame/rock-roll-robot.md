@@ -7,10 +7,10 @@ categories:
   - boardgame
 tags:
   - award
-  - logica
-  - Coding
-  - Family
-  - Party
+  - skill/logica
+  - g/coding
+  - g/family
+  - g/party
 date: 2020-12-14
 lastmod: 2022-12-18
 

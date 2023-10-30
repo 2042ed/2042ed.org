@@ -6,9 +6,9 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - GdR
+  - g/rpg
   - Solo
-  - Compatto
+  - g/compatto
 date: 2020-12-14
 lastmod: 2022-12-18
 

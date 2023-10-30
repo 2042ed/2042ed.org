@@ -6,9 +6,9 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Family
-  - Strategia
-  - Visuale
+  - g/family
+  - g/strategia
+  - g/visuale
 date: 2020-12-14
 lastmod: 2022-12-18
 

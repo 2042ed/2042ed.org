@@ -6,8 +6,8 @@ type: PlayED
 categories:
   - steam
 tags:
-  - kids
-  - Coding
+  - target/kids
+  - g/coding
 date: 2020-12-14
 lastmod: 2022-12-18
 

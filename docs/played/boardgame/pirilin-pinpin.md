@@ -6,9 +6,9 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - kids
-  - Compatto
-  - Carte
+  - target/kids
+  - g/compatto
+  - g/carte
 date: 2020-12-14
 lastmod: 2022-12-18
 

@@ -6,11 +6,11 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Family
-  - Collaborativo
-  - Party
+  - g/family
+  - g/collaborativo
+  - g/party
   - award
-  - Compatto
+  - g/compatto
 date: 2020-12-14
 lastmod: 2022-12-18
 

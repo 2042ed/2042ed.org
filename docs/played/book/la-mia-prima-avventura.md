@@ -6,9 +6,9 @@ type: PlayED
 categories:
   - book
 tags:
-  - librogame
-  - kids
-  - Avventura
+  - g/cyoa
+  - target/kids
+  - g/adventure
 date: 2020-12-14
 lastmod: 2022-12-18
 

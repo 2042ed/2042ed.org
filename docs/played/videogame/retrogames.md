@@ -9,7 +9,7 @@ type: PlayED
 categories:
   - videogame
 tags:
-  - Classico
+  - g/classic
 
 template: played.html
 ed_category: videogame

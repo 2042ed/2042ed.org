@@ -6,8 +6,8 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Family
-  - 2Giocatori
+  - g/family
+  - g/2giocatori
   - award
 date: 2020-12-14
 lastmod: 2022-12-18

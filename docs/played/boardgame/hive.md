@@ -7,9 +7,9 @@ categories:
   - boardgame
 tags:
   - award
-  - 2Giocatori
-  - Strategia
-  - Compatto
+  - g/2giocatori
+  - g/strategia
+  - g/compatto
 date: 2020-12-14
 lastmod: 2022-12-18
 

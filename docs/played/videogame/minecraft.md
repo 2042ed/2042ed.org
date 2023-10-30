@@ -7,8 +7,8 @@ categories:
   - videogame
 tags:
   - award
-  - Sandbox
-  - Build
+  - g/sandbox
+  - g/build
 date: 2020-12-14
 lastmod: 2022-12-18
 

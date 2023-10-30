@@ -6,9 +6,9 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Family
-  - Party
-  - linguaggio
+  - g/family
+  - g/party
+  - g/linguaggio
   - award
 date: 2020-12-14
 lastmod: 2022-12-18

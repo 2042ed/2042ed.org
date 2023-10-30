@@ -9,9 +9,9 @@ type: PlayED
 categories:
   - boardgame
 tags:
-  - Narrativo
-  - Collaborativo
-  - Investigazione
+  - g/narrativo
+  - g/collaborativo
+  - g/investigazione
 
 template: played.html
 ed_category: boardgame

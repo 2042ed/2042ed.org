@@ -1,17 +1,19 @@
 ---
 title: Captain Sonar 🗣
-slug: captain-sonar
-description: due squadre nei sommergibili
+date: 2020-12-14
+updated: 2023-10-25
 type: PlayED
 categories:
   - boardgame
 tags:
-  - Collaborativo
-  - Simulazione
-  - Team
   - g/simulation
-  - s/collaboration
-date: 2020-12-14
+  - g/team
+  - skill/collaboration
+description: due squadre nei sommergibili
+permalink: 
+rating: 
+publish: 
+slug: captain-sonar
 lastmod: 2022-12-18
 template: played.html
 ed_category: boardgame
