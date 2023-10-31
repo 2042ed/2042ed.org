@@ -145,8 +145,6 @@ La prima volta che un computer ha gareggiato contro un campione del mondo è sta
 
 ### 1996 - Scacchi: Deep Blue di IBM contro Garry Kasparov
 
-![](https://images.theconversation.com/files/168904/original/file-20170511-32620-1a7jlp8.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip)
-
 Nel 1996, quando Garry Kasparov affrontò [Deep Blue](https://en.wikipedia.org/wiki/Deep_Blue_(chess_computer)) dell'IBM in una serie di partite per il titolo di campione del mondo di scacchi, era ampiamente considerato come il più grande giocatore di scacchi di sempre. Anche se Kasparov ha vinto la serie con un punteggio di 4-2; ciò che è straordinario è che **il computer lo ha sconfitto due volte**. Kasparov osservava: "Potevo percepire un nuovo tipo di intelletto dall'altra parte del tavolo". Una versione modificata dell'AI chiamata "Deeper Blue" ha battuto Kasparov l'anno successivo.
 
 ### 2016 - Go: AlphaGO di DeepMind contro i primi cinque giocatori del mondo
