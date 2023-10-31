@@ -10,7 +10,7 @@ date: 2020-12-14
 updated: 2022-03-22
 template: played.html
 ed_category: videogame
-ed_skills: 
+ed_skills: []
 ed_gameplay_complex: 
 ed_gameplay_strategy: 
 ed_gameplay_luck: 

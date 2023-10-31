@@ -17,7 +17,7 @@ slug: mario-party
 lastmod: 2022-12-18
 template: played.html
 ed_category: videogame
-ed_skills: 
+ed_skills: []
 ed_gameplay_complex: 
 ed_gameplay_strategy: 
 ed_gameplay_luck: 

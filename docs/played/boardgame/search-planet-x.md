@@ -13,7 +13,7 @@ date: 2023-01-06
 lastmod: 2023-01-06
 template: played.html
 ed_category: boardgame
-ed_skills: 
+ed_skills: []
 ed_gameplay_complex: 1
 ed_gameplay_strategy: 2
 ed_gameplay_luck: 0
