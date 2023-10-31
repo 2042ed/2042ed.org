@@ -12,8 +12,6 @@ Qui alcuni studi e lavori di approfondimento su temi vari, dalla tecnologia alla
 
 <div class="grid cards" markdown>
 
-- :fontawesome-solid-book: [Game Tech](game-dev/index.md)  
-_AI, XR, Sviluppo Distribuito, Giochi educativi... come usarli per creare giochi?_
 - :fontawesome-solid-book: [Manuale Attivista](manuale-attivista/index.md)  
 _Ok, ma cosa fare nel mondo?_
 - :fontawesome-solid-book: [guide](guide/index.md)  
