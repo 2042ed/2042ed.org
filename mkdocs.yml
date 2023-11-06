@@ -1,4 +1,4 @@
-site_name: 2042 Play Based Learning Future
+site_name: 2042 Play, Learn & Robots
 site_url: https://2042ed.org
 site_author: Stefano Cecere
 site_description: Giochi, Educazione, Intelligenza Artificiale, Umanesimo, Futuro. A cura di Stefano Cecere.
@@ -23,7 +23,7 @@ theme:
     - navigation.indexes
 #    - navigation.expand
 #    - navigation.sections
-    - announce.dismiss
+#    - announce.dismiss
   font:
     text: Roboto
     code: Roboto Mono
