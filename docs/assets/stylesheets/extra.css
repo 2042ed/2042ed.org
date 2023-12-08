@@ -4,27 +4,6 @@ hr {
     border-radius: 5px;
 }
 
-.md-typeset .grid {
-    grid-gap: .4rem;
-    display: grid;
-    grid-template-columns: repeat(auto-fit,minmax(16rem,1fr));
-    margin: 1em 0;
-}
-.md-typeset .grid.cards > :is(ul, ol) {
-    display: contents;
-}
-.md-typeset .grid.cards > :is(ul, ol) > li, .md-typeset .grid > .card {
-    border: .05rem solid var(--md-default-fg-color--lightest);
-    border-radius: .1rem;
-    display: block;
-    margin: 0;
-    padding: .8rem;
-    transition: border .25s,box-shadow .25s;
-}
-.md-typeset .grid.cards > :is(ul, ol) > li > :first-child, .md-typeset .grid > .card > :first-child {
-    margin-top: 0;
-}
-
 [data-md-color-scheme="default"] {
     --md-primary-fg-color:        #007C77;
     --md-primary-fg-color--light: #007C77;
