@@ -1,0 +1,25 @@
+---
+title: Intelligenza Collettiva e Sviluppo Distribuito
+date: 2019-12-12
+updated: 2023-01-16
+has_children: true
+nav_order: 10
+---
+
+# Intelligenza Collettiva e Sviluppo Distribuito
+*da Git all'immortalità*  
+di [Stefano Cecere](https://github.com/StefanoCecere)
+
+in questo corso vedremo alcuni temi quali:
+
+- Problematiche comuni nello sviluppo di progetti digitali
+- Perché una Intelligenza Collettiva
+- Open Source: vantaggi e svantaggi
+- Inner Source: le best practices dell'Open Source per progetti privati
+- Piattaforme di sviluppo collaborativo (Git e GitHub)
+- Formati e Interscambio: per collaborare meglio
+- Basi di Project Management
+- Accessibilità e Presenza: come farsi amare dai collaboratori e dai boss
+- Preservazione e Immortalità: preservazione e leggibilità a futuro
+- Marketing ed Economia: quando una presenza Open conviene
+- Appendici e Risorse di approfondimento

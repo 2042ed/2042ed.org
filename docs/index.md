@@ -42,5 +42,24 @@ _Ricerche e materiali nel campo della pedagogia e dell'educazione_
 
 </div>
 
+## DEV: per sviluppatori e ricercatori
+_AI, XR, Sviluppo Distribuito, Giochi educativi... come usarli per creare giochi?_
+
+Amo imparare, ma forse ancora di più imparare ad imparare e condividere.  
+Le dispense dei miei corsi sono pubbliche, contattatemi se volete che vi organizzi un corso, personalizzato, online o offline.
+
+<div class="grid cards" markdown>
+
+- 📖 [Intelligenza Collettiva e Sviluppo Distribuito](learn/game-dev/ci/index.md)  
+*da Git all'Immortalità*
+- 📖 [Extended Reality](learn/game-dev/xr/index.md)  
+*XR = AR + VR + MR: le nuove tecnologie immersive*  
+- 📖 [Game A.I.](learn/game-dev/ai/index.md)  
+*Intelligenza Artificiale nei Videogiochi*
+- 📖 [Human Games](learn/game-dev/g4c/index.md)  
+*Games 4 Change e Business oltre l’Entertainment*  
+
+</div>
+---
 
 _Play Well, Die Happy!_
