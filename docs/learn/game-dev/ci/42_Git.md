@@ -170,6 +170,9 @@ git push
 --- 
 
 ## Per approfondire
+Consiglio vivamente questa introduzione: <https://docs.github.com/en/get-started/start-your-journey/about-github-and-git>
+
+e poi 
 
 - Git Pro book: <https://git-scm.com/book/en/v2>
 - Laboratori: <https://lab.github.com/courses>
