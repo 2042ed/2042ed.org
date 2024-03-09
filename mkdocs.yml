@@ -1,7 +1,7 @@
-site_name: 2042 Play, Learn & Robots
+site_name: 2042ed ▶️👍🎲😊
 site_url: https://2042ed.org
 site_author: Stefano Cecere
-site_description: Giochi, Educazione, Intelligenza Artificiale, Umanesimo, Futuro. A cura di Stefano Cecere.
+site_description: socializzazione e contaminazione tra giochi, educazione, tecnologia e polis. A cura di Stefano Cecere.
 copyright: <a href="/about">© Stefano Cecere | CC BY-NC-SA</a> | <a href="/about#play-well-die-happy">▶️👍🎲😊</a>
 
 theme:
@@ -53,6 +53,8 @@ markdown_extensions:
   - attr_list
   - def_list
   - md_in_html
+  - toc:
+      permalink: true
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg

@@ -27,8 +27,8 @@ hide:
 ## PLAY: per educatori, genitori e giocatori
 <div class="grid cards" markdown>
 
-- [Inizia qui](about/faq.md)  
-*puoi chiedere qualsiasi cosa*  
+- [Ludosofia](ludosofia/index.md)  
+*il nostro manuale al giocare bene insieme*  
 - [Giochi](played/index.md)  
 *guida ai giochi, videogiochi e attività intelligenti*  
 - [Lab](lab/index.md)  
