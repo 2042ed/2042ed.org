@@ -20,13 +20,13 @@ ed_gameplay_luck:
 ed_gameplay_interaction: 1
 
 ed_preferred: 
-ed_rank_dad: 2
-ed_rank_edu: 2
-ed_rank_dev: 1
-ed_rank_kid: 3
+ed_rank_dad: ha regole semplificate rispetto a Catan
+ed_rank_edu: allena la tattica e il pensiero strategico
+ed_rank_dev: 
+ed_rank_kid: bello!
 
 ed_players: 2-4
-ed_age: 5
+ed_age: 5-10
 ed_duration: 30
 
 ed_publisher: Asmodee
