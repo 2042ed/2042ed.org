@@ -28,4 +28,4 @@ Buon lavoro, Agente 127.
 SUGGERIMENTI:
 1. un Kb equivale a 1024 bytes.
 
-![](../../assets/img/hackerkid/ascii_table.jpg)
+![](../../../assets/img/hackerkid/ascii_table.jpg)

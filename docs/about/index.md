@@ -68,7 +68,7 @@ Questo progetto non sarebbe nato e non avrebbe sostanza senza la collaborazione,
 - Fabio e Bruno Cecere
 - Alessandro Mancini
 - [i 7 Frames](../lab/jam/7-frames.md)
-- la banda del [PlayFriday](../lab/lab/play-friday.md)
+- la banda del [PlayFriday](../lab/activities/play-friday.md)
 - Annabella Coiro con [Edumana](https://www.edumana.it/) e [Centro di Nonviolenza Attiva](http://www.centrononviolenzattiva.org)
 - [Rita Greta Rombolotti](https://www.studiohelda.it)
 - [Christian "CH" Costanza](https://www.facebook.com/profile.php?id=100085391032077)

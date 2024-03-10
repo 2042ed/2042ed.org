@@ -30,4 +30,4 @@ Domande:
 5) quale è la capacità di memorizzazione del tuo smartphone (in Gb)?
 6 extra): se domani uno di questi dispositivi sparisse di colpo. riusciresti a recuperarne i dati? (indizio: cerca "backup")
 
-![](../../assets/img/hackerkid/microchip.jpg)
+![](../../../assets/img/hackerkid/microchip.jpg)

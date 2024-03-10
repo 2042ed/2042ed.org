@@ -53,4 +53,4 @@ La tua missione di oggi è identificare che tipo di files sono i seguenti:
 
 ogni identificazione corretta vale un punto HK. buon lavoro
 
-![](../../assets/img/hackerkid/file_extensions.jpg)
+![](../../../assets/img/hackerkid/file_extensions.jpg)

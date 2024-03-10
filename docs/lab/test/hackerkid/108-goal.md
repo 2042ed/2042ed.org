@@ -21,4 +21,4 @@ COSA VORRESTI OTTENERE DA QUESTO PERCORSO? Qual è un tuo obiettivo? Cosa vorres
 Pensaci bene. avere un obiettivo e dichiararlo è importante sia per te che per noi.
 Buona giornata.
 
-![](../../assets/img/hackerkid/life-goal.jpg)
+![](../../../assets/img/hackerkid/life-goal.jpg)

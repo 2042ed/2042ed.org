@@ -36,4 +36,4 @@ https://www.rodoni.ch/busoni/bibliotechina/nuovifiles/iliade_h/testo.htm
 - le immagini in Bianco e Nero usano un solo byte per pixel (il livello di grigio)
 - i video sono una sequenza di immagini con una precisa frequenza di immagini al secondo.. per convenzione non si usano gli Hz bensì i Frames Per Second (FPS)
 
-![](../../assets/img/hackerkid/archivio_iliade.jpg)
+![](../../../assets/img/hackerkid/archivio_iliade.jpg)
