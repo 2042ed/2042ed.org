@@ -11,6 +11,7 @@ tags:
   - g/strategia
   - target/nonni
   - award
+  - ingiococonpapa
 date: 2020-12-14
 lastmod: 2022-12-18
 
@@ -52,3 +53,9 @@ Noi l'abbiamo giocato tanto anche sul tablet perché ci sono le missioni avanzat
 
 > [!info] Stefano
 > Adoro gli Space Cowboys (game designers francesi)
+
+## Video tutorial
+![video](https://youtu.be/Ud1h7Her8fA?si=vndLVpJ3kXnKugPf)
+
+![video](https://youtu.be/JS8ggFJbVDo?si=qO9WewRUq4Cwx5gg)
+
