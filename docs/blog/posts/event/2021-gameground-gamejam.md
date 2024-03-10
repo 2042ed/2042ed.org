@@ -17,11 +17,9 @@ slug: gameground-kids-game-jam
 
 la GameJam dei ragazzi su un gioco ambientale che qui introduco con un video fatto apposta!
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4Y6FpUwr0MU?si=tXLg3aP_cVdPyxzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <https://www.youtube.com/watch?v=4Y6FpUwr0MU>
 
-la pagina del gioco è poi questa:
-<https://gameground.itch.io/recycledisland>
+la pagina del gioco è poi questa: <https://gameground.itch.io/recycledisland>
 
-e tutto il progetto è OpenSource su GitHub: <https://github.com/jamurr/GameGroundJAM/>
-
-
+e tutto il progetto è OpenSource su GitHub: <https://github.com/2042ed/GameGroundJAM/>

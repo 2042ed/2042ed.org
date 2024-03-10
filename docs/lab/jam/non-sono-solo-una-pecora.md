@@ -4,14 +4,15 @@ description: il primo gioco sviluppato da Papà e figlio (7anni)
 categories: jamurr
 tags: [GlobalGameJam, KidsMakeGames, Progetto]
 date: 2016-01-31T00:00:00Z
-url_code: "https://github.com/jamurr/JAM.NotJustASheep"
+url_code: "https://github.com/2042ed/JAM.NotJustASheep"
 
 ---
 
 ## Download
+
 - scarica app **iOS**: [Apple App Store](https://apps.apple.com/us/app/im-not-just-a-sheep/id110999489)
 - scarica app **Android**: [Google Play](https://play.google.com/store/apps/details?id=com.jamurr.notjustsheep)
-- progetto Open Source: <https://github.com/jamurr/JAM.NotJustASheep>
+- progetto Open Source: <https://github.com/2042ed/JAM.NotJustASheep>
 
 ## Descrizione
 
@@ -23,7 +24,7 @@ youtube 0DPo3DuW7Bk
 
 GGJ site: <http://globalgamejam.org/2016/games/im-not-just-sheep-non-sono-solo-una-pecora>
 
-![](../../assets/img/jam/notjustasheep_comp1.webp)
-![](../../assets/img/jam/notjustasheep_comp2.webp)
-![](../../assets/img/jam/notjustasheep_intro.webp)
-![](../../assets/img/jam/notjustasheep_pensieroprofontoteam.webp)
+logo](../../assets/img/jam/notjustasheep_comp1.webp)
+logo](../../assets/img/jam/notjustasheep_comp2.webp)
+logo](../../assets/img/jam/notjustasheep_intro.webp)
+logo](../../assets/img/jam/notjustasheep_pensieroprofontoteam.webp)

@@ -126,13 +126,14 @@ ci mancano ancora un po’ di cose per completare il gioco (il livello del Boss,
 
 siamo organizzati in modo la lavorarci una sera alla settimana, e dovremmo farcela.
 
-![](../../../assets/img/jamurr/img-7framescubed/gruppo1.jpg)
+![gruppo 1](../../../assets/img/jamurr/img-7framescubed/gruppo1.jpg)
 ![foto gruppo 2](../../../assets/img/jamurr/img-7framescubed/gruppo2.jpg)
 
 se tutto ciò che abbiamo fatto ti sta piacendo, faccelo sapere!
 
-> NOTA: tutto il progetto è Open Source sotto licenza Creative Commons, puoi vederne il sito di sviluppo e partecipare qui: <https://github.com/jamurr/JAM.7FRAMES_Cubed/>
+> NOTA: tutto il progetto è Open Source sotto licenza Creative Commons, puoi vederne il sito di sviluppo e partecipare qui: <https://github.com/2042ed/JAM.7FRAMES_Cubed/>
 
-## A PRESTO DA TUTTI NOI:
+## A PRESTO DA TUTTI NOI
+
 - Angelo, Davide, Enea, Fabio, Maia, Micol, Ruben
 - Stefano Cecere, Annabella Coiro, Dario Pelella, Mauro Vanetti, Pietro Polsinelli
