@@ -1,7 +1,7 @@
 ---
 title: Carcassonne
 slug: carcassonne
-description: il classico
+description: "strategico in cui posizionare tessere per costruire un paesaggio medievale e ottenere punti posizionando i propri seguaci su città, strade, monasteri e campi"
 type: PlayED
 categories:
   - boardgame

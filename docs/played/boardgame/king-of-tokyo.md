@@ -1,7 +1,7 @@
 ---
 title: King of Tokyo
 slug: king-of-tokyo
-description: combattimento tra mostri giganti tra dadi e superpoteri. veloce e divertente
+description: "combattimento tra mostri giganti tra dadi e superpoteri. veloce e divertente"
 type: PlayED
 categories:
   - boardgame

@@ -1,7 +1,7 @@
 ---
 title: Saboteur
 slug: 
-description: ""
+description: "impersonate nani minatori alla ricerca di un tesoro, ma tra di voi si nascondono sabotatori!"
 type: PlayED
 categories:
   - boardgame
@@ -32,7 +32,7 @@ ed_age: 7
 ed_duration: 30
 
 ed_publisher: Giochi Uniti
-ed_url_publisher: https://shop.giochiuniti.it/saboteur.html
+ed_publisher_url: https://shop.giochiuniti.it/saboteur.html
 ed_year: 2011
 ed_url_details: https://www.boardgamegeek.com/boardgame/143147/saboteur-compilation-editions
 ed_url_play: 

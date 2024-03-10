@@ -1,7 +1,7 @@
 ---
 title: Crossing
 slug: crossing
-description: ""
+description: "competizione tra esploratori che attraversano un pericoloso labirinto sotterraneo per recuperare tesori"
 type: PlayED
 categories:
   - boardgame

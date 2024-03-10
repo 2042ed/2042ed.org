@@ -1,7 +1,7 @@
 ---
-title: Diamant 🏆
+title: Diamant / Incal Gold 🏆
 slug: diamant
-description: ""
+description: "esplorate una miniera per diamanti cercando di ottenere il bottino più ricco prima che una frana rovini tutto"
 type: PlayED
 categories:
   - boardgame

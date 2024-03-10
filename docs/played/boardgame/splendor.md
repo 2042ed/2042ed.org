@@ -1,7 +1,7 @@
 ---
 title: Splendor 🏆
 slug: splendor
-description: ""
+description: "competizione per accumulare punti vittoria comprando gemme, sviluppando il proprio emporio e attirando nobili"
 type: PlayED
 categories:
   - boardgame
@@ -17,17 +17,17 @@ lastmod: 2022-12-18
 
 template: played.html
 ed_category: boardgame
-ed_skills: []
+ed_skills: [sk_logic]
 ed_gameplay_complex: 2
 ed_gameplay_strategy: 3
 ed_gameplay_luck: 2
 ed_gameplay_interaction: 2
 
 ed_preferred: 1
-ed_rank_dad: 7
-ed_rank_edu: 3
-ed_rank_dev: 7
-ed_rank_kid: 3
+ed_rank_dad: a volte aiuto i ragazzi a ragionare su cosa conviene fare
+ed_rank_edu: ideale per introdurre elementi di strategia e pianificazione con la scelta di quali tessere comprare
+ed_rank_dev: gli Space Cowboys (game designers francesi) sono sempre garanzia di altissima qualità
+ed_rank_kid: è innanzitutto bello e abbastanza semplice ma non banale
 
 ed_players: 2-4
 ed_age: 7
@@ -48,12 +48,6 @@ Le componenti sono splendide, è facile da imparare, è profondo.
 È giocabile in modo facile dai bambini, ma per goderselo pienamente forse meglio avere 10 anni, perché una volta superata la superficie, si aprono infinite ricerche di strategie e tattiche.
 
 Noi l'abbiamo giocato tanto anche sul tablet perché ci sono le missioni avanzate (acquistabili separatamente anche in scatola ndr)
-
-> [!tip] Fabio
-> è innanzitutto bello e abbastanza semplice ma non banale
-
-> [!info] Stefano
-> Adoro gli Space Cowboys (game designers francesi)
 
 ## Tutorial
 
