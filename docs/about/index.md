@@ -33,7 +33,7 @@ lo spazio community più nerd
 
 ## Chi siamo
 
-![Stefano, Fabio e Bruno](../ludosofia/_img/foto_autori.webp)
+![Stefano, Fabio e Bruno](../studio/ludosofia/_img/foto_autori.webp)
 
 La missione di questo progetto nasce molto tempo fa, quando fin da ragazzo [Stefano Cecere](https://cecere.xyz) pensava quanto i media interattivi (sviluppava videogiochi e cd-rom multimediali agli inizi '90) avessero il potere di veicolare esperienze interessanti, per imparare a pensare e fare meglio.  
 

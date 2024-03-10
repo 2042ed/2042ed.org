@@ -50,4 +50,4 @@ E' una delle serie di cartoni animati che più amiamo perché:
 > [!tip] Fabio
 > in ogni puntata costruiscono qualcosa di nuovo
 
-![](../../ludosofia/_img/media_paf.webp)
+![](../../studio/ludosofia/_img/media_paf.webp)

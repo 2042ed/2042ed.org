@@ -107,7 +107,7 @@ Nel 2020, complice il LockDown prolungato, abbiamo sperimentato un po' di cose, 
 
 Mappando tutta casa nostra, Fabio ha creato un libro avventura dove ogni pagina è un luogo e si naviga saltando di pagina in pagina, trovando oggetti, affrontando situazioni pericolose, trovando sorprese nascoste fino a sbloccare il regalo finale, che sarà poi il regalo vero e proprio per il compleanno del fratello.
 
-Il progetto è relativamente semplice, e in un video abbiamo spiegato come l'abbiamo fatto: [progett](../lab/jam/bubolibro.md)
+Il progetto è relativamente semplice, e in un video abbiamo spiegato come l'abbiamo fatto: [progett](../../lab/jam/bubolibro.md)
 
 ## Attività PlayFriday
 

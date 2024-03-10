@@ -27,6 +27,6 @@ Questo libro è un po' la parte "teorica" del progetto 2042ed.
 11. [Risorse](93_appendici.md) per approfondire un po' tutto quanto.
 12. [Glossario](95_glossario.md) di tutti i termini più usati nel mondo dei giochi.
 
-Completano questa opera tutte le schede dei giochi esplorati in questi anni e che ci sono piaciuti di più, facilmente ricercabili per chiavi e tag di ricerca. Andate nella sezione [PlayED](../played/index.md)
+Completano questa opera tutte le schede dei giochi esplorati in questi anni e che ci sono piaciuti di più, facilmente ricercabili per chiavi e tag di ricerca. Andate nella sezione [PlayED](../../played/index.md)
 
 _Play Well, Die Happy!_

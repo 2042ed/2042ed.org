@@ -58,7 +58,7 @@ Nato con i primi home computer e sintetizzatori digitali, ha studiato ingegneria
 Unendo sempre la ricerca e lo sviluppo con la divulgazione e i laboratori per condividere quanto imparato, sopratutto con i giovanissimi. Oggi studia Scienze dell'Educazione e Filosofia della Scienza, sviluppa giochi e videogiochi e tiene corsi sulle nuove tecnologie dei videogiochi, la collaborazione e il Nuovo Umanesimo, producendo nel mentre dei libri e dei video con tutto quanto. Ha impegnato gli ultimi 12 anni a studiare insieme ai suoi figli ed è sempre online.  
 Il suo sito è [cecere.xyz](https://cecere.xyz)
 
-![](../assets/img/post/play-on-dad.webp)
+![](../../assets/img/post/play-on-dad.webp)
 
 Questo libro non sarebbe nato e non sarebbe così senza i contributi attivi di:
 
