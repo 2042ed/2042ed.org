@@ -7,7 +7,7 @@ categories:
   - boardgame
 tags:
   - target/kids
-  - - skill/destrezza
+  - skill/destrezza
   - g/compatto
 date: 2020-12-14
 lastmod: 2022-12-18

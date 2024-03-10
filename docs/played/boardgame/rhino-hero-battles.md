@@ -8,7 +8,7 @@ categories:
 tags:
   - target/kids
   - award
-  - - skill/destrezza
+  - skill/destrezza
 date: 2020-12-14
 lastmod: 2022-12-18
 
