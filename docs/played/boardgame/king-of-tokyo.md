@@ -25,7 +25,7 @@ ed_gameplay_interaction: 3
 
 ed_preferred: 1
 ed_rank_dad: divertente anche per me giocare con i ragazzi. e quasi quasi ci possiamo creare nuovi personaggi.
-ed_rank_edu: 
+ed_rank_edu: saper scegliere quali dadi tenere e quali ritirare e quando rischiare
 ed_rank_dev: l'autore di questo gioco è Richard Garfield (Magic).. una garanzia di qualità!
 ed_rank_kid: davvero facile, bellissimi disegni e attacchi diversi da comprare prima degli altri dal mazzo delle carte speciali
 
@@ -44,13 +44,13 @@ ed_url_play: https://boardgamearena.com/gamepanel?game=kingoftokyo
 
 figlio a casa? niente dad? allora si fa lezione interdisciplinare: italiano, matematica, storia, geografia e ginnastica tutte insieme con un pizzico di analisi per valutare se il regolamento da 2 giocatori si può migliorare.
 
-King of Tokyo è davvero divertente
+> King of Tokyo è davvero divertente
 
 partite velocissime (15 minuti se si è bravi) e adrenalinico. in 3/4 è probabilmente perfetto non vediamo l’ora di portarlo in ludoteca!
 
 provato in 3 con il 5enne e funziona benissimo! facile da capire e divertentissimo a inventare i nomi di tutti gli attacchi speciali e facendo controllare due mostri a testa è davvero coinvolgente. domani disegneranno nuove mappe di gioco.
 
-NB: c'è anche una versione New York e Dark Tokyo.. prendete quella che più vi piace!
+NB: c'è anche una versione **New York** e **Dark Tokyo**.. prendete quella che più vi piace!
 
 ![king-tokyo-featured](../../assets/img/played/boardgame-new/king-tokyo-featured.webp)
 

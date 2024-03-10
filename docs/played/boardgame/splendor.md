@@ -24,7 +24,7 @@ ed_gameplay_luck: 2
 ed_gameplay_interaction: 2
 
 ed_preferred: 1
-ed_rank_dad: a volte aiuto i ragazzi a ragionare su cosa conviene fare
+ed_rank_dad: a volte aiuto i ragazzi a ragionare su cosa conviene fare.
 ed_rank_edu: ideale per introdurre elementi di strategia e pianificazione con la scelta di quali tessere comprare
 ed_rank_dev: gli Space Cowboys (game designers francesi) sono sempre garanzia di altissima qualità
 ed_rank_kid: è innanzitutto bello e abbastanza semplice ma non banale

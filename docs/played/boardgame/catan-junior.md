@@ -4,7 +4,7 @@ date: 2024-02-14
 updated: 2024-03-10
 type: PlayED
 slug: catan-junior
-description: ""
+description: "i giocatori assumono il ruolo di pirati che costruiscono nascondigli e raccolgono risorse su un'isola a forma di anello per ottenere il tesoro del Capitano Fantasma"
 categories:
   - boardgame
 tags:

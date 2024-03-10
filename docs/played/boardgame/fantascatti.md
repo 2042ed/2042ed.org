@@ -4,7 +4,7 @@ date: 2024-02-14
 updated: 2024-03-10
 type: PlayED
 slug: fantascatti
-description: ""
+description: "gioco di velocità e associazione in cui i giocatori devono afferrare gli oggetti che appaiono sul fantasma Baldovino, ma attenzione a non confondersi con i suoi dispetti!"
 categories:
   - boardgame
 tags:

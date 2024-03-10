@@ -1,15 +1,16 @@
 ---
 title: C'era un Pirata
+date: 2024-02-14
+lastmod: 2024-03-10
+updated: 2024-03-10
 type: PlayED
 slug: cera-un-pirata
-description: ""
+description: "gioco di memoria e velocità dove i pirati devono ricordare e raccogliere gli oggetti del totem descritto dal capitano per conquistare il tesoro"
 categories:
   - boardgame
 tags:
   - target/kids
   - inGiocoConPapà
-date: 2024-02-14
-lastmod: 2024-03-10
 
 template: played.html
 ed_category: boardgame

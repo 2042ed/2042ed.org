@@ -22,10 +22,10 @@ ed_gameplay_luck: 2
 ed_gameplay_interaction: 3
 
 ed_preferred: 
-ed_rank_dad: 2
-ed_rank_edu: 2
-ed_rank_dev: 2
-ed_rank_kid: 4
+ed_rank_dad: serve un bel tavolo e un bel gruppo di bambini
+ed_rank_edu: cercare di capire chi è un amico e chi un nemico sabotatore è il cuore di questo gioco
+ed_rank_dev:
+ed_rank_kid: mi piace costruire i labirinti e bloccare gli altri.
 
 ed_players: 4-12
 ed_age: 7

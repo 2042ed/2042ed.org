@@ -4,7 +4,7 @@ date: 2024-02-14
 updated: 2024-03-10
 type: PlayED
 slug: icecool
-description: ""
+description: "gioco di abilità in cui i giocatori assumono il ruolo di pinguini che devono pescare il maggior numero di pesci possibile rompendo il ghiaccio con un martello giocattolo"
 categories:
   - boardgame
 tags:
