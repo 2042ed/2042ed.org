@@ -35,7 +35,7 @@ hide:
 *laboratori per imparare creando*  
 - [Talk](learn/talk/index.md)  
 _Presentazioni su temi vari_
-- 📖 [Wiki](wiki/index.md)  
+- 📖 [Wiki](notes/index.md)  
 _Ricerche e materiali nel campo della pedagogia e dell'educazione_
 - [Ricerca per Tag](played/tags.md)  
 *se non sai cosa vuoi cercare*  

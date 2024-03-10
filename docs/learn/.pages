@@ -1,7 +1,8 @@
-title: 🏫 Scuola
+title: 🏫 Learn
 nav:
   - index.md
   - game-dev
+  - talk
+  - manuale-attivista
   - ed101
   - guide
-  - manuale-attivista
