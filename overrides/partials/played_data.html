@@ -64,22 +64,35 @@
     </td>
 </tr>
 
-<tr><td>Valutazione</td>
+<tr><td><strong>Valutazione</strong></td>
     <td>
-     {% if page.meta.ed_preferred %}
-        🏆 NOSTRO PREFERITO!<br>
-     {% endif %}
-     {% if page.meta.ed_rank_edu %}🎓 Educatore: {{ page.meta.ed_rank_edu}}<br>{% endif %}
-     {% if page.meta.ed_rank_dad %}🧑‍🧒 Genitore: {{ page.meta.ed_rank_dad}}<br>{% endif %}
-     {% if page.meta.ed_rank_kid %}🧒🏻 Kids: {{page.meta.ed_rank_kid}}<br>{% endif %}
-     {% if page.meta.ed_rank_dev %}🧑🏽‍💻 Developer: {{ page.meta.ed_rank_dev}}<br>{% endif %}
-     <br>
-     {% if page.meta.ed_gameplay_complex %}Complessità: {{ page.meta.ed_gameplay_complex}} / 5<br>{% endif %}
-     {% if page.meta.ed_gameplay_strategy %}Strategia: {{ page.meta.ed_gameplay_strategy}} / 5<br>{% endif %}
-     {% if page.meta.ed_gameplay_luck %}Fortuna: {{ page.meta.ed_gameplay_luck }} / 5<br>{% endif %}
-     {% if page.meta.ed_gameplay_interaction %}Interazione: {{ page.meta.ed_gameplay_interaction }} / 5<br>{% endif %}
+      {% if page.meta.ed_preferred %}🏆 NOSTRO PREFERITO!<br>{% endif %}
     </td>
 </tr>
+{% if page.meta.ed_rank_edu %}
+<tr><td>🎓 Educatore</td><td>{{ page.meta.ed_rank_edu}}</td></tr>
+{% endif %}
+{% if page.meta.ed_rank_dad %}
+<tr><td>🧑‍🧒 Genitore</td><td>{{ page.meta.ed_rank_dad}}</td></tr>
+{% endif %}
+{% if page.meta.ed_rank_kid %}
+<tr><td>🧒🏻 Kids</td><td>{{ page.meta.ed_rank_kid}}</td></tr>
+{% endif %}
+{% if page.meta.ed_rank_dev %}
+<tr><td>🧑🏽‍💻 Developer</td><td>{{ page.meta.ed_rank_dev}}</td></tr>
+{% endif %}
+{% if page.meta.ed_gameplay_complex %}
+<tr><td>Complessità</td><td>{{ page.meta.ed_gameplay_complex}} / 5</td></tr>
+{% endif %}
+{% if page.meta.ed_gameplay_strategy %}
+<tr><td>Strategia</td><td>{{ page.meta.ed_gameplay_strategy}} / 5</td></tr>
+{% endif %}
+{% if page.meta.ed_gameplay_luck %}
+<tr><td>Fortuna</td><td>{{ page.meta.ed_gameplay_luck}} / 5</td></tr>
+{% endif %}
+{% if page.meta.ed_gameplay_interaction %}
+<tr><td>Interazione</td><td>{{ page.meta.ed_gameplay_interaction}} / 5</td></tr>
+{% endif %}
 
 <tr><td>Dettagli</td>
     <td><ul>

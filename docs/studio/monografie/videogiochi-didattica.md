@@ -98,8 +98,7 @@ Gli effetti dipendono dal tipo di videogioco in uso. Si possono verificare conse
 ### Come impariamo con i giochi?
 #### Player flow
 
-![](../../2042/ludosofia/_img/graph_flow.webp)
-
+![](../ludosofia/_img/graph_flow.webp)
 #### Competitività
 ma non pericolosi
 
@@ -314,12 +313,13 @@ gli insegnanti devono essere informati non solo sulle potenzialità, le caratter
 ## 7: Perché è importante insegnare i giochi?
 
 ### Game Media Literacy
+
 - imparare a conoscere i giochi
 - imparare attraverso i giochi e il giocare
 - imparare creando giochi
 - imparare dai giochi come insegnare
 
-![](../../2042/ludosofia/_img/vg_mercato.webp)
+![](../ludosofia/_img/vg_mercato.webp)
 
 ### PEGI e Parental Control
 

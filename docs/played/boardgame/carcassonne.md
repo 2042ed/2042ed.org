@@ -22,9 +22,9 @@ ed_gameplay_luck: 1
 ed_gameplay_interaction: 2
 
 ed_preferred: 1
-ed_rank_dad: Se avete bambini piccoli consiglio la versione Carcassonne Junior per iniziare.
-ed_rank_edu: 
-ed_rank_dev: un classico, con moltissime espansioni
+ed_rank_dad: Se avete bambini piccoli valutre la versione Carcassonne Junior per iniziare.
+ed_rank_edu: pianificare il proprio territorio
+ed_rank_dev: un classico, con moltissime espansioni.
 ed_rank_kid: è bello incastrare i pezzi e costruire un grande territorio
 
 ed_players: 2-4

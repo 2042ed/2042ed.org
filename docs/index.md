@@ -19,7 +19,7 @@ hide:
 
 ## Novità
 
-- [2024-03-10: Giochi In Gioco con Papà](played/tags/#ingiococonpapa)
+- [2024-03-10: Giochi In Gioco con Papà](played/tags.md#ingiococonpapa)
 - [2023-09-01: Rilancio Newsletter](https://2042.substack.com)
 - [2023-05-22: Introduzione alla AI creativa](studio/monografie/generative-ai-intro.md)
 - [2023-04-25: Presentazione sul Creare un Videogioco](studio/monografie/creare-un-videogioco.md)
