@@ -1,5 +1,7 @@
 ---
 title: Fantascatti
+date: 2024-02-14
+updated: 2024-03-10
 type: PlayED
 slug: fantascatti
 description: ""
@@ -8,8 +10,6 @@ categories:
 tags:
   - target/kids
   - inGiocoConPapà
-date: 2024-02-14
-lastmod: 2024-03-10
 
 template: played.html
 ed_category: boardgame

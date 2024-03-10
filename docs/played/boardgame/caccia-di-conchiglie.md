@@ -1,5 +1,7 @@
 ---
 title: A caccia di conchiglie
+date: 2024-02-14
+updated: 2024-03-10
 type: PlayED
 slug: caccia-di-conchiglie
 description: "Un gioco di memoria e attenzione dove la frustrazione del mancato abbinamento è sostituita dalla divertente incertezza di quale sarà la conseguenza dell’errore pur continuando a premiare la giusta condotta. Un gioco veloce, divertente e stimolante per tutta la famiglia!"
@@ -8,8 +10,6 @@ categories:
 tags:
   - target/kids
   - inGiocoConPapà
-date: 2024-02-14
-lastmod: 2024-03-10
 
 template: played.html
 ed_category: boardgame

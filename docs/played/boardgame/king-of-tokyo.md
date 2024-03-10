@@ -1,5 +1,7 @@
 ---
 title: King of Tokyo
+date: 2023-10-19
+updated: 2024-03-10
 slug: king-of-tokyo
 description: "combattimento tra mostri giganti tra dadi e superpoteri. veloce e divertente"
 type: PlayED
@@ -11,8 +13,6 @@ tags:
   - g/fight
   - g/dadi
   - inGiocoConPapà
-date: 2021-05-04T23:45:05+02:00
-lastmod: 2022-12-18
 featured: false
 draft: false
 template: played.html
@@ -22,11 +22,13 @@ ed_gameplay_complex: 2
 ed_gameplay_strategy: 2
 ed_gameplay_luck: 
 ed_gameplay_interaction: 3
+
 ed_preferred: 1
-ed_rank_dad: 8
-ed_rank_edu: 2
-ed_rank_dev: 6
-ed_rank_kid: 8
+ed_rank_dad: divertente anche per me giocare con i ragazzi. e quasi quasi ci possiamo creare nuovi personaggi.
+ed_rank_edu: 
+ed_rank_dev: l'autore di questo gioco è Richard Garfield (Magic).. una garanzia di qualità!
+ed_rank_kid: davvero facile, bellissimi disegni e attacchi diversi da comprare prima degli altri dal mazzo delle carte speciali
+
 ed_players: 2-6
 ed_age: 6
 ed_duration: 20
@@ -49,10 +51,6 @@ partite velocissime (15 minuti se si è bravi) e adrenalinico. in 3/4 è probabi
 provato in 3 con il 5enne e funziona benissimo! facile da capire e divertentissimo a inventare i nomi di tutti gli attacchi speciali e facendo controllare due mostri a testa è davvero coinvolgente. domani disegneranno nuove mappe di gioco.
 
 NB: c'è anche una versione New York e Dark Tokyo.. prendete quella che più vi piace!
-
-> [!tip] Fabio davvero facile, bellissimi disegni e attacchi diversi da comprare prima degli altri dal mazzo delle carte speciali
-
-> [!info] Stefano divertente anche per me giocare con i ragazzi. e quasi quasi ci possiamo creare nuovi personaggi. NB: l'autore di questo gioco è Richard Garfield (Magic).. una garanzia di qualità!
 
 ![king-tokyo-featured](../../assets/img/played/boardgame-new/king-tokyo-featured.webp)
 

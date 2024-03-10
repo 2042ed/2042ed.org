@@ -1,5 +1,7 @@
 ---
 title: Carcassonne
+date: 2020-12-14
+updated: 2024-03-10
 slug: carcassonne
 description: "strategico in cui posizionare tessere per costruire un paesaggio medievale e ottenere punti posizionando i propri seguaci su città, strade, monasteri e campi"
 type: PlayED
@@ -10,8 +12,6 @@ tags:
   - award
   - g/family
   - inGiocoConPapà
-date: 2020-12-14
-lastmod: 2022-12-18
 
 template: played.html
 ed_category: boardgame
@@ -22,10 +22,10 @@ ed_gameplay_luck: 1
 ed_gameplay_interaction: 2
 
 ed_preferred: 1
-ed_rank_dad: 3
-ed_rank_edu: 2
-ed_rank_dev: 2
-ed_rank_kid: 2
+ed_rank_dad: Se avete bambini piccoli consiglio la versione Carcassonne Junior per iniziare.
+ed_rank_edu: 
+ed_rank_dev: un classico, con moltissime espansioni
+ed_rank_kid: è bello incastrare i pezzi e costruire un grande territorio
 
 ed_players: 2-4
 ed_age: 8
@@ -42,9 +42,6 @@ ed_url_play: https://boardgamearena.com/gamepanel?game=carcassonne
 Carcassonne è ormai la pietra miliare del genere "tiles" ovvero tessere di territorio che vanno a crescere la mappa del mondo, uno strategico semplice ma profondo.
 
 Un gioco che non dovrebbe mancare in nessuna casa come una volta non mancava il Monopoli. E se poi piace ci sono dozzine di espansioni
-
-> [!info] Stefano
-> Se avete bambini piccoli consiglio la versione Carcassonne Jr per iniziare.
 
 ## Tutorial
 

@@ -1,5 +1,7 @@
 ---
 title: Saboteur
+date: 2020-12-14
+updated: 2024-03-10
 slug: 
 description: "impersonate nani minatori alla ricerca di un tesoro, ma tra di voi si nascondono sabotatori!"
 type: PlayED
@@ -10,8 +12,6 @@ tags:
   - g/party
   - g/impostore
   - inGiocoConPapà
-date: 2020-12-14
-lastmod: 2022-12-18
 
 template: played.html
 ed_category: boardgame

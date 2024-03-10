@@ -1,5 +1,7 @@
 ---
 title: Crossing
+date: 2023-11-05
+updated: 2024-03-10
 slug: crossing
 description: "competizione tra esploratori che attraversano un pericoloso labirinto sotterraneo per recuperare tesori"
 type: PlayED
@@ -8,8 +10,6 @@ categories:
 tags:
   - g/family
   - inGiocoConPapà
-date: 2023-11-05
-lastmod: 2022-12-18
 
 template: played.html
 ed_category: boardgame

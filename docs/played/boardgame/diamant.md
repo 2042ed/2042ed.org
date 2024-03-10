@@ -1,5 +1,7 @@
 ---
 title: Diamant / Incal Gold 🏆
+date: 2021-12-14
+updated: 2024-03-10
 slug: diamant
 description: "esplorate una miniera per diamanti cercando di ottenere il bottino più ricco prima che una frana rovini tutto"
 type: PlayED
@@ -9,8 +11,6 @@ tags:
   - g/family
   - award
   - inGiocoConPapà
-date: 2021-12-14
-lastmod: 2022-12-18
 
 template: played.html
 ed_category: boardgame
@@ -21,10 +21,10 @@ ed_gameplay_luck: 4
 ed_gameplay_interaction: 0
 
 ed_preferred: 1
-ed_rank_dad: 3
-ed_rank_edu: 1
-ed_rank_dev: 1
-ed_rank_kid: 4
+ed_rank_dad: facilissimo da intavolare, ed essendo molto legato alla fortuna dà molte soddisfazioni anche ai piccoli
+ed_rank_edu: aiuta a valutare il rischio
+ed_rank_dev: 
+ed_rank_kid: divertentissimo!
 
 ed_players: 3-8
 ed_age: 7

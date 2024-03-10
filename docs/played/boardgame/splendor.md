@@ -1,5 +1,7 @@
 ---
 title: Splendor 🏆
+date: 2020-12-14
+updated: 2024-03-10
 slug: splendor
 description: "competizione per accumulare punti vittoria comprando gemme, sviluppando il proprio emporio e attirando nobili"
 type: PlayED
@@ -12,8 +14,6 @@ tags:
   - target/nonni
   - award
   - inGiocoConPapà
-date: 2020-12-14
-lastmod: 2022-12-18
 
 template: played.html
 ed_category: boardgame
