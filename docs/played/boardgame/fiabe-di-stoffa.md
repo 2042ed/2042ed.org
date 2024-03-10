@@ -10,7 +10,7 @@ tags:
   - target/kids
   - g/cyoa
   - g/collaborativo
-  - Episodi
+  - g/narrativo
 date: 2020-12-14
 lastmod: 2022-12-18
 

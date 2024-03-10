@@ -8,7 +8,7 @@ categories:
 tags:
   - Geo
   - g/exergame
-  - Geografia
+  - g/geografia
   - award
   - Outdoor
 date: 2020-12-14

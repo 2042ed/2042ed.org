@@ -10,7 +10,7 @@ categories:
 tags:
   - award
   - kids
-  - Puzzle
+  - - g/puzzle
 
 template: played.html
 ed_category: videogame

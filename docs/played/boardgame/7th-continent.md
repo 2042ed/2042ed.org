@@ -7,7 +7,7 @@ categories:
   - boardgame
 tags:
   - g/collaborativo
-  - Solo
+  - g/solo
   - g/adventure
   - skill/english
 date: 2020-12-14

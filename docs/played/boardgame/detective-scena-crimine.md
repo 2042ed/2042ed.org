@@ -7,7 +7,7 @@ categories:
   - boardgame
 tags:
   - g/investigazione
-  - Collaborazione
+  - g/collaborativo
   - g/app
 date: 2020-12-14
 lastmod: 2022-12-18

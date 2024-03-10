@@ -7,7 +7,7 @@ categories:
   - boardgame
 tags:
   - target/kids
-  - ingiococonpapa
+  - inGiocoConPapà
 date: 2024-02-14
 lastmod: 2024-03-10
 

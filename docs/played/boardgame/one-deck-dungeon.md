@@ -7,7 +7,7 @@ categories:
   - boardgame
 tags:
   - g/2giocatori
-  - Solo
+  - g/solo
   - g/rpg
   - g/compatto
 date: 2020-12-14

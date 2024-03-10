@@ -10,7 +10,6 @@ tags:
   - g/carte
   - skill/strategy
   - g/carte
-  - g/2Giocatori
   - g/storia
   - g/2giocatori
 description: ""

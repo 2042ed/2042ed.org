@@ -9,7 +9,7 @@ tags:
   - g/strategia
   - award
   - g/family
-  - ingiococonpapa
+  - inGiocoConPapà
 date: 2020-12-14
 lastmod: 2022-12-18
 

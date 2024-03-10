@@ -9,7 +9,7 @@ tags:
   - g/family
   - g/carte
   - skill/matematica
-  - Solo
+  - g/solo
   - g/collaborativo
   - award
 date: 2020-12-14

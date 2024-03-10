@@ -7,7 +7,7 @@ categories:
   - boardgame
 tags:
   - g/rpg
-  - Solo
+  - g/solo
   - g/compatto
 date: 2020-12-14
 lastmod: 2022-12-18

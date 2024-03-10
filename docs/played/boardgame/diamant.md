@@ -8,7 +8,7 @@ categories:
 tags:
   - g/family
   - award
-  - ingiococonpapa
+  - inGiocoConPapà
 date: 2021-12-14
 lastmod: 2022-12-18
 

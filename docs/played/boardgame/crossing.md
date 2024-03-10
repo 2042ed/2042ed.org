@@ -7,7 +7,7 @@ categories:
   - boardgame
 tags:
   - g/family
-  - ingiococonpapa
+  - inGiocoConPapà
 date: 2023-11-05
 lastmod: 2022-12-18
 

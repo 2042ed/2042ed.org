@@ -8,7 +8,7 @@ categories:
 tags:
   - g/family
   - g/strategia
-  - Geografia
+  - g/geografia
   - award
 date: 2020-12-14
 lastmod: 2022-12-18

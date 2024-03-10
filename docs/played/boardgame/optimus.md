@@ -6,7 +6,7 @@ categories:
   - boardgame
 tags:
   - award
-  - Solo
+  - g/solo
   - g/dadi
 date: 2020-12-14
 lastmod: 2022-12-18
