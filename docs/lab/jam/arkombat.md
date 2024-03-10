@@ -191,8 +191,7 @@ La entry di questo gioco sul sito della [Global Game Jam](https://globalgamejam.
 
 Il progetto, come tutti i nostri, è open source su [GitHub](https://github.com/2042ed/JAM.ARKombat)
 
-**SE VOLETE LE CARTE STAMPATE BELLE**, [ditemelo](../../about/contact.md) che ve le procuriamo (per pochi euro)
+**SE VOLETE LE CARTE STAMPATE BELLE**, [ditemelo](../../about/index.md#contact) che ve le procuriamo (per pochi euro)
 
 ## Licenza
 Questo gioco è copyright Stefano, Fabio e Bruno Cecere, 2023.
-

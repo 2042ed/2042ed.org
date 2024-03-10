@@ -9,7 +9,7 @@ _Benvenut*_.
 
 ## Chiedi
 
-Chiedi cosa vorresti sapere. se hai nuove domande, [mandamele qui](../about/contact.md) e risponderò (anche) qui per condividere con altri:
+Chiedi cosa vorresti sapere. se hai nuove domande, [mandamele qui](index.md#contact) e risponderò (anche) qui per condividere con altri:
 
 - Imparare a creare videogiochi
 - Un gioco adatto ad un bambino di 5 anni
@@ -29,6 +29,4 @@ Ah ma perché non provare con [GeoCaching](../played/outdoor/geocaching.md) che 
 
 !!! question
 
-    Ti è piaciuta questa domanda e risposta? Ne hai da fare? [Chiedimi qualsiasi cosa](../about/contact.md)
-
-
+    Ti è piaciuta questa domanda e risposta? Ne hai da fare? [Chiedimi qualsiasi cosa](index.md#contact)
