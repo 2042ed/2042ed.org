@@ -1,7 +1,7 @@
-# 2042ed.org - scuola giochi futuro
+# 2042ed.org
 
 repository del sito <https://2042ed.org>  
-il repository pubblico di questo libro è <https://github.com/2042ed/2042ed.org>
+il repository pubblico di questo progetto è <https://github.com/2042ed/2042ed.org>
 
 ## Commands
 
@@ -33,7 +33,6 @@ deactivate
 python -m ensurepip --upgrade
 python3 -m pip install --upgrade pip
 ```
-
 
 ## Copyright
 This site and all its contents are Copyright by Stefano Cecere and licensed under [CC BY NC SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0)

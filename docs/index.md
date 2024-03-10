@@ -13,8 +13,8 @@ hide:
 ---
 ![2042 logo](assets/logo/header_2042ed.webp)
 
-> _Questo è il sito più serio e utile dell'universo, con giochi per imparare a passare il tempo, dialoghi con figli di altra generazione, smanettamenti con intelligenze artificiali obbedienti. Per ora._
-> _Meno seriamente: è uno spazio di ricerca, studio e condivisione nell'intersezione tra il gioco, l'educazione e il futuro. Per genitori, educatori, sviluppatori, giocatori._
+> _Questo è il sito meno serio e utile dell'universo, con giochi per imparare a passare il tempo, dialoghi con figli di altra generazione, smanettamenti con intelligenze artificiali disubbedienti._
+> _Seriamente: è uno spazio di ricerca, studio e condivisione nell'intersezione tra giochi, educazione, tecnologia e polis. Per genitori, educatori, sviluppatori, giocatori e attivisti del futuro._
 > ▶️👍🎲😊
 
 ## Novità
