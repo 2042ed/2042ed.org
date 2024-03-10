@@ -1,5 +1,6 @@
 ---
 title: In GIOCO con PAPÀ 2024
+slug: in-gioco-con-papa
 description: giornata di gioco e sensibilizzazione rivolta a bambini e ragazzi dai 5 ai 18 anni in diverse città d'Italia. PARTECIPA!
 date: 2024-03-03
 authors: 
@@ -10,12 +11,12 @@ categories:
  - event
 ---
 
-![in gioco con papà](assets/img/banner-ingiococonpapa.png)
+![in gioco con papà](../../../assets/img/post/banner-ingiococonpapa-2024.jpg)
 
 > **Domenica 17 Marzo 2024: una giornata di gioco** e sensibilizzazione rivolta a bambini e ragazzi dai 5 ai 18 anni intorno alla **Festa del Papà**, in **diverse città d'Italia**.
 
 Qui trovate tutte le informazioni per partecipare ad un incontro o organizzare un nuovo evento nella tua città.
-
+<!-- more -->
 ## ䷤ Chi siamo
 **Comitato Organizzatore**  
 [Gianluca Daffi](https://www.gianlucadaffi.it), [Gabriele Mari](https://www.facebook.com/educatoriludici), [Stefano Cecere](https://linktr.ee/cecere), Jennifer Francioli, [Emanuele Cristallo](https://www.zioludovico.it), Stela Gjyzelaj, Michela Savoldi, Marcello Scutra, Fausto Regosi.
@@ -26,12 +27,13 @@ Qui trovate tutte le informazioni per partecipare ad un incontro o organizzare u
 
 **Febbraio** (individuare tutte le città interessate)
 
-- ~~Giovedì 22 - 19:15 | **riunione di aggiornamento** con i nuovi organizzatori~~
-- ~~Giovedì 29 - 18:30 → 19:00 | **riunione di aggiornamento** con i nuovi organizzatori~~
+- Giovedì 22 - 19:15 | **riunione di aggiornamento** con i nuovi organizzatori
+- Giovedì 29 - 18:30 → 19:00 | **riunione di aggiornamento** con i nuovi organizzatori
+
 
 **Marzo** (Diffusione e formazione)
 
-- ~~Martedì 5 - 20:30 | **Seminario online** su ADHD e DOP per i volontari~~
+- Martedì 5 - 20:30 | **Seminario online** su ADHD e DOP per i volontari
 - Martedì 12 - 20:30 | **Seminario online** sulle regole dei giochi per i volontari
 - Giovedì 14 - 19:00 | ultimo aggiornamento tra gli organizzatori
 - **Domenica 17: EVENTO** (ogni città con suo orario)
@@ -270,7 +272,7 @@ Per la stampa potete mandare il pdf in copisteria o usare un servizio online com
 Ogni territorio è libero di scegliere quante copie stampare e diffondere in base alle proprie esigenze. Tuttavia, si ricorda che il fine ultimo dell'evento è la sensibilizzazione sui temi riportati sui materiali informativi.
 
 ## 📖 Brochure Informativa
-[![Brochure Preview](assets/img/brochure-preview.jpg)](./assets/pdf/brouchure-giochi-e-adhd.pdf)
+[![Brochure Preview](https://ingiococonpapa.github.io/assets/img/brochure-preview.jpg)](https://ingiococonpapa.github.io/assets/pdf/brouchure-giochi-e-adhd.pdf)
 
 ### Conoscere l'ADHD
 L'ADHD, o Disturbo da Deficit di Attenzione e Iperattività, è un **disturbo del neurosviluppo** che si manifesta con disattenzione e/o iperattività e impulsività.
@@ -293,20 +295,6 @@ Per i bambini e i ragazzi con ADHD, poi, i giochi sono ancor più importanti, pe
 3. **Insegnano la resilienza**: nel gioco si affrontano sfide e si incontrano ostacoli. Imparare a perdere con stile e leggerezza, ad affrontare le delusioni e a continuare a giocare nonostante le difficoltà aiuta a sviluppare una mentalità resiliente che sarà preziosa anche in altre aree della vita.
 4. **Stimolano le abilità sociali**: i giochi da tavolo sono attività di gruppo che incoraggiano la collaborazione, la comunicazione e l'interazione sociale. Questo è di grande beneficio per superare eventuali difficoltà nelle relazioni sociali. Il giocare insieme può aiutare a migliorare le capacità di comunicazione, a comprendere le dinamiche sociali e a sviluppare legami con i coetanei.
 5. **Offrono un ambiente strutturato e prevedibile**: la struttura e le regole chiare dei giochi da tavolo forniscono un ambiente prevedibile che risulta rassicurante per le persone con ADHD, che normalmente traggono grandi benefici da routine e strutture chiare.
-
-## 📂 Download {#materiali}
-
-<div class="grid cards" markdown>
-
-- :fontawesome-solid-book: [Brochure Informativa su Giochi e ADHD](./assets/pdf/brouchure-giochi-e-adhd.pdf)<br>
-Da scaricare e stampare
-
-- :fontawesome-solid-book: [Volantino per la diffusione](./assets/pdf/volantino-papaingioco-17marzo2024.pdf)<br>
-Da scaricare e stampare
-
-- :fontawesome-solid-book: [Volantino (Canva) da modificare](https://www.canva.com/design/DAF7qEQOsv4/RMtEhlKL-4U2PzKCOhl5Nw/edit)<br> personalizzabile con luogo e orari del proprio evento
-
-</div>
 
 ---
 
@@ -346,10 +334,6 @@ Usiamo tutti l'**hashtag** `#ingiococonpapa`
 
 Ovviamente siete liberi anzi incoraggiati a condividere questa iniziativa.
 Basta condividere questo link [ingiococonpapa.github.io](https://ingiococonpapa.github.io) o usare questa immagine nei sociale media:
-
-![in gioco con papà](assets/img/banner-ingiococonpapa.png)
-
-![QR COde](assets/img/ingiocconpapas-qr-code.png){ width="300" }
 
 ## ❓ FAQ (Domande e Risposte) {#faq}
 
