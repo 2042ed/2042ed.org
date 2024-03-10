@@ -152,7 +152,7 @@ exercise games e kinestetici
 - [Geocaching](https://www.geocaching.com/play)
 
 ### Cognitivi
-####  brain training apps
+#### brain training apps
 
 - [Dr Kawashima’s Brain Training](https://www.nintendo.co.uk/Games/Nintendo-DS/Dr-Kawashima-s-Brain-Training-How-Old-is-Your-Brain--270627.html)
 - [Mangahigh](https://www.mangahigh.com/en/)
