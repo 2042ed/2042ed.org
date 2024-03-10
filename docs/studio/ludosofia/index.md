@@ -2,13 +2,13 @@
 title: Ludosofia - giocare insieme fa bene
 date: 2020-12-14
 updated: 2023-08-09
-description: 
+description: "Questo libro è un po' la parte teorica del progetto 2042ed"
 type: book
 weight: 0
 ---
 # Ludosofia
 
-![](_img/cover_ludosofia_featured.webp)
+![img](_img/cover_ludosofia_featured.webp)
 
 Questo libro è un po' la parte "teorica" del progetto 2042ed.
 

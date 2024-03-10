@@ -7,7 +7,7 @@ categories:
 tags:
   - maths
   - HackerKid
-description: 
+description: ""
 permalink: 
 code: 20115
 status: published
@@ -20,13 +20,14 @@ A) A che distanza dalla Terra dove si trova? Ha già oltrepassato l'orbita lunar
 
 Inoltre dobbiamo trovare il modo più veloce per inviare un messaggio da Firenze alle Chatham Islands, che hanno una posizione geografica molto particolare (quale è?)
 Calcola tutti i tempi e decidi quale è in modo più veloce
-A) a piedi, velocità 6 Km/h 
-B) in auto, velocità 100 Km/h
-C) lanciando un missile verso Est, a 800 Km/h
-D) lanciando un missile verso Ovest, a 800 Km/h
-E) con un ipotetico traforo terrestre, velocità 200Km/h
-F) via posta elettronica, considerando che ogni ogni 100Km c'è un router che rallenta la trasmissione di 0,1 secondi
+
+A. a piedi, velocità 6 Km/h
+B. in auto, velocità 100 Km/h
+C. lanciando un missile verso Est, a 800 Km/h
+D. lanciando un missile verso Ovest, a 800 Km/h
+E. con un ipotetico traforo terrestre, velocità 200Km/h
+F. via posta elettronica, considerando che ogni ogni 100Km c'è un router che rallenta la trasmissione di 0,1 secondi
 
 buon viaggio
 
-![](../../../assets/img/hackerkid/velocita.jpg)
+![img](../../../assets/img/hackerkid/velocita.jpg)

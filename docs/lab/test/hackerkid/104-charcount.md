@@ -6,7 +6,7 @@ type:
 categories: 
 tags:
   - HackerKid
-description: 
+description: ""
 permalink: 
 code: 20104
 status: published
@@ -26,6 +26,7 @@ INOLTRE: nel famoso Computer Commodore 64, che ti ricordo si chiamava così perc
 Buon lavoro, Agente 127.
 
 SUGGERIMENTI:
+
 1. un Kb equivale a 1024 bytes.
 
-![](../../../assets/img/hackerkid/ascii_table.jpg)
+![img](../../../assets/img/hackerkid/ascii_table.jpg)

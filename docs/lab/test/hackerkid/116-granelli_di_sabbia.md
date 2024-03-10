@@ -7,7 +7,7 @@ categories:
 tags:
   - maths
   - HackerKid
-description: 
+description: ""
 permalink: 
 code: 20116
 status: draft
@@ -15,6 +15,7 @@ status: draft
 # HackerKid 20116: 116_granelli_di_sabbia
 
 quanta sabbia
+
 - e allora sei riuscito a contare quanti granelli di sabbia ci sono in un metro cubo di sabbia?
 - e no, non siamo arrivati fino al mare, e dove eravamo non c'era sabbia
 - ok. ma come avresti fatto? a me interessa il metodo, non il risultato

@@ -6,7 +6,7 @@ type:
 categories: 
 tags:
   - HackerKid
-description: 
+description: ""
 permalink: 
 code: 20117
 status: published
@@ -22,4 +22,3 @@ https://it.wikipedia.org/wiki/Codice_sorgente
 Già che ci sei leggila e salvala nella tua cartella HK sul Computer.
 
 Conosci altri linguaggi di programmazione?
-

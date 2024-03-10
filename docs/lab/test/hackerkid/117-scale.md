@@ -8,7 +8,7 @@ tags:
   - maths
   - music
   - HackerKid
-description: 
+description: ""
 permalink: 
 code: 20117
 status: published
@@ -18,6 +18,7 @@ status: published
 Abbiamo ricevuto una sequenza di 4 segnali audio.
 Sembrano note musicali, una ogni 10 minuti.
 La loro frequenze sono:
+
 1) 2217 Hz
 2) 1480 Hz
 3) 987,8 Hz
@@ -29,4 +30,4 @@ dobbiamo assolutamente sapere quale sarà la frequenza della prossima nota, prim
 
 aiutaci, HackerKid!
 
-![](../../../assets/img/hackerkid/frequenze-misteriose.jpg)
+![img](../../../assets/img/hackerkid/frequenze-misteriose.jpg)

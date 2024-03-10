@@ -1,7 +1,7 @@
 ---
 title: Geo Mag 🏆
 slug: geo-mag
-description: 
+description: ""
 type: PlayED
 categories:
   - steam

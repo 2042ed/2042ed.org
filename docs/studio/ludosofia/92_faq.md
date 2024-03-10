@@ -3,7 +3,7 @@ title: Domande e Risposte
 date: 2021-04-01
 updated: 2023-08-09
 slug: faq
-description: 
+description: ""
 type: book
 weight: 500
 tags:
@@ -17,6 +17,7 @@ Perché i videogiochi (e i giochi in generale) sono entrati velocemente nella no
 
 ## Videogiochi: ci sono delle cose assolutamente da sapere
 Sono due i temi principali:
+
 1. giochi non adatti all'età o al tipo di giocatore
 2. giochi che danno troppa assefazione
 3. giochi poco etici che sfruttano trucchetti di progettazione per monetizzare
@@ -31,7 +32,7 @@ e non c'è solo il divertimento
 ma anche il rilassamento, l'allenamento, l'autostima
 
 ## Videogiochi educativi: quali?
-(cognitiva, creatività e pensiero divergente, empatia, comunicazione): 
+(cognitiva, creatività e pensiero divergente, empatia, comunicazione):
 
 ## Realtà virtuale: va bene o come iniziare?
 vedi post
@@ -70,6 +71,3 @@ l'aspetto sociale del multiplayer è una novità da non sottovalutare, anzi: da 
 i giochi gratuiti sono quasi sempre veicolo di pubblicità.
 come nel we, le Ads non sono controllate dai creatori del gioco. e non si sa cosa può apparire.
 sopratutto per i più piccoli, il consiglio è quello di acquistare i giochi per pochi euro e non avere alcuna pubblicità
-
-
-

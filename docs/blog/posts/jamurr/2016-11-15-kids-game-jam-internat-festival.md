@@ -7,7 +7,7 @@ categories:
   - jamurr
 tags:
   - KidsGameJam
-description: 
+description: ""
 authors: 
  - stefano
 ---

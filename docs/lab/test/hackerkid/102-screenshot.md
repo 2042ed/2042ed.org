@@ -6,7 +6,7 @@ type:
 categories: 
 tags:
   - HackerKid
-description: 
+description: ""
 permalink: 
 code: 20102
 status: published

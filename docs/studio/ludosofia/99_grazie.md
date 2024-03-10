@@ -3,7 +3,7 @@ title: Ringraziamenti e Regalo
 date: 2021-04-01
 updated: 2023-08-09
 slug: grazie
-description: 
+description: ""
 type: book
 weight: 990
 tags: []
@@ -13,16 +13,16 @@ Innanzitutto i creatori, produttori e distributori di tutti i giochi e progetti 
 
 La ciurma con cui convivo che sono dodici anni che si è sorbita ogni tipo di gioco ed esperimenti filosofici da colazione a dopo cena.
 
-Tutto il club del *PlayFriday* con cui abbiamo giocato molti dei giochi qui raccontati: Ale, Jacopo, Tancredi, Teo, Nico, Tomas, Giada, Emma e genitori.
+Tutto il club del _PlayFriday_ con cui abbiamo giocato molti dei giochi qui raccontati: Ale, Jacopo, Tancredi, Teo, Nico, Tomas, Giada, Emma e genitori.
 
 Gli amici ormai più virtuali che reali, nel senso che ci si parla sempre via Internet, con cui condividiamo la passione dei giochi: Christian, RugerFred, i Muesli, Andrea A., Mauro L.
 
 La banda delle Kids Game Jam: Pietro, Mauro, Enea, Maia, Ruben, Marco Enea, Elia.
 
-Il negozio *Stratagemma* di Firenze, ormai il nostro unico negozio e motivo per andare in centro città, e Andrea, Yuka, Florian, Edoardo e co.
+Il negozio _Stratagemma_ di Firenze, ormai il nostro unico negozio e motivo per andare in centro città, e Andrea, Yuka, Florian, Edoardo e co.
 
-La *Casa del Popolo do Settignano*, il *Mixart* di Pisa e il suo innominabile presidente, tramatore di fili ludici per tutta la toscana e la The Sign Academy al completo, i Giacomi, i Lanzo, le Sasi, le Vaio.
-L'associazione *Ludissea 42* che tanto ha fatto giocare i nostri ragazzi nelle biblioteche ed eventi.  
+La _Casa del Popolo do Settignano_, il _Mixart_ di Pisa e il suo innominabile presidente, tramatore di fili ludici per tutta la toscana e la The Sign Academy al completo, i Giacomi, i Lanzo, le Sasi, le Vaio.
+L'associazione _Ludissea 42_ che tanto ha fatto giocare i nostri ragazzi nelle biblioteche ed eventi.  
 
 Mario Rodriguez Cobos detto Silo e tutti gli amici del Movimento Umanista con cui per lustri ho studiato e approfondito molte faccende.
 
@@ -38,7 +38,7 @@ rimaniamo in contatto:
 
 ## The End
 
-Un buon giocatore è quello che studia il campo, pensa bene la sua mossa e la esegue.    
+Un buon giocatore è quello che studia il campo, pensa bene la sua mossa e la esegue.  
 E sa aspettare.  
 
 *(to be continued?)*

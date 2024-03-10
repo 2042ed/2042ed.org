@@ -8,7 +8,7 @@ categories:
 tags:
   - GlobalGameJam
   - KidsGameJam
-description: 
+description: "Stefano e Fabio hanno partecipato alla Global Game Jam 2016 (a Pisa) creando di fatto la priam Kids Game Jam italiana"
 authors: 
  - stefano
 gallery_item:

@@ -7,7 +7,7 @@ categories:
   - jamurr
 tags:
   - KidsGameJam
-description: 
+description: "abbiamo partecipato al Playing the Game festival a Milano, presso la bellissima sede della Santeria Social Club"
 authors: 
  - stefano
 ---

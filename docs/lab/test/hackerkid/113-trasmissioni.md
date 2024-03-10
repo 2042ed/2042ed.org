@@ -6,7 +6,7 @@ type:
 categories: 
 tags:
   - HackerKid
-description: 
+description: ""
 permalink: 
 code: 20113
 status: published
@@ -20,7 +20,7 @@ B) trasmette a 0,8 Mbps e costa 5 € al minuto + 100 € di Modem
 C) trasmette a 1 Gbps e costa 1000 € al minuto + 500 € di Modem
 
 Per inviare un video FullHD a colori della durata di due secondi (a 30FPS):
-Quale delle tre soluzioni ci costa meno? 
+Quale delle tre soluzioni ci costa meno?
 
 Buon lavoro
 

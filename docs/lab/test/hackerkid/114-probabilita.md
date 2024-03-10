@@ -7,7 +7,7 @@ categories:
 tags:
   - maths
   - HackerKid
-description: 
+description: ""
 permalink: 
 code: 20114
 status: published
@@ -28,4 +28,3 @@ Per finire:
 E - quale è la probabilità che la somma dei tre numeri sia 3?
 F - quale è la probabilità che la somma dei tre numeri sia 4?
 G - quale è la probabilità che la somma dei tre numeri sia 8?
-

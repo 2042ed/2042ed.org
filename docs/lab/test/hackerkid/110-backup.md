@@ -6,7 +6,7 @@ type:
 categories: 
 tags:
   - HackerKid
-description: 
+description: ""
 permalink: 
 code: 20110
 status: published
@@ -23,6 +23,7 @@ Ti sarai accorto che, se spariscono le foto da uno smartphone.. la prima domanda
 La tua missione di oggi è capire dove vengono memorizzati i tuoi dati: computer, smartphone, Switch, Netflix TV.
 
 Domande:
+
 1) cosa è un Hard Disk?
 2) cosa è una chiavetta USB?
 3) cosa è il "Cloud" ovvero il salvataggio online?
@@ -30,4 +31,4 @@ Domande:
 5) quale è la capacità di memorizzazione del tuo smartphone (in Gb)?
 6 extra): se domani uno di questi dispositivi sparisse di colpo. riusciresti a recuperarne i dati? (indizio: cerca "backup")
 
-![](../../../assets/img/hackerkid/microchip.jpg)
+![img](../../../assets/img/hackerkid/microchip.jpg)

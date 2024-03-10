@@ -6,7 +6,7 @@ type:
 categories: 
 tags:
   - HackerKid
-description: 
+description: ""
 permalink: 
 code: 20111
 status: published
@@ -15,11 +15,13 @@ status: published
 
 Agente 127. Dobbiamo fare spazio.
 Considerato che:
+
 - 1 carattere occupa 1 Byte
 - 1 pixel di un'immagine occupa 3 Bytes
 - i video sono girati a 30 Immagini al Secondo (FPS)
 
 Ci serve sapere:
+
 1) Quanto spazio serve per salvare l'Iliade in formato testo?
 2) quanto occupa un'immagine Full HD a colori?
 2b) la stessa immagine in bianco e nero?
@@ -29,6 +31,7 @@ Ci serve sapere:
 buon lavoro
 
 AIUTI:
+
 - trovi tutto il testo dell'Iliade qui:
 https://www.rodoni.ch/busoni/bibliotechina/nuovifiles/iliade_h/testo.htm
 - Full HD = formato 1920 x 1024 pixels
@@ -36,4 +39,4 @@ https://www.rodoni.ch/busoni/bibliotechina/nuovifiles/iliade_h/testo.htm
 - le immagini in Bianco e Nero usano un solo byte per pixel (il livello di grigio)
 - i video sono una sequenza di immagini con una precisa frequenza di immagini al secondo.. per convenzione non si usano gli Hz bensì i Frames Per Second (FPS)
 
-![](../../../assets/img/hackerkid/archivio_iliade.jpg)
+![img](../../../assets/img/hackerkid/archivio_iliade.jpg)

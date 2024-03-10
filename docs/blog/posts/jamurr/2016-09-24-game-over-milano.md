@@ -7,7 +7,7 @@ categories:
   - jamurr
 tags: 
   - eventi
-description: 
+description: ""
 authors: 
  - stefano
 ---

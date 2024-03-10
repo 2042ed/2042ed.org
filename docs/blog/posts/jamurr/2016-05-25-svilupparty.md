@@ -7,10 +7,10 @@ categories:
   - jamurr
 tags:
   - svilupparty
-description: 
+description: "abbiamo partecipato a Svilupparty 2016, presentando il progetto JAMURR"
 authors: 
  - stefano
 ---
 
-abbiamo partecipato a Svilupparty 2016, presentando il progetto JAMURR, i giochi Non sono solo una pecora e SpyKid e lanciando la prossima Kids Game Jam!
+abbiamo partecipato a Svilupparty 2016, presentando il progetto JAMURR, i giochi "Non sono solo una pecora" e "SpyKid" e lanciando la prossima Kids Game Jam!
  album="gallery" >}}

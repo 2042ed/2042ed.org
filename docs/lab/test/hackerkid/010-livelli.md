@@ -1,12 +1,12 @@
 ---
-title: 
+title: "livello 1: le basi"
 date: 2020-09-01
 updated: 2023-08-15
 type: 
 categories: []
 tags:
   - HackerKid
-description: 
+description: ""
 permalink:
 ---
 ## livello 1: le basi

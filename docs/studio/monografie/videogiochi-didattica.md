@@ -5,7 +5,7 @@ updated: 2023-08-09
 lastmod: 2021-10-28
 slug: videogiochi-didattica
 type: book
-description: 
+description: ""
 tags:
   - Doc
   - presentazione
@@ -27,7 +27,6 @@ Alcuni appunti sul tema videogiochi usati in ambito educativo e scolastico
 
 un gioco è un sistema al cui interno i giocatori scelgono di impegnarsi volontariamente in un conflitto artificiale, ben definito da regole, che porta a un risultato quantificabile.
 
-
 ## 1: Perché usare Videogiochi in classe?
 
 ### Skills + Knowledge
@@ -38,27 +37,27 @@ Si sviluppano capacità trasversali / soft skills attraverso esperienze coinvolg
 l'attuale e le prossime generazioni necessitano di sviluppare competenze diverse dalla semplice conoscenza di materie base.
 
 - self management
-    - focus
-    - integrità
-    - adattamento
-    - iniziativa
+  - focus
+  - integrità
+  - adattamento
+  - iniziativa
 - social intelligence
-    - comunicazione / linguaggio
-    - sensibilità / empatia
-    - gestione delle emozioni e dello stress
-    - collaborazione / competizione
-    - leadership
+  - comunicazione / linguaggio
+  - sensibilità / empatia
+  - gestione delle emozioni e dello stress
+  - collaborazione / competizione
+  - leadership
 - innovazione
-    - curiosità
-    - creatività
-- capacità cognitive 
-    - problem solving (analisi problema e individuare soluione)
-    - prendere buone decisioni
-    - pensiero critico, capacità di esaminare situazioni
+  - curiosità
+  - creatività
+- capacità cognitive
+  - problem solving (analisi problema e individuare soluione)
+  - prendere buone decisioni
+  - pensiero critico, capacità di esaminare situazioni
 - etica
-    - saper vincere e perdere
-    - peer education
-    - senso delle cose
+  - saper vincere e perdere
+  - peer education
+  - senso delle cose
 
 **spoiler**: il gioco e il videogioco sviluppa tutte queste
 
@@ -89,7 +88,6 @@ I videogiochi garantiscono:
 - reiterazione
 - coinvolgimento
 
-
 ### Non tutti i videogiochi sono uguali
 Gli effetti dipendono dal tipo di videogioco in uso. Si possono verificare conseguenze a livello cognitivo, emotivo e sociale molto differenti a seconda della tipologia specifica, della fascia di età a cui si riferisce il videogioco e della piattaforma di utilizzo. Ad esempio, un gioco action è in grado di aumentare la capacità di attenzione, mentre i casual game sono molto più efficaci per aiutare i bambini e i ragazzi a rilassarsi. Alcuni videogiochi prevedono un utente più attivo, altri, invece, più passivo; esistono anche videogiochi che possono essere utilizzati per l’apprendimento della grammatica e della storia.
 
@@ -98,7 +96,8 @@ Gli effetti dipendono dal tipo di videogioco in uso. Si possono verificare conse
 ### Come impariamo con i giochi?
 #### Player flow
 
-![](../ludosofia/_img/graph_flow.webp)
+![img](../ludosofia/_img/graph_flow.webp)
+
 #### Competitività
 ma non pericolosi
 
@@ -172,7 +171,7 @@ exercise games e kinestetici
 - [Farming Simulator 19](https://www.farming-simulator.com/)
 - [Train Simulator](https://live.dovetailgames.com/live/train-simulator)
 - [Flight Simulator X](https://store.steampowered.com/app/314160/Microsoft_Flight_Simulator_X_Steam_Edition/)
-- [Forestry 2019 – The simulation](https://fs19.net/category/farming-simulator-2019-mods/forestry/) 
+- [Forestry 2019 – The simulation](https://fs19.net/category/farming-simulator-2019-mods/forestry/)
 - [Football Manager 2019](https://store.steampowered.com/app/872790/Football_Manager_2019/)
 - [Total War: Rome II](https://www.totalwar.com/games/rome-ii/)
 - [Universe Sandbox](http://universesandbox.com/)
@@ -202,6 +201,7 @@ exercise games e kinestetici
 - [HoloLens](https://www.microsoft.com/en-us/hololens)
 
 ### VR - Realtù Virtuale
+
 - [Google Cardboard](https://vr.google.com/cardboard/)
 - [Google Cardboard Camera](https://vr.google.com/cardboard/apps/)
 - [Google Expeditions](https://edu.google.com/products/vr-ar/expeditions/?modal_active=none)
@@ -212,6 +212,7 @@ exercise games e kinestetici
 
 ### Gamification
 usere elementi dei giochi in altre attività:
+
 - quests
 - punti
 - livelli
@@ -220,6 +221,7 @@ usere elementi dei giochi in altre attività:
 - avatars
 
 #### piattaforme
+
 - classcraft.com
 - classdojo.com
 
@@ -239,7 +241,7 @@ incoraggiare la pratica
 
 #### Easter Eggs
 
-### Premiare la bravura
+### Premiare la bravura
 
 ## 5: Creare Giochi
 Perché è importante?
@@ -272,10 +274,11 @@ introducono al coding in modo visuale
 - [Scratch Jr](https://www.scratchjr.org/teach/activities)
 
 ### Minecraft
+
 - [Minecraft](https://minecraft.net/)
 - [Minecraft EDU](https://minecraftedu.com/)
 
-### Tools avanzati
+### Tools avanzati
 
 - Unity
 - RPG Maker
@@ -301,7 +304,8 @@ Considerare:
 fondamentale
 
 ### Spazio
-#TODO/img classe_disposizione.png
+
+TODO/img classe_disposizione.png
 
 ### Insegnanti ed educatori
 > Good teachers use good tools (D. Robertson)
@@ -319,7 +323,7 @@ gli insegnanti devono essere informati non solo sulle potenzialità, le caratter
 - imparare creando giochi
 - imparare dai giochi come insegnare
 
-![](../ludosofia/_img/vg_mercato.webp)
+![img](../ludosofia/_img/vg_mercato.webp)
 
 ### PEGI e Parental Control
 
@@ -339,10 +343,12 @@ Free + Premium
 
 ## Risorse
 ### Siti di riferimento
+
 - <https://www.isfe.eu/games-in-society/education/>
 - European Schoolnet - <http://www.eun.org/>
 
 ### Libri per insegnanti
+
 - [Digital Games in School: Handbook for Teachers](http://files.eun.org/Games_in_schools/Gamesinschools_HandbookforTeachers_2020.pdf)
 - [The Game Educator’s Handbook](http://storage.eun.org/resources/upload/412/20190429_130609841_412_teaseredition.pdf)
 - [Learning though play at school (Lego foundation)](https://www.legofoundation.com/media/1687/learning-through-play-school.pdf)

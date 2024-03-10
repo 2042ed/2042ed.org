@@ -7,7 +7,7 @@ categories:
   - jamurr
 tags:
   - KidsGameJam
-description: 
+description: "abbiamo finito la Jam del gioco 7 FRAMES a Milano"
 authors: 
  - stefano
 ---
