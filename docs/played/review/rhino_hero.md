@@ -1,5 +1,5 @@
 ---
-title: rhino_hero
+title: Giochiamo Rhino Hero
 date: 2021-04-06
 updated: 2023-10-19
 subtitle: ""
@@ -8,11 +8,6 @@ tags: [kids, GdT, Family, MedicinaLudica]
 categories: [giochiamo]
 featured: false
 draft: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-projects: []
 ---
 
 con Bruno a casa da scuola per quarantena di due settimane è necessario trovare giochi coinvolgenti e adatti a stimolare la sua età. 

@@ -21,20 +21,21 @@ ed_gameplay_strategy: 2
 ed_gameplay_luck: 1
 ed_gameplay_interaction: 2
 
-ed_preferred: 
-ed_rank_dad: 
-ed_rank_edu: 
-ed_rank_dev: 
-ed_rank_kid: 
+ed_preferred: 1
+ed_rank_dad: 3
+ed_rank_edu: 2
+ed_rank_dev: 2
+ed_rank_kid: 2
 
 ed_players: 2-4
 ed_age: 8
 ed_duration: 45
 
-ed_publisher: 
-ed_year: 
+ed_publisher: Giochi Uniti
+ed_publihser_url: https://shop.giochiuniti.it/carcassonne-gioco-base-edizione-2021.html
+ed_year: 2000
 ed_url_details: https://www.boardgamegeek.com/boardgame/822/carcassonne
-ed_url_play: 
+ed_url_play: https://boardgamearena.com/gamepanel?game=carcassonne
 ---
  
 
@@ -45,4 +46,7 @@ Un gioco che non dovrebbe mancare in nessuna casa come una volta non mancava il 
 > [!info] Stefano
 > Se avete bambini piccoli consiglio la versione Carcassonne Jr per iniziare.
 
+## Tutorial
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LhyZknJef28?si=5uFrBXK82sD2J5rN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[📺 YouTube](https://www.youtube.com/watch?v=LhyZknJef28)

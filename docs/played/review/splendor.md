@@ -4,15 +4,10 @@ subtitle: ""
 description: ""
 tags: [GdT]
 categories: [giochiamo]
-date: 2020-03-23T21:58:36+01:00
-lastmod: 2020-03-23T21:58:36+01:00
+date: 2020-03-23
+lastmod: 2020-03-23
 featured: false
 draft: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-projects: []
 ---
 
 ![](../../assets/img/played/boardgame-new/splendor_featured.jpg)

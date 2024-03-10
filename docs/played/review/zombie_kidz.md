@@ -1,7 +1,6 @@
 ---
-title: zombie_kidz
+title: Giochiamo Zombie Kidz
 date: 2021-04-06
-lastmod: 2020-11-15T12:05:08+01:00
 updated: 2023-10-19
 subtitle: ""
 description: ""
@@ -9,11 +8,6 @@ tags: [kids, GdT, Family]
 categories: [giochiamo]
 featured: false
 draft: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-projects: []
 ---
 
 se ieri Carcassonne Junior era perfetto, questo Zombie Kids è sublime e davvero entusiasmante.   

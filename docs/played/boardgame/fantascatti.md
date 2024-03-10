@@ -29,7 +29,8 @@ ed_players: 2-8
 ed_age: 4
 ed_duration: 15
 
-ed_publisher: 
+ed_publisher: Giochi Uniti
+ed_url: https://shop.giochiuniti.it/fantascatti-nuova-edizione.html
 ed_year: 
 ed_url_details: https://boardgamegeek.com/boardgame/83195/ghost-blitz
 ed_url_play: 
@@ -37,4 +38,5 @@ ed_url_play:
 
 ## Video Tutorial
 
-![video](https://www.youtube.com/watch?v=AdjIq7dG9j4)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/AdjIq7dG9j4?si=ynlATRYb_O-AJGVl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[📺 YouTube](https://www.youtube.com/watch?v=AdjIq7dG9j4)

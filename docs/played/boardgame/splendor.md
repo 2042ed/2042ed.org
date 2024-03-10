@@ -34,7 +34,8 @@ ed_age: 7
 ed_duration: 30
 
 ed_publisher: Space Cowboys
-ed_year: 
+ed_publisher_url: https://www.asmodee.it/product/splendor/
+ed_year: 2014
 ed_url_details: https://www.boardgamegeek.com/boardgame/148228/splendor
 ed_url_play: https://boardgamearena.com/gamepanel?game=splendor
 ---
@@ -54,8 +55,12 @@ Noi l'abbiamo giocato tanto anche sul tablet perché ci sono le missioni avanzat
 > [!info] Stefano
 > Adoro gli Space Cowboys (game designers francesi)
 
-## Video tutorial
-![video](https://youtu.be/Ud1h7Her8fA?si=vndLVpJ3kXnKugPf)
+## Tutorial
 
-![video](https://youtu.be/JS8ggFJbVDo?si=qO9WewRUq4Cwx5gg)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Ud1h7Her8fA?si=RNBwQkzjsQ6Ejpy1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[📺 YouTube](https://www.youtube.com/watch?v=Ud1h7Her8fA)
 
+## Splendor Marvel
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/JS8ggFJbVDo?si=6LRGNiAI5Km6cbVB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[📺 YouTube](https://www.youtube.com/watch?v=JS8ggFJbVDo)

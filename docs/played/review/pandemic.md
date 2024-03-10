@@ -1,8 +1,7 @@
 ---
-title: Pandemic
+title: Giochiamo Pandemic
 subtitle: ''
 description: ''
-authors: []
 tags:
   - GdT
 categories:
@@ -10,14 +9,6 @@ categories:
 date: 2020-01-22
 lastmod: 2020-01-22
 featured: false
-draft: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-projects: []
-resources: []
-
 ---
 
 cos’è una Pandemia (dal greco pan-demos, "tutto il popolo”)

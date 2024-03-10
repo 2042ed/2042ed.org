@@ -16,24 +16,24 @@ template: played.html
 ed_category: boardgame
 ed_skills: []
 ed_gameplay_complex: 1
-ed_gameplay_strategy: 
+ed_gameplay_strategy: 2
 ed_gameplay_luck: 4
-ed_gameplay_interaction: 
+ed_gameplay_interaction: 0
 
 ed_preferred: 1
-ed_rank_dad: 
-ed_rank_edu: 
-ed_rank_dev: 
-ed_rank_kid: 
+ed_rank_dad: 3
+ed_rank_edu: 1
+ed_rank_dev: 1
+ed_rank_kid: 4
 
 ed_players: 3-8
 ed_age: 7
 ed_duration: 15
 
-ed_publisher: 
-ed_year: 
+ed_publisher: Mancalamaro
+ed_year: 2005
 ed_url_details: https://boardgamegeek.com/boardgame/15512/incan-gold
-ed_url_play: 
+ed_url_play: https://boardgamearena.com/gamepanel?game=incangold
 ---
 
 
@@ -42,3 +42,8 @@ ed_url_play:
 
 > [!info] Stefano
 > si impara a pianificare e cooperare! dal Game Designer di Pandemic.
+
+## Tutorial
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3G36yBdGu_s?si=8KCZdyf3DzDTbFnf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[📺 YouTube](https://www.youtube.com/watch?v=3G36yBdGu_s)

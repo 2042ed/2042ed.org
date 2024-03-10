@@ -37,4 +37,5 @@ ed_url_play:
 
 ## Video Tutorial
 
-![video](https://www.youtube.com/watch?v=YgFErd_aO7U)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YgFErd_aO7U?si=ETS8vt03Ab7QS4Q5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[📺 YouTube](https://www.youtube.com/watch?v=YgFErd_aO7U)

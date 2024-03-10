@@ -30,10 +30,12 @@ ed_rank_kid: 8
 ed_players: 2-6
 ed_age: 6
 ed_duration: 20
+
 ed_publisher: IELLO
+ed_publisher_url: https://iello.fr/jeux/king-of-tokyo/
 ed_year: 2011
 ed_url_details: https://www.boardgamegeek.com/boardgame/70323/king-tokyo
-ed_url_play:
+ed_url_play: https://boardgamearena.com/gamepanel?game=kingoftokyo
 ---
 
 ![](../../assets/img/played/boardgame/king-of-tokyo.webp)
@@ -53,3 +55,14 @@ NB: c'è anche una versione New York e Dark Tokyo.. prendete quella che più vi 
 > [!info] Stefano divertente anche per me giocare con i ragazzi. e quasi quasi ci possiamo creare nuovi personaggi. NB: l'autore di questo gioco è Richard Garfield (Magic).. una garanzia di qualità!
 
 ![king-tokyo-featured](../../assets/img/played/boardgame-new/king-tokyo-featured.webp)
+
+## Tutorial
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/M1PI0Hg2zFo?si=PTG-vlt5QMf3NDu6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[📺 YouTube](https://www.youtube.com/watch?v=M1PI0Hg2zFo)
+
+## King of Monster Island
+questa nuova versione ([dettagli](https://boardgamegeek.com/boardgame/350755/king-monster-island)) è più grande e più cattiva. Consigliata a chi ama King of Tokyo!
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Q-mqOZJECcM?si=u0CC0E9IjKhqIY14" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[📺 YouTube](https://www.youtube.com/watch?v=Q-mqOZJECcM)

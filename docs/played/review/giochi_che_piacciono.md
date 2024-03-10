@@ -1,5 +1,5 @@
 ---
-title: giochi_che_piacciono
+title: Giochi che ci piacciono
 date: 2020-02-29
 updated: 2023-10-19
 subtitle: ""

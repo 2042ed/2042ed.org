@@ -29,13 +29,13 @@ ed_players: 3-6
 ed_age: 5
 ed_duration: 15
 
-ed_publisher: 
-ed_year: 
+ed_publisher: Asmodee
+ed_year: 2013
 ed_url_details: https://boardgamegeek.com/boardgame/172971/crossing
 ed_url_play: 
 ---
 
-## Video tutorial
+## Tutorial
 
-![](https://youtu.be/RBhzNR7cwHg?si=vrd8lBK1eGYSeuVV)
-
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RBhzNR7cwHg?si=2vAf_vZ-UoWaK-ma" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[📺 YouTube](https://www.youtube.com/watch?v=RBhzNR7cwHg)
