@@ -31,7 +31,7 @@ ed_duration: 15
 
 ed_publisher: Centro Studi Erickson
 ed_publisher_url: https://www.erickson.it/it/a-caccia-di-conchiglie
-ed_year: 
+ed_year: 2023
 ed_url_details: https://boardgamegeek.com/boardgame/400811/caccia-di-conchiglie
 ed_url_play: 
 ---

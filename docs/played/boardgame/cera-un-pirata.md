@@ -21,17 +21,18 @@ ed_gameplay_luck:
 ed_gameplay_interaction: 1
 
 ed_preferred: 
-ed_rank_dad: 
-ed_rank_edu: 
-ed_rank_dev: 
+ed_rank_dad: Per vincere si deve pescare e raccogliere velocemente le carte, superare gli avversari e costruire il totem
+ed_rank_edu: Un divertente gioco capace di sviluppare la memoria di lavoro, l’attenzione, l’ascolto e la pianificazione.
+ed_rank_dev: fa parte della linea Giocare per crescere
 ed_rank_kid: 
 
 ed_players: 3-6
 ed_age: 4
 ed_duration: 15
 
-ed_publisher: 
-ed_year: 
+ed_publisher: Erickson
+ed_publisher_url: https://www.erickson.it/it/c-era-un-pirata
+ed_year: 2017
 ed_url_details: https://boardgamegeek.com/boardgame/253115/cera-un-pirata
 ed_url_play: 
 ---

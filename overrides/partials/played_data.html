@@ -95,8 +95,7 @@
 {% endif %}
 
 <tr><td>Dettagli</td>
-    <td><ul>
-    <li>
+    <td>
     {% if page.meta.ed_publisher %}
       {% if page.meta.ed_publisher_url %}
         Pubblicato da <a href="{{ page.meta.ed_publisher_url}}">{{ page.meta.ed_publisher }}</a>
@@ -107,14 +106,12 @@
     {% if page.meta.ed_year %}
         -  {{ page.meta.ed_year }}
     {% endif %}
-    </li>
     {% if page.meta.ed_url_details %}
-        <li><a href="{{ page.meta.ed_url_details }}">Scheda dettaglio (BGG)</a></li>
+    <br><a href="{{ page.meta.ed_url_details }}">ℹ️ Scheda dettaglio (BGG)</a>
     {% endif %}
     {% if page.meta.ed_url_play %}
-        <li><a href="{{ page.meta.ed_url_play }}">▶️ Gioca online</a></li>
+    <br><a href="{{ page.meta.ed_url_play }}">▶️ Gioca online</a>
     {% endif %}
-  </ul>
     </td>
 </tr>
 </table>

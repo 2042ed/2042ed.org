@@ -29,7 +29,7 @@ ed_players: 2-4
 ed_age: 5
 ed_duration: 30
 
-ed_publisher: 
+ed_publisher: Oliphante
 ed_year: 2016
 ed_url_details: https://boardgamegeek.com/boardgame/177524/icecool
 ed_url_play: 

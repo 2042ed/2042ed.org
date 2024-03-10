@@ -20,7 +20,7 @@ ed_gameplay_luck:
 ed_gameplay_interaction: 1
 
 ed_preferred: 
-ed_rank_dad: 
+ed_rank_dad: devi essere più veloce dei tuoi avversari ad acchiappare i fantasmi! 
 ed_rank_edu: 
 ed_rank_dev: 
 ed_rank_kid: 
@@ -30,8 +30,8 @@ ed_age: 4
 ed_duration: 15
 
 ed_publisher: Giochi Uniti
-ed_url: https://shop.giochiuniti.it/fantascatti-nuova-edizione.html
-ed_year: 
+ed_publisher_url: https://shop.giochiuniti.it/fantascatti-nuova-edizione.html
+ed_year: 2010
 ed_url_details: https://boardgamegeek.com/boardgame/83195/ghost-blitz
 ed_url_play: 
 ---
