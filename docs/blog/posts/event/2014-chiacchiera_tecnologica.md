@@ -3,7 +3,7 @@ title: "Impatto della tecnologia sull’evoluzione umana"
 date: 2014-02-05
 updated: 2024-03-10
 location: Roma - Centro Studi Umanisti
-description: ''
+description: 'qualche considerazione per una chiacchiera tra amici'
 categories: [talk]
 tags: [talk, tecnologia, EvoluzioneUmana]
 url_slides: "https://www.slideshare.net/StefanoCecere/impatto-della-tecnologia-sullevoluzione-umana"
@@ -17,12 +17,13 @@ qualche considerazione per una chiacchiera tra amici
 <!-- more -->
 
 ## chi sono
+
 - nato Stefano Cecere 40 anni
 - umano
 - un figlio
 - da 30 anni convivo con aggeggi tecnologici informatici, musicali e altro
 - aspiro a cose spesso ritenute inimmaginabili
- 
+
 ## Interesse personale
 Conoscenza e Creatività al servizio di Felicità e Cambiamento (tecnologia della felicità?)
 
