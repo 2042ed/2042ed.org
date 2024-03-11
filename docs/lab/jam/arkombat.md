@@ -12,8 +12,8 @@ url_code: https://github.com/2042ed/JAM.ARKombat
 > Un semplice gioco di carte per due giocatori che si sfidano in una battaglia tra elementi, con la possibilità di "vedere" il combattimento in Realtà Aumentata.
 > Il tutto ideato e prodotto da un bambino, un ragazzo e un genitore.
 
-📽 [ARKombat - partita di prova](https://www.youtube.com/watch?v=oG5TDOaTJ6k)
 <iframe width="740" height="450" src="https://www.youtube.com/embed/oG5TDOaTJ6k?feature=oembed" title="ARKombat - partita di prova" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0"  allowfullscreen></iframe>
+📽 [ARKombat - partita di prova](https://www.youtube.com/watch?v=oG5TDOaTJ6k)
 
 ## Genesi di 🔺🔵🟫💀⭐️
 Durante la Global Game Jam 2023 abbiamo fatto un nuovo esperimento di laboratorio creativo ludico, sopratutto perché Bruno ha compiuto da poco i 7 anni e ha già dimostrato molta creatività nell'inventare nuove regole dei giochi, e un particolare amore per la matematica e i robots.
