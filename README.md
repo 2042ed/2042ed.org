@@ -3,6 +3,8 @@
 repository del sito <https://2042ed.org>  
 il repository pubblico di questo progetto è <https://github.com/2042ed/2042ed.org>
 
+[![Built with Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-526CFE?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/)
+
 ## Commands
 
 - `mkdocs new [dir-name]` - Create a new project.
