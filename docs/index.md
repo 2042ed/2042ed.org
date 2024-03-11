@@ -4,11 +4,12 @@ date: 2022-12-22
 updated: 2023-08-14
 type: simple
 categories: 
-permalink: 
+template: home.html 
 hide:
   - title
   - navigation
   - toc
+  - footer
 ---
 ![2042 logo](assets/logo/header_2042ed.webp)
 
