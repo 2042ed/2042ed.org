@@ -28,7 +28,8 @@ thank you all!
 
 GGJ site: <http://globalgamejam.org/2016/games/im-not-just-sheep-non-sono-solo-una-pecora>
 
-[logo](../../assets/img/jam/notjustasheep_comp1.webp)
-[logo](../../assets/img/jam/notjustasheep_comp2.webp)
-[logo](../../assets/img/jam/notjustasheep_intro.webp)
-[logo](../../assets/img/jam/notjustasheep_pensieroprofontoteam.webp)
+![logo](../../assets/img/jam/notjustasheep_comp1.webp)
+![logo](../../assets/img/jam/notjustasheep_comp2.webp)
+![logo](../../assets/img/jam/notjustasheep_intro.webp)
+![logo](../../assets/img/jam/notjustasheep_pensieroprofontoteam.webp)
+![logo](../../assets/img/jam/ggj16_pisa_winners.jpg)
