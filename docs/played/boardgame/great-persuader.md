@@ -4,7 +4,7 @@ date: 2024-03-11
 updated: 2024-03-11
 type: PlayED
 slug: great-persuader
-description: 'un gioco da tavolo che mette alla prova l'abilità oratoria dei giocatori, chiamati a promuovere offerte poco allettanti o a sminuire eventi positivi. I partecipanti si alternano nel ruolo di "cliente" per giudicare le argomentazioni di due "persuasori", mentre gli altri scommettono sul vincitore del confronto.'
+description: "un gioco da tavolo che mette alla prova l'abilità oratoria dei giocatori, chiamati a promuovere offerte poco allettanti o a sminuire eventi positivi. I partecipanti si alternano nel ruolo di \"cliente\" per giudicare le argomentazioni di due \"persuasori\", mentre gli altri scommettono sul vincitore del confronto."
 categories:
   - boardgame
 tags:
