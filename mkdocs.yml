@@ -83,6 +83,7 @@ plugins:
   - glightbox
   - blog:
       blog_toc: true
+      authors: true
       post_url_date_format: yyyy
       post_url_format: "{date}/{slug}"
       post_readtime: false
