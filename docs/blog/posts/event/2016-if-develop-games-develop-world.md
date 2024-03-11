@@ -2,6 +2,7 @@
 title: "Develop Games, Develop the world"
 date: 2019-08-29
 updated: 2023-08-11
+authors: [stefano]
 categories: [talk]
 tags: [talk, "videogames","AppliedGames","G4C"]
 description: "progetti videoludici applicati all'educazione, alla cultura, all'ambiente, alla solidarietà"

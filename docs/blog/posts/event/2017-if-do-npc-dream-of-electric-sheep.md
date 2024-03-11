@@ -2,6 +2,7 @@
 title: "Do NPC Dream of Electric Sheep"
 date: 2017-10-06
 updated: 2024-03-10
+authors: [stefano]
 type: event
 categories: [talk]
 tags: [talk, AI, GameDesign, VideoGames]

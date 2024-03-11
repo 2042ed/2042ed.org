@@ -2,6 +2,7 @@
 title: Gameground Kids Game Jam
 date: 2021-12-17
 updated: 2023-08-11
+authors: [stefano]
 categories:
   - jamurr
 tags:

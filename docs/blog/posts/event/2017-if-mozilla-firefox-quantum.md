@@ -2,6 +2,7 @@
 title: "Mozilla & Firefox 57: le nuove frontiere del web e del gaming opensource"
 date: 2017-10-06
 updated: 2023-08-15
+authors: [stefano]
 type: event
 categories:
   - talk

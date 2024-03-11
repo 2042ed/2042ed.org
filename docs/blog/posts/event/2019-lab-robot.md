@@ -2,17 +2,13 @@
 title: "Kids Lab: Costruiamo un Robot disegnatore"
 date: 2019-09-11
 updated: 2023-08-11
+authors: [stefano]
 categories: [workshop]
 tags: [workshop]
 description: costruiamo un robot che disegna. laboratorio per i partecipanti al Centro Estivo
 event: Centro Estivo
 event_url: ''
 location: Firenze
-abstract: 
-date_end: 2019-09-11T12:30:00+02:00
-all_day: false
-publishDate: 2019-08-25T14:15:26+02:00
-featured: false
 projects: [edu/lab_stem_elettronica_robots]
 ---
 ![](../../../assets/img/event/laboratorio_robots-featured.jpg)

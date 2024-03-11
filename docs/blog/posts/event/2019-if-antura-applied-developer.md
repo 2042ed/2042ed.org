@@ -2,15 +2,13 @@
 title: 'Antura: quando il "giochino" si fa serio...'
 date: 2019-10-11
 updated: 2023-08-11
+authors: [stefano]
 categories: [talk]
 tags: [talk, antura, gamedev, life, G4C, GBL]
 description: 'Storia e sviluppo di un Applied Game'
 event: 'Internet Festival 2019'
 event_url: 'https://2019.internetfestival.it/-/antura'
 location: Internet Festival di Pisa
-abstract: ''
-all_day: false
-publishDate: 2019-08-25T14:22:04+02:00
 url_slides: "https://www.slideshare.net/StefanoCecere/antura-storia-e-sviluppo-di-un-applied-game"
 projects: [games/antura]
 ---

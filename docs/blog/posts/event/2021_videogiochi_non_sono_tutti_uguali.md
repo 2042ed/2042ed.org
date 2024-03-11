@@ -2,12 +2,12 @@
 title: I videogiochi non sono tutti uguali
 date: 2021-04-03
 updated: 2024-03-10
+authors: [stefano]
 slug: i-videogiochi-non-sono-tutti-uguali
 draft: false
 description: una chiacchierata con ragazzi e genitori sui videogiochi.
 abstract: ""
 location: online
-date_end: 2021-04-03T18:30:00Z
 categories: [talk]
 tags: [talk, videogames, parenting]
 featured: false

@@ -2,6 +2,7 @@
 title: "Bambini e videogiochi: sviluppo collaborativo creativo ed emotivo"
 date: 2016-10-08
 updated: 2023-08-11
+authors: [stefano]
 categories: [talk]
 tags: [talk, "kids","KidsGameJam"]
 description: "Progettare videogiochi come attività multidisciplinare creativa e ricca di contenuti emotivi"

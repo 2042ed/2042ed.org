@@ -2,15 +2,12 @@
 title: "KIDS GAME JAM – IF 2016"
 date: 2016-10-08
 updated: 2023-08-11
+authors: [stefano]
 categories: [jamurr]
 tags: [jamurr, KidsGameJam]
 description: "una Game Jam per i ragazzi"
 event: Internet Festival 2016
-event_url: 
 location: Pisa
-date_end: 2016-10-08T18:00:00+02:00
-all_day: false
-publishDate: 2016-09-08
 featured: false
 projects: [edu/kidsgamejam]
 ---

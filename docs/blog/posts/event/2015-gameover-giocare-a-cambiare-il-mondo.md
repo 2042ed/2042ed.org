@@ -2,6 +2,7 @@
 title: "Giocare a cambiare il mondo"
 date: 2015-09-19
 updated: 2024-03-10
+authors: [stefano]
 categories: [talk]
 tags: [talk, videogames, G4C]
 description: "19 ottobre 2015: l'accelerazione tecnologica e videoludica permetterà anche uno sviluppo sociale etico e nonviolento?"

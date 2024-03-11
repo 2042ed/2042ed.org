@@ -2,19 +2,15 @@
 title: "Ora et Labora - Nintendo Labo Workshop"
 date: 2018-10-12
 updated: 2023-08-11
+authors: [stefano]
 categories: [workshop]
 tags: [talk, workshop, digital, AI, kids, jamurr, labo]
 description: 'laboratorio per ragazzi sul digitale, informatica e Labo'
 event: 'Internet Festival 2018'
 event_url: 'https://2018.internetfestival.it/ttour/nintendo-labolab'
 location: Pisa
-abstract: ''
-date_end: 2018-10-12T12:00:00+02:00
-all_day: false
-publishDate: 2018-11-25T14:22:04+02:00
 featured: false
 url_slides: "https://www.slideshare.net/StefanoCecere/if2018-nintendo-labo-workshop"
-projects: []
 ---
 ![](../../../assets/img/event/2018-ttour-web-featured.jpg)
 

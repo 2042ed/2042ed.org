@@ -2,6 +2,7 @@
 title: "Costruiamo e Giochiamo la Realtà Virtuale"
 date: 2019-10-11
 updated: 2023-08-11
+authors: [stefano]
 categories: [workshop]
 tags: [talk, workshop, XR, kids, jamurr, GBL]
 description: 'Introduzione teorica alla Realtà Virtuale e sperimentazione ludico-creativa con il kit VR del Nintendo Labo'

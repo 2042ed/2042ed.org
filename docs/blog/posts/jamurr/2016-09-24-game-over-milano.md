@@ -8,8 +8,7 @@ categories:
 tags: 
   - eventi
 description: ""
-authors: 
- - stefano
+authors: [stefano]
 ---
 ![](../../../assets/img/jamurr/GameOver2016_featured.jpg)
 

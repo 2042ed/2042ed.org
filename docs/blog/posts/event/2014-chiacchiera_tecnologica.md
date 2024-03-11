@@ -3,6 +3,7 @@ title: "Impatto della tecnologia sull’evoluzione umana"
 date: 2014-02-05
 updated: 2024-03-10
 location: Roma - Centro Studi Umanisti
+authors: [stefano]
 description: 'qualche considerazione per una chiacchiera tra amici'
 categories: [talk]
 tags: [talk, tecnologia, EvoluzioneUmana]
