@@ -40,7 +40,7 @@ ed_url_details: https://www.boardgamegeek.com/boardgame/148228/splendor
 ed_url_play: https://boardgamearena.com/gamepanel?game=splendor
 ---
 
-![](../../assets/img/played/boardgame/splendor.webp)
+![img](../../assets/img/played/boardgame/splendor.webp)
 
 Dateci retta: compratelo senza indugio.
 Le componenti sono splendide, è facile da imparare, è profondo.

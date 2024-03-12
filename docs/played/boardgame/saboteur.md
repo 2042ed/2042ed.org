@@ -23,9 +23,9 @@ ed_gameplay_interaction: 3
 
 ed_preferred: 
 ed_rank_dad: "serve un bel tavolo e un bel gruppo di bambini: più si è meglio è"
-ed_rank_edu: cercare di capire chi è un amico e chi un nemico sabotatore è il cuore di questo gioco
+ed_rank_edu: "cercare di capire chi è un amico e chi un nemico sabotatore è il cuore di questo gioco. la meccanica del sabotaggio è l'elemento di competizione collaborativa"
 ed_rank_dev:
-ed_rank_kid: "Mi piace costruire i labirinti e bloccare gli altri. E' divertente sia essere un nano e cercare l'oro sia fare l'impostore. e l'essere in miniera ci piace sempre a noi ragazzi"
+ed_rank_kid: "Mi piace costruire i labirinti e bloccare gli altri. E' divertente sia essere un nano e cercare l'oro sia fare l'impostore. e l'essere in miniera ci piace sempre"
 
 ed_players: 4-12
 ed_age: 7
@@ -40,9 +40,8 @@ ed_url_play:
  
 ![img](../../assets/img/played/boardgame/saboteur.webp)
 
-In Saboteur siamo tutti nani, ma alcuni sono "sabotatori" segreti che devono impedire agli altri di trovare le gemme scavando dei tunnel sotterranei.. davvero coinvolgente perché è tutto un gioco di squadra e controsquadra, cercando di capire chi va e dove.. e alla fine vince una delle due squadre.. ma su più turni puoi cambiare squadra!
-divertente! 
-**ottimo quando siamo in tantissimi.**
+In Saboteur siamo tutti nani, ma alcuni sono "sabotatori" segreti che devono impedire agli altri di trovare le gemme scavando dei tunnel sotterranei.. davvero coinvolgente perché è tutto un gioco di squadra e controsquadra, cercando di capire chi va e dove.. e alla fine vince una delle due squadre.. ma su più turni puoi cambiare squadra!  
+**divertententissimo quando siamo in tantissimi, almeno 8!**
 
 ## Tutorial
 
