@@ -1,5 +1,5 @@
 ---
-title: A caccia di conchiglie
+title: Taco Gatto Capra Cacio Pizza
 type: PlayED
 slug: taco-cat-goat-cheese-pizza
 description: "gioco di carte frenetico dove devi sbarazzarti delle tue carte colpendo una pila al centro del tavolo, ma solo se la parola che dici non corrisponde all'immagine sulla carta scoperta"
