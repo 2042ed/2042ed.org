@@ -1,5 +1,5 @@
 ---
-title: King of Tokyo
+title: King of Tokyo 🏆
 date: 2023-10-19
 updated: 2024-03-10
 slug: king-of-tokyo
@@ -40,7 +40,7 @@ ed_url_details: https://www.boardgamegeek.com/boardgame/70323/king-tokyo
 ed_url_play: https://boardgamearena.com/gamepanel?game=kingoftokyo
 ---
 
-![](../../assets/img/played/boardgame/king-of-tokyo.webp)
+![img](../../assets/img/played/boardgame/king-of-tokyo.webp)
 
 figlio a casa? niente dad? allora si fa lezione interdisciplinare: italiano, matematica, storia, geografia e ginnastica tutte insieme con un pizzico di analisi per valutare se il regolamento da 2 giocatori si può migliorare.
 

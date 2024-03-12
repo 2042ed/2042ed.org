@@ -3,7 +3,7 @@ title: Diamant / Incal Gold 🏆
 date: 2021-12-14
 updated: 2024-03-10
 slug: diamant
-description: "esplorate una miniera per diamanti cercando di ottenere il bottino più ricco prima che una frana rovini tutto"
+description: "Un \"push your luck\" alla Indiana Jones: esplorate una miniera di diamanti e rischiate per ottenere il bottino più ricco prima di trovare brutte sorprese"
 type: PlayED
 categories:
   - boardgame
@@ -22,8 +22,8 @@ ed_gameplay_interaction: 0
 
 ed_preferred: 1
 ed_rank_dad: facilissimo da intavolare, ed essendo molto legato alla fortuna dà molte soddisfazioni anche ai piccoli
-ed_rank_edu: aiuta a valutare il rischio
-ed_rank_dev: 
+ed_rank_edu: aiuta a valutare il rischio. consigliamo di essere almeno in 4. 6 è meglio.
+ed_rank_dev: le scatole di cartone danno molta soddisfazione, e doppio livello di difficoltà se si usano anche i tesori aggiuntivi
 ed_rank_kid: divertentissimo!
 
 ed_players: 3-8
@@ -35,13 +35,11 @@ ed_year: 2005
 ed_url_details: https://boardgamegeek.com/boardgame/15512/incan-gold
 ed_url_play: https://boardgamearena.com/gamepanel?game=incangold
 ---
+Questo gioco lo abbiamo scoperto durante il COVID su BoardGameArena.. e poi lo abbiamo comprato perché troppo divertente!
 
+E' un "push your luck" alla Indiana Jones.
 
-> [!tip] Fabio
-> fantastico che la mappa cambia ogni volta con la tempesta e lo scavare nella sabbia per trovare oggetti
-
-> [!info] Stefano
-> si impara a pianificare e cooperare! dal Game Designer di Pandemic.
+![img](../../assets/img/played/boardgame/diamant.jpg)
 
 ## Tutorial
 
