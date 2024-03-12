@@ -9,7 +9,7 @@ categories:
   - boardgame
 tags:
   - target/kids
-  - inGiocoConPapà
+  - inGiocoConPapàAdd
   - g/carte
 
 template: played.html
