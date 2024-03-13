@@ -26,6 +26,7 @@ Ne parlano insieme Ivan Ferrero (Psicologo Digitale), Stefano Cecere (EdTech e G
 Insieme valuteremo la situazione attuale, capiremo quali sono gli elementi che possiamo migliorare, e parleremo anche di come sfruttare questo periodo per innovare la nostra didattica anche dopo questo periodo.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zgWqUr6evNU?si=n9yxO1NFeNghjmFX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 [YouTube](https://www.youtube.com/watch?v=zgWqUr6evNU)
 
 Questi alcuni degli argomenti che trovate qui:  

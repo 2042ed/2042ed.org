@@ -23,6 +23,7 @@ Introduzione teorica alla Realtà Virtuale e sperimentazione ludico-creativa con
 
 ## introduzione alla Realtà (40 min)
 ### perché siamo qui
+
 - consapevolezza tecnologica
   conoscere il mondo tecnologico che ci circonda e che modifica sempre più le nostre vite personali e professionali
 - applicazione della scienza alla quotidianità
@@ -41,7 +42,7 @@ con la Realtà Virtuale stiamo iniziando a porci queste domande.
 la VR è immersiva, mondi totalmente artificiali creati digitalmente
 la AR "aumenta" il mondo "reale"
 
-https://edu.gcfglobal.org/en/thenow/understanding-virtual-reality-and-augmented-reality/1/
+<https://edu.gcfglobal.org/en/thenow/understanding-virtual-reality-and-augmented-reality/1/>
 
 
 ### videogiochi 
@@ -55,7 +56,7 @@ la VR può consentire di studiare la storia, la geografia, l’arte e tantissime
 
 un ruolo dirompente potrebbe avere la VR perché si possono creare esperienze perfettaemnte calibrate sul giocatore
 
-Google Expeditions (in classe ) https://edu.google.com/products/vr-ar/expeditions/
+Google Expeditions (in classe ) <https://edu.google.com/products/vr-ar/expeditions/>
 più di 900 VR Expeditions per ogni argomento
 
 #### progettazione
@@ -68,7 +69,7 @@ per imparare a condurre macchine o risolvere problemi in situazioni complicate (
 la realtà virtuale trova una collocazione importante nella preparazione di interventi chirurgici particolarmente complessi: prima di mettere mano al bisturi, un chirurgo può sfruttare tale tecnologia per esercitarsi sui passaggi più articolati dell’intervento che dovrà effettuare.
 terapia del dolore: modificano la percezione del dolore
 
-- https://www.youtube.com/watch?v=yJvwqxUcMcM
+- <https://www.youtube.com/watch?v=yJvwqxUcMcM>
 
 #### psicologia ed empatia
 esperienze di rilassamento e di meditazione.
@@ -76,8 +77,8 @@ immedesimazione in altri punti di vista o situazioni complesse
 terapia per affrotnare situazione di ansia (aracnofobia o parlare in pubblico)
 in zone controllate
 
-- http://www.exploredeep.com/
-- http://www.waystoschool-vr.com/
+- <http://www.exploredeep.com/>
+- <http://www.waystoschool-vr.com/>
 
 #### cultura / turismo
 L’uso della realtà virtuale può consentire agli utenti di "viaggiare" virtualmente in giro per il mondo e scegliere la meta della loro prossima vacanza. Le agenzie turistiche, invece, possono sfruttare la realtà virtuale per mostrare un’anteprima dei servizi offerti ai propri potenziali clienti.
@@ -113,6 +114,7 @@ video Oculus Quest
 #### tute VR o cybertute
 
 ### soluzioni tecnologiche
+
 - cardbpoard (smartphones)
 - devices per consoles (tipo PS4)
 - Oculus e Vive (costosi ma top), pra anche senza computer connesso
@@ -128,4 +130,4 @@ TUTTI i giochi della Plaza sono editabili e costruiti da dentro il Labo
 
 costruiamo una batteria
 
-( video tutorial (1h) https://www.youtube.com/watch?v=ZYph9GDSAfE )
+( video tutorial (1h) <https://www.youtube.com/watch?v=ZYph9GDSAfE> )

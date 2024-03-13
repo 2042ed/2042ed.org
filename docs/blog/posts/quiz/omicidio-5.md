@@ -1,5 +1,5 @@
 ---
-title: Quiz investigativo - Omicidio a 5
+title: "Quiz investigativo - Omicidio a 5"
 description: ""
 date: 2024-03-13
 authors: 
