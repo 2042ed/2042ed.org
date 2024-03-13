@@ -1,6 +1,6 @@
 ---
 title: Mancala
-description: tra i più antichi giochi della storia.
+description: tra i più antichi giochi della storia. perfetto per iniziare matematica.
 type: PlayED
 categories:
   - boardgame
@@ -33,3 +33,5 @@ ed_year:
 ed_url_details: 
 ed_url_play: 
 ---
+
+![alt text](../../assets/img/played/boardgame/mancala.webp)
