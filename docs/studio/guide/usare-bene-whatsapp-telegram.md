@@ -1,20 +1,72 @@
 ---
-title: usare-bene-whatsapp-telegram
+title: Usare bene WhatsApp o Telegram
 date: 2023-10-22
-updated: 2023-10-22
+updated: 2024-03-13
 ---
 
 In questa pagina raccogliamo una serie di consigli pratici / "best practices" per usare gli strumenti al meglio. E' una pagina in continuo sviluppo, come gli strumenti evolvono e il mondo pure.. seguitela.
+
+## WhatsApp
+
+Faccio una premessa così come l’ho spiegata a mio figlio con la differenza tra un **medium immediato**, diretto e invasivo come WhatsApp e uno **lento, indiretto** e rispettoso come una Newsletter:
+
+Ad una **newsletter**:
+
+1. decidi tu di iscriverti
+2. quando arriva decidi tu quando leggerla
+3. in teoria sai cosa troverai, e se fatta bene la leggi volentieri
+4. ti puoi disiscrivere quando vuoi, mal che vada la leggi online
+
+Ad un **gruppo WhatsApp:**
+
+1. vieni inserito o caldamente invitato a parteciparvi per non rimanere escluso
+2. quando arriva un messaggio di qualsiasi dei n mila partecipanti è una notifica che ti distrae. anche se hai il mute o archiviata per non vederla, è un numerino lì che ti aspetta
+3. spesso arriva di tutto, perché sono gruppi di persone che non sanno stare in tema
+4. se mai arrivasse un messaggio utile o interessante, al 95% viene sommerso da grazie o ciao o meme inutili.
+5. togliersi è difficile, perché si rischia di rimanere esclusi e vai di FOMO
+6. inizi ad odiare tutti e tutte 👿😀
+
+> se ti stai chiedendo cosa sia la FOMO: [👉🏼 Fear of Missing Out](https://it.wikipedia.org/wiki/FOMO) è il timore di rimanere fuori dal giro, all'oscuro di quello che succede, esclusi.
+
+### ✅ Consigli su come usare bene WhatsApp
+
+Ergo ecco alcuni consigli su come usare bene WhatsApp:
+
+1. **Definizione del gruppo**: Dare un nome al gruppo e stabilire chiaramente gli obiettivi, le regole e le condotte accettabili all'interno del gruppo.
+2. **Selezione dei partecipanti**: Non aggiungere tutti “per fare numero” e sopratutto chiedere il loro consenso prima per evitare situazioni imbarazzanti e rispettare la privacy, oltre a farli accettare le regole.
+3. **Ruolo dell'amministratore**: Se si è amministratori, è importante moderare attivamente il gruppo, rispondendo e intervenendo quando necessario per mantenere l'ordine. Eventualmente **privatamente**.
+4. **Evitare commenti non necessari**: Evitare commenti superflui o feedback non richiesti, specialmente se non aggiungono valore alla discussione (banalmente 10 grazie).
+5. **Usare le reazioni**, tipo 👍 o ❤️, non scrivere nuovi messaggi con "grazie", "ok" e via dicendo.
+6. **Esternalizzare le conversazioni private:** molto spesso una conversazione diventa un dialogo privato tra due persone davanti a dozzine di osservatori disinteressati se non infastiditi
+7. **Comunicazione chiara**: Scrivere messaggi completi e concisi, evitando di frammentare in molti messaggi consecutivi.
+8. Ricordarsi che oggi si possono **editare** i messaggi per correggere errori di battitura o aggiungere piccole cose, senza aggiungere nuovi messaggi
+9. **Rispetto degli orari**: Evitare di inviare messaggi in orari inappropriati, come durante la notte, e non aspettarsi risposte immediate.
+10. **Condivisione responsabile di foto e video**: solo se strettamente necessari e pertinenti, prestando attenzione ai diritti d'autore e alla privacy. I video poi sono pesanti, occupano molto spazio in memoria.. meglio inviare dei link a video esterni.
+11. **Uso limitato dei vocali**: Limitare l'uso di note vocali a situazioni necessarie, mantenendo la durata breve (max 20 secondi) e considerando la privacy e la comodità degli altri membri del gruppo.
+12. usare la funzione **Communiy** per raggruppare diversi gruppi WhatsAPp in un'unica famiglia. Così si possono creare piccoli sotto-gruppi più piccoli tematici. Tutti gli iscritti a tutti i gruppi (uno decide di iscriversi a quelli che vuole) sono automaticamente iscritti anche al canale comune di Annunci, dove scrivono solo i community admins.
+13. Usare il "pin" metti in primo piano, di alcuni messaggi importanti. Lo possono fare solo gli admin ed è utile se si vuole dare visibilità
+14. Taggare le persone a cui si vuole inviare una notifica, usando la sintassi `@nome / telefono`. In questo modo Arriverà una notifica particolare e non se lo perde.
+15. La **Regola d’oro**: tratta gli altri come vorresti essere trattato. Vale anche qui. Ricordarsi che non si è da soli e che ci sono sempre altri n mila persone che ricevono quello che scriviamo. Non inneschiamo polemiche che possono degenerare in fiumi di messaggi senza possibilità di risoluzione.
+
+Ultimo consiglio da esperto: **se un gruppo supera le venti persone che non si conoscono molto bene, dovete stare attenti. Forse è il caso di trovare strumenti migliori.**
+
+## Alternative
+Se un gruppo diventa numeroso, conviene usare strumenti più adatti quali:
+- un **gruppo** Facebook (oggi molto potenti)
+- un **forum** tipo Discourse (che mantiene lo storico)
+- un **server** Discord (ottimo per le comunità)
+- una **mailing list** (se si sa usare bene e rispondere ai messaggi)
 
 ## WhatsApp VS Telegram: quale usare?
 
 Per molti versi sono simili, ma preferiamo Telegram perché:
 
-> Telegram è meglio di WhatsApp per un motivo semplice: non mostra a tutti i partecipanti ad un canale i numeri di telefono di tutti gli altri.
+> **Privacy**: Telegram non mostra a tutti i partecipanti ad un canale i numeri di telefono di tutti gli altri.
+> NB: I nuovi "channels" di WhatsApp non li mostrano, ma sono molto nascosti, non sono efficaci come i gruppi.
 
-> Voi vi iscrivete e il vostro numero di telefono lo vedono solo chi vi ha già in rubrica. Neanche gli amminstratori dei canali possono vedere i vostri numeri di telefono. Per noi la questione privacy e gestione dei dati è importante.
+> Si può definire uno username e una piccola descrizione con link, e rendere visibile il proprio numero di telefono solo ai contatti.
 
-Inoltre ormai tutti abbiamo su WhatsApp molti (troppi) gruppi che generano più rumore che informazione, ed avere una app specifica su cui teniamo i Canali Informativi che ci interessano davvero, senza troppe distrazioni, può aiutare a separare gli ambiti.
+Inoltre ormai tutti abbiamo su WhatsApp molti (troppi) **gruppi che generano più rumore che informazione**, ed avere una app specifica su cui teniamo i Canali Informativi che ci interessano davvero, senza troppe distrazioni, può aiutare a **separare gli ambiti.**
 
 ## Telegram: Canali pubblici
 
@@ -34,43 +86,3 @@ Inoltre ormai tutti abbiamo su WhatsApp molti (troppi) gruppi che generano più 
 
 - mai usare un gruppo per inviare messaggi privati (pena capitale).
 - se possibile rispondere con una emoticon / reaction ad un messaggio, e non con un nuovo messaggio con l'emoticon. 
-
-## WhatsApp
-
-Faccio una premessa così come l’ho spiegata a mio figlio con la differenza tra un medium immediato, diretto e invasivo come WhatsApp e uno lento, indiretto e rispettoso come una Newsletter (tipo questa):
-
-Ad una **newsletter**:
-
-1. decidi tu di iscriverti
-2. quando arriva decidi tu quando leggerla
-3. in teoria sai cosa troverai, e se fatta bene la leggi volentieri
-4. ti puoi disiscrivere quando vuoi, mal che vada la leggi online
-
-Ad un **gruppo WhatsApp:**
-
-1. vieni inserito o caldamente invitato a parteciparvi per non rimanere escluso
-2. quando arriva un messaggio di qualsiasi dei n mila partecipanti è una notifica che ti distrae. anche se hai il mute o archiviata per non vederla, è un numerino lì che ti aspetta
-3. spesso arriva di tutto, perché sono gruppi di persone che non sanno stare in tema
-4. se mai arrivasse un messaggio utile o interessante, al 95% viene sommerso da grazie o ciao o meme inutili.
-5. togliersi è difficile, perché si rischia di rimanere esclusi e vai di FOMO
-6. inizi ad odiare tutti e tutte 👿😀
-
-> se ti stai chiedendo cosa sia la FOMO: [👉🏼 Fear of Missing Out](https://it.wikipedia.org/wiki/FOMO)
-
-### ✅ Consigli su come usare bene WhatsApp
-
-Ergo ecco alcuni consigli su come usare bene WhatsApp:
-
-1. **Definizione del gruppo**: Dare un nome al gruppo e stabilire chiaramente gli obiettivi, le regole e le condotte accettabili all'interno del gruppo.
-2. **Selezione dei partecipanti**: Non aggiungere tutti “per fare numero” e sopratutto chiedere il loro consenso prima per evitare situazioni imbarazzanti e rispettare la privacy, oltre a farli accettare le regole.
-3. **Ruolo dell'amministratore**: Se si è amministratori, è importante moderare attivamente il gruppo, rispondendo e intervenendo quando necessario per mantenere l'ordine. Eventualmente privatamente.
-    
-4. **Evitare commenti non necessari**: Evitare commenti superflui o feedback non richiesti, specialmente se non aggiungono valore alla discussione (banalmente 10 grazie).
-5. **Esternalizzare le conversazioni private:** molto spesso una conversazione diventa un dialogo privato tra due persone davanti a dozzine di osservatori disinteressati se non infastiditi
-6. **Comunicazione chiara**: Scrivere messaggi completi e concisi, evitando di frammentare in molti messaggi consecutivi.
-7. **Rispetto degli orari**: Evitare di inviare messaggi in orari inappropriati, come durante la notte, e non aspettarsi risposte immediate.
-8. **Condivisione responsabile di foto e video**: solo se strettamente necessari e pertinenti, prestando attenzione ai diritti d'autore e alla privacy.
-9. **Uso limitato dei vocali**: Limitare l'uso di note vocali a situazioni necessarie, mantenendo la durata breve e considerando la privacy e la comodità degli altri membri del gruppo.
-10. La **Regola d’oro**: tratta gli altri come vorresti essere trattato. Vale anche qui. Ricordarsi che non si è da soli e che ci sono sempre altri n mila persone che ricevono quello che scriviamo. Non inneschiamo polemiche che possono degenerare in fiumi di messaggi senza possibilità di risoluzione.
-
-Ultimo consiglio da esperto: se un gruppo supera le venti persone che non si conoscono molto bene, dovete stare attenti. Forse è il caso di trovare strumenti migliori.
