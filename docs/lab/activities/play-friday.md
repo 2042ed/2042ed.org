@@ -12,6 +12,8 @@ toc : true
 > [!tip] Fabio
 > vengono i miei amici a giocare ai giochi che più mi piacciono
 
+![giochi](../../assets/img/labs/playfriday-games.webp)
+
 ![](../../studio/ludosofia/_img/progetto_playfriday.webp)
 
 Il progetto PlayFriday nasce nel 2019 per dare uno spazio e un tempo ad un gruppo di ragazzi (età media 9-12) per giocare esclusivamente giochi da tavolo. Volevo uno spazio che non fosse una casa di qualcuno, non solo perché nessuno di noi ha una stanza/taverna adeguata e isolata, ma sopratutto per incentivare un'autonoma organizzazione e aggregazione intorno ai giochi in uno spazio pubblico.
@@ -42,3 +44,5 @@ Ultimamente sono i ragazzi stessi a portare i loro giochi preferiti: io li invit
 
 --- 
 NB: se vuoi vedere tutti i giochi che abbiamo al momento: [ecco la mia lista](https://boardgamegeek.com/collection/user/StefanoCecere).
+
+![alt text](../../assets/img/labs/playfriday-collage.webp)

@@ -15,4 +15,6 @@ Venerdì 18 novembre terrò un pomeriggio ludico alla Biblioteca Villa Bandini, 
 
 L’International Games Month è un’iniziativa lanciata dall’American Library Association che in Italia ha visto l’adesione dell’Associazione Italiana Biblioteche. Per tutto il mese corrente le biblioteche saranno il luogo ideale dove gli appassionati del gioco potranno incontrarsi, fare nuove amicizie, sfidarsi e partecipare ai tornei.
 
+![](../../assets/img/labs/202211_biblioteca.webp)
+
 ![](../../assets/img/labs/giocare-in-biblioteca-libri-giochi.webp)
