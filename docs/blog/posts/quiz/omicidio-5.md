@@ -1,6 +1,6 @@
 ---
 title: Quiz investigativo - Omicidio a 5
-description: 
+description: ""
 date: 2024-03-13
 authors: 
  - stefano
