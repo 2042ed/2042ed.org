@@ -7,18 +7,18 @@ Per essere aggiornati velocemente sugli sviluppi di questo sito e sulle attivit√
 
 <div class="grid cards" markdown>
 
-- :fontawesome-brands-telegram: **[Canale Telegram](https://t.me/cecere2042)**  
-il canale preferito di interazione
 - :fontawesome-solid-envelope-open-text: **[Newsletter](https://2042.substack.com)**  
-una email alla settimana
+due email al mese per rimanere aggiornati
+- :fontawesome-brands-facebook: **[Gruppo Facebook](https://www.facebook.com/groups/2042ed)**  
+il gruppo ufficiale!
+- :fontawesome-brands-telegram: **[Canale Telegram](https://t.me/cecere2042)**  
+il canale pi√π immediato
 - :fontawesome-brands-whatsapp: **[Canale WhatsApp](https://whatsapp.com/channel/0029VaDQpYsId7nPXfheuf0D)**  
 se proprio non avete Telegram
-- :fontawesome-brands-facebook: **[Facebook](https://facebook.com/cecere2042)**  
-la mia pagina FB
 
 </div>
 
-## Contatto e Partecipazione { id="contact" }
+## Contatto e Collaborazione { id="contact" }
 Per entrare in contatto e partecipare:
 
 <div class="grid cards" markdown>
