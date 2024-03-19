@@ -13,6 +13,10 @@ rating:
 publish: 
 url: https://2042.substack.com/p/974
 ---
+_generazioni in gioco, Learning More, come sopravvivere a WhatsApp, il mistero delle mezze stagioni, caccia al tesoro musicale e ... in fondo in fondo..._
+
+<!-- more -->
+
 Buongiorno. Ebbene si: **è un conto alla rovescia**.
 
 Chi ha cercato di capire cosa rappresentasse **il numero di queste newsletter** ha capito che è sì un contatore, ma non verso cosa: verso il futuro. 974 settimane sembrano tante, ma vi assicuro che voleranno.

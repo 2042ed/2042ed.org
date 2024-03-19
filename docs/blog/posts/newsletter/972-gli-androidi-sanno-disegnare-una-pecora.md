@@ -12,7 +12,8 @@ permalink: /2042/nl/972
 rating: 
 publish: 
 ---
-# 972. Gli androidi sanno disegnare una pecora?
+_Un'introduzione alla AI creativa_
+<!-- more -->
 
 Questa settimana sono un po’ preso e condivido questa presentazione che feci qualche mese fa. e noto come alcuni paragrafi sarebbero già da aggiornare! Però i fondamenti teorici sono sempre validi e credo possa essere utile per chi non mastica AI tutti i giorni. Ci vediamo questo fine settimana a Modena per il [Learning More](https://learningmorefestival.it/)! Buona settimana.
 

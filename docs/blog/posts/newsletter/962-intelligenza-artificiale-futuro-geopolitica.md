@@ -14,7 +14,7 @@ publish:
 ---
 
 Prima newsletter del 2024, amici di questo viaggio collettivo verso il 2042 tra intelligenza artificiale, giochi, educazione, politica con la domanda fondamentale: **“e voi, come volete vivere?”**
-
+<!-- more -->
 _(di Miyazaki e giochi parleremo settimana prossima. Iscrivetevi se non volete perdere l’anteprima e per sostenere questo piccolo progetto di divulgazione gratuito!)_
 
 Questa settimana vi presento

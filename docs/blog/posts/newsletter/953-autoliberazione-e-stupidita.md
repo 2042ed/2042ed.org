@@ -13,7 +13,7 @@ rating:
 publish: 
 ---
 *in gioco per pensare, relazionarsi e agire meglio*
-
+<!-- more -->
 Ho una convinzione e un’illusione: abbiamo tutti lo stesso potenziale fisico e mentale per liberarci dalle illusioni e dai cortocircuiti che ci bloccano e raggiungere un livello minimo di **ragione**, di **creatività** e di **fiducia** per costruire una società davvero a misura d’uomo, in armonia con la natura e meno stupida.
 
 Certamente **non siamo tutti uguali** e non sottovalutiamo le differenti caratteristiche dei nostri sensi e reti neurali, per non parlare di problemi e malattie che cambiano anche drasticamente il nostro modo di percepire, registrare ed elaborare il mondo. E poi le nostre “condizioni di origine” ovvero l’ambiente sociale, culturale, economico e familiare in cui siamo nati e cresciuti che hanno dato una direzione importante al nostro modo di pensare.

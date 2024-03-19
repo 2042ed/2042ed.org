@@ -7,17 +7,15 @@ categories:
   - newsletter
 tags: 
   - newsletter
-description: ""
+description: "in gioco con papà, Antura va in Europa, game design a scuola, giochi e impatto sociale, il gioco zen"
 permalink: 
 rating: 
 publish: 
 ---
  *in gioco con papà, Antura va in Europa, game design a scuola, giochi e impatto sociale, il gioco zen*
-
-Feb 18, 2024
+<!-- more -->
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fff26842d-a997-4cf6-bd0d-b3968f4e83ab_1024x1024.jpeg)
-
 
 Oggi si parla di giocare in modo speciale.
 

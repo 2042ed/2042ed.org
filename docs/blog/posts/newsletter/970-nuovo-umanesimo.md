@@ -12,6 +12,7 @@ permalink: /2042/nl/972
 rating: 
 publish:
 ---
+<!-- more -->
 > L'assenza di ideologia è un'ideologia
 
 Questa settimana parliamo di idee motrici.

@@ -7,14 +7,14 @@ categories:
   - newsletter
 tags:
   - newsletter
-description: 
+description: ""
 permalink: /2042/nl/973
 rating: 
 publish:
 ---
-# 973. Shall we play a game?
-
 > giochi di guerra, l'attenzione delle AI, salvare capra e cavoli, spazio virtuale puro e conoscenza, i limoni che conquistano il mondo, e una piattaforma per imparare tutti tutto. e Halloween ludico.
+
+<!-- more -->
 
 Se quello che leggerete vi piace, [qui ci sono i numeri precedenti](https://2042.substack.com/archive). Ogni settimana cerco di portare avanti più discorsi in parallelo, tra giochi e pedagogia, intelligenza artificiale e riflessioni. Forse non è un buon metodo, molti preferiscono le monografie o gli elenchi numerati, ma per ora è così: viviamo in un mondo complesso dove la linearità delle cose non è più funzionale come nei tempi precedenti. L’importante è avere una struttura interna abbastanza solida su cui appendere tutto questo mondo che ci circonda e che sembra davvero in burrasca. E lo sarà sempre di più. A destrutturazione esterna serve maggiore strutturazione interna, un palo della nave di Ulisse a cui aggrapparsi.
 

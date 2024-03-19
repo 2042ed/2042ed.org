@@ -12,6 +12,9 @@ permalink: /2042/nl/1105
 rating: 
 publish:
 ---
+
+<!-- more -->
+
 ciao a tutti
 
 è una settimana circa che ho attivato il nuovo sito e questa newsletter, che mando oggi in anticipo perché domani alle 12:00 interverrò al Simposio Internazionale del Centri Studi Umanisti con un **intervento su “L’umanesimo nell’intelligenza artificiale, nella realtà virtuale e nei videogiochi”** ([qui i dettagli](https://stefano.cecere.org/event/2021/simposio-umanesimo-ai-vr-videogames/), sarà tradotto in simulantea in spagnolo)e a mio avviso sarà molto interessante, o almeno così mi dicono chi ha già intravisto i temi che tratterò, e dato il grande interesse e la personale soddisfazione, penso che ne farò un pamphlet divulgativo.

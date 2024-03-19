@@ -12,14 +12,13 @@ permalink: /2042/nl/971
 rating: 
 publish:
 ---
-# 971. Learning More
 
->Non studio per saperne di più, ma per ignorare di meno.  
->(Juana Inés de la Cruz)
+> Non studio per saperne di più, ma per ignorare di meno.  
+> (Juana Inés de la Cruz)
 
 **Premessa**: se arrivi a questa newsletter via web e vuoi iscriverti per riceverla tutte le settimane, clicca:
 
----
+<!-- more -->
 
 Torno a casa domenica sera dopo tre intense giornate del [Learning More](https://learningmorefestival.it/), il Festival che esplora le frontiere dell’apprendimento e della conoscenza, toccando tutte le corde dei temi di questa newsletter, sopratutto con i 5 **incontri a tema gioco e didattica** a cui ho partecipato attivamente.  
 Sono sicuro che alla fine vorrete segnarvi già **8-10 novembre 2024** per partecipare alla prossima edizione!

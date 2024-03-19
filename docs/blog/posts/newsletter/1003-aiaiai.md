@@ -7,7 +7,7 @@ categories:
   - newsletter
 tags:
   - newsletter
-description: 
+description: ""
 permalink: /2042/nl/1003
 rating: 
 publish: 
@@ -18,6 +18,8 @@ url: https://2042.substack.com/p/ai-ai-ai
 > Considerate come gli smartphone e internet in 15 anni hanno cambiato la nostra vita sul pianeta. Pensateci bene. Fatto?  
 > Prendete quel **cambiamento** e moltiplicatelo per 10.  
 > Ecco cosa sta per arrivare entro 10 anni con le Intelligenze Artificiali.
+
+<!-- more -->
 
 Ho già fallito nel proposito di una newsletter a cadenza settimanale. Ne farò tesoro ma sono state tre settimane molto intense che qui sintetizzo.
 

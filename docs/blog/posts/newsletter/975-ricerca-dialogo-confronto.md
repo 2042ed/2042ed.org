@@ -7,30 +7,25 @@ categories:
   - newsletter
 tags:
   - newsletter
-description: sul potere del -1, punti di vista e contesti, AR e mondi paralleli, leggiamo Pompei con la AI, giochi in biblioteca e.. usciamo dalla stanza prima che sia troppo tardi!
+description: "sul potere del -1, punti di vista e contesti, AR e mondi paralleli, leggiamo Pompei con la AI, giochi in biblioteca e.. usciamo dalla stanza prima che sia troppo tardi!"
 permalink: /2042/nl/975
 rating: 
 publish:
 ---
+_sul potere del -1, punti di vista e contesti, AR e mondi paralleli, leggiamo Pompei con la AI, giochi in biblioteca e.. usciamo dalla stanza prima che sia troppo tardi!_
+
+<!-- more -->
 
 Buongiorno. Questa settimana si parla di
 
 - cosa è il 975?
-    
 - l’essere il meno uno
-    
 - punti di vista, contesti e guerre
-    
 - AR e mondi paralleli
-    
 - AI a confronto
-    
 - giochi in biblioteca
-    
 - un simulatore di Escape Rooms
-    
 - giuochini nuovi e soluzioni
-    
 
 > Premessa: scrivo questa newsletter per passione, professione, missione. È gratuita ma se volete dare un supporto, iscrivetevi e condividetela con figli e amici. Ma forse anche genitori e nemici.
 

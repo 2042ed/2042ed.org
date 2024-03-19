@@ -14,6 +14,10 @@ publish:
 slug: newletter-ai-ai-ai
 url: https://2042.substack.com/p/mettere-in-gioco
 ---
+_sull'attenzione e la fiducia come priorità, la scelta della pedagogia ludica e il futuro che dobbiamo accettare._
+
+<!-- more -->
+
 > Questa email è eccezionalmente lunga. Lettore avvisato, mezzo salvato.
 
 ## 🟧 La Scelta
