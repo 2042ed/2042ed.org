@@ -12,7 +12,6 @@ permalink:
 rating: 
 status: 
 ---
-## Filtri mentali
 
 - cosa vedi?
 - un fiore giallo

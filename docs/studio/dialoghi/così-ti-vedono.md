@@ -3,12 +3,12 @@ title: Così ti vedono
 date: 2019-01-01
 updated: 2024-03-19
 rating: 
-tags: dialoghi
+tags:
+  - dialoghi
 status: 
 categories:
   - dialoghi
 ---
-## Così ti vedono
 
 - papà, se ti vedo attraverso la bottiglia sei ciccione
 - e non sai come ti vedo io!

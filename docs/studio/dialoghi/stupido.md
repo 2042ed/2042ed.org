@@ -3,12 +3,12 @@ title: Stupido è
 date: 2023-10-20
 updated: 2024-03-19
 rating: 
-tags: dialoghi
+tags:
+  - dialoghi
 status: 
 categories:
   - dialoghi
 ---
-## Stupido è
 
 Digramma di Cipolla
 

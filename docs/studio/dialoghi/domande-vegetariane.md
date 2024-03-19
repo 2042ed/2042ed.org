@@ -9,6 +9,7 @@ tags:
   - dialoghi
 ---
 ![](../../../assets/img/post/2021/domande_vegetariane.jpg)
+
 - ma come vengono uccisi i maiali?
 - è vero che le scoregge delle mucche inquinano così tanto?
 - ma non potremmo mangiare un animale già morto per cause naturali?

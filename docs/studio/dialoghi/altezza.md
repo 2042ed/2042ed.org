@@ -1,5 +1,5 @@
 ---
-title: L'altezza
+title: Altezza
 date: 2017-11-16
 updated: 2024-03-19
 type: dialogo
@@ -13,7 +13,6 @@ permalink:
 rating: 
 status: 2review
 ---
-## Altezza
 
 - ok, papà, ma perché sarebbe importante diventare più _alti_?
 - ehhhhh...
@@ -23,4 +22,3 @@ status: 2review
 - ecco, esatto!
 
 ### TEMA: giudizio e convenzioni sociali
-

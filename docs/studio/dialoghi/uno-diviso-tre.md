@@ -13,7 +13,6 @@ permalink:
 rating: 
 status: 2review
 ---
-## Uno diviso Tre
 
 - zero virgola tre col cappellino
 - settecentotremiliardi e novecentoquarantedue milioni ottocentouno mila DIVISO INFINITO...

@@ -1,5 +1,5 @@
 ---
-title: pensare con la propria testa
+title: Pensare con la propria testa
 date: 2015-03-05
 updated: 2024-03-19
 draft: false

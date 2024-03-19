@@ -10,7 +10,6 @@ status:
 categories:
   - dialoghi
 ---
-## Treni Connessi
 
 - papà perché corri?
 - perché il mio treno è in ritardo di 80 minuti!

@@ -12,7 +12,6 @@ permalink:
 rating: 
 status: 
 ---
-## La Saggezza
 
 - ma cos’é la saggezza?
 - per me la saggezza é più dell’intelligenza

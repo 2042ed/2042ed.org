@@ -14,6 +14,7 @@ featured: false
 draft: false
 ---
 ![](../../../assets/img/post/2019/cartello_pena_morte_1944.jpg)
+
 - papà ma chi sono di preciso i FASCISTI?
 - dove ne hai sentito parlare?
 - a scuola.. abbiamo letto e visto cosa facevano agli ebrei... a no forse erano i nazisti

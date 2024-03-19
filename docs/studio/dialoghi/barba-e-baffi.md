@@ -12,7 +12,6 @@ permalink:
 rating: 
 status: 2review
 ---
-## Barba e Baffi
 
 - papà chi è quel vecchio?
 - boh uno a caso con la barba e che quindi sembra saggio

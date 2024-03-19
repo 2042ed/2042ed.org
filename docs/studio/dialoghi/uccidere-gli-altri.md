@@ -13,7 +13,6 @@ permalink:
 rating: 
 status: 2review
 ---
-## Uccidere gli altri
 
 - Perché uccidere gli altri se tanto fra milioni di anni moriamo tutti?
 - Perché uno deve uccidere? Forse è arrabbiato perché tipo non gli piace quello che fanno da mangiare alla mensa?

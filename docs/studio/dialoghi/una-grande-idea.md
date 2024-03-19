@@ -13,7 +13,6 @@ permalink:
 rating: 
 status: 2review
 ---
-## Una grande idea
 
 - papà guarda: un fungo in spiaggia!
 - o mannaggia mai ne vidi! che rarità!

@@ -13,7 +13,6 @@ permalink:
 rating: 10
 status: 
 ---
-## Aiutare
 
 - papà, dopo mi aiuti con quel livello del gioco?
 - certo, ma io ho una regola: aiuto solo chi aiuta qualcun altro

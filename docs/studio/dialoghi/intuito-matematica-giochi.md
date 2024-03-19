@@ -12,7 +12,6 @@ permalink:
 rating: 
 status: 2review
 ---
-## Intuito, Matematica e Giochi - cosa studi?
 
 - l'intuito
 - eh?

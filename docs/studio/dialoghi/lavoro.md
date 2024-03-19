@@ -3,12 +3,12 @@ title: Lavoro
 date: 2019-05-21
 updated: 2024-03-19
 rating: 
-tags: dialoghi
+tags:
+  - dialoghi
 status: 
 categories:
   - dialoghi
 ---
-## Lavoro
 
 - papà a cosa giochi?
 - sto lavorando...

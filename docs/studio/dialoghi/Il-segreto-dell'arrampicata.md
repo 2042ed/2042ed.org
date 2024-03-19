@@ -13,7 +13,6 @@ permalink:
 rating: 
 status: 2review
 ---
-## Il segreto dell'arrampicata
 
 - papà... sai quel’è il segreto dell’arrampicata?
 - no

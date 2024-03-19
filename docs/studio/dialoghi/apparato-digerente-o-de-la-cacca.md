@@ -12,7 +12,6 @@ permalink:
 rating: 
 status: 2review
 ---
-## Apparato Digerente (o de la cacca)
 
 - se di notte devi dormire sollevato altrimenti ti risale un po' il chimo.. che problema hai?
 - uhmmmm .. il CARDIAS non chiude bene?

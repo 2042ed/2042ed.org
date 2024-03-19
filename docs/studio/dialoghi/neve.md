@@ -3,12 +3,12 @@ title: Neve
 date: 2019-04-14
 updated: 2024-03-19
 rating: 
-tags: dialoghi
+tags:
+  - dialoghi
 status: 
 categories:
   - dialoghi
 ---
-## Neve
 
 - papà guarda! LA NEVE!
 - ah ah caro Bruno. sai che a volte noi vediamo il CONTRARIO della realtà?

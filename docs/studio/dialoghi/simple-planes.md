@@ -10,7 +10,6 @@ status: 2review
 categories:
   - dialoghi
 ---
-## Simple Planes
 
 - che fai?
 - sto testando un aereo che ho costruito.

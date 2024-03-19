@@ -12,7 +12,6 @@ permalink:
 rating: 
 status: 2review
 ---
-## Quando morirò
 
 - papà ma quando morirai dove sarai? su Marte? nello spazio? o nel cimitero qui vicino?
 - sicuramente su GitHub

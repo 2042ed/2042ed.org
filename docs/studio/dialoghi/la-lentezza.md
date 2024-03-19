@@ -3,12 +3,12 @@ title: La Lentezza
 date: 2019-03-03
 updated: 2024-03-19
 rating: 
-tags: dialoghi
+tags:
+  - dialoghi
 status: 
 categories:
   - dialoghi
 ---
-## La Lentezza
 
 - papà, stiamo studiando i Romani... e mi chiedevo: con un impero così grande e senza treni macchine ed aerei, e senza internet, come facevano?
 - lo sai che anch'io ho difficoltà ad immedesimarmi anche solo prima della diffusione del telefono.. e costruivano cose impensabili in tutto il mondo!

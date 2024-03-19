@@ -3,12 +3,12 @@ title: La smette di toccarmi?
 date: 2020-02-26
 updated: 2024-03-19
 rating: 
-tags: dialoghi
+tags:
+  - dialoghi
 status: 
 categories:
   - dialoghi
 ---
-## La smette di toccarmi?
 
 - sei sull'autobus e un signore o una signora ti tocca la gamba con una mano. cosa fai?
 - mi scanso

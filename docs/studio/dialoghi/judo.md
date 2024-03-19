@@ -3,12 +3,12 @@ title: Judo
 date: 2019-02-11
 updated: 2024-03-19
 rating: 
-tags: dialoghi
+tags:
+  - dialoghi
 status: 
 categories:
   - dialoghi
 ---
-## Judo
 
 “il Judo ci insegna a cadere, ma anche a rialzarci più forti"
 

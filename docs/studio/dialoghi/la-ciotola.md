@@ -1,14 +1,14 @@
 ---
-title: La Ciotola
+title: La ciotola
 date: 2023-10-20
 updated: 2024-03-19
 rating: 
-tags: dialoghi
+tags:
+  - dialoghi
 status: 
 categories:
   - dialoghi
 ---
-## La Ciotola
 
 - papà.. sai cosa manca nel mio zainetto?
 - no, dimmi

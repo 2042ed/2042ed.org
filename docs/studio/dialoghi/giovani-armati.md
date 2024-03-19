@@ -3,12 +3,12 @@ title: Giovani Armati
 date: 2018-02-15
 updated: 2024-03-19
 rating: 
-tags: dialoghi
+tags:
+  - dialoghi
 status: 
 categories:
   - dialoghi
 ---
-## Giovani Armati
 
 - Sai, figliolo, stamani un ragazzo americano si è svegliato, è andato alla sua scuola con un fucile e ha iniziato a sparare uccidendo moltissimi ragazzi. e sono almeno 19 le scuole USA in cui dall’inizio dell’anno si sono verificate sparatorie del genere.
 - ahh fra un po' non ci rimane più nessuno se continuano ad ammazzarsi!

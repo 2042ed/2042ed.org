@@ -12,7 +12,6 @@ permalink:
 rating: 
 status: 2review
 ---
-## Bolle di Sapone
 
 - questi sono 2.5 litri di bolle di sapone.
 - eh?

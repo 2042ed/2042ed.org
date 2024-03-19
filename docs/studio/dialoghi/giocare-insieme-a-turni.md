@@ -12,7 +12,6 @@ permalink:
 rating: 
 status: 2review
 ---
-## Giocare insieme a turni
 
 - Fabio ma davvero non vuoi andare a vedere Avengers ultimo al cinema?
 - no, preferirei davvero giocare 3 ore a Civilization con te!

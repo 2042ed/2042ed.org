@@ -11,7 +11,6 @@ tags:
 description: ""
 permalink: 
 ---
-# immuni
 
 - quindi installiamo questa app sul telefonino e diventiamo immuni al virus?
 - affatto

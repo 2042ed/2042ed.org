@@ -1,5 +1,5 @@
 ---
-title: scegli tutto quello che vuoi
+title: Scegli tutto quello che vuoi
 date: 2015-02-12
 updated: 2024-03-19
 type: dialogo
@@ -16,7 +16,7 @@ draft: false
 id: 5667
 ---
 
-ho portato mio figlio in un negozio e per la prima volta ho detto le fatidiche parole: 
+ho portato mio figlio in un negozio e per la prima volta ho detto le fatidiche parole:  
 
 - SCEGLI TUTTO QUELLO CHE VUOI! NON BADIAMO A SPESE!
 - davvero?

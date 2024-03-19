@@ -5,16 +5,13 @@ updated: 2024-03-19
 type: 
 categories:
   - dialoghi
-tags: dialoghi
+tags:
+  - dialoghi
+  - videogiochi
 description: ""
 permalink: 
 rating: 
-tag:
-  - videogiochi
-  - 2review
 ---
-
-## Civilization
 
 - io fossi nelle formiche non fortificherei li. anzi sposterei la città base lassù dove è più vicina agli alberi, ed è più protetta dagli umani che potrebbero calpestarla
 - ahhh ti sta servendo giocare a Civilization eh!

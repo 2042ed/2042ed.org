@@ -12,7 +12,6 @@ permalink:
 rating: 
 status: 
 ---
-## Hackaton del gioco domestico
 
 - ragazzi questo è il fine settimana NON DIGITALE
 - ahia

@@ -5,13 +5,13 @@ updated: 2024-03-19
 type: 
 categories:
   - dialoghi
-tags: dialoghi
+tags:
+  - dialoghi
 description: ""
 permalink: 
 rating: 
 status: 
 ---
-## Cosa porti?
 
 - Cosa hai in mano?
 - niente! guarda? non porto proprio niente!

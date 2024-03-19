@@ -1,10 +1,11 @@
 ---
-title: la derivata del caffè
+title: La derivata del caffè
 date: 2019-09-19
 updated: 2024-03-19
 categories:
   - dialoghi
-tags: dialoghi
+tags:
+  - dialoghi
 ---
 
 - ma perché siamo qui?

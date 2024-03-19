@@ -14,7 +14,6 @@ rating:
 publish: false
 status: 2review
 ---
-# pensare
 
 - a cosa pensi?
 - perché me lo chiedi?

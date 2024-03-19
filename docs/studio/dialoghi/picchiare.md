@@ -13,7 +13,6 @@ permalink:
 rating: 
 status: 
 ---
-## Picchiare
 
 - ma io ti ho mai picchiato?
 - una volta mi hai dato un piccolo schiaffo

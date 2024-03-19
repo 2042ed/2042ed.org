@@ -9,7 +9,6 @@ tags:
   - timidezza
 ---
 
-SALE A TUTTI
 - si, figliolo, anch'io da piccolo mi vergognavo molto ad andare a chiedere una cosa ai vicini
 - ma ora non ti vergogni più
 - ho impiegato molto a uccidere la timidezza (non è tanto vergogna, è timidezza). 

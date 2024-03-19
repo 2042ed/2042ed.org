@@ -14,7 +14,6 @@ rating:
 status: 
 ---
 
-## Forze
 - vedi papà.. se io tengo le mani unite così.. e con una spingo, e con l’altra tiro.. non si muovono.. perché le due forze sono uguali ma opposte
 
 #TODO mascella che cade

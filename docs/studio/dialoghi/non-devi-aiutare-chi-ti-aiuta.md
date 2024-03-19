@@ -1,5 +1,5 @@
 ---
-title: non devi aiutare chi ti aiuta
+title: Non devi aiutare chi ti aiuta
 date: 2015-01-31
 updated: 2024-03-19
 type: 

@@ -13,7 +13,6 @@ permalink:
 rating: 
 status: 
 ---
-## Corso Barbone
 
 bene ragazzi. innanzitutto siamo felicissimi che due scatole di cartone siano più divertenti di mille aggeggi costosi.
 

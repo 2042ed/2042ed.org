@@ -12,7 +12,6 @@ permalink:
 rating: 
 status: 2review
 ---
-## Babbo Natale artigiano
 
 intanto gli abbiamo fatto passare che Babbo Natale porta solo giochi artigianali o libri, del costo massimo di 30 euro.
 

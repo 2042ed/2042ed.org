@@ -12,7 +12,6 @@ permalink:
 rating: 
 status: 
 ---
-## Passione
 
 - che fai?
 - questa ragazza suona la batteria da 80 anni

@@ -3,12 +3,12 @@ title: Le Nuvole
 date: 2023-10-20
 updated: 2024-03-19
 rating: 
-tags: dialoghi
+tags:
+  - dialoghi
 status: 
 categories:
   - dialoghi
 ---
-## Le Nuvole
 
 - guarda Fabio! che nuvole! alcune sono bianchissime.. altre quasi nere
 - uhm.. ma lo sai che secondo me le nuvole sono tutte dello stesso colore? scure.. se le guardi da sotto, sono tutte grigie. è il sole che le illumina e che le rende bianche

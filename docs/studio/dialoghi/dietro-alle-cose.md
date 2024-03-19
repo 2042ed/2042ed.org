@@ -14,7 +14,6 @@ permalink:
 rating: 
 status: 
 ---
-## Dietro alle cose
 
 - papà.. certo che chi a fatto [questo libro labirinto](../../played/book/libri-labirinto.md) è stato davvero bravo! guarda quante pagine ed in ognuna c'è un gioco completo con una storia... ci deve aver messo tantissimo per farlo!
 - beh.. almeno 2 giorni a pagina! e hai colto un'aspetto fondamentale dei nostri oggetti, sopratutto i libri (o film, giochi, musica): dietro di essi ci sono delle persone che li pensano e li producono, li provano e poi cercano di condividerli

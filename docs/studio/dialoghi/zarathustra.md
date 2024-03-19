@@ -13,7 +13,6 @@ permalink:
 rating: 
 status: 2review
 ---
-## Zarathustra
 
 - ma è una storia vera?
 - beh è una delle storie “filosofiche” più importanti degli ultimi tempi... vedrai che andando avanti a leggerlo troveremo molte situazioni interessanti

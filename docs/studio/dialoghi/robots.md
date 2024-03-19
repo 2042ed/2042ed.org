@@ -14,7 +14,6 @@ permalink:
 rating: 
 status: 
 ---
-## Robots
 
 - papà ma come fanno i robots ad imparare a fare le cose che facciamo noi?
 - imparano come impariamo noi... con l’imitation learning, ad esempio, o giocando a dei giochi

@@ -11,7 +11,6 @@ tags:
 description: ""
 permalink: 
 ---
-# il frigo semplice
 
 - alla fine la gente vuole cose semplici
 - è vero, non tutti vogliono sapere come funziona tutto

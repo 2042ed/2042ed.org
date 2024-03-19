@@ -11,7 +11,6 @@ tags:
 description: ""
 permalink: 
 ---
-# la cruna
 
 - cosa fai?
 - sto cercando di farmi passare...

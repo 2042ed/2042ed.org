@@ -13,7 +13,6 @@ permalink:
 rating: 
 status: 
 ---
-## Il compleanno dell'atmosfera
 
 - Papà... Ma tutti respiriamo la stessa aria?
 - Uhm... ho un'idea...senti: Cosa ci protegge da sempre dalle intemperie dello Spazio Cosmico? (Non illudiamoci che là fuori siano molto gentili con noi umani: meteoriti, raggi x, temperature impossibili...)

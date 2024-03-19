@@ -5,13 +5,13 @@ updated: 2024-03-19
 type: 
 categories:
   - dialoghi
-tags: dialoghi
+tags:
+  - dialoghi
 description: ""
 permalink: 
 rating: 
 status: 
 ---
-## non guardare i cartoni
 
 ...perché guardare i cartoni è facile.
 lo sanno fare tutti.

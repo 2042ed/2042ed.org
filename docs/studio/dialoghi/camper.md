@@ -12,7 +12,6 @@ permalink:
 rating: 
 status: 
 ---
-## Camper
 
 - Papà è vero che _da fuori_ il nostro camper sembra un camper ma da dentro sembra un casa?
 

@@ -12,7 +12,6 @@ permalink:
 rating: 
 status: 2review
 ---
-## Bestemmie
 
 - ragazzi sentite qui: questo signore è stato multato perché ha bestemmiato, OFFENDENDO LA DIVINITÀ!
 - e non perché aveva lasciato l'auto in mezzo alla strada sulle strisce pedonali!

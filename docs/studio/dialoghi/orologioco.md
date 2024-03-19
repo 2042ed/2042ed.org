@@ -17,6 +17,7 @@ draft: false
 status: 2review
 ---
 ![](../../../assets/img/post/2019/orologioco.jpg)
+
 - che fai col cellulare?
 - ho guardato le previsioni del tempo e ora guardo il cronometro...
 - FACCIAMO UN GIOCO

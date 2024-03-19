@@ -13,7 +13,6 @@ permalink:
 rating: 
 status: 2review
 ---
-## Universo da bere - posso bere da questo bicchiere?
 
 - certo. ma quell’acqua non è di oggi.
 - è di ieri?

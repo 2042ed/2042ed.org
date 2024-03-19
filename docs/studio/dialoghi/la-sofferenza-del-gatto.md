@@ -3,12 +3,13 @@ title: La sofferenza del gatto
 date: 2023-10-20
 updated: 2024-03-19
 rating: 
-tags: dialoghi
+tags:
+  - dialoghi
 status: 
 categories:
   - dialoghi
 ---
-## La sofferenza del gatto
+
 2 Giugno PICCOLI CAMBIAMENTI X GRANDE IDEA
 
 - papà chi è quel vecchio?

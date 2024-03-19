@@ -10,7 +10,6 @@ status:
 categories:
   - dialoghi
 ---
-## Il freddo
 
 - esiste il freddo?
 - no

@@ -4,7 +4,8 @@ date: 2019-09-22
 updated: 2024-03-19
 categories:
   - dialoghi
-tags: dialoghi
+tags:
+  - dialoghi
 ---
 
 - che fai?

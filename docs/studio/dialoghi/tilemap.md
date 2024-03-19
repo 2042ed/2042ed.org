@@ -13,7 +13,6 @@ permalink:
 rating: 
 status: 
 ---
-## Tilemap
 
 - Fabio.. cos'è una tilemap?
 - è disegnare una mappa molto grande a partire da blocchetti piccoli

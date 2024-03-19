@@ -14,7 +14,6 @@ rating:
 publish: 
 status: 
 ---
-## Di tutti o di nessuno
 
 - papà... ma di chi è la nostra scuola? nel senso: è proprio nostra l’abbiamo pagata noi?
 - sì. è proprio nostra ma non solo di me te la mamma e Bruno.. è nostra di tutti! ovvero è pubblica, parola che significa di proprietà del popolo (quando studierai latino ti divertirai a scoprire la vera origine delle parole :)

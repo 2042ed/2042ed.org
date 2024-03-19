@@ -12,7 +12,6 @@ permalink:
 rating: 
 status: 2review
 ---
-## Ambientalisti
 
 Due giorni prima:
 

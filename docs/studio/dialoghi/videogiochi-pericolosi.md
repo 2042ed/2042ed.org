@@ -13,7 +13,6 @@ permalink:
 rating: 
 status: 2review
 ---
-## Videogiochi pericolosi
 
 - papà ma é vero che un ragazzo ha ucciso 50 persone col fucile come a Fortnite?
 - che le abbia uccise, si é vero. Ma Fortnite non c’entra niente.

@@ -5,13 +5,13 @@ updated: 2024-03-19
 type: 
 categories:
   - dialoghi
-tags: dialoghi
+tags:
+  - dialoghi
 description: ""
 permalink: 
 rating: 
 status: 
 ---
-## Intelligenti
 
 - papà ma come si fa a diventare intelligenti?
 - direi innanzitutto frequentando e parlando, al massimo leggendo, con persone più intelligenti di te

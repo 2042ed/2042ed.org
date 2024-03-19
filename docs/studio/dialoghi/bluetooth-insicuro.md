@@ -16,10 +16,12 @@ draft: false
 ---
 
 - papà ma perché spegni sempre il bluetooth a tutto? i miei amici lo lasciano acceso...
-- 3 motivi semplici da ricordare:
-1) se una cosa consuma energia ma non mi serve sempre accesa, la tengo spenta
-2) gli aggeggi bluetooth.. che siano i mouse, le tastiere, i controllers, gli auricolari etc etc hanno bisogno di batterie autonome, da ricaricare.. e hanno necessariamente vita breve
-3) la più importante: la sicurezza. tu lasci il bluetooth acceso, e sei ad esempio sul treno o su un autobus, e fidati c'è la possibilità che qualcuno prenda possesso del tuo telefono e sicuramente che ti traccino, ovvero che sanno che sei lì
+- 3 motivi semplici da ricordare:  
+
+1. se una cosa consuma energia ma non mi serve sempre accesa, la tengo spenta
+2. gli aggeggi bluetooth.. che siano i mouse, le tastiere, i controllers, gli auricolari etc etc hanno bisogno di batterie autonome, da ricaricare.. e hanno necessariamente vita breve
+3. la più importante: la sicurezza. tu lasci il bluetooth acceso, e sei ad esempio sul treno o su un autobus, e fidati c'è la possibilità che qualcuno prenda possesso del tuo telefono e sicuramente che ti traccino, ovvero che sanno che sei lì
+
 - e come fanno?
 - il bluetooth è un piccolo "campo" del raggio di qualche metro che dice a tutti: "EHI SONO QUI! VUOI ESSERE MIO AMICO?
 - non ci credo!

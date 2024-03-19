@@ -3,12 +3,12 @@ title: Natura
 date: 2023-10-20
 updated: 2024-03-19
 rating: 
-tags: dialoghi
+tags:
+  - dialoghi
 status: 
 categories:
   - dialoghi
 ---
-## Natura
 
 - ma ti rendi conto di dove viviamo???
 - “In un mondo di labirinti! E di avventura!!!!”

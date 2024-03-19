@@ -3,12 +3,12 @@ title: Prigioni
 date: 2023-10-20
 updated: 2024-03-19
 rating: 
-tags: dialoghi
+tags:
+  - dialoghi
 status: 
 categories:
   - dialoghi
 ---
-## Prigioni
 
 - e senti: cosa sono le prigioni?
 - sono dei posti dove ti mettono chiuso dentro per tanti anni, se combini qualcosa di particolarmente grave tipo uccidere una persona.. sperando che quando uscirai non commetterai più quella birbonata

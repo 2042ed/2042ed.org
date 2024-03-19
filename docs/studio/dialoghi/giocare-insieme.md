@@ -14,6 +14,7 @@ featured: false
 draft: false
 ---
 ![](../../../assets/img/post/2020/deserto-proibilit-giocare.jpg)
+
 - allora noi si gioca insieme. ma nel senso che io e te non siamo nemici e vince il più bravo. dobbiamo collaborare per uscire tutti dal deserto prima che ci sommerga la sabbia o moriamo di sete
 - costruendo l’astronave?
 - esatto. i pezzi dell’astronave sono sparsi sotto le dune di sabbia. non sappiamo dove siano! dobbiamo cercarli

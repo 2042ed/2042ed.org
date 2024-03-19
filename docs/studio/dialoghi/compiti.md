@@ -5,13 +5,13 @@ updated: 2024-03-19
 type: 
 categories:
   - dialoghi
-tags: dialoghi
+tags:
+  - dialoghi
 description: ""
 permalink: 
 rating: 
 status: 
 ---
-## Compiti
 
 - papà.. posso fare un'altra pagina di compiti?
 - sono le 21:00 non vuoi guardare un cartone? compiti o cartone?

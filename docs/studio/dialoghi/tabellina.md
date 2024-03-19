@@ -9,7 +9,6 @@ status:
 categories: 
   - dialoghi
 ---
-## Tabellina
 
 9 x 1 = 7
 
