@@ -1,0 +1,22 @@
+---
+title: vedo le cose nel cervello
+date: 2015-02-04
+updated: 2023-08-20
+type: dialogo
+categories:
+  - dialoghi
+tags:
+  - immaginazione
+description: 
+permalink: 
+slug: /2015/02/vedo-le-cose-nel-cervello/
+draft: false
+id: 5674
+---
+
+- papà, ma io vedo le cose nel cervello! anche da sveglio!
+- se sono cose che hai già visto, arrivano dalla memoria, dal passato. se invece sono nuove, arrivano dall'immaginazione, dal futuro
+- e tutto ciò che immagino si avvererà nel futuro?
+- no, anzi è un grave errore e porta a grande sofferenza il credere che ogni immaginazione si avveri nel futuro
+- ok allora intanto l'immaginazione la disegno
+- bene. così ti ricorderai cosa hai immaginato
