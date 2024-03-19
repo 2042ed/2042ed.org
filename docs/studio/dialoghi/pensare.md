@@ -1,12 +1,14 @@
 ---
 title: Pensare
 date: 2020-06-23
-updated: 2023-09-03
+updated: 2024-03-19
 type: dialogo
-categories: []
+categories:
+  - dialoghi
 tags:
   - filosofia
-description: 
+  - dialoghi
+description: ""
 permalink: 
 rating: 
 publish: false

@@ -1,11 +1,15 @@
 ---
-title: "Sul BLUETOOTH insicuro"
+title: Sul BLUETOOTH insicuro
 date: 2019-09-20
-updated: 2023-08-11
-categories: [dialoghi]
-tags: [tech, tip]
+updated: 2024-03-19
+categories:
+  - dialoghi
+tags:
+  - tech
+  - tip
+  - dialoghi
 description: ""
-slug:
+slug: 
 subtitle: ""
 featured: false
 draft: false

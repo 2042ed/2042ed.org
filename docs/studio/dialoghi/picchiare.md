@@ -1,15 +1,17 @@
 ---
 title: Picchiare
 date: 2020-05-02
-updated: 2023-08-31
+updated: 2024-03-19
 type: dialogo
-categories: []
+categories:
+  - dialoghi
 tags:
   - parenting
-description: 
+  - dialoghi
+description: ""
 permalink: 
 rating: 
-status:
+status: 
 ---
 ## Picchiare
 

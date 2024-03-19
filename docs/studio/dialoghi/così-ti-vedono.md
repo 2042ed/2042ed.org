@@ -1,9 +1,12 @@
 ---
 title: Così ti vedono
 date: 2019-01-01
+updated: 2024-03-19
 rating: 
-tags:
-status: #2review
+tags: dialoghi
+status: 
+categories:
+  - dialoghi
 ---
 ## Così ti vedono
 

@@ -1,8 +1,10 @@
 ---
 title: Fai qualcosa di bello
 date: 2019-09-22
-updated: 2023-07-29
-categories: [dialoghi]
+updated: 2024-03-19
+categories:
+  - dialoghi
+tags: dialoghi
 ---
 
 - che fai?

@@ -3,12 +3,16 @@ title: Robots
 date: 2019-03-03
 updated: 2024-03-19
 type: dialogo
-categories: []
-tags: [robots, AI]
-description: 
+categories:
+  - dialoghi
+tags:
+  - robots
+  - AI
+  - dialoghi
+description: ""
 permalink: 
 rating: 
-status:
+status: 
 ---
 ## Robots
 

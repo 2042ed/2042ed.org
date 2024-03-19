@@ -1,15 +1,18 @@
 ---
 title: Di tutti o di nessuno
 date: 2023-10-20
-updated: 2024-01-07
+updated: 2024-03-19
 type: 
-categories: dialoghi
-tags: scuola
-description: 
+categories:
+  - dialoghi
+tags:
+  - scuola
+  - dialoghi
+description: ""
 permalink: 
 rating: 
 publish: 
-status: #2review
+status: 
 ---
 ## Di tutti o di nessuno
 

@@ -1,9 +1,12 @@
 ---
 title: Dervisci Rotanti
 date: 2020-11-23
-updated: 2023-07-31
-categories: []
-tags: [dialoghi, sufi]
+updated: 2024-03-19
+categories:
+  - dialoghi
+tags:
+  - dialoghi
+  - sufi
 ---
 
 - mi accompagni in bagno?

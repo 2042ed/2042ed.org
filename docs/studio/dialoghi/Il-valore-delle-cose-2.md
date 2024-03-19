@@ -1,9 +1,12 @@
 ---
 title: Il valore delle cose
 date: 2018-12-02
+updated: 2024-03-19
 rating: 
-tags:
-status: #2review
+tags: dialoghi
+status: 
+categories:
+  - dialoghi
 ---
 
 - papà oggi non ringraziamo il tetto?

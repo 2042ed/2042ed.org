@@ -1,12 +1,13 @@
 ---
 title: l'audio di Windows ha molto da insegnare
 date: 2020-05-19
-updated: 2023-08-20
+updated: 2024-03-19
 type: dialogo
 categories:
   - dialoghi
 tags:
   - edtech
+  - dialoghi
 description: ""
 permalink: 
 subtitle: ""

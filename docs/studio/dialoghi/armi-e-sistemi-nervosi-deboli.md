@@ -1,11 +1,12 @@
 ---
 title: Armi e Sistemi Nervosi Deboli
 date: 2019-03-17
-updated: 2023-08-20
+updated: 2024-03-19
 type: dialogo
 categories:
   - dialoghi
-tags: []
+tags:
+  - dialoghi
 description: ""
 permalink: 
 slug: 2019/03/armi-e-sistemi-nervosi-deboli

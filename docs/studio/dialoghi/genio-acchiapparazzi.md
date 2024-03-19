@@ -1,10 +1,13 @@
 ---
 title: Genio acchiapparazzi (con inaspettato finale politico)
 date: 2018-02-22
-updated: 2023-07-31
+updated: 2024-03-19
 slug: 2018/02/genio-acchiapparazzi
-categories: [dialoghi]
-tags: [genio]
+categories:
+  - dialoghi
+tags:
+  - genio
+  - dialoghi
 ---
 
 ![](../../../assets/img/post/2018/rocket_catcher.jpg)

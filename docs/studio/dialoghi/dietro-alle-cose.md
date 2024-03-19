@@ -1,16 +1,18 @@
 ---
 title: Dietro alle cose
 date: 2020-05-02
-updated: 2023-08-29
+updated: 2024-03-19
 type: dialogo
-categories: []
+categories:
+  - dialoghi
 tags:
   - libri
   - giochiamo
-description: 
+  - dialoghi
+description: ""
 permalink: 
 rating: 
-status:
+status: 
 ---
 ## Dietro alle cose
 

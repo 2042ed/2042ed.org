@@ -1,14 +1,17 @@
 ---
 title: Il compleanno dell'atmosfera
 date: 2020-05-02
-updated: 2023-08-20
+updated: 2024-03-19
 type: 
-categories: 
-tags: scienza
-description: 
+categories:
+  - dialoghi
+tags:
+  - scienza
+  - dialoghi
+description: ""
 permalink: 
 rating: 
-status: #2review
+status: 
 ---
 ## Il compleanno dell'atmosfera
 

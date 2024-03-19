@@ -1,14 +1,17 @@
 ---
 title: Corso Barbone
 date: 2019-07-06
-updated: 2023-08-20
+updated: 2024-03-19
 type: 
-categories: 
-tags: science
-description: 
+categories:
+  - dialoghi
+tags:
+  - science
+  - dialoghi
+description: ""
 permalink: 
 rating: 
-status: #2review
+status: 
 ---
 ## Corso Barbone
 

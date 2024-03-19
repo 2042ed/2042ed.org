@@ -1,13 +1,14 @@
 ---
 title: L'altezza
 date: 2017-11-16
-updated: 2023-08-31
+updated: 2024-03-19
 type: dialogo
-categories: []
+categories:
+  - dialoghi
 tags:
   - società
   - dialoghi
-description: 
+description: ""
 permalink: 
 rating: 
 status: 2review

@@ -1,9 +1,12 @@
 ---
 title: Garage Band
 date: 2019-02-21
+updated: 2024-03-19
 rating: 
-tags:
-status: #2review
+tags: dialoghi
+status: 
+categories:
+  - dialoghi
 ---
 ## Garage Band
 

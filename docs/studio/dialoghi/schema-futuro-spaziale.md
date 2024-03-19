@@ -1,10 +1,13 @@
 ---
 title: Cose da fare per un futuro spaziale
 date: 2018-02-07
-updated: 2023-07-31
+updated: 2024-03-19
 slug: 2018/02/schema-futuro-spaziale
-categories: [dialoghi]
-tags: [dialoghi,spazio]
+categories:
+  - dialoghi
+tags:
+  - dialoghi
+  - spazio
 ---
 ![](../../../assets/img/post/2018/schema-futuro-spaziale.png)
 

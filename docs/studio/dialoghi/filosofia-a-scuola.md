@@ -1,12 +1,13 @@
 ---
 title: Filosofia a Scuola
 date: 2020-01-15
-updated: 2023-07-30
-subtitle: ''
-description: ''
+updated: 2024-03-19
+subtitle: ""
+description: ""
 authors: []
 tags:
   - fiosofia
+  - dialoghi
 categories:
   - dialoghi
 featured: false

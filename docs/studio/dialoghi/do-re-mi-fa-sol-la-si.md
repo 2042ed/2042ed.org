@@ -1,12 +1,13 @@
 ---
 title: Do Re Mi Fa Sol La Si
 date: 2019-05-28
-updated: 2023-08-20
+updated: 2024-03-19
 type: dialogo
 categories:
   - dialoghi
 tags:
   - music
+  - dialoghi
 description: ""
 permalink: 
 slug: do-re-mi-fa-sol-la-si

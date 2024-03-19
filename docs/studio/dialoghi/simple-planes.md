@@ -1,9 +1,14 @@
 ---
 title: Simple Planes
 date: 2019-01-19
+updated: 2024-03-19
 rating: 
-tags: videogiochi
+tags:
+  - videogiochi
+  - dialoghi
 status: 2review
+categories:
+  - dialoghi
 ---
 ## Simple Planes
 

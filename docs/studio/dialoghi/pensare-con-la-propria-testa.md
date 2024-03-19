@@ -1,13 +1,15 @@
 ---
 title: pensare con la propria testa
 date: 2015-03-05
-updated: 2023-07-29
+updated: 2024-03-19
 draft: false
-categories: dialoghi
+categories:
+  - dialoghi
 tags:
-- JJ
-- scuola
-- storie
+  - JJ
+  - scuola
+  - storie
+  - dialoghi
 guid: http://stefanocecere.com/?p=5661
 id: 5661
 slug: pensare-con-la-propria-testa

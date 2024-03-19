@@ -1,14 +1,17 @@
 ---
 title: Civilization
 date: 2019-04-30
-updated: 2023-08-20
+updated: 2024-03-19
 type: 
-categories: 
-tags: 
-description: 
+categories:
+  - dialoghi
+tags: dialoghi
+description: ""
 permalink: 
 rating: 
-tag: [videogiochi, 2review]
+tag:
+  - videogiochi
+  - 2review
 ---
 
 ## Civilization

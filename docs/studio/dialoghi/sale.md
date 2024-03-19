@@ -1,9 +1,12 @@
 ---
 title: Sale a tutti
 date: 2017-06-26
-updated: 2023-07-29
-categories: [dialoghi]
-tags: [dialoghi, timidezza]
+updated: 2024-03-19
+categories:
+  - dialoghi
+tags:
+  - dialoghi
+  - timidezza
 ---
 
 SALE A TUTTI

@@ -1,9 +1,12 @@
 ---
 title: Giovani Armati
 date: 2018-02-15
+updated: 2024-03-19
 rating: 
-tags:
-status: #2review
+tags: dialoghi
+status: 
+categories:
+  - dialoghi
 ---
 ## Giovani Armati
 

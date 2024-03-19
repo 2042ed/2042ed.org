@@ -1,12 +1,13 @@
 ---
 title: Diagrammi Comportamentali
 date: 2019-03-31
-updated: 2023-08-20
+updated: 2024-03-19
 type: dialogo
 categories:
   - dialoghi
 tags:
   - AI
+  - dialoghi
 description: ""
 permalink: 
 slug: 2019/03/diagrammi-comportamentali

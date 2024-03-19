@@ -1,12 +1,14 @@
 ---
 title: Il segreto dell'arrampicata
 date: 2020-05-02
-updated: 2023-08-20
+updated: 2024-03-19
 type: dialogo
-categories: []
+categories:
+  - dialoghi
 tags:
   - tricks
-description: 
+  - dialoghi
+description: ""
 permalink: 
 rating: 
 status: 2review

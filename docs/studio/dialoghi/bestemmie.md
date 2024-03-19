@@ -1,11 +1,13 @@
 ---
 title: Bestemmie
 date: 2018-12-04
-updated: 2023-08-20
+updated: 2024-03-19
 type: dialogo
-categories: []
-tags: []
-description: 
+categories:
+  - dialoghi
+tags:
+  - dialoghi
+description: ""
 permalink: 
 rating: 
 status: 2review

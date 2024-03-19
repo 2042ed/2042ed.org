@@ -1,6 +1,7 @@
 ---
 title: Studio
 date: 2020-12-14
+updated: 2024-03-19
 summary: la nostra piccola Scuola e materiale
 ---
 # Studio
@@ -21,5 +22,6 @@ _Ok, ma cosa fare nel mondo?_
 _Guide varie di Media Education e oltre_
 - :fontawesome-solid-book: [Ed 101](ed101/index.md)  
 _i minimi fondamentali_
-
+- :fontawesome-solid-book: [Dialoghi con Papà](dialoghi/index.md)  
+_una serie di dialoghi STEM_
 </div>

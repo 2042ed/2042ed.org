@@ -1,12 +1,13 @@
 ---
 title: Ambientalisti
 date: 2019-04-16
-updated: 2023-08-20
+updated: 2024-03-19
 type: dialogo
-categories: []
+categories:
+  - dialoghi
 tags:
   - dialoghi
-description: 
+description: ""
 permalink: 
 rating: 
 status: 2review

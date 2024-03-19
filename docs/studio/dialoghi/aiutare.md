@@ -3,13 +3,15 @@ title: Aiutare
 date: 2020-11-25
 updated: 2024-03-19
 type: dialogo
-categories: []
+categories:
+  - dialoghi
 tags:
   - sociale
-description: 
+  - dialoghi
+description: ""
 permalink: 
 rating: 10
-status:
+status: 
 ---
 ## Aiutare
 

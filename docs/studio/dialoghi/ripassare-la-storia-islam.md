@@ -1,13 +1,14 @@
 ---
 title: Ripassare La Storia Islam
 date: 2020-01-21
-updated: 2023-07-29
+updated: 2024-03-19
 slug: ripassare-la-storia-islam
-subtitle: ''
-description: ''
+subtitle: ""
+description: ""
 tags:
   - storia
   - educazione
+  - dialoghi
 categories:
   - dialoghi
 featured: false

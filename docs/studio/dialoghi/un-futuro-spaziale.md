@@ -1,13 +1,15 @@
 ---
 title: Un Futuro Spaziale
 date: 2018-02-07
-updated: 2023-10-25
+updated: 2024-03-19
 type: dialogo
-categories: []
+categories:
+  - dialoghi
 tags:
   - c/dialogo
   - t/scienza
-description: 
+  - dialoghi
+description: ""
 permalink: 
 rating: 
 publish: 

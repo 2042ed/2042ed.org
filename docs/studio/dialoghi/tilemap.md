@@ -1,14 +1,17 @@
 ---
 title: Tilemap
 date: 2019-01-29
-updated: 2023-08-20
+updated: 2024-03-19
 type: 
-categories: 
-tags: gamedev
-description: 
+categories:
+  - dialoghi
+tags:
+  - gamedev
+  - dialoghi
+description: ""
 permalink: 
 rating: 
-status: #2review
+status: 
 ---
 ## Tilemap
 

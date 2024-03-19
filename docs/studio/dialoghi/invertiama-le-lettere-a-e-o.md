@@ -1,12 +1,16 @@
 ---
-title: "Invertiama le lettere A e O"
+title: Invertiama le lettere A e O
 date: 2021-04-19
-updated: 2023-07-31
+updated: 2024-03-19
 slug: invertiama-le-lettere-a-e-o
 subtitle: ""
 description: ""
-categories: [dialoghi]
-tags: [giochino, fun]
+categories:
+  - dialoghi
+tags:
+  - giochino
+  - fun
+  - dialoghi
 featured: false
 draft: false
 ---

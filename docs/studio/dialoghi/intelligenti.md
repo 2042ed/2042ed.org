@@ -1,14 +1,15 @@
 ---
 title: Intelligenti
 date: 2019-04-18
-updated: 2023-08-20
+updated: 2024-03-19
 type: 
-categories: 
-tags: 
-description: 
+categories:
+  - dialoghi
+tags: dialoghi
+description: ""
 permalink: 
 rating: 
-status: #2review
+status: 
 ---
 ## Intelligenti
 

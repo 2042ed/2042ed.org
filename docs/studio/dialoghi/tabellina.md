@@ -1,9 +1,13 @@
 ---
 title: Tabellina
 date: 2019-06-05
+updated: 2024-03-19
 rating: 
-tags: []
-status:
+tags:
+  - dialoghi
+status: 
+categories: 
+  - dialoghi
 ---
 ## Tabellina
 

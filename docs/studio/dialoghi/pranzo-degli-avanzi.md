@@ -1,14 +1,15 @@
 ---
 title: Pranzo degli Avanzi
 date: 2021-01-13
-updated: 2023-08-20
+updated: 2024-03-19
 type: dialogo
-categories: []
+categories:
+  - dialoghi
 tags:
   - dialoghi
   - soddisfazioni
-description: 
-permalink:
+description: ""
+permalink: 
 ---
 
 - ah si poi ho preso 10 in matematica

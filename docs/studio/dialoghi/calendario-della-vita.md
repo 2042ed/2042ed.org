@@ -1,7 +1,7 @@
 ---
 title: Il Calendario Della (propria) Vita
 date: 2019-07-07
-updated: 2023-08-20
+updated: 2024-03-19
 type: dialogo
 categories:
   - dialoghi

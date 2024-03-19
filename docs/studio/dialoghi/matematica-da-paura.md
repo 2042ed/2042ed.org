@@ -1,11 +1,17 @@
 ---
-title: "Matematica da paura"
+title: Matematica da paura
 date: 2020-11-13
-updated: 2023-07-31
+updated: 2024-03-19
 subtitle: ""
 description: ""
-tags: [libri, dialoghi, matematica, kids, bruno ]
-categories: [Leggiamo]
+tags:
+  - libri
+  - dialoghi
+  - matematica
+  - kids
+  - bruno
+categories:
+  - dialoghi
 featured: false
 draft: false
 ---

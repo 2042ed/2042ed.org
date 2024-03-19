@@ -1,7 +1,7 @@
 ---
 title: non devi aiutare chi ti aiuta
 date: 2015-01-31
-updated: 2023-10-25
+updated: 2024-03-19
 type: 
 categories:
   - dialoghi
@@ -9,7 +9,8 @@ tags:
   - c/dialogo
   - t/aiuto
   - t/reciprocità
-description: 
+  - dialoghi
+description: ""
 permalink: 
 rating: 
 publish: 

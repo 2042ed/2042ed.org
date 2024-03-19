@@ -1,13 +1,15 @@
 ---
 title: Dei capitani
 date: 2015-04-28
-updated: 2023-07-29
+updated: 2024-03-19
 draft: false
-categories: dialoghi
+categories:
+  - dialoghi
 tags:
-- JJ
-- giustizia
-- guerra
+  - JJ
+  - giustizia
+  - guerra
+  - dialoghi
 guid: http://stefanocecere.com/?p=5744
 id: 5744
 slug: dei-capitani

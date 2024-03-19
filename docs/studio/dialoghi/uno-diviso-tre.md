@@ -1,12 +1,14 @@
 ---
 title: Uno diviso Tre
 date: 2018-12-08
-updated: 2023-08-20
+updated: 2024-03-19
 type: dialogo
-categories: []
+categories:
+  - dialoghi
 tags:
   - matematica
-description: 
+  - dialoghi
+description: ""
 permalink: 
 rating: 
 status: 2review

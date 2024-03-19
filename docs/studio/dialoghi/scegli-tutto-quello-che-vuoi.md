@@ -1,14 +1,15 @@
 ---
 title: scegli tutto quello che vuoi
 date: 2015-02-12
-updated: 2023-08-20
+updated: 2024-03-19
 type: dialogo
 categories:
   - dialoghi
 tags:
   - parenting
   - verdure
-description: 
+  - dialoghi
+description: ""
 permalink: 
 slug: /2015/02/scegli-tutto-quello-che-vuoi/
 draft: false

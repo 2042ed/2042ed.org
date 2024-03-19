@@ -1,13 +1,13 @@
 ---
 title: Ammazza che scuola
 date: 2018-02-15
-updated: 2023-08-20
+updated: 2024-03-19
 type: dialogo
 categories:
   - dialoghi
 tags:
   - dialoghi
-description: 
+description: ""
 permalink: 
 slug: ammazza-che-scuola
 ---

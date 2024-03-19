@@ -1,12 +1,14 @@
 ---
 title: Universo da bere - posso bere da questo bicchiere?
 date: 2020-05-02
-updated: 2023-08-20
+updated: 2024-03-19
 type: dialogo
-categories: []
+categories:
+  - dialoghi
 tags:
   - scienza
-description: 
+  - dialoghi
+description: ""
 permalink: 
 rating: 
 status: 2review

@@ -1,9 +1,12 @@
 ---
 title: La Lentezza
 date: 2019-03-03
+updated: 2024-03-19
 rating: 
-tags:
-status: #2review
+tags: dialoghi
+status: 
+categories:
+  - dialoghi
 ---
 ## La Lentezza
 

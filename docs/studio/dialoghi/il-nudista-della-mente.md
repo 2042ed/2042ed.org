@@ -1,9 +1,12 @@
 ---
 title: Il Nudista della Mente
 date: 2019-06-02
+updated: 2024-03-19
 rating: 
-tags:
+tags: dialoghi
 status: 2review
+categories:
+  - dialoghi
 ---
 ## Il Nudista della Mente
 

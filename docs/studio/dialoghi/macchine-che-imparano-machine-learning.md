@@ -1,12 +1,13 @@
 ---
 title: Macchine Che Imparano (Machine Learning)
 date: 2019-03-24
-updated: 2023-08-20
+updated: 2024-03-19
 type: dialogo
 categories:
   - dialoghi
 tags:
   - AI
+  - dialoghi
 description: ""
 permalink: 
 slug: 2019/03/macchine-che-imparano-machine-learning

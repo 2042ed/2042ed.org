@@ -1,13 +1,14 @@
 ---
 title: vedo le cose nel cervello
 date: 2015-02-04
-updated: 2023-08-20
+updated: 2024-03-19
 type: dialogo
 categories:
   - dialoghi
 tags:
   - immaginazione
-description: 
+  - dialoghi
+description: ""
 permalink: 
 slug: /2015/02/vedo-le-cose-nel-cervello/
 draft: false

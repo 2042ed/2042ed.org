@@ -1,9 +1,14 @@
 ---
 title: Il freddo
 date: 2019-04-17
+updated: 2024-03-19
 rating: 
-tags: scienza
-status: #2review
+tags:
+  - scienza
+  - dialoghi
+status: 
+categories:
+  - dialoghi
 ---
 ## Il freddo
 

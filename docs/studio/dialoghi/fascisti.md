@@ -1,9 +1,12 @@
 ---
 title: Fascisti
 date: 2019-03-24
+updated: 2024-03-19
 rating: 
-tags:
-status: #2review
+tags: dialoghi
+status: 
+categories:
+  - dialoghi
 ---
 ## Fascisti
 

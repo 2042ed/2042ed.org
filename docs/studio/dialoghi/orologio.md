@@ -1,14 +1,15 @@
 ---
 title: Orologio
 date: 2019-06-14
-updated: 2023-08-20
+updated: 2024-03-19
 type: 
 categories: 
-tags: 
-description: 
+  - dialoghi
+tags: dialoghi
+description: ""
 permalink: 
 rating: 
-status: #2review
+status: 
 ---
 ## Orologio
 

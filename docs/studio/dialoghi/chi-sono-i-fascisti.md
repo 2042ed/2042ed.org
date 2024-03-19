@@ -1,12 +1,15 @@
 ---
-title: "Chi Sono i Fascisti"
+title: Chi Sono i Fascisti
 date: 2019-03-24
-updated: 2023-07-31
+updated: 2024-03-19
 slug: 2019/03/chi-sono-i-fascisti
 subtitle: ""
 description: ""
-tags: [fascismo]
-categories: [dialoghi]
+tags:
+  - fascismo
+  - dialoghi
+categories:
+  - dialoghi
 featured: false
 draft: false
 ---

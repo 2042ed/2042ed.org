@@ -1,15 +1,16 @@
 ---
 title: Filtri mentali
 date: 2020-05-02
-updated: 2023-08-20
+updated: 2024-03-19
 type: 
-categories: 
+categories:
+  - dialoghi
 tags:
   - dialoghi
-description: 
+description: ""
 permalink: 
 rating: 
-status: #2review
+status: 
 ---
 ## Filtri mentali
 

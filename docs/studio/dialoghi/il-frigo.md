@@ -1,13 +1,14 @@
 ---
 title: Il frigo semplice
 date: 2020-05-21
-updated: 2023-08-22
+updated: 2024-03-19
 type: dialogo
-categories: []
+categories:
+  - dialoghi
 tags:
   - dialoghi
   - filosofia
-description: 
+description: ""
 permalink: 
 ---
 # il frigo semplice

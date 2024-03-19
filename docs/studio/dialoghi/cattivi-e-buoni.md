@@ -1,13 +1,14 @@
 ---
 title: cattivi e buoni
 date: 2015-02-18
-updated: 2023-08-20
+updated: 2024-03-19
 type: dialogo
 categories:
   - dialoghi
 tags:
   - JJ
-description: 
+  - dialoghi
+description: ""
 permalink: 
 slug: cattivi-e-buoni
 draft: false

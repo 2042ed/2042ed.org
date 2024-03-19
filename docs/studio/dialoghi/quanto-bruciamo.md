@@ -1,13 +1,14 @@
 ---
 title: Quanto Bruciamo
 date: 2019-12-31
-updated: 2023-07-29
+updated: 2024-03-19
 slug: quanto-bruciamo
-subtitle: ''
-description: ''
+subtitle: ""
+description: ""
 authors: []
 tags:
   - ambiente
+  - dialoghi
 categories:
   - dialoghi
 featured: false

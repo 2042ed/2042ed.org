@@ -1,12 +1,14 @@
 ---
-title: "La Migliore Scuola"
+title: La Migliore Scuola
 date: 2019-12-03
-updated: 2023-07-31
+updated: 2024-03-19
 subtitle: ""
 description: ""
 authors: []
-tags: []
-categories: [dialoghi]
+tags:
+  - dialoghi
+categories:
+  - dialoghi
 featured: false
 draft: false
 ---

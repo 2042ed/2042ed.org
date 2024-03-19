@@ -1,9 +1,12 @@
 ---
 title: La smette di toccarmi?
 date: 2020-02-26
+updated: 2024-03-19
 rating: 
-tags:
-status: #2review, trick, società
+tags: dialoghi
+status: 
+categories:
+  - dialoghi
 ---
 ## La smette di toccarmi?
 

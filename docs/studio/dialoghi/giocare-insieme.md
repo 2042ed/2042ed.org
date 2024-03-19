@@ -1,15 +1,15 @@
 ---
 title: Giocare insieme
 date: 2020-01-29
-updated: 2023-07-31
-subtitle: ''
-description: ''
+lastmod: 2020-01-29
+updated: 2024-03-19
+subtitle: ""
+description: ""
 tags:
   - giocare
-categories:
-  - played
   - dialoghi
-lastmod: 2020-01-29
+categories:
+  - dialoghi
 featured: false
 draft: false
 ---

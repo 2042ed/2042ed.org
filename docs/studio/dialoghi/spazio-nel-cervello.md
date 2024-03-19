@@ -1,11 +1,14 @@
 ---
 title: Spazio nel cervello
 date: 2021-10-30
-updated: 2023-08-01
-subtitle: ''
-description: ''
-tags: [cervello]
-categories: [dialoghi]
+updated: 2024-03-19
+subtitle: ""
+description: ""
+tags:
+  - cervello
+  - dialoghi
+categories:
+  - dialoghi
 featured: false
 draft: false
 ---

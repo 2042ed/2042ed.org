@@ -1,13 +1,15 @@
 ---
 title: Immuni
 date: 2020-06-07
-updated: 2023-08-22
+updated: 2024-03-19
 type: dialogo
-categories: []
+categories:
+  - dialoghi
 tags:
   - filosofia
-description: 
-permalink:
+  - dialoghi
+description: ""
+permalink: 
 ---
 # immuni
 

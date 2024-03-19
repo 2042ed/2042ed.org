@@ -1,9 +1,14 @@
 ---
 title: Treni Connessi
 date: 2019-04-27
+updated: 2024-03-19
 rating: 
-tags: tecnologia
-status: #2review
+tags:
+  - tecnologia
+  - dialoghi
+status: 
+categories:
+  - dialoghi
 ---
 ## Treni Connessi
 

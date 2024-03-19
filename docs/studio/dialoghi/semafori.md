@@ -1,9 +1,12 @@
 ---
 title: Semafori
 date: 2021-01-15
-updated: 2023-07-29
-categories: [dialoghi]
-tags: [dialoghi,tecnologia]
+updated: 2024-03-19
+categories:
+  - dialoghi
+tags:
+  - dialoghi
+  - tecnologia
 ---
 
 - pensavo a quanti posti di lavoro sono stati sostituiti dalla tecnologia

@@ -1,9 +1,13 @@
 ---
 title: Il valore delle cose
 date: 2020-11-25
-updated: 2023-07-30
-categories: []
-tags: [HackerKid, HomeSchooling]
+updated: 2024-03-19
+categories:
+  - dialoghi
+tags:
+  - HackerKid
+  - HomeSchooling
+  - dialoghi
 ---
 
 ![](../../../assets/img/post/2020/il-valore-delle-cose_featured.jpg)

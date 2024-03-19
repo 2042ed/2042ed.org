@@ -1,9 +1,12 @@
 ---
 title: Domande vegetariane
 date: 2021-01-20
-updated: 2023-07-31
-categories: [dialoghi]
-tags: [vegetariano]
+updated: 2024-03-19
+categories:
+  - dialoghi
+tags:
+  - vegetariano
+  - dialoghi
 ---
 ![](../../../assets/img/post/2021/domande_vegetariane.jpg)
 - ma come vengono uccisi i maiali?
