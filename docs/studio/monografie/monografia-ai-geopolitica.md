@@ -11,7 +11,7 @@ rating: 10
 publish: true
 ---
 # La guerra fredda digitale: un gioco a somma zero?
-di Stefano Cecere
+di Stefano Cecere - 25 ottobre 2023
 
 > Quali sono le prospettive dell'Intelligenza Artificiale nella competizione di potere tra le superpotenze globali e quali gli elementi in campo?
 > Siamo davvero davanti ad un gioco a somma zero, ovvero dove ci può essere solo un vincitore?
@@ -135,15 +135,15 @@ Se c’è una cosa di cui oggi possiamo essere sicuri è che questa guerra fre
 
 ### Articoli
 
-- https://www.thedefencehorizon.org/post/geopolitics-artificial-intelligence
-- https://apcoworldwide.com/blog/the-digital-cold-war-predictive-ais-disruptive-role-in-geopolitics/
-- https://www.csis.org/analysis/choking-chinas-access-future-ai
-- https://foreignpolicy.com/2023/03/27/us-china-ai-competition-cooperation
-- https://www.foreignaffairs.com/world/artificial-intelligence-power-paradox
-- https://www.forbes.com/sites/robtoews/2023/05/07/the-geopolitics-of-ai-chips-will-define-the-future-of-ai
-- https://thediplomat.com/2020/02/the-geo-technological-triangle-between-the-us-china-and-taiwan/
-- https://thediplomat.com/2021/05/taiwan-at-the-nexus-of-technology-and-geopolitics/
-- https://www.thedefencehorizon.org/post/geopolitics-artificial-intelligence
+- <https://www.thedefencehorizon.org/post/geopolitics-artificial-intelligence>
+- <https://apcoworldwide.com/blog/the-digital-cold-war-predictive-ais-disruptive-role-in-geopolitics/>
+- <https://www.csis.org/analysis/choking-chinas-access-future-ai>
+- <https://foreignpolicy.com/2023/03/27/us-china-ai-competition-cooperation>
+- <https://www.foreignaffairs.com/world/artificial-intelligence-power-paradox>
+- <https://www.forbes.com/sites/robtoews/2023/05/07/the-geopolitics-of-ai-chips-will-define-the-future-of-ai>
+- <https://thediplomat.com/2020/02/the-geo-technological-triangle-between-the-us-china-and-taiwan/>
+- <https://thediplomat.com/2021/05/ta<iwan-at-the-nexus-of-technology-and-geopolitics/>
+- <https://www.thedefencehorizon.org/post/geopolitics-artificial-intelligence>
 
 ### Podcast
-https://www.cfr.org/podcasts/artificial-intelligence-and-great-power-competition-paul-scharre
+<https://www.cfr.org/podcasts/artificial-intelligence-and-great-power-competition-paul-scharre>

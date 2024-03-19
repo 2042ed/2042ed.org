@@ -92,6 +92,7 @@ Questo progetto non sarebbe nato e non avrebbe sostanza senza la collaborazione,
 - Marco Stegani & sons
 - [Mario Rodriguez Cobos](http://silo.net)
 - [Gabriele Mari e gli Educatori Ludici](https://www.facebook.com/educatoriludici)
+- Gianluca Daffi
 - Martino Chiacchiera
 - Beniamino Sidoti
 - Andrea Angiolino
@@ -103,6 +104,7 @@ Questo progetto non sarebbe nato e non avrebbe sostanza senza la collaborazione,
 - Thalita Malago, Giorgio Catania e [IIDEA](https://iideassociation.com)
 - Doriano Benaglia e Lindasoft
 - Alessandra Zanazzi e l'[INAF](http://www.inaf.it/it)
+- [FEM - Future Education Modena](https://fem.digital)
 - [Games For Change](https://www.gamesforchange.org)
 - il [GAME Science Research Center](https://gamescience.imtlucca.it)
 - la [Casa del Popolo di Settignano](https://cdp.settignano.org)
@@ -111,5 +113,6 @@ Questo progetto non sarebbe nato e non avrebbe sostanza senza la collaborazione,
 - [Firenze Gioca](https://firenzegioca.it), [PlayFestival](https://www.play-modena.it), [Internet Festival](https://www.internetfestival.it) e [Lucca Comics & Games](https://www.luccacomicsandgames.com)
 - [BoardGameGeek](https://boardgamegeek.com/) e [Board Game Arena](https://boardgamearena.com/)
 - i nerd di GitHub / [Obsidian](https://obsidian.md) e l'OpenSource
+- [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
 - M.C. Escher, Douglas Hofstaedter, Douglas Adams
 - tu!

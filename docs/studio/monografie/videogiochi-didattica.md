@@ -19,6 +19,7 @@ presentation:
   height: 800
 ---
 # Videogiochi e Didattica
+`data: 1 aprile 2021`  
 Alcuni appunti sul tema videogiochi usati in ambito educativo e scolastico
 
 ## Introduzione

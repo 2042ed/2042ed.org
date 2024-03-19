@@ -6,6 +6,7 @@ tags:
   - AI
 ---
 # Gli androidi sanno disegnare una pecora?
+`21 maggio 2023`  
 _Un'introduzione alla AI creativa_
 
 > **Durata**: 15 min  

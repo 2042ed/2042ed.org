@@ -818,6 +818,3 @@ Se questo mondo ti piace e ti interessa, ti invito a contattarmi e provare a val
 ## Arrivederci  
 
 Stefano Cecere  
-@cecere2042
-
-o ci vediamo a Settignano la terza domenica del mese!

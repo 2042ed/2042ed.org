@@ -13,6 +13,7 @@ tags:
 - Umanesimo
 ---
 # Umanesimo, Videogiochi, Intelligenza Artificiale e Realtà Virtuale
+`data: 17 aprile 2021`
 
 > Le avanguardie nella ricerca e sviluppo nei campi dell'AI e della XR sono sempre più interconnesse con la fisiologia e la psicologia umana e con questioni filosofiche che richiedono un approccio interdisciplinare e scelte etiche, in vista di un'imminente diffusione massiva e popolare di queste tecnologie. Gli sviluppatori di videogiochi potrebbero essere i prossimi a dover rispettare un giuramento di Ippocrate?
 

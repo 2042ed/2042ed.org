@@ -1,4 +1,4 @@
-site_name: 2042 | play, learn & future
+site_name: 2042ᵉᵈ | play, learn & future
 site_url: https://2042ed.org
 site_author: Stefano Cecere
 site_description: uno spazio open source di socializzazione e contaminazione tra giochi, educazione, tecnologia e polis. Per genitori, educatori, sviluppatori, giocatori e attivisti del futuro. ▶️👍🎲😊 A cura di Stefano Cecere.
@@ -101,6 +101,8 @@ extra_css:
   - assets/stylesheets/extra.css
 
 extra:
+  author:
+    name: stefano
   analytics:
     provider: google
     property: G-FKCYXX74SX

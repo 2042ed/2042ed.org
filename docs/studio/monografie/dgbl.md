@@ -15,8 +15,7 @@ slides:
 ---
 
 # Digital Game Based Learning
-an introduction
-
+an introduction  
 by Video Games Without Borders
 
 ---
@@ -34,7 +33,8 @@ Gamification takes an element of education and replaces it with a game-based ele
 
 ---
 
-# VideoGame types:
+# VideoGame types
+
 several types of games may be used in digital game-based learning:
 
 - **Educational Games**: use an engaging and immersive learning experience to deliver specified learning goals, outcomes and experiences.
@@ -45,6 +45,7 @@ several types of games may be used in digital game-based learning:
 ---
 
 # DGBL Domains
+
 - Language Learning
 - Mathematics and Science (STEM)
 - Social Studies and History
@@ -52,6 +53,7 @@ several types of games may be used in digital game-based learning:
 
 ---
 # Principles
+
 - A **safe environment** to explore and in which to **make mistakes**
 - Learning through enjoyment and "fun"
 - Contextualised, goal oriented instead of abstract learning
@@ -63,6 +65,7 @@ several types of games may be used in digital game-based learning:
 
 ---
 ## Mechanisms
+
 - A fictional or real world setting
 - Progressive difficulty levels and appropriate challenge
 - Immediate and constructive feedback
@@ -71,8 +74,11 @@ several types of games may be used in digital game-based learning:
 
 ---
 # Videogames
+
 Games bring together combination of motivating elements not found together in any other medium.
+
 **Games**:
+
 - are a form of fun -> _enjoyment and pleasure_
 - are a form of play -> intense and passionate _involvement_
 - are rules -> _structure_
@@ -178,6 +184,7 @@ Using games for assessment is more than games scores.
 Assessment happens around a game more often than it happens inside the game, and teachers/coaches must still design and provide authentic, useful assessment tasks for students.
 
 ---
+
 # Development options
 
 - Use entertainment/commercial games (Assassin's Creed / Civilization)
@@ -186,6 +193,7 @@ Assessment happens around a game more often than it happens inside the game, and
 - Use educational games (MinecraftEdu)
 - Create games (Antura)
 - Students create games
+
 ---
 
 # Domain Expert
@@ -214,4 +222,3 @@ Assessment happens around a game more often than it happens inside the game, and
 **Assessment**: Traditional assessments do not often align with GBL, so new models and approaches must be considered.
 
 **Developers** encourage and support game developers in the creation of better educational games
-

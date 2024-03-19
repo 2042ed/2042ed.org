@@ -50,12 +50,11 @@ Non facciamolo noi, in primis, almeno non facciamoci vedere.
 
 E mettiamo sul tavolo alternative: giochi da tavolo, attività STEM, giochi all'aperto... il mondo del gioco è enorme e tutto da esplorare!
 
-
 ## Dove posso trovare delle recensioni di videogiochi?
 
-- https://2042ed.org/played/videogame/
-- https://www.mamamo.it/recensioni/videogiochi/
-- https://www.commonsensemedia.org/game-reviews
+- <https://2042ed.org/played/videogame/>
+- <https://www.mamamo.it/recensioni/videogiochi/>
+- <https://www.commonsensemedia.org/game-reviews>
 
 ## Regole per giovani gamer
 
