@@ -9,7 +9,7 @@ tags:
   - dialoghi
   - spazio
 ---
-![](../../../assets/img/post/2018/schema-futuro-spaziale.png)
+![](../../assets/img/post/2018/schema-futuro-spaziale.png)
 
 - Papà: ma se da grande volessi andare a lavorare con SpaceX e poi nello Spazio.. cosa dovrei fare?
 - beh.. innanzitutto io inizierei a studiare bene MATEMATICA ed INGLESE.. questi sono i fondamenti.. perchè la matematica è alla base di ogni scienza e tecnologia.. e senza inglese non puoi comunicare con il mondo e lavorarci insieme.

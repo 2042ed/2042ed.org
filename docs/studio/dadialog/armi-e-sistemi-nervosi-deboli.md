@@ -13,7 +13,7 @@ slug: 2019/03/armi-e-sistemi-nervosi-deboli
 subtitle: ""
 draft: false
 ---
-![](../../../assets/img/post/2019/armi.jpg)
+![](../../assets/img/post/2019/armi.jpg)
 
 - papà ma é vero che un ragazzo ha ucciso 50 persone col fucile come a Fortnite?
 - che le abbia uccise, si é vero. Ma Fortnite non c’entra niente.

@@ -51,4 +51,4 @@ Oggi:
 - ho capito. vedo anche il primo punto che sarebbe meglio mangiare meno carne.. é per questo che sei vegetariano?
 - si, anche per questo.
 
-![ambientalisti](../../../assets/img/dialoghi/ambientalisti.jpg)
+![ambientalisti](../../assets/img/dadialog/ambientalisti.jpg)

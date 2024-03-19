@@ -12,4 +12,4 @@ categories:
 
 Digramma di Cipolla
 
-![](../../../assets/img/articles/diagramma-di-cipolla-stupidita_featured.jpg)
+![](../../assets/img/articles/diagramma-di-cipolla-stupidita_featured.jpg)

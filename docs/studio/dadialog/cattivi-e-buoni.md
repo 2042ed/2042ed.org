@@ -1,5 +1,5 @@
 ---
-title: cattivi e buoni
+title: Cattivi e buoni
 date: 2015-02-18
 updated: 2024-03-19
 type: dialogo

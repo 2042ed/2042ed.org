@@ -15,7 +15,7 @@ featured: false
 draft: false
 status: 2review
 ---
-![](../../../assets/img/post/2019/bruno-legge.jpg)
+![](../../assets/img/post/2019/bruno-legge.jpg)
 
 - papà... giochi a nascondino con me e Bruno?2
 - sto cucinando... gioco con voi ok ma ad una nuova versione del nascondino: IL NASCONDINO AL CONTRARIO

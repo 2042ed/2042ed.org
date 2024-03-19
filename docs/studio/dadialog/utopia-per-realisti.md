@@ -14,7 +14,7 @@ slug:
 subtitle: ""
 status: 2review
 ---
-![](../../../assets/img/post/2019/libro-utopia-per-realisti.jpg)
+![](../../assets/img/post/2019/libro-utopia-per-realisti.jpg)
 
 - cosa leggi?
 - un nuovo libro sull’utopia. sai cos’è?

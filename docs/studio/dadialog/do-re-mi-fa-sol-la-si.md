@@ -15,7 +15,7 @@ subtitle: ""
 status: 2review
 ---
 
-![](../../../assets/img/post/2019/do-re-mi-fa-sol-featured.jpg)
+![](../../assets/img/post/2019/do-re-mi-fa-sol-featured.jpg)
 
 - papà, cosa suoni?
 - è il Nessun Dorma, di Puccini... mi sembra la musica migliore per questa giornata politicamente intensa... ti piace?

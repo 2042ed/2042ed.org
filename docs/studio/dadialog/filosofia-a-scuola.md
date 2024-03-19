@@ -13,7 +13,7 @@ categories:
 featured: false
 draft: false
 ---
-![](../../../assets/img/post/2020/filosofia_featured.jpg)
+![](../../assets/img/post/2020/filosofia_featured.jpg)
 
 - oggi abbiamo iniziato a fare filosofia con una prof che viene ogni due settimane
 - ahh bellooo.. cosa avete fatto?

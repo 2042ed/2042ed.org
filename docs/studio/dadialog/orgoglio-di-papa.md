@@ -9,7 +9,7 @@ tags:
   - dialoghi
 ---
 
-![](../../../assets/img/post/2020/orgoglio_featured.jpg)
+![](../../assets/img/post/2020/orgoglio_featured.jpg)
 
 - papà guarda il google meet oggi dice le parolacce
 - ?!??!!

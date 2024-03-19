@@ -15,7 +15,7 @@ draft: false
 projects:
   - lifemap
 ---
-![](../../../assets/img/post/2019/calendario-della-vita-featured.jpg)
+![](../../assets/img/project/calendario-della-vita-featured.jpg)
 
 - papà che fai? giochi?
 - macchè.. sto spippolando con uno script per generare una grossa tabella 12 * 100
@@ -44,4 +44,4 @@ projects:
 
 PS: se il progetto ti piace, dimmelo! ho intenzione di pubblicarlo per bene così che tutti possano averne uno!
 
-PS2: [Ecco il progetto lifemap](../../../project/krur/lifemap.md)
+PS2: [Ecco il progetto lifemap](../../lab/projects/lifemap.md)

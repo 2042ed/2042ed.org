@@ -59,7 +59,7 @@ Da qui le Kids Game Jams.
 
 Più che le parole, meglio far parlare i progetti fatti e le loro storie!
 
-sito:<https://stefano.cecere.org/jamurr/>
+sito:<https://cecere.xyz/jamurr/>
 
 ## Videogioco "Non Sono solo una Pecora"
 
@@ -77,7 +77,7 @@ Che dire: fu il gioco premiato! e Fabio vinse un corso di disegno di fumetti!
 
 Questo gioco è stato sviluppato in una Kids Game Jam. Ovvero 7 bambini (dai 7 ai 12 anni) si trovati durante l’Internet Festival 2016, al MixArt di Pisa, ed è stato dato loro un TEMA, che era: “SE NON CI FOSSERO GLI ALTRI…” In poche ore i ragazzi in concertazione (JAM) tra loro e con la supervisione dei genitori, dovevano ideare e creare il prototipo del gioco. Ognuno con le proprie capacità e preferenze ha dato del suo meglio.
 
-<https:///stefano.cecere.org/project/7-frames/>
+<https:///cecere.xyz/project/7-frames/>
 
 ## Gioco ibrido "Signals From Uruk"
 ![](_img/progetto_SignalsFromUruk.webp)
@@ -144,4 +144,4 @@ Il ritrovo è dalle 17:00 quando aprono i ragazzi (io di solito arrivo più tard
 I genitori accompagnatori sono sempre benvenuti a giocare con i ragazzi o tra di loro. Basta un adulto responsabile per badare alla banda. Ottimo se poi faccia da facilitatore introducendo un gioco alla settimana.
 Ultimamente sono i ragazzi stessi a portare i loro giochi preferiti: io li invito a studiarsi bene le istruzioni così da imparare a spiegarle agli amici.
 
-<https:///stefano.cecere.org/project/playfriday/>
+<https:///cecere.xyz/project/playfriday/>

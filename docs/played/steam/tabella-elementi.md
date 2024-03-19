@@ -42,4 +42,4 @@ Qusta tabella è liberamente scaricabile come PDF e rappresenta tutti gli elemen
 
 Ci abbiamo discusso molto e potrebbe essere un simpatico regalo
 
-vedi <https://stefano.cecere.org/post/alchimisti-con-regalo-per-i-ragazzi/>
+vedi <https://cecere.xyz/post/alchimisti-con-regalo-per-i-ragazzi/>

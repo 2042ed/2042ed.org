@@ -10,7 +10,7 @@ tags:
   - dialoghi
 ---
 
-![](../../../assets/img/post/2018/rocket_catcher.jpg)
+![](../../assets/img/post/2018/rocket_catcher.jpg)
 
 - papà ma chi è un genio?
 - direi una persona che riesce a creare nuove soluzioni o opere in modo inaspettato o unico

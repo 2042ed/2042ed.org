@@ -17,7 +17,7 @@ draft: false
 status: 2review
 ---
 
-![Diagrammi Comportamentali](../../../assets/img/dialoghi/Diagrammi%20Comportamentali.jpg)
+![Diagrammi Comportamentali](../../assets/img/dadialog/diagrammi-comportamentali.jpg)
 
 - papà cosa stai facendo?
 - preparando la lezione sui Behavior Trees...

@@ -17,6 +17,9 @@ creando relazioni intergenerazionali, nuove forme di espressione, di sviluppo re
 
 [Cosa abbiamo fatto?](jam/index.md)
 
+[Progetti vari](projects/index.md)
+
+
 ## Il Futuro
 
 La prospettiva del futuro per un:

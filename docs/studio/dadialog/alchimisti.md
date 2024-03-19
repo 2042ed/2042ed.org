@@ -19,7 +19,7 @@ slug: alchimisti-con-regalo-ragazzi
 draft: false
 ---
 
-![](../../../assets/img/post/2020/tavola_periodica_elementi_fumetti_featured.jpg)
+![](../../assets/img/played/steam/tabella_elementi.webp)
 
 - papà... non riesco a dormire
 - ti preparo una camomilla ok? intanto vuoi leggere un po?
@@ -50,4 +50,4 @@ draft: false
 ## Regalo
 e così vi condivido questa magnifica tabella che fu uno dei regali di Natale di qualche anno fa... STAMPATELA in A4 o ancora meglio A3 a colori e fate un regalo infinito ai vostri figli!
 
-![Ecco il PDF](../../../assets/pdf/tavola_elementi_fumetti.pdf)
+[Ecco il PDF](../../played/steam/tabella-elementi.md)

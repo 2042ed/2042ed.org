@@ -29,4 +29,4 @@ status:
 - quindi scuole e buoni esempi.
 - si
 
-![picchiare](../../../assets/img/dialoghi/picchiare.jpg)
+![picchiare](../../assets/img/dadialog/picchiare.jpg)

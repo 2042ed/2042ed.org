@@ -13,7 +13,7 @@ categories:
 featured: false
 draft: false
 ---
-![](../../../assets/img/post/2019/cartello_pena_morte_1944.jpg)
+![](../../assets/img/post/2019/cartello_pena_morte_1944.jpg)
 
 - papà ma chi sono di preciso i FASCISTI?
 - dove ne hai sentito parlare?
@@ -49,4 +49,4 @@ ed è per questo che noi aspiriamo all'UMANESIMO, ovvero rimettere al centro l'E
 - già. è la missione di tutti noi che ci definiamo umanisti. saprai già che sia io che la mamma abbiamo militato per decenni nel Movimento Umanista e spero che queste idee ti piacciano. lunedì dopo arrampicata andiamo a vedere quella insegna dei ragazzi fucilati ok?
 - ok
 
-![](../../../assets/img/post/2019/cartello_pena_morte_1944_targa.jpg)
+![](../../assets/img/post/2019/cartello_pena_morte_1944_targa.jpg)

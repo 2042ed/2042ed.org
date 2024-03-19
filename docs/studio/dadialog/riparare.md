@@ -10,7 +10,7 @@ tags:
   - dialoghi
 ---
 
-![](../../../assets/img/post/2020/il-valore-delle-cose_featured.jpg)
+![](../../assets/img/post/2020/il-valore-delle-cose_featured.jpg)
 
 - ripariamo la pistola laser
 - già. non vanno più le lucine... si sarà staccato un filo

@@ -14,7 +14,7 @@ subtitle: ""
 featured: false
 draft: false
 ---
-![](../../../assets/img/post/2020/windows_audio_featured.jpg)
+![](../../assets/img/post/2020/windows_audio_featured.jpg)
 
 - papà, ma perchè sento il suono venire quasi tutto da sinistra?
 - uhmm strano.. sei sicuro che questo portatile abbia due altoparlati?

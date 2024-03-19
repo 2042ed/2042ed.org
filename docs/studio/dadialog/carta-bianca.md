@@ -12,7 +12,7 @@ permalink:
 draft: false
 status: 2review
 ---
-![](../../../assets/img/post/2019/carta-bianca-featured.jpg)
+![](../../assets/img/post/2019/carta-bianca-featured.jpg)
 
 - ecco un regalo per te
 - grazie che bell.. ma è un foglio bianco?

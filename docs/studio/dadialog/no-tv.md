@@ -15,7 +15,7 @@ featured: false
 draft: false
 status: 2review
 ---
-![](../../../assets/img/post/2019/no-tv-featured.jpg)
+![](../../assets/img/post/2019/no-tv-featured.jpg)
 
 - papà, oggi a scuola abbiamo letto che guardare la televisione fa molto male ai bambini sotto i tre anni
 - !!!

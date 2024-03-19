@@ -16,7 +16,7 @@ featured: false
 draft: false
 status: 2review
 ---
-![](../../../assets/img/post/2019/ai-ml-raycasts-unity.jpg)
+![](../../assets/img/post/2019/ai-ml-raycasts-unity.jpg)
 
 - papà ma che fai in studio anzichè stare in giardino a lavorare con noi?
 - sto allenando questi omini a lavorare per me
