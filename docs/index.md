@@ -18,6 +18,7 @@ hide:
 
 ## Novità
 
+- [2024-03-19: Dialoghi con Papà](blog/category/dialoghi/)
 - [2024-03-10: Giochi In Gioco con Papà](played/tags.md#ingiococonpapa)
 - [2023-09-01: Rilancio Newsletter](https://2042.substack.com)
 - [2023-05-22: Introduzione alla AI creativa](studio/monografie/generative-ai-intro.md)
@@ -28,15 +29,17 @@ hide:
 <div class="grid cards" markdown>
 
 - [Ludosofia](studio/ludosofia/index.md)  
-*il nostro manuale al giocare bene insieme*  
+_il nostro manuale al giocare bene insieme_
 - [Guida ai Giochi](played/index.md)  
-*guida ai giochi, videogiochi e attività intelligenti*  
+_guida ai giochi, videogiochi e attività intelligenti_
 - [Laboratori e attività](lab/index.md)  
-*laboratori per imparare creando*  
+_laboratori per imparare creando_
 - [Monografie](studio/monografie/index.md)  
 _Presentazioni su temi vari_
 - 📖 [Notes](notes/index.md)  
 _Ricerche e materiali nel campo della pedagogia e dell'educazione_
+- :fontawesome-solid-book: [Dialoghi con Papà](blog/category/dialoghi/)  
+_una serie di dialoghi STEM_
 - [Ricerca per Tag](played/tags.md)  
 *se non sai cosa vuoi cercare*  
 
@@ -51,13 +54,13 @@ Le dispense dei miei corsi sono pubbliche, contattatemi se volete che vi organiz
 <div class="grid cards" markdown>
 
 - 📖 [Intelligenza Collettiva e Sviluppo Distribuito](studio/game-dev/ci/index.md)  
-*da Git all'Immortalità*
+_da Git all'Immortalità_
 - 📖 [Extended Reality](studio/game-dev/xr/index.md)  
-*XR = AR + VR + MR: le nuove tecnologie immersive*  
+_XR = AR + VR + MR: le nuove tecnologie immersive_
 - 📖 [Game A.I.](studio/game-dev/ai/index.md)  
-*Intelligenza Artificiale nei Videogiochi*
+_Intelligenza Artificiale nei Videogiochi_
 - 📖 [Human Games](studio/game-dev/g4c/index.md)  
-*Games 4 Change e Business oltre l’Entertainment*  
+_Games 4 Change e Business oltre l’Entertainment_
 
 </div>
 ---

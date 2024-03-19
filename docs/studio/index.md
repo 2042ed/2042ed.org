@@ -22,6 +22,4 @@ _Ok, ma cosa fare nel mondo?_
 _Guide varie di Media Education e oltre_
 - :fontawesome-solid-book: [Ed 101](ed101/index.md)  
 _i minimi fondamentali_
-- :fontawesome-solid-book: [Dialoghi con Papà](dadialog/index.md)  
-_una serie di dialoghi STEM_
 </div>
