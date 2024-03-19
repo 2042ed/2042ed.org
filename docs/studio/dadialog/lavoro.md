@@ -21,5 +21,5 @@ categories:
 - e che tipo di lavoro puoi fare?
 - beh.. io scrivo emails, preparo documenti, studio...
 - studiare è un lavoro?
-- per me si.. comunque ho trovato questo bell'articolo che elenca 25 lavori che oggi si possono fare dal divano: https://www.thecut.com/.../25-side-hustles-how-to-make-money-...
+- per me si.. comunque ho trovato questo bell'articolo che elenca 25 lavori che oggi si possono fare dal divano: <https://www.thecut.com/2019/05/25-side-hustles-how-to-make-money-at-home.html>
 - wow

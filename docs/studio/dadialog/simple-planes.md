@@ -30,4 +30,4 @@ categories:
 - ottimo. Grazie per l’intervista.. e come ben sai qualsiasi cos di creativo col computer la puoi fare senza limiti. Ecco il link al gioco per chi fosse curioso
 
 ## Note
-https://store.steampowered.com/app/397340/SimplePlanes/
+[ecco la scheda del gioco](../../played/videogame/simple-planes.md)
