@@ -1,7 +1,7 @@
 ---
 title: Rush Hour
 slug: rush-hour
-description: ""
+description: "il celebre gioco di logica con mille livelli"
 type: PlayED
 categories:
   - boardgame
@@ -21,7 +21,7 @@ ed_gameplay_strategy: 3
 ed_gameplay_luck: 0
 ed_gameplay_interaction: 0
 
-ed_preferred: 
+ed_preferred: 1
 ed_rank_dad: 
 ed_rank_edu: 
 ed_rank_dev: 
@@ -43,3 +43,7 @@ Con centinaia di livelli sempre più difficili sviluppa il pensiero logico, visu
 Divertente da giocare insieme
 
 Ci sono anche molte varianti in digitale che consiglio (dai 4 anni)
+
+## Versione stampabile fai da te
+ThinFun rende disponibile sul proprio sito due versioni pdf da scaricare, stampare, ritagliare e costruire. Lo abbiamo usato in diversi centri estivo con grande successo! Divertentissimo anche il solo costruirlo.
+link: <https://www.thinkfun.com/teachers/rush-hour/>
