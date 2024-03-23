@@ -1,7 +1,7 @@
 ---
 title: M7 - Creiamo una Escape Room Didattica
 date: 2023-09-01
-updated: 2024-02-15
+updated: 2024-03-23
 type: 
 categories: []
 tags: [workshop, gamedesign]
@@ -320,12 +320,43 @@ https://pro.splashmusic.com/
 [Thinglink](https://www.thinglink.com)
 bello ma a pagamento
 
-## Esempi
-
-### Digitali Educative
+## Esempi EER
 con mia valutazione da ⭐️, ⭐️⭐️ o ⭐️⭐️⭐️ e se con codice aperto: ⚙️
 
 ### CoSpaces
+
+#### Progetti in FEM
+**Algoritmi anarchici** (Francesco Crastore)
+Matematica e informatica
+https://edu.cospaces.io/PAX-UEH
+
+**Codice Azteco - Fuga dal tempio perduto** (Alessandro Boselli)
+https://edu.cospaces.io/CPA-GGA
+
+**Grinch. GT** (Giulia Torri)
+Matematica
+https://edu.cospaces.io/DWD-KXS
+
+**La scelta** (Nicoletta Belli)
+Scopriamo il Liceo Calvi
+https://edu.cospaces.io/QUD-PNZ
+
+**La scuola del cuore** (Beatrice Masi)
+Avventura alla scoperta del cuoro e sistema circolatorio
+https://edu.cospaces.io/JYB-JSD
+
+**Nello studio di un poeta** (Novella Parolari)
+Una semplice Escape Room per scoprire Giacomo Leopardi.
+https://edu.cospaces.io/YTS-YDV
+
+**Orto Idroponico** (Linda Laghi)
+https://edu.cospaces.io/RPB-UJK
+
+**Unsolved Mistery** (Maria Nicodemo)
+Lingua inglese
+https://edu.cospaces.io/VAH-TJC
+
+#### Altri progetti
 
 **Escape Room Artic Base**
 https://edu.cospaces.io/FKJ-VHB
@@ -382,6 +413,7 @@ Ce ne sono molte [qui](https://www.techlearning.com/news/best-free-virtual-escap
 Educazione civica
 
 Qui ce ne sono molte altre, sopratutto per la primaria: [playandlearnitalia.com](https://playandlearnitalia.com/category/escape-room-play/)
+
 ### Genially
 
 - [Chiuso nel locale dei rifiuti (Genially)](https://view.genial.ly/5a54b7377224be0ecc270d21/interactive-content-escape-game-chiuso-nel-locale-rifiuti)
