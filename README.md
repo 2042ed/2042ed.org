@@ -7,8 +7,9 @@ il repository pubblico di questo progetto è <https://github.com/2042ed/2042ed.o
 
 ## Commands
 
-- `mkdocs new [dir-name]` - Create a new project.
+- `mkdocs serve --dirty`
 - `mkdocs serve` - Start the live-reloading docs server.
+- `mkdocs new [dir-name]` - Create a new project.
 - `mkdocs build` - Build the documentation site.
 - `mkdocs -h` - Print help message and exit.
 
