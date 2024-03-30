@@ -13,7 +13,7 @@ hide:
 ---
 ![2042 logo](assets/logo/header_2042ed.webp)
 
-> _Uno spazio di ricerca, studio e condivisione nell'intersezione tra giochi, educazione, tecnologia e polis. Per genitori, educatori, sviluppatori, giocatori e attivisti del futuro._
+> _Uno spazio di socializzazione e autolibereazione nell'intersezione tra giochi, educazione, tecnologia e polis. Per genitori, educatori, sviluppatori, giocatori e attivisti del futuro._
 > ▶️👍🎲😊
 
 ## Novità
