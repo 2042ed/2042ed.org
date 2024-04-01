@@ -13,7 +13,7 @@ hide:
 ---
 ![2042 logo](assets/logo/header_2042ed.webp)
 
-> _Uno spazio di socializzazione e autolibereazione nell'intersezione tra giochi, educazione, tecnologia e polis. Per genitori, educatori, sviluppatori, giocatori e attivisti del futuro._
+> _Uno spazio di socializzazione e autolibereazione nell'intersezione tra giochi, educazione, tecnologia e creatività. Per genitori, educatori, sviluppatori, giocatori e attivisti del futuro._
 > ▶️👍🎲😊
 
 ## Novità
@@ -63,6 +63,3 @@ _Intelligenza Artificiale nei Videogiochi_
 _Games 4 Change e Business oltre l’Entertainment_
 
 </div>
----
-
-_Play Well, Die Happy!_
