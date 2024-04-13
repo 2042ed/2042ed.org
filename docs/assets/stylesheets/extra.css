@@ -1,3 +1,15 @@
+html {
+  font-synthesis: none;
+  font-size: 125%;
+}
+
+body {
+  --md-text-font-family: -apple-system, "SF Pro Text", "Helvetica", sans-serif;
+  --md-code-font-family: "SF Mono", "Menlo", monospace;
+  -webkit-font-smoothing: antialiased;
+  font-feature-settings: normal;
+}
+
 hr {
     height: 6px;
     background-color: #FF9400 ;
@@ -33,18 +45,6 @@ hr {
 [data-md-color-scheme="slate"] .md-typeset h2 {
     font-weight: 400 !important;
     color: #3c86b4 !important;
-}
-
-html {
-  font-synthesis: none;
-  font-size: 125%;
-}
-
-body {
-  --md-text-font-family: -apple-system, "SF Pro Text", "Helvetica", sans-serif;
-  --md-code-font-family: "SF Mono", "Menlo", monospace;
-  -webkit-font-smoothing: antialiased;
-  font-feature-settings: normal;
 }
 
 /* Override Main Article Options */
