@@ -9,7 +9,7 @@ theme:
   custom_dir: overrides
   language: it
   logo: assets/logo_2042.webp
-  favicon: assets/favicon.png
+  favicon: assets/favicon.svg
   icon:
     repo: fontawesome/brands/git-alt
     edit: material/file-edit-outline
