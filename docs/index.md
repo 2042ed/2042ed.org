@@ -13,12 +13,11 @@ hide:
 ---
 ![2042 logo](assets/logo/header_2042ed.webp)
 
-> _Uno spazio di socializzazione e autolibereazione nell'intersezione tra giochi, educazione, tecnologia e creatività. Per genitori, educatori, sviluppatori, giocatori e attivisti del futuro._
+> _Uno spazio di socializzazione e autolibereazione nell'intersezione tra educazione, tecnologia, creatività e giochi. Per genitori, educatori, sviluppatori, giocatori e attivisti del futuro._
 > ▶️👍🎲😊
 
 ## Novità
 
-- [2024-03-19: Dialoghi con Papà](blog/category/dialoghi/)
 - [2024-03-10: Giochi In Gioco con Papà](played/tags.md#ingiococonpapa)
 - [2023-09-01: Rilancio Newsletter](https://2042.substack.com)
 - [2023-05-22: Introduzione alla AI creativa](studio/monografie/generative-ai-intro.md)
@@ -38,8 +37,6 @@ _laboratori per imparare creando_
 _Presentazioni su temi vari_
 - 📖 [Notes](notes/index.md)  
 _Ricerche e materiali nel campo della pedagogia e dell'educazione_
-- :fontawesome-solid-book: [Dialoghi con Papà](blog/category/dialoghi/)  
-_una serie di dialoghi STEM_
 - [Ricerca per Tag](played/tags.md)  
 *se non sai cosa vuoi cercare*  
 
