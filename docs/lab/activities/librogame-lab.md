@@ -34,4 +34,12 @@ ecco qualche foto della mattinata.
 
 PS: troverete tutti i materiali base del laboratorio sul sito di Jamurr 2042 e se la cosa ti piace, restiamo in contatto
 
-TODO: mettere qui i materiali!
+## Materiali
+i materiali per il laboratorio sono questi:
+- la **MAPPA** per progettare la storia [PDF](../../assets/files/LibroGameLab/LibroGameLab%20Mappa%20-%20A3.pdf)
+- la **COPERTINA**, da stampare su cartoncino magari colorato [PDF](../../assets/files/LibroGameLab/LibroGameLab%20Copertina%20-%20A4%20cartoncino.pdf)
+- le **PAGINE** interne dove disegnare e scrivere [PDF](../../assets/files/LibroGameLab/LibroGameLab%20Pagina%20-%20A4.pdf)
+
+## Durata e costo
+durata: 4 ore  
+costo: 5 euro a testa di materiale
