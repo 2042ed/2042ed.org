@@ -1,7 +1,7 @@
 ---
 title: "Oltre l'Entertainment"
 date: 2022-05-05
-updated: 2023-04-21
+updated: 2024-05-03
 description: "panoramica sui media e l'impatto sociale e caratteristiche dei giochi come strumenti di educazione, persuasione e trasformazione"
 type: book
 weight: 10
@@ -62,9 +62,11 @@ giochi progettati con l'obiettivo di creare supporto attivo per una causa.
 **Impatto Sociale Indiretto**
 quando è una conseguenza secondaria, o inaspettata. ogni lavoro creato ha un impatto, e gli autori dovrebbero pensarci, hanno una responsabilità che non è opzionale
 
-
 ## Virtù dei Videogiochi
 Una super sintesi di cosa sono e loro virtù
+
+![virtu](virtu-vg-digitale.jpg)
+
 
 ### Medium Multimediali & Multidisciplinari
 ![](../../../assets/img/gamedev/img-g4c/creative_multimedia.webp)
@@ -337,8 +339,16 @@ Ricordarci appunto che non c’è solo l’Entertainment per l’Entertainment, 
 - Committenti spesso impreparati
 - La difficoltà a conciliare divertimento e serietà
 
+### Diagramma della stupidità
+
+![](../../../assets/img/gamedev/img-g4c/diagramma-di-cipolla-stupidita_featured.webp)
+
+### IKIGAI
+Parola e concetto giapponese.
+Il diagramma dovrebbe essere abbastanza auto-esplicativo:
+![](../../../assets/img/gamedev/img-g4c/ikigai.webp)
+
 ## Chi sono io? Perché sono qui?
 
 ![chi sono](../../../assets/img/gamedev/img-g4c/chi_sono.webp)
 
-## ✍️ 🟧 RIPONDERE
