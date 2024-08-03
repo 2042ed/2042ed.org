@@ -1,5 +1,5 @@
 ---
-title: 971. Learning More
+title: "971. Learning More"
 date: 2023-11-13
 updated: 2024-03-19
 type: 

@@ -1,5 +1,5 @@
 ---
-title: 973. Shall we play a game?
+title: "973. Shall we play a game?"
 date: 2023-10-29
 updated: 2023-10-30
 type: 

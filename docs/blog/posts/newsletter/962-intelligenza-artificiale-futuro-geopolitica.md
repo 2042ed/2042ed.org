@@ -1,5 +1,5 @@
 ---
-title: 962. Intelligenza Artificiale, futuro e geopolitica
+title: "962. Intelligenza Artificiale, futuro e geopolitica"
 date: 2024-01-14
 updated: 2024-03-19
 type: 

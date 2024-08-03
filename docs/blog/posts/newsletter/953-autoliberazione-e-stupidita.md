@@ -1,5 +1,5 @@
 ---
-title: 953. Autoliberazione e stupidità
+title: "953. Autoliberazione e stupidità"
 date: 2024-03-16
 updated: 2024-03-19
 type: 

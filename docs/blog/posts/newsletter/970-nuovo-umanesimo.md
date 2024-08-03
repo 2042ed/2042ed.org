@@ -1,5 +1,5 @@
 ---
-title: 972. Nuovo Umanesimo e la Regola d'Oro
+title: "972. Nuovo Umanesimo e la Regola d'Oro"
 date: 2023-11-19
 updated: 2024-03-19
 type: 

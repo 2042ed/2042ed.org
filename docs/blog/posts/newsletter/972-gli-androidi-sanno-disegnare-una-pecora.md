@@ -1,5 +1,5 @@
 ---
-title: 972. Gli androidi sanno disegnare una pecora?
+title: "972. Gli androidi sanno disegnare una pecora?"
 date: 2023-11-05
 updated: 2024-03-19
 type: 

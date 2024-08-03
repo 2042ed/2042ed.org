@@ -1,5 +1,5 @@
 ---
-title: 956. Tutti in gioco
+title: "956. Tutti in gioco"
 date: 2024-02-18
 updated: 2024-03-19
 type: 
