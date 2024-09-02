@@ -751,7 +751,15 @@ Un vero e proprio ambiente per imparare a programmare videogiochi. anche in Ital
 Una versione evoluta di Code.org, per programmare giochi più complessi (multiplayer, avventure, da giocare poi su hardware dedicato)
 <https://arcade.makecode.com/>
 
----
+### CoSpaces
+
+### Roblox Edu
+
+### Minecraft
+
+### Unreal Fortnite
+
+### Godot
 
 ### Unity
 
@@ -768,16 +776,17 @@ Strumento estremamante professionale, ma molto accessibile, e gratuito per crear
 
 Nel mio sito [2042ed.org](https://2042ed.org/) ci sono diverse risorse per approfondire il mondo dei giochi e dei videogiochi, sia da giocatori che da sviluppatori.
 
+<!--
 ---
-
 ### Scuole
+
 Se questo mondo ti piace e ti interessa, ti invito a contattarmi e provare a valutare delle scuole di sviluppo videogiochi, magari andando agli open day.
 
 ![thesign|700](https://www.artribune.com/wp-content/uploads/2022/09/TheSIGN-%E2%80%93-Comics-Arts-Academy-.jpg)
 
 - [TheSign Academy](https://thesign.academy/) (scuola dove insegno io) open day venerdì 5 maggio
 - [Università di Firenze](https://www.unifi.it/index.php?module=ofform2&mode=1&cmd=3&AA=2022&afId=598918) inizia ad avere esami di Game Design.
-
+-->
 ---
 
 ### Video
@@ -812,9 +821,3 @@ Se questo mondo ti piace e ti interessa, ti invito a contattarmi e provare a val
 **Documentari**
 
 - La storia di Minecraft: <https://www.youtube.com/watch?v=1rOUfNa7dxM>
-
----
-
-## Arrivederci  
-
-Stefano Cecere  
