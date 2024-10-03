@@ -1,7 +1,7 @@
 ---
 title: Usare bene WhatsApp o Telegram
 date: 2023-10-22
-updated: 2024-03-13
+updated: 2024-08-02
 ---
 # Usare bene WhatsApp o Telegram
 
@@ -89,3 +89,31 @@ Inoltre ormai tutti abbiamo su WhatsApp molti (troppi) **gruppi che generano pi�
 
 - mai usare un gruppo per inviare messaggi privati (pena capitale).
 - se possibile rispondere con una emoticon / reaction ad un messaggio, e non con un nuovo messaggio con l'emoticon. 
+
+---
+#2do
+**Think before you post  
+**Remember, your post could be going to dozens of people. Do they all need to know about the one memory you shared with that one person? Probably not. Sometimes, you can send a direct message, even if it’s related to the group chat. There are times when everyone needs to be involved in the discussion and times when they don’t.
+
+**Read and reply  
+**Group chats can be difficult to track, but read what’s come before to avoid needless repetition. If you reply to a message some way back in the conversation, make sure you respond to it directly so we all know what you’re referring to. On WhatsApp, long-press on a message, then tap the reply arrow that appears.
+
+**Lock down your groups  
+**If you’re in charge of a group chat, there are various ways to make life easier for everyone. One is to restrict entry to the group—on WhatsApp, tap the top of a chat and pick **Group permissions** to find the relevant settings. You can ensure you have approval for any new members and block the group chat participants from inviting anyone new.
+
+That gives you (and the other admins) more control over who’s involved. There’s also a toggle switch for Send messages: if you turn this on, only admins can post to the group, saving a lot of unnecessary chatter in certain groups. You can also turn this option on and off as you go, so it doesn’t always have to be on or off.
+
+**  
+Use mute sparingly  
+**Muting group chats are often necessary to maintain your sanity during specific conversations. Almost all messaging apps will let you do this: On WhatsApp, you can long-press on a conversation in the chat list, then tap the bell icon (Android) or choose **Mute** (iOS) to silence alerts for the next eight hours, and the next week, or indefinitely.
+
+While mute is helpful and can prevent repeated phone dings, it’s important to use it responsibly. It would be best if you tried to catch up on everything you missed while the chat was muted. Turning up three days later and saying, “What have I missed?” means everyone else must sit through a barrage of repeated information.
+
+**Watch the time  
+**Be mindful of the time when contributing to a group text: Not everyone stays up until the early morning hours, and not everyone knows how to use the Do Not Disturb settings on their phone. It’s probably not possible to text only at times convenient to everyone in the chat, but you can at least limit the very early and very late messages.
+
+**Stay on topic  
+**You would think this goes without saying, but it doesn’t. Now, some groups are put together for general banter and breeze shooting, but for those that aren’t—family events, school outings, quiz nights—try and keep everything reasonably relevant. In other words, this might not be the place to ask for DIY tips or share a trending meme on Reddit.
+
+**Quit when you need to  
+**You’re not under any obligation to stay in a group chat you don’t want to be in. If the relevant event has long since passed, or you haven’t seen the rest of the participants for several years, you’re well within your rights to quit with no hard feelings. With some group conversations, the rest of the people involved might not even notice that you’re gone.
