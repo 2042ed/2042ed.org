@@ -5,7 +5,7 @@ updated: 2024-10-03
 type: slides
 categories: 
 tags: 
-description: 
+description: "storia del game dev"
 permalink: 
 rating: 
 publish: 
