@@ -32,7 +32,7 @@ di Stefano Cecere
 
 ---
 
-<!-- paginate: false -->
+<!-- paginate: true -->
 
 ## In 50 anni siamo passati da...
 
