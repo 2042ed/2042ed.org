@@ -19,7 +19,7 @@ backgroundColor:
 color:
 ---
 
-<!-- _backgroundColor: #ff0000 -->
+<!-- _backgroundColor: #007C77 -->
 <!-- _color: #fff -->
 <!-- fit -->
 # Il lavoro dietro la decima arte
@@ -73,8 +73,9 @@ _tecnologia, giochi, educazione_
 
 ![bg right](https://media.tenor.com/MaF8Grdk3acAAAAM/vintage-80s.gif)
 
-- *Pong* (1972)
+- davanti allo schermo, insieme, a giocare
 - Programmazione semplice, design minimalista.
+- [codice sorgente](https://gist.github.com/straker/81b59eecf70da93af396f963596dfdc5)
 
 ---
 <!-- _backgroundColor: green -->
@@ -674,7 +675,8 @@ migliaia di giochi, tutti con codice sorgente
 ![bg right:70%](img/ggj-games.jpg)
 
 ---
-<!-- _backgroundColor: #ff0000 -->
+
+<!-- _backgroundColor: #007C77 -->
 <!-- _color: #fff -->
 <!-- fit -->
 ## <!-- fit -->Buon lavoro!
