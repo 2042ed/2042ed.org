@@ -25,14 +25,16 @@ color: #333
 
 # <!-- fit --> Dietro la decima arte
 
-### evoluzione della creatività e tecnologia con i videogiochi
+## evoluzione della creatività e tecnologia con i videogiochi
+
+[👉🏼 slides](https://2042ed.org/studio/monografie/gamedev_intro_slides.html)
 
 ---
 
 <!-- paginate: true -->
 <!-- footer: stefanocecere.com -->
 
-# Cos'è un Videogioco?
+## Cos'è un Videogioco?
 
 Breve introduzione su cosa definisce un videogioco e il ruolo del game designer e del game developer.
 <!--
@@ -51,7 +53,7 @@ Commento dello speaker. qui si parla di tutto
 
 ---
 
-# Pong (1972) e l'era arcade
+## Pong (1972) e l'era arcade
 
 ![bg right](https://media.tenor.com/MaF8Grdk3acAAAAM/vintage-80s.gif)
 
@@ -61,36 +63,35 @@ Commento dello speaker. qui si parla di tutto
 ---
 <!-- _backgroundColor: green -->
 <!-- _color: white -->
-# <!-- fit --> Q: Video vs Videogame?
+## <!-- fit --> Q: Video vs Videogame?
 quel'è la più grande differenza?
 
 ---
 
-# un'intelligenza che interagisce
+## un'intelligenza che interagisce
 ![bg height:50%](../../assets/img/gamedev/img-g4c/humanist_player.webp)
 ![bg](../../assets/img/gamedev/img-g4c/interactive.webp)
 
 
 ---
 
-# Senza un giocatore, non funziona
+## Senza un giocatore, non funziona
 a differenza di libri e film e musica che possono andare in play da soli, un videogioco, no!
 
 ---
 
-## Il loop
+### Il loop
 
 ![bg  height:90%](../../assets/img/talk/vg-circuit.webp)
 
 ---
-## Controllers
+### Controllers
 
 ![bg](img/f493df8f68ef8b3ca666181a19d9cafe_MD5.jpg)
 
-
 ---
 
-## Chi fa un videogioco?
+### Chi fa un videogioco?
 
 * Game Designer
 * Game Developer
@@ -101,7 +102,7 @@ a differenza di libri e film e musica che possono andare in play da soli, un vid
 
 ---
 
-# Avventure Testuali
+## Avventure Testuali
 
 ![bg fit](https://www.raspberrypi.com/app/uploads/2019/02/python-text-adventure.jpg)
 
