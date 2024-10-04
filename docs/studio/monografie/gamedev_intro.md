@@ -58,15 +58,14 @@ di Stefano Cecere
 
 ## Chi sono: Stefano Cecere
 
-_tecnologia, giochi, educazione_ 
+_tecnologia, giochi, educazione, musica, attivismo_ 
 
 ![bg right width:400px](../../assets/img/stefano/stefanocecere_pixel.webp)
 
-- Iniziato ad hackerare i computer a 10 anni, primo VG in terza Liceo
+- Iniziato ad *hackerare* i computer a 10 anni, creo il primo videogioco in terza Liceo
 - Sviluppo videogiochi @ **[Videogames Without Borders](https://vgwb.org/)**
 - Game Based Learning e EdTech @ **[Future Education Modena](https://fem.digital/)**
-- Docente Game A.I. / XR / OpenSource / Giochi applicati @ **[TheSign Academy](https://thesign.academy/)**
-- Condivido sul sito [2042ed.org](https://2042ed.org/)
+- Insegno e condivido sul sito **[2042ed.org](https://2042ed.org/)** e socials vari
 
 ---
 
@@ -129,7 +128,9 @@ a differenza di libri e film e musica che possono andare in play da soli, un vid
 
 Esempi: *Zork*, *Colossal Adventure* (1977-1980).
 
-Enfasi sulla scrittura e sulla creazione di mondi attraverso la narrativa.
+<!--
+creazione di mondi attraverso la narrativa.
+-->
 
 ---
 
@@ -224,7 +225,7 @@ Innovativo per il combattimento a due giocatori e per l'introduzione delle combo
 - *Doom* (1993): primo salto nel 3D.
 - Quake
 
-come pietra miliare del rendering 3D. Introduzione ai motori grafici e alla programmazione in tempo reale.
+come pietra miliare del rendering 3D
 
 ---
 
@@ -277,7 +278,13 @@ come pietra miliare del rendering 3D. Introduzione ai motori grafici e alla prog
 
 ### Progressione e ricompense
 
-- Come i giochi creano motivazione e soddisfazione attraverso la progressione (livelli, esperienze, abilità sbloccabili) e le ricompense (oggetti, potenziamenti, riconoscimenti). Questo aiuta a mantenere il giocatore coinvolto.
+I giochi creano motivazione e soddisfazione attraverso la progressione (livelli, esperienze, abilità sbloccabili) e le ricompense (oggetti, potenziamenti, riconoscimenti). Questo aiuta a mantenere il giocatore coinvolto.
+
+![bg right:60%](https://www.wikihow.com/images/thumb/c/c8/Design-a-Video-Game-Step-07-Version-3.jpg/v4-728px-Design-a-Video-Game-Step-07-Version-3.jpg.webp)
+
+---
+
+![bg fit](https://www.wikihow.com/images/thumb/0/0b/Design-a-Video-Game-Step-28-Version-4.jpg/v4-728px-Design-a-Video-Game-Step-28-Version-4.jpg.webp)
 
 ---
 
