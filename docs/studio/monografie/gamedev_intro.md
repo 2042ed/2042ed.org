@@ -21,12 +21,11 @@ color:
 
 <!-- _backgroundColor: #007C77 -->
 <!-- _color: #fff -->
-<!-- fit -->
 # Il lavoro dietro la decima arte
 
 L'evoluzione della creatività e tecnologia con i videogiochi
 
-[👉🏼 slides](https://2042ed.org/studio/monografie/gamedev_intro_slides.html)
+[👉🏼 slides](https://2042ed.org/studio/monografie/gamedev_intro.html)
 
 di Stefano Cecere
 
@@ -39,18 +38,20 @@ di Stefano Cecere
 ![bg right:60%](https://cdn.dribbble.com/users/2092880/screenshots/6426030/pong_1.gif)
 
 ---
-## a...
+
 <iframe width="800" height="600" src="https://www.youtube.com/embed/BMIIrNgX-F8?start=37" title="The History and Evolution of Videogame Design - The Game Design Extracts Episode 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [youtube](https://youtu.be/BMIIrNgX-F8?t=37)
 
 ---
 
 ## da
-![](https://i.ytimg.com/vi/cE4R_vB_AZE/maxresdefault.jpg)
+![bg](https://i.ytimg.com/vi/cE4R_vB_AZE/maxresdefault.jpg)
 
 ---
-## a...
+
 <iframe width="800" height="600" src="https://www.youtube.com/embed/lcHAo8ViDT8" title="The History and Evolution of Videogame Design - The Game Design Extracts Episode 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [youtube](https://youtu.be/lcHAo8ViDT8)
 
 ---
@@ -78,6 +79,7 @@ _tecnologia, giochi, educazione_
 - [codice sorgente](https://gist.github.com/straker/81b59eecf70da93af396f963596dfdc5)
 
 ---
+
 <!-- _backgroundColor: green -->
 <!-- _color: white -->
 ## <!-- fit --> Q: Video vs Videogame?
@@ -85,6 +87,7 @@ _tecnologia, giochi, educazione_
 * ma qual è la più grande differenza?
 
 ---
+
 ### L'Interattività
 
 ![bg height:50%](../../assets/img/gamedev/img-g4c/interactive.webp)
@@ -155,7 +158,9 @@ Arriva la grafica
 
 ---
 
-## Q: percezione o immaginazione?
+<!-- _backgroundColor: green -->
+<!-- _color: white -->
+### <!-- fit --> Q: percezione o immaginazione?
 
 - Hai mai videogioco senza immagini, solo con testo?
 - Quale aspetto di un videogioco prediligi: la grafica o la storia?
@@ -174,11 +179,21 @@ Arriva la grafica
 
 ---
 
-### Q: storie lineari o interattive?
+<!-- _color: white -->
+### storie non lineari
+
+![bg fit](img/homer-if.jpg)
+
+---
+
+<!-- _backgroundColor: green -->
+<!-- _color: white -->
+### <!-- fit --> Q: storie lineari o interattive?
 
 Quali sono le differenze tra i videogiochi in cui segui una storia predefinita e quelli in cui puoi influenzare la storia? Quale preferite?
 
 ---
+
 ### Myst (1993)
 ![bg right:70% contain](../../assets/img/played/videogame/myst.webp)
 Primo gioco a fare un uso massiccio di grafica pre-renderizzata e **una narrativa non lineare**. Oltre a enigmi davvero sfidanti.
@@ -191,6 +206,7 @@ con Pac Man (1980) arrivano gli avversari, ovvero Intelligenze Artificiali antag
 ![bg right](https://www.domusweb.it/content/dam/domusweb/it/design/gallery/2022/11/14/trenta-videogiochi-che-hanno-fatto-la-storia-del-game-design/gallery/domus-gioco2.JPG.foto.rmedium.png)
 
 ---
+
 ![](https://i.ytimg.com/vi/8RLq4QLwoGA/maxresdefault.jpg)
 
 ---
@@ -229,6 +245,25 @@ come pietra miliare del rendering 3D. Introduzione ai motori grafici e alla prog
 ### Assassin's creed e la storia
 
 ![](../../assets/img/played/videogame/assassin.webp)
+
+---
+
+### OutRun (1986)
+![bg left:70%](https://www.domusweb.it/content/dam/domusweb/it/design/gallery/2022/11/14/trenta-videogiochi-che-hanno-fatto-la-storia-del-game-design/gallery/domus-gioco4.JPG.foto.rmedium.png)
+
+---
+
+### Wipeout (1999)
+
+![bg right:70%](https://i.ytimg.com/vi/Btjy5M75m4Q/maxresdefault.jpg)
+
+---
+
+### Machine Learning e piloti
+
+<iframe width="800" height="600" src="https://www.youtube.com/embed/5lJuEW-5vr8" title="The History and Evolution of Videogame Design - The Game Design Extracts Episode 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[youtube](https://youtu.be/5lJuEW-5vr8)
 
 ---
 
@@ -323,8 +358,6 @@ Uno dei primi grandi successi arcade. Innovativo per l'uso della progressiva dif
 
 - La costruzione degli ambienti di gioco e il posizionamento di sfide e nemici all'interno di essi è cruciale per il ritmo e la narrativa. Ogni livello racconta una storia attraverso il design.
 
-- Esempio: _Super Mario Bros._ è noto per il design di livelli che insegnano al giocatore nuove meccaniche senza bisogno di tutorial espliciti.
-
 ---
 
 ### Super Mario Bros (1985)
@@ -335,15 +368,13 @@ Uno dei primi grandi successi arcade. Innovativo per l'uso della progressiva dif
 
 ### Psicologia del gioco e motivazione intrinseca
 
-- Capire perché le persone giocano è fondamentale. La teoria della motivazione intrinseca (autonomia, competenza, relazione) e la psicologia del flusso (flow) sono centrali nel design di esperienze coinvolgenti.
-- Esempio: _Animal Crossing_ fornisce una forte sensazione di autonomia e relazione, contribuendo al suo successo duraturo.
+Capire perché le persone giocano è fondamentale. La teoria della motivazione intrinseca (autonomia, competenza, relazione) e la psicologia del flusso (flow) sono centrali nel design di esperienze coinvolgenti.
 
 ---
 
 ### Scelte e conseguenze
 
 - Dare ai giocatori la possibilità di fare scelte significative che influenzano la trama o l'esito del gioco rende l'esperienza più personale e coinvolgente.
-- Esempio: _Mass Effect_, dove le scelte del giocatore influenzano significativamente lo sviluppo della storia.
 
 ---
 
@@ -372,6 +403,7 @@ Uno dei primi grandi successi arcade. Innovativo per l'uso della progressiva dif
 - La narrativa emergente è quella che viene generata spontaneamente dall’interazione dei giocatori con il mondo di gioco, piuttosto che dalla trama predefinita.
 
 ---
+
 ### Minecraft (2011)
 
 ![minecraft](../../assets/img/dgbl/games/minecraft.webp)
@@ -404,9 +436,15 @@ e _Candy Crush_, e come ha cambiato il mercato e il design.
 
 ---
 
+Effetti sonori  e Ambiente
+![bg width:600](https://www.wikihow.com/images/thumb/0/08/Design-a-Video-Game-Step-20-Version-4.jpg/v4-728px-Design-a-Video-Game-Step-20-Version-4.jpg.webp)
+![bg width:600](https://www.wikihow.com/images/thumb/5/59/Design-a-Video-Game-Step-21-Version-4.jpg/v4-728px-Design-a-Video-Game-Step-21-Version-4.jpg.webp)
+
+---
+
 ### Journey (2012)
 
-![bg right](https://64.media.tumblr.com/8522f9b55cde5278f1c61054bdc9bcbc/tumblr_ow4xtaV72K1rxlf0fo1_1280.gif)
+![bg right fit](https://64.media.tumblr.com/8522f9b55cde5278f1c61054bdc9bcbc/tumblr_ow4xtaV72K1rxlf0fo1_1280.gif)
 
 Il suo contributo è stato particolarmente rilevante grazie alla colonna sonora dinamica e interattiva composta da Austin Wintory. La musica in _Journey_ non è solo un accompagnamento, ma si adatta alle azioni e alle emozioni del giocatore, creando un'esperienza profondamente immersiva.
 
@@ -434,20 +472,24 @@ Il suo contributo è stato particolarmente rilevante grazie alla colonna sonora 
 ![bg](https://theglobalgaming.com/assets/images/article/3d-modelling.jpg)
 
 ---
+
 ### blender.org
 
 ![bg vertical height:150](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_Blender.svg/2560px-Logo_Blender.svg.png)
 ![bg](https://betanews.com/wp-content/uploads/2014/03/blender.jpg)
 
 ---
+
 ### tinkercad.com
 
 ![bg height:80%](https://sjpl.bibliocommons.com/events/uploads/images/full/2b2f3a99ad6ed272fcc23e81eb5fe71a/tinkercad.png)
 
 ---
 
+<!-- _color: white -->
+<!-- _backgroundColor: black -->
 ### Rigging e Animazione
-![](https://blenderartists.org/uploads/default/original/4X/c/2/4/c24bffde6fb717a738ddc1bfc143076fb883db46.png)
+![bg fit](https://blenderartists.org/uploads/default/original/4X/c/2/4/c24bffde6fb717a738ddc1bfc143076fb883db46.png)
 
 <!--
 - Il processo di **rigging** è fondamentale per dare vita ai modelli 3D attraverso l'animazione. Un esempio notevole è _Shadow of the Colossus_ (2005), dove i colossi sono modelli enormi che richiedono un rigging complesso per permettere movimenti fluidi.
@@ -522,13 +564,6 @@ Gli **shader** sono piccoli programmi che definiscono il comportamento della luc
 
 Il **pathfinding** è la tecnica usata per far sì che gli NPC trovino il percorso migliore all'interno di un ambiente complesso. Giochi come _F.E.A.R._ (2005) hanno rivoluzionato l'IA dei nemici, rendendoli più intelligenti e adattabili.
 
-
----
-
-### Intelligenza Artificiale nei videogiochi
-
-- L'evoluzione dell'IA nei nemici e NPC.
-
 ---
 
 ### The Legend of Zelda (1986)
@@ -546,11 +581,11 @@ Ha rivoluzionato il concetto di mondo aperto in 3D, permettendo ai giocatori di 
 
 ### AI: Behaviour Trees
 
-![bg](https://outforafight.wordpress.com/wp-content/uploads/2014/07/selector1.png)
+![bg fit](https://outforafight.wordpress.com/wp-content/uploads/2014/07/selector1.png)
 
 ---
 
-![bg](https://i.ytimg.com/vi/Y2rG1p_0GXk/maxresdefault.jpg)
+![bg fit](https://i.ytimg.com/vi/Y2rG1p_0GXk/maxresdefault.jpg)
 
 ---
 
@@ -560,13 +595,9 @@ Qual è il comportamento più intelligente che avete visto in un nemico o in un 
 
 ---
 
-### Rendering in tempo reale
+## Il Futuro dei Videogiochi: XR
 
-- Il **ray tracing** in tempo reale è una tecnologia avanzata che simula come la luce interagisce con gli oggetti in modo estremamente realistico. Questo è stato introdotto recentemente in giochi come _Cyberpunk 2077_ e _Minecraft RTX_, cambiando il modo in cui la luce e le ombre vengono rappresentate.
-
----
-
-## Il Futuro dei Videogiochi
+<!-- _color: white -->
 
 ![bg fit](https://i0.wp.com/vrscout.com/wp-content/uploads/2023/01/TopSteamVR2022.jpg)
 
@@ -574,11 +605,12 @@ Qual è il comportamento più intelligente che avete visto in un nemico o in un 
 - Realtà virtuale e aumentata, AI avanzata e le nuove tecnologie.
 - Come influenzeranno i giochi futuri.
 -->
+
 ---
 
 ## Economia
 
-![bg](https://www.visualcapitalist.com/wp-content/uploads/2020/11/50-years-of-gaming-revenue.png)
+![bg fit](https://www.visualcapitalist.com/wp-content/uploads/2020/11/50-years-of-gaming-revenue.png)
 
 ---
 
@@ -636,21 +668,21 @@ Qual è il comportamento più intelligente che avete visto in un nemico o in un 
 - facile
 - visual scripting
 
-[👉🏼gdevelop.io](https://gamemaker.io/en/tutorials)
-[Tutoriales](https://gamemaker.io/en/tutorials)
+[👉🏼gamemaker.io](https://gamemaker.io/en/tutorials)
+[👉🏼tutorials](https://gamemaker.io/en/tutorials)
 
 ---
-### GDevelop
 
-![bg right:70%](https://static.wikia.nocookie.net/05d64f0b-758a-4fad-9511-b0e03dbcd78a)
+### Unity
 
-- gratuito
-- web / pc
-- visual scripting
-- italiano
+- gratuito (pere iniziare)
+- professionale
+- universale
 
-[👉🏼gdevelop.io](https://gdevelop.io)
-[👉🏼academy](https://gdevelop.io/it-it/academy)
+![bg right:70%](../../assets/img/gamedev/img-dentro_vg/game_programming.webp)
+
+[👉🏼 unity.com](https://unity.com/)
+[👉🏼 tutorials](https://learn.unity.com/)
 
 ---
 
@@ -658,12 +690,20 @@ Qual è il comportamento più intelligente che avete visto in un nemico o in un 
 
 ![bg right:70%](https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt1a2c3c090669c1f4/650f07d9d6b140d851bb760e/godot_engine_introduction_with_animated_figure_in_window.png)
 
-- gratuito
-- completo
 - opensource
+- completo
 - in crescita
+- non banale
 
 [👉🏼godotengine.org](https://godotengine.org/)
+
+---
+
+#### Impariamo Godot
+
+![bg right:60%](img/godot-tutorials.jpg)
+
+[👉🏼 tutorials](https://catlikecoding.com/godot/introduction/)
 
 ---
 ### Global Game Jam
