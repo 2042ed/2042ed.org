@@ -180,6 +180,12 @@ Arriva la grafica
 
 ---
 
+## sprites
+
+![bg fit](../../assets/img/gamedev/img-dentro_vg/digi_binary_image.webp)
+
+---
+
 <!-- _color: white -->
 ### storie non lineari
 
@@ -198,6 +204,18 @@ Quali sono le differenze tra i videogiochi in cui segui una storia predefinita e
 ### Myst (1993)
 ![bg right:70% contain](../../assets/img/played/videogame/myst.webp)
 Primo gioco a fare un uso massiccio di grafica pre-renderizzata e **una narrativa non lineare**. Oltre a enigmi davvero sfidanti.
+
+---
+
+### Rendering 3D
+
+![bg fit](https://static.packt-cdn.com/products/9781788830409/graphics/d6c43401-f7ca-4bfe-93b5-75f5dd1a4262.jpg)
+
+---
+
+### Fisica della percezione!
+
+![bg fit](https://www.sigarch.org/wp-content/uploads/2021/06/rt.png)
 
 ---
 
@@ -280,11 +298,7 @@ come pietra miliare del rendering 3D
 
 I giochi creano motivazione e soddisfazione attraverso la progressione (livelli, esperienze, abilità sbloccabili) e le ricompense (oggetti, potenziamenti, riconoscimenti). Questo aiuta a mantenere il giocatore coinvolto.
 
-![bg right:60%](https://www.wikihow.com/images/thumb/c/c8/Design-a-Video-Game-Step-07-Version-3.jpg/v4-728px-Design-a-Video-Game-Step-07-Version-3.jpg.webp)
-
----
-
-![bg fit](https://www.wikihow.com/images/thumb/0/0b/Design-a-Video-Game-Step-28-Version-4.jpg/v4-728px-Design-a-Video-Game-Step-28-Version-4.jpg.webp)
+![bg right](https://www.wikihow.com/images/thumb/0/0b/Design-a-Video-Game-Step-28-Version-4.jpg/v4-728px-Design-a-Video-Game-Step-28-Version-4.jpg.webp)
 
 ---
 
@@ -316,12 +330,6 @@ Innovativo per l'idea di "collezionare" creature, creando una rete di interazion
 Ha portato i videogiochi nel salotto di famiglie di tutto il mondo grazie ai controlli basati sul movimento. È stato cruciale per la diffusione del motion gaming e del gioco accessibile a un pubblico non tradizionale.
 
 ---
-
-### Portal (2007)
-![bg right:70% contain](../../assets/img/played/videogame/portal.webp)
-Innovativo per la sua meccanica basata sui portali e per la narrazione integrata con il gameplay.
-
----
 ### SimCity (2000) e la gestione di sistemi complessi
 
 ![](https://www.domusweb.it/content/dam/domusweb/it/design/gallery/2022/11/14/trenta-videogiochi-che-hanno-fatto-la-storia-del-game-design/gallery/domus-gioco13-1.jpg.foto.rmedium.png)
@@ -334,7 +342,7 @@ Innovativo per la sua meccanica basata sui portali e per la narrazione integrata
 
 ---
 
-#### nel giusto mezzo
+#### Nel giusto mezzo
 
 ![bg right:60%](../ludosofia/_img/graph_flow.webp)
 
@@ -354,16 +362,11 @@ Uno dei primi grandi successi arcade. Innovativo per l'uso della progressiva dif
 
 ---
 
-### Esperienza Utente (UX) e Interfaccia Utente (UI)
-
-- Un buon game design considera attentamente come i giocatori interagiscono con il gioco. Una UI intuitiva e una buona UX rendono l’esperienza fluida e piacevole.
-- Esempio: _The Last of Us_ offre una UI pulita e minimale che non distrae dall'immersione.
-
----
-
 ### Level Design
 
-- La costruzione degli ambienti di gioco e il posizionamento di sfide e nemici all'interno di essi è cruciale per il ritmo e la narrativa. Ogni livello racconta una storia attraverso il design.
+La costruzione degli ambienti di gioco e il posizionamento di sfide e nemici all'interno di essi è cruciale per il ritmo e la narrativa. Ogni livello racconta una storia attraverso il design.
+
+![bg right:60%](https://www.wikihow.com/images/thumb/c/c8/Design-a-Video-Game-Step-07-Version-3.jpg/v4-728px-Design-a-Video-Game-Step-07-Version-3.jpg.webp)
 
 ---
 
@@ -373,49 +376,26 @@ Uno dei primi grandi successi arcade. Innovativo per l'uso della progressiva dif
 
 ---
 
-### Psicologia del gioco e motivazione intrinseca
-
-Capire perché le persone giocano è fondamentale. La teoria della motivazione intrinseca (autonomia, competenza, relazione) e la psicologia del flusso (flow) sono centrali nel design di esperienze coinvolgenti.
-
----
-
 ### Scelte e conseguenze
 
-- Dare ai giocatori la possibilità di fare scelte significative che influenzano la trama o l'esito del gioco rende l'esperienza più personale e coinvolgente.
+Dare ai giocatori la possibilità di fare scelte significative che influenzano la trama o l'esito del gioco rende l'esperienza più personale e coinvolgente.
 
----
-
-### Game Feel
-
-- Il "game feel" riguarda come il gioco "si sente" in termini di risposta ai controlli, animazioni fluide e feedback tattili o visivi che amplificano l'interazione del giocatore con il mondo di gioco.
-- Esempio: _Celeste_, con controlli molto precisi e responsivi che migliorano l’esperienza di platforming.
-
----
-
-### Monetizzazione e Design Etico
-
-- Con la crescita dei modelli free-to-play, è importante parlare delle pratiche di monetizzazione (microtransazioni, loot box) e delle sfide etiche che queste pongono in termini di design e responsabilità verso i giocatori.
+![bg right](https://www.wikihow.com/images/thumb/a/a2/Design-a-Video-Game-Step-06-Version-3.jpg/v4-728px-Design-a-Video-Game-Step-06-Version-3.jpg.webp)
 
 ---
 
 ### Fortnite (2017)
-![fortnite](../../assets/img/played/videogame/fortnite.webp)
+![bg right:60%](../../assets/img/played/videogame/fortnite.webp)
 
- Innovativo per la combinazione di un battle royale e un sistema di costruzione in tempo reale, unito a un modello free-to-play che ha ridefinito il mercato dei giochi online e il concetto di giochi come servizi (games as a service).
-
----
-
-### Narrativa Emergente
-
-- La narrativa emergente è quella che viene generata spontaneamente dall’interazione dei giocatori con il mondo di gioco, piuttosto che dalla trama predefinita.
+ Innovativo per la combinazione di un battle royale e un sistema di costruzione in tempo reale, unito a un modello free-to-play che ha ridefinito il **mercato** dei giochi online e il concetto di giochi come servizi (games as a service).
 
 ---
 
-### Minecraft (2011)
+### Minecraft (2011) e Narrativa Emergente
 
-![minecraft](../../assets/img/dgbl/games/minecraft.webp)
+![bg right](../../assets/img/dgbl/games/minecraft.webp)
 
-Ha introdotto il concetto di sandbox totale, permettendo ai giocatori di costruire e creare liberamente in un mondo infinito. Ha aperto la strada al genere "creativo" e ha dimostrato il potere del gioco emergente.
+Ha introdotto il concetto di sandbox totale, permettendo ai giocatori di costruire e creare liberamente in un mondo infinito. Ha aperto la strada al genere "creativo" e ha dimostrato il potere del **gioco e della narrativa emergente**, che viene generata spontaneamente dall’interazione dei giocatori con il mondo di gioco, piuttosto che dalla trama predefinita.
 
 ---
 
@@ -443,7 +423,7 @@ e _Candy Crush_, e come ha cambiato il mercato e il design.
 
 ---
 
-Effetti sonori  e Ambiente
+### Effetti sonori  e Ambiente
 ![bg width:600](https://www.wikihow.com/images/thumb/0/08/Design-a-Video-Game-Step-20-Version-4.jpg/v4-728px-Design-a-Video-Game-Step-20-Version-4.jpg.webp)
 ![bg width:600](https://www.wikihow.com/images/thumb/5/59/Design-a-Video-Game-Step-21-Version-4.jpg/v4-728px-Design-a-Video-Game-Step-21-Version-4.jpg.webp)
 
@@ -517,7 +497,7 @@ Il suo contributo è stato particolarmente rilevante grazie alla colonna sonora 
 
 ---
 
-## Programmazione
+## Coding
 
 ![bg right:60%](../../assets/img/gamedev/img-dentro_vg/code_if_then.webp)
 
@@ -595,8 +575,9 @@ Ha rivoluzionato il concetto di mondo aperto in 3D, permettendo ai giocatori di 
 ![bg fit](https://i.ytimg.com/vi/Y2rG1p_0GXk/maxresdefault.jpg)
 
 ---
-
-#### Q: la miglior Intelligenza
+<!-- _backgroundColor: green -->
+<!-- _color: white -->
+### <!-- fit --> Q: la miglior Intelligenza
 
 Qual è il comportamento più intelligente che avete visto in un nemico o in un personaggio non giocante? Cosa rende un'IA nei videogiochi davvero convincente?
 
