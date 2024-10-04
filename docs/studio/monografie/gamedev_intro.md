@@ -62,10 +62,10 @@ _tecnologia, giochi, educazione, musica, attivismo_
 
 ![bg right width:400px](../../assets/img/stefano/stefanocecere_pixel.webp)
 
-- Iniziato ad *hackerare* i computer a 10 anni, creo il primo videogioco in terza Liceo
+- Iniziato ad *hackerare* i computer a 10 anni, primo VG in terza Liceo
 - Sviluppo videogiochi @ **[Videogames Without Borders](https://vgwb.org/)**
 - Game Based Learning e EdTech @ **[Future Education Modena](https://fem.digital/)**
-- Insegno e condivido sul sito **[2042ed.org](https://2042ed.org/)** e socials vari
+- Maneggio **[2042ed.org](https://2042ed.org/)**
 
 ---
 
