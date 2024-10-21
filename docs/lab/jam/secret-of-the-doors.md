@@ -1,8 +1,8 @@
 ---
-title: 
+title: The secrets of the doors
 date: 2024-10-20
-updated: 2024-10-20
-description: 
+updated: 2024-10-21
+description: game jam al Gameground 2024 sulla natura
 categories:
   - jamurr
 tags:

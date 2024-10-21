@@ -2,7 +2,7 @@
 title: Game Masters
 date: 2024-09-10
 updated: 2024-10-20
-description: videogioco creato da 10 bambini
+description: una jam che ha prodotto 4 mini giochi
 categories:
   - jamurr
 tags:
