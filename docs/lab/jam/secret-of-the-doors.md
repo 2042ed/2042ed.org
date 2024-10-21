@@ -12,13 +12,11 @@ tags:
 # The secrets of the doors
 
 ## Informazioni
-Data: ottobre 2024
-Luogo: Bolzano - Gameground 2024
-Scheda: https://gameground.itch.io/secrets-of-the-doors
+- Data: ottobre 2024
+- Luogo: Bolzano - Gameground 2024
+- Play Online: https://edu.cospaces.io/DGQ-BTE
 
 Questo videogioco è stato creato da 12 giovanissimi in una giornata di Game Jam durante il Gameground 2024, a Museo di Storia Naturale di Bolzano.  
-
-Per giocare: [https://edu.cospaces.io/DGQ-BTE](https://edu.cospaces.io/DGQ-BTE)  
 
 La squadra:
 

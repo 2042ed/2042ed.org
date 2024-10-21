@@ -1,19 +1,20 @@
 ---
 title: Bed in da House
+date: 2019-01-31
+updated: 2024-10-21
 description: gioco creato dai ragazzi alla GGJ 2019
 tags: [GlobalGameJam, KidsMakeGames, Progetto]
 categories: [jamurr]
-date: 2019-01-31
 url_code: https://github.com/2042ed/JAM.BedInDaHouse
 url_video: https://www.youtube.com/watch?v=s28Vm8gWLDg
-
 ---
 
 ![logo](../../assets/img/jam/bedindahouse_featured.webp)
 
 ## Informazioni
-Data: gennaio 2019
-Luogo: Roma - Global Game Jam 2019
+- Data: gennaio 2019
+- Luogo: Roma - Global Game Jam 2019
+- Play Online: https://jamurr.itch.io/bed-in-da-house
 
 A game **designed and developed by kids and teens** at the [Global Game Jam 2019](https://globalgamejam.org/2019/games/bed-da-house), with the theme _"What home means to you"_.
 
@@ -23,9 +24,6 @@ They used open-source technologies ([Unity Playground](https://github.com/Unity-
 
 See official page of the game here: <https://globalgamejam.org/2019/games/bed-da-house>
 
-## Play
-To play the game directly in the browser:
-<https://jamurr.itch.io/bed-in-da-house>
 
 ## Video Trailer
 To showcase the game at the jam we recorded this short video:

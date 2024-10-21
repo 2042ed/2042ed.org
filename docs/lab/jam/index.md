@@ -34,3 +34,4 @@ _un'avventura a 7_
 _il primo gioco sviluppato da Papà e figlio (7anni)_
 
 </div>
+👉🏼

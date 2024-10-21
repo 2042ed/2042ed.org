@@ -1,7 +1,7 @@
 ---
 title: Recycle Island
 date: 2021-10-23
-updated: 2024-10-20
+updated: 2024-10-21
 description: videogioo sull'ambiente
 categories:
   - jamurr
@@ -12,9 +12,9 @@ tags:
 # Recycle Island
 
 ## Informazioni
-Data: ottobre 2021
-Luogo: Bolzano - Gameground 2021
-Scheda: https://gameground.itch.io/recycledisland
+- Data: ottobre 2021
+- Luogo: Bolzano - Gameground 2021
+- Play Online: https://gameground.itch.io/recycledisland
 
 Recycle Island è un videogioco realizzato da nove giovanissimi in una giornata di Game Jam durante il festival dei videogiochi [Game Ground](https://www.gameground.it/) a Bolzano il 23 ottobre 2021 presso la Fondazione [UPAD](https://www.upad.it/).
 

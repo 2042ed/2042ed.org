@@ -1,20 +1,16 @@
 ---
 title: Non sono solo una pecora
 date: 2016-01-31
-updated: 2024-10-20
+updated: 2024-10-21
 description: il primo gioco sviluppato da Papà e figlio (7anni)
 categories: jamurr
 tags: [GlobalGameJam, KidsMakeGames]
 url_code: "https://github.com/2042ed/JAM.NotJustASheep"
 ---
 ## Informazioni
-Data: gennaio 2016
-Luogo: Pisa - Global Game Jam 2016
-## Download
-
-- scarica app **iOS**: [Apple App Store](https://apps.apple.com/us/app/im-not-just-a-sheep/id110999489)
-- scarica app **Android**: [Google Play](https://play.google.com/store/apps/details?id=com.jamurr.notjustsheep)
-- progetto Open Source: <https://github.com/2042ed/JAM.NotJustASheep>
+- Data: gennaio 2016
+- Luogo: Pisa - Global Game Jam 2016
+- Play Online: https://jamurr.itch.io/not-just-a-sheep
 
 ## Descrizione
 
@@ -36,3 +32,8 @@ GGJ site: <http://globalgamejam.org/2016/games/im-not-just-sheep-non-sono-solo-u
 ![logo](../../assets/img/jam/notjustasheep_intro.webp)
 ![logo](../../assets/img/jam/notjustasheep_pensieroprofontoteam.webp)
 ![logo](../../assets/img/jam/ggj16_pisa_winners.jpg)
+
+## Download
+- scarica app **iOS**: [Apple App Store](https://apps.apple.com/us/app/im-not-just-a-sheep/id110999489)
+- scarica app **Android**: [Google Play](https://play.google.com/store/apps/details?id=com.jamurr.notjustsheep)
+- progetto Open Source: <https://github.com/2042ed/JAM.NotJustASheep>

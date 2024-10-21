@@ -1,9 +1,10 @@
 ---
 title: ARKombat - Piante vs Robots
+date: 2023-02-05
+updated: 2024-10-21
 description: storia della nascita di un gioco di carte in AR creato in Jam dai ragazzi
 tags: [GlobalGameJam, KidsMakeGames, Progetto]
 categories: [jamurr]
-date: 2023-02-05
 url_code: https://github.com/2042ed/JAM.ARKombat
 ---
 
@@ -15,6 +16,7 @@ url_code: https://github.com/2042ed/JAM.ARKombat
 ## Informazioni
 Data: gennaio 2023
 Luogo: Firenze - Global Game Jam 2023
+
 <iframe width="740" height="450" src="https://www.youtube.com/embed/oG5TDOaTJ6k?feature=oembed" title="ARKombat - partita di prova" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0"  allowfullscreen></iframe>
 📽 [ARKombat - partita di prova](https://www.youtube.com/watch?v=oG5TDOaTJ6k)
 

@@ -1,22 +1,19 @@
 ---
 title: 7 Frames
+date: 2016-10-10
+updated: 2024-10-21
 description: un videogioco creato da bambini
 tags: [KidsMakeGames, Progetto]
 categories: ["jamurr"]
-date: 2016-10-10
 url_code: https://github.com/2042ed/JAM.7FRAMES
 ---
 
 ![logo](../../assets/img/jam/7frames_featured.webp)
 
 ## Informazioni
-Data: ottobre 2016
-Luogo: Pisa - Internet Festival 2016
-## Download
-
-- scarica app **iOS**: [Apple App Store](https://apps.apple.com/us/app/7-frames/id1239225688)
-- scarica app **Android**: [Google Play](https://play.google.com/store/apps/details?id=org.jamurr.sevenframes)
-- progetto Open Source: <https://github.com/2042ed/JAM.7FRAMES>
+- Data: ottobre 2016  
+- Luogo: Pisa - Internet Festival 2016  
+- Play Online: https://jamurr.itch.io/7frames 
 
 ## Descrizione
 
@@ -97,3 +94,8 @@ Questo progetto è doverosamente gratuito sotto licenza Creative Commons ed Open
 
 ## Partecipa
 Se sei un bambino curioso o un papà (o mamma) in cerca di nuove forme di ricreatività, contattami
+
+## Download
+- scarica app **iOS**: [Apple App Store](https://apps.apple.com/us/app/7-frames/id1239225688)
+- scarica app **Android**: [Google Play](https://play.google.com/store/apps/details?id=org.jamurr.sevenframes)
+- progetto Open Source: <https://github.com/2042ed/JAM.7FRAMES>
