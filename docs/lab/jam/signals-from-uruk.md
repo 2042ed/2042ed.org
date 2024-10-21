@@ -1,13 +1,18 @@
 ---
 title: Signals from URUK
+date: 2018-01-30
+updated: 2024-10-20
 description: un videogioco in AR per scoprire la storia
 tags: [GlobalGameJam, KidsMakeGames, XR]
 categories: ["jamurr"]
-date: 2018-01-30
 url_code: https://github.com/StefanoCecere/SignalsFromUruk/
 ---
 
 ![logo](../../assets/img/jam/signalsfromuruk_featured.webp)
+
+## Informazioni
+Data: gennaio 2018
+Luogo: Pisa - Global Game Jam 2018
 
 questo il gioco che abbiamo ideato e prodotto nel finesettimana durante la Global Game Jam 2018, il cui tema era TRANSMISSION
 

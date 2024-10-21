@@ -11,6 +11,10 @@ url_video: https://www.youtube.com/watch?v=s28Vm8gWLDg
 
 ![logo](../../assets/img/jam/bedindahouse_featured.webp)
 
+## Informazioni
+Data: gennaio 2019
+Luogo: Roma - Global Game Jam 2019
+
 A game **designed and developed by kids and teens** at the [Global Game Jam 2019](https://globalgamejam.org/2019/games/bed-da-house), with the theme _"What home means to you"_.
 
 The team (from 10 to 14yo) worked in Rome (at the [Adriano's Temple Jam](https://globalgamejam.org/2019/jam-sites/roma-codemotion-temple-jam)), with the help of their tutors.

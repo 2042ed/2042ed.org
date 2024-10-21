@@ -1,11 +1,14 @@
 ---
 title: Escape Us
-description: videogioco creato da 10 bambini
-categories: jamurr
-tags: [KidsMakeGames]
 date: 2023-06-24
+updated: 2024-10-20
+description: videogioco creato da 10 bambini
+categories:
+  - jamurr
+tags:
+  - KidsMakeGames
+  - CoSpaces
 ---
-
 # Escape Us
 
 ## storia della creazione di un videogioco
@@ -13,6 +16,9 @@ date: 2023-06-24
 di [Stefano Cecere](mailto:stefano.cecere@fem.digital), Area GBL di FEM
 
 ![](img/image16.jpg)
+## Informazioni
+Data: luglio 2023
+Luogo: Modena - Summer Camp
 
 Qui racconteremo cosa abbiamo fatto in una settimana di centro estivo / summer camp al FEM, tra il 26 e il 30 luglio 2023\.
 

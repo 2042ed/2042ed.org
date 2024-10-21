@@ -17,6 +17,10 @@ url_video: "https://youtu.be/1Zq41byQDgY"
 
 ![](../../assets/img/jam/bubolibro_featured.webp)
 
+## Informazioni
+Data: novembre 2020
+Luogo: Firenze
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1Zq41byQDgY?si=RNqdBiMnK1GUC6V0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 [YouTube](https://www.youtube.com/watch?v=1Zq41byQDgY)
 

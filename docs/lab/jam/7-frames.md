@@ -9,6 +9,9 @@ url_code: https://github.com/2042ed/JAM.7FRAMES
 
 ![logo](../../assets/img/jam/7frames_featured.webp)
 
+## Informazioni
+Data: ottobre 2016
+Luogo: Pisa - Internet Festival 2016
 ## Download
 
 - scarica app **iOS**: [Apple App Store](https://apps.apple.com/us/app/7-frames/id1239225688)

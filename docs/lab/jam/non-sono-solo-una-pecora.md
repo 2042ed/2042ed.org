@@ -1,12 +1,15 @@
 ---
 title: Non sono solo una pecora
+date: 2016-01-31
+updated: 2024-10-20
 description: il primo gioco sviluppato da Papà e figlio (7anni)
 categories: jamurr
 tags: [GlobalGameJam, KidsMakeGames]
-date: 2016-01-31
 url_code: "https://github.com/2042ed/JAM.NotJustASheep"
 ---
-
+## Informazioni
+Data: gennaio 2016
+Luogo: Pisa - Global Game Jam 2016
 ## Download
 
 - scarica app **iOS**: [Apple App Store](https://apps.apple.com/us/app/im-not-just-a-sheep/id110999489)
