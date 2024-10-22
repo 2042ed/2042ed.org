@@ -1,7 +1,7 @@
 ---
 title: Game Masters
 date: 2024-09-10
-updated: 2024-10-21
+updated: 2024-10-22
 description: una jam che ha prodotto 4 mini giochi
 categories:
   - jamurr
@@ -13,14 +13,14 @@ tags:
 
 ## Informazioni
 - Data: settembre 2024
-- Luogo: Modena - Summer Camp
+- Luogo: Modena - [Summer Camp di FEM](https://fem.digital/summer-camp-2024/)
 - Play Online:
 	- https://edu.cospaces.io/YRK-NYG
 	- https://edu.cospaces.io/ESC-MWK
 	- https://edu.cospaces.io/RBQ-DLN
 	- https://edu.cospaces.io/ZXK-LWU
 
-Saprete che tutti gli anni in FEM teniamo vari summer camp per i ragazzi, su vari argomenti, tecnologie o metodologie.
+Tutti gli anni in [FEM - Future Education Modena](https://fem.digital) teniamo vari summer camp per i ragazzi, su vari argomenti, tecnologie o metodologie.
 Io mi occupo di quelli di area "giochi" e il camp organizzato si chiamava "Game Masters" con l'intenzione di **spiegare cosa c'è dietro un videogioco**, a livello di creatività, tecnologia, impegno produttivo, per capire un po' come si creano e la complessità multimediale e multidisciplinare che li sottende.
 
 Nelle cinque mezze giornate abbiamo esplorato il ruolo del **"game designer",** ovvero di chi pensa e crea esperienze di gioco per gli altri, e cosa le rende divertenti o appassionanti, cosa rende un gioco non troppo facile ne troppo difficile, di come si mette alla prova il nostro giocatore a superare sfide sempre più difficili, e magari far pensare ad un tema o ad alcune situazioni non convenzionali.
@@ -55,3 +55,6 @@ I ragazzi sono stati molto soddisfatti dal poter creare qualcosa di proprio, di 
 
 **Output**
 Questi sono stati i 4 giochi creati e pubblicati:
+
+## Partecipa al prossimo!
+Tutte le estati FEM - Future Education Modena organizza bellissimi summer camp. Io tengo quelli di Game Design. [Se interessati iscrivetevi alla newsletter](https://fem.digital/)
