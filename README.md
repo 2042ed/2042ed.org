@@ -1,7 +1,7 @@
 # 2042ed.org
 
 repository del sito <https://2042ed.org>  
-il repository pubblico di questo progetto è <https://github.com/2042ed/2042ed.org>
+check also <https://2042.discourse.group>
 
 [![Built with Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-526CFE?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/)
 
