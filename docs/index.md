@@ -18,6 +18,10 @@ hide:
 
 ## Novità
 
+- [2025-07-17: Firenze Gioca 2025](https://2042.discourse.group/t/1-2-3-agosto-firenze-gioca/615)
+- [2025-07-04: Community](about/community)
+- [2025-03-10: Giochi In Gioco con Papà](https://ingiococonpapa.github.io)
+- [2025-01-01: Newsletter 2042](about/newsletter)
 - [2024-03-10: Giochi In Gioco con Papà](played/tags.md#ingiococonpapa)
 - [2023-09-01: Rilancio Newsletter](https://2042.substack.com)
 - [2023-05-22: Introduzione alla AI creativa](studio/monografie/generative-ai-intro.md)
