@@ -7,7 +7,8 @@ Per essere aggiornati velocemente sugli sviluppi di questo sito e sulle attivit√
 
 <div class="grid cards" markdown>
 
-- **[Communuty](https://2042.discourse.group)**  
+- :fontawesome-solid-people-group: **[Community](https://2042.discourse.group)**  
+il portale di comunit√†.. un forum esoterico in pratica  
 - :fontawesome-solid-envelope-open-text: **[Newsletter](https://2042.substack.com)**  
 due email al mese per rimanere aggiornati
 - :fontawesome-brands-facebook: **[Gruppo Facebook](https://www.facebook.com/groups/2042ed)**  

@@ -94,9 +94,9 @@ plugins:
         background_color: "#007C77"
         color: "#FFFFFF"
 
-repo_url: https://github.com/2042ed/2042ed.org
-edit_uri: "edit/main/docs/"
-repo_name: GitHub/2042ed.org
+#repo_url: https://github.com/2042ed/2042ed.org
+#edit_uri: "edit/main/docs/"
+#repo_name: GitHub/2042ed.org
 
 extra_css:
   - assets/stylesheets/extra.css
