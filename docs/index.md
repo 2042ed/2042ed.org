@@ -18,6 +18,7 @@ hide:
 
 ## Novità
 
+- [2025-08-03: WarGames - game design per la guerra e la pace](https://2042.substack.com/p/wargames-game-design))
 - [2025-07-17: Firenze Gioca 2025](https://2042.discourse.group/t/1-2-3-agosto-firenze-gioca/615)
 - [2025-07-04: Community](about/community)
 - [2025-03-10: Giochi In Gioco con Papà](https://ingiococonpapa.github.io)
