@@ -10,6 +10,10 @@ Progetti realizzati dia ragazzi in game  jam, ovvero quando in poche ore / giorn
 
 <div class="grid cards" markdown>
 
+- [Escape the Museum](escape-the-museum.md)  
+_game jam al Gameground 2025_
+- [Green Horizon](green-horizon.md)  
+_videogioco sull'ambiente creato da 4 scuole superiori_
 - [The secrets of the doors](secret-of-the-doors.md)  
 _game jam al Gameground 2024 sulla natura_
 - [Game Masters](game-masters.md)  
@@ -34,4 +38,4 @@ _un'avventura a 7_
 _il primo gioco sviluppato da Papà e figlio (7anni)_
 
 </div>
-👉🏼
+

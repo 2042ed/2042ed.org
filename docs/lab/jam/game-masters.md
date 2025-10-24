@@ -7,18 +7,21 @@ categories:
   - jamurr
 tags:
   - KidsMakeGames
-  - CoSpaces
+  - Delightex
 ---
 # Game Masters
 
 ## Informazioni
+
 - Data: settembre 2024
 - Luogo: Modena - [Summer Camp di FEM](https://fem.digital/summer-camp-2024/)
-- Play Online:
-	- https://edu.cospaces.io/YRK-NYG
-	- https://edu.cospaces.io/ESC-MWK
-	- https://edu.cospaces.io/RBQ-DLN
-	- https://edu.cospaces.io/ZXK-LWU
+
+Play Online:
+
+- https://edu.delightex.com/YRK-NYG
+- https://edu.delightex.com/ESC-MWK
+- https://edu.delightex.com/RBQ-DLN
+- https://edu.delightex.com/ZXK-LWU
 
 Tutti gli anni in [FEM - Future Education Modena](https://fem.digital) teniamo vari summer camp per i ragazzi, su vari argomenti, tecnologie o metodologie.
 Io mi occupo di quelli di area "giochi" e il camp organizzato si chiamava "Game Masters" con l'intenzione di **spiegare cosa c'è dietro un videogioco**, a livello di creatività, tecnologia, impegno produttivo, per capire un po' come si creano e la complessità multimediale e multidisciplinare che li sottende.
@@ -41,7 +44,8 @@ Ogni gioco avrebbe avuto 4 porte che il giocatore avrebbe dovuto varcare per fin
 
 **Strumenti**
 Per lavorare abbiamo usato diversi strumenti, tra cui:
-- sviluppo gioco: CoSpaces https://www.cospaces.io
+
+- sviluppo gioco: Delightex (era CoSpaces) https://www.delightex.com/
 - modelli 3D: https://www.tinkercad.com
 - musica / audio: https://www.soundtrap.com
 
@@ -56,5 +60,7 @@ I ragazzi sono stati molto soddisfatti dal poter creare qualcosa di proprio, di 
 **Output**
 Questi sono stati i 4 giochi creati e pubblicati:
 
-## Partecipa al prossimo!
-Tutte le estati FEM - Future Education Modena organizza bellissimi summer camp. Io tengo quelli di Game Design. [Se interessati iscrivetevi alla newsletter](https://fem.digital/)
+- https://edu.delightex.com/YRK-NYG
+- https://edu.delightex.com/ESC-MWK
+- https://edu.delightex.com/RBQ-DLN
+- https://edu.delightex.com/ZXK-LWU

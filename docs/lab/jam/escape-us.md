@@ -7,7 +7,7 @@ categories:
   - jamurr
 tags:
   - KidsMakeGames
-  - CoSpaces
+  - Delightex
 ---
 # Escape Us
 
@@ -16,9 +16,10 @@ tags:
 ![](img/image16.jpg)
 
 ## Informazioni
+
 - Data: luglio 2023  
 - Luogo: Modena - [Summer Camp di FEM](https://fem.digital/summer-camp-2024/)
-- Play Online: https://edu.cospaces.io/YRB-TXA  
+- Play Online: https://edu.delightex.com/PYY-NXL  
 
 Ecco cosa fatto in una settimana di centro estivo / summer camp al FEM, tra il 26 e il 30 luglio 2023.
 
@@ -41,8 +42,8 @@ Poi abbiamo introdotto il lavoro di creare giochi:  Cosa fa un game designer? Co
 
 Infine una bella discussione se si pensa che giocando ad un gioco si impari qualcosa? se si, cosa? raccontiamo dei giochi che ci hanno fatto imparare qualcosa. (tutti hanno chiaramente indicato alcune competenze e capacità che i videogiochi hanno aiutato a sviluppare).
 
-**Introduzione pratica a CoSpaces**  
-Cosa è CoSpaces ([https://cospaces.io/](https://cospaces.io/)) questo strumento di creazione di mondi 3D interattivi? cosa può fare?  
+**Introduzione pratica a Delightex (CoSpaces)**  
+Cosa è CoSpaces ([https://www.delightex.com](https://www.delightex.com)) questo strumento di creazione di mondi 3D interattivi? cosa può fare?  
 Ricreiamo in 3D la stanza in cui ci troviamo e poi mettiamoci noi stessi, così, giusto per impare lo strumento (ognuno con un suo Chromebook). Poi giochiamo a diversi progetti CoSpaces per capirne la potenzialità e ispirarsi.
 
 ## Giorno 2 - Tema e Ambiente
@@ -104,9 +105,7 @@ Congratulazioni e abbracci a tutti, abbiamo fatto davvero un bel lavoro\!
 
 ## Restituzione finale
 
-Il gioco è giocabile qui (via PC, smartphone o tablet): [https://edu.cospaces.io/YRB-TXA](https://edu.cospaces.io/YRB-TXA)
-
-Abbiamo inserito nel gioco anche un modo per lasciare dei commenti o segnalare problemi [con 👉🏼questa form](https://forms.gle/kVWbCLw2X1R75hz77) 
+Il gioco è giocabile qui (via PC, smartphone o tablet): [https://edu.delightex.com/PYY-NXL](https://edu.delightex.com/PYY-NXL)
 
 Se un progetto del genere vi è piaciuto, fatecelo sapere! Vi inviteremo in anteprima al prossimo, o ne organizziamo un altro se ci fosse sufficiente richiesta.
 
@@ -175,6 +174,3 @@ massima cooperazione
 
 ![](img/image2.jpg)
 registrazione e ascolto delle musiche  
-
-## Partecipa al prossimo!
-Tutte le estati FEM - Future Education Modena organizza bellissimi summer camp. Io tengo quelli di Game Design. [Se interessati iscrivetevi alla newsletter](https://fem.digital/)

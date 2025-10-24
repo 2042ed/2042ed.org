@@ -7,16 +7,19 @@ categories:
   - jamurr
 tags:
   - KidsMakeGames
-  - CoSpaces
+  - Delightex
 ---
 # The secrets of the doors
 
 ## Informazioni
+
+> Un racconto dettagliato di tutto il progetto è qui: https://2042.substack.com/p/920-mini-jam-e-game-design
+
 - Data: ottobre 2024
 - Luogo: Bolzano - Gameground 2024
-- Play Online: https://edu.cospaces.io/DGQ-BTE
+- Play Online: https://edu.delightex.com/VVK-VTU
 
-Questo videogioco è stato creato da 12 giovanissimi in una giornata di Game Jam durante il Gameground 2024, a Museo di Storia Naturale di Bolzano.  
+Questo videogioco è stato creato da 12 giovanissimi in una giornata di Game Jam durante il Gameground 2024, al Museo di Storia Naturale di Bolzano.  
 
 La squadra:
 
@@ -40,3 +43,4 @@ special guest
 Coordinazione della Jam
 
 - Stefano Cecere
+
