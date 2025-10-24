@@ -16,7 +16,7 @@ tags:
 > Un racconto dettagliato di tutto il progetto è qui: https://2042.substack.com/p/920-mini-jam-e-game-design
 
 - Data: primavera 2025
-- Play Online: https://edu.delightex.com/AXF-SGQ
+- Play Online: [https://edu.delightex.com/AXF-SGQ](https://edu.delightex.com/AXF-SGQ)
 
 <div data-theme-toc="true"> </div>
 
@@ -203,8 +203,6 @@ Per la parte finale del gioco è stata usata una Google Form.
 Il risultato finale è qui. Questa è la versione “beta” che si può provare con qualsiasi browser web, e su tablet/smartphone chiede di installare l’applicazione (gratuita). Il gioco contiene molte immagini quindi necessita una buona connessione internet.
 
 [https://edu.delightex.com/AXF-SGQ](https://edu.delightex.com/AXF-SGQ)
-
-https://edu.delightex.com/AXF-SGQ
 
 Oppure inquadrare questo QR code con lo smartphone:
 

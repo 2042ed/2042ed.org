@@ -19,7 +19,7 @@ tags:
 
 - Data: luglio 2023  
 - Luogo: Modena - [Summer Camp di FEM](https://fem.digital/summer-camp-2024/)
-- Play Online: https://edu.delightex.com/PYY-NXL  
+- Play Online: [https://edu.delightex.com/PYY-NXL](https://edu.delightex.com/PYY-NXL)
 
 Ecco cosa fatto in una settimana di centro estivo / summer camp al FEM, tra il 26 e il 30 luglio 2023.
 

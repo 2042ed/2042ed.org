@@ -18,10 +18,10 @@ tags:
 
 Play Online:
 
-- https://edu.delightex.com/YRK-NYG
-- https://edu.delightex.com/ESC-MWK
-- https://edu.delightex.com/RBQ-DLN
-- https://edu.delightex.com/ZXK-LWU
+- [https://edu.delightex.com/YRK-NYG](https://edu.delightex.com/YRK-NYG)
+- [https://edu.delightex.com/ESC-MWK](https://edu.delightex.com/ESC-MWK)
+- [https://edu.delightex.com/RBQ-DLN](https://edu.delightex.com/RBQ-DLN)
+- [https://edu.delightex.com/ZXK-LWU](https://edu.delightex.com/ZXK-LWU)
 
 Tutti gli anni in [FEM - Future Education Modena](https://fem.digital) teniamo vari summer camp per i ragazzi, su vari argomenti, tecnologie o metodologie.
 Io mi occupo di quelli di area "giochi" e il camp organizzato si chiamava "Game Masters" con l'intenzione di **spiegare cosa c'è dietro un videogioco**, a livello di creatività, tecnologia, impegno produttivo, per capire un po' come si creano e la complessità multimediale e multidisciplinare che li sottende.
@@ -31,6 +31,7 @@ Nelle cinque mezze giornate abbiamo esplorato il ruolo del **"game designer",** 
 (usare i giochi e sopratutto i videogiochi come strumenti per trattare un tema dato è uno dei nostri interessi, in FEM)
 
 Quindi abbiamo visto come
+
 - si costruiscono ambientazioni in 3D
 - si creano personaggi e animazioni
 - si programmano interazioni
@@ -45,7 +46,7 @@ Ogni gioco avrebbe avuto 4 porte che il giocatore avrebbe dovuto varcare per fin
 **Strumenti**
 Per lavorare abbiamo usato diversi strumenti, tra cui:
 
-- sviluppo gioco: Delightex (era CoSpaces) https://www.delightex.com/
+- sviluppo gioco: Delightex (era CoSpaces) [https://www.delightex.com](https://www.delightex.com)
 - modelli 3D: https://www.tinkercad.com
 - musica / audio: https://www.soundtrap.com
 
@@ -60,7 +61,7 @@ I ragazzi sono stati molto soddisfatti dal poter creare qualcosa di proprio, di 
 **Output**
 Questi sono stati i 4 giochi creati e pubblicati:
 
-- https://edu.delightex.com/YRK-NYG
-- https://edu.delightex.com/ESC-MWK
-- https://edu.delightex.com/RBQ-DLN
-- https://edu.delightex.com/ZXK-LWU
+- [https://edu.delightex.com/YRK-NYG](https://edu.delightex.com/YRK-NYG)
+- [https://edu.delightex.com/ESC-MWK](https://edu.delightex.com/ESC-MWK)
+- [https://edu.delightex.com/RBQ-DLN](https://edu.delightex.com/RBQ-DLN)
+- [https://edu.delightex.com/ZXK-LWU](https://edu.delightex.com/ZXK-LWU)
